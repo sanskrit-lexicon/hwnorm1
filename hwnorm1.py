@@ -41,13 +41,15 @@ def anu(headwithdicts,dictionary):
 	anunfile = codecs.open("conv1/"+dictionary+"_anunwords.txt","w","utf-8")
 	mnfile = codecs.open("conv1/"+dictionary+"_mnwords.txt","w","utf-8")
 	for (word,dicts) in headwithdicts:
+		#if dictionary in dicts and re.search('M[kKgGcCjJwWqQtTdDpPbB]',word) and not re.search('s[aA]M[kKgGcCjJwWqQtTdDpPbB]',word):
 		if dictionary in dicts and re.search('M[kKgGcCjJwWqQtTdDpPbB]',word):
 			anuwords.append(word+":"+dictionary)
 			anufile.write(word+":"+dictionary+"\n")
 		if dictionary in dicts and re.search('[NYRnm][kKgGcCjJwWqQtTdDpPbB]',word):
 			mwords.append(word+":"+dictionary)
 			mfile.write(word+":"+dictionary+"\n")
-		if dictionary in dicts and re.search('M[NYRnm]',word) and not re.search('s[aA]M[NYRnm]',word) and not re.search('Mmanya',word):
+		#if dictionary in dicts and re.search('M[NYRnm]',word) and not re.search('s[aA]M[NYRnm]',word) and not re.search('Mmanya',word):
+		if dictionary in dicts and re.search('M[NYRnm]',word):
 			anun.append(word+":"+dictionary)
 			anunfile.write(word+":"+dictionary+"\n")
 		if dictionary in dicts and re.search('[NYRnm][NYRnm]',word):
