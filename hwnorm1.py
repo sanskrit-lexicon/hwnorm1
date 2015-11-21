@@ -99,11 +99,11 @@ def normduplication(list,word):
 	else:
 		return False
 def normanusvara(list,word):
-	word = re.sub('M([kKgG])','N\1',word)
-	word = re.sub('M([cCjJ])','Y\1',word)
-	word = re.sub('M([wWqQ])','R\1',word)
-	word = re.sub('M([tTdD])','n\1',word)
-	word = re.sub('M([pPbB])','m\1',word)
+	word = re.sub('M([kKgG])','N\g<1>',word)
+	word = re.sub('M([cCjJ])','Y\g<1>',word)
+	word = re.sub('M([wWqQ])','R\g<1>',word)
+	word = re.sub('M([tTdD])','n\g<1>',word)
+	word = re.sub('M([pPbB])','m\g<1>',word)
 	if word in list:
 		return True
 	elif normduplication(list,word):
@@ -120,10 +120,10 @@ def conventionviolation(word,dict):
 	global hw1
 	if dict in ["AP90"] and re.search('[NYRnm][kKgGcCjJwWqQtTdDpPbB]',word):
 		violation11.write(word+":"+dict+"\n")
-	elif dict in ["AP","BEN","BOP","BUR","CAE","CCS","MD","MW","MW72","PW","PWG","SCH","SHS","STC","VCP","WIL","YAT"] and re.search('M[kKgGcCjJwWqQtTdDpPbB]',word):
+	if dict in ["AP","BEN","BOP","BUR","CAE","CCS","MD","MW","MW72","PW","PWG","SCH","SHS","STC","VCP","WIL","YAT"] and re.search('M[kKgGcCjJwWqQtTdDpPbB]',word):
 		if dict in ["AP","AP90","CAE","CCS","IEG","MCI","MD","MW","PD","PW","PWG","SCH","SHS","STC","VEI","WIL"] and notinarray(exclusionlist12,word):
 			violation12.write(word+":"+dict+"\n")
-	elif dict in ["SKD","AP90","BHS","WIL","PW","PWG","VCP"] and re.search('M$',word) and not normanusvara(hw1,word[:-1]):
+	if dict in ["SKD","AP90","BHS","WIL","PW","PWG","VCP"] and re.search('M$',word) and not normanusvara(hw1,word[:-1]):
 		violation13.write(word+":"+dict+"\n")
 		
 		
