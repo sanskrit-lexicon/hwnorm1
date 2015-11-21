@@ -9,12 +9,12 @@ https://github.com/sanskrit-lexicon/CORRECTIONS/issue/43
 ##Option 1.1
 Treat them as M when occuring in between a word (other than the cases where the first member of compound ends with m). e.g. caMcalaM:AP90 
 
-Dictionaries - AP90
+Dictionaries - AP90,
 
 ##Option 1.2
 Treat them as fifth letter of each varga when in between a word. e.g. caYcala
 
-Dictionaries - AP,BEN,BOP,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SCH,SHS,STC,VCP,WIL,YAT
+Dictionaries - ACC,AP,BEN,BOP,BUR,CAE,CCS,MCI,MD,MW,MW72,PD,PE,PGN,PW,PWG,SCH,SHS,SKD,SNP,STC,VCP,VEI,WIL,YAT
 
 ##Option 1.3
 Use M at the end of a word to denote neuter gender. e.g. aMSukaM 
@@ -29,12 +29,12 @@ Dictionaries - YAT
 ##Option 1.5
 Treat m as M when occuring in the cases where the first member of compound ends with m. e.g. saMgIta (sam+gIta) 
 
-Dictionaries - AP,AP90,CAE,CCS,MD,MW,PW,PWG,STC
+Dictionaries - AP,AP90,CAE,CCS,IEG,MCI,MD,MW,PD,PW,PWG,SCH,SHS,STC,VEI,WIL
 
 ##Option 1.6
 Treat m as fifth letter of a varga when occuring in the cases where the first member of compound ends with m. e.g. saNgIta (sam+gIta) 
 
-Dictionaries - BUR,MW72,SHS,VCP,WIL,YAT,SKD
+Dictionaries - BUR,GRA,GST,IEG,MW72,PGN,SHS,SKD,VCP,YAT,
 
 # Convention 2 - Duplication of letters after 'r'
 
