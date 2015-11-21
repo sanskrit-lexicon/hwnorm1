@@ -29,6 +29,13 @@ def sanhw1():
 headwithdicts = sanhw1()
 print len(headwithdicts)
 
+def hw1():
+	global headwithdicts
+	output = []
+	for (word,dicts) in headwithdicts:
+		output.append(word)
+	return output
+hw1 = hw1()
 # See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/43#issuecomment-65781239
 log = codecs.open("conv1/log.txt","a","utf-8")
 log.write(str(timestamp())+"\n")
@@ -82,16 +89,44 @@ def notinarray(list,word):
 			continue
 	else:
 		return True
-
+consonants = ['k','K','g','G','N','c','C','j','J','Y','w','W','q','Q','R','t','T','d','D','n','p','P','b','B','m','y','r','l','v','S','z','s','h']
+def normduplication(list,word):
+	global consonants
+	for con in consonants:
+		word = word.replace('r'+con+con,'r'+con)
+	if word in list:
+		return True
+	else:
+		return False
+def normanusvara(list,word):
+	word = re.sub('M([kKgG])','N\1',word)
+	word = re.sub('M([cCjJ])','Y\1',word)
+	word = re.sub('M([wWqQ])','R\1',word)
+	word = re.sub('M([tTdD])','n\1',word)
+	word = re.sub('M([pPbB])','m\1',word)
+	if word in list:
+		return True
+	elif normduplication(list,word):
+		return True
+	else:
+		return False
+		
 violation11 = codecs.open('proberrors/11violation.txt','w','utf-8')
 violation12 = codecs.open('proberrors/12violation.txt','w','utf-8')
+violation13 = codecs.open('proberrors/13violation.txt','w','utf-8')
 exclusionlist12 = ['[sS][aA][M][kKgGcCjJwWqQtTdDpPbB]','k[iE][M][kKgGcCjJwWqQtTdDpPbB]','aMk[aA]r','BujaMg','yaMdin','aMtap','aMg','MDar','aMBA','Mpac','a[hl]aMk','ahaM','aMBav','h[iu]Mk','oMk','aMDam','annaMBaww','yaMd','aMkf','apAM','dv[Aa]Mdv','aMkaz','[aAiIuU]Mjaya','puraMDr','MGuz','Mdam','Mtud','alaM','Mgat','MBar','MpaSy','Mk[Aa]r','raTaMt','AMpati','AMkf','AsyaMDa','itTaM','idaM','idAnIM','AMd[aA]','^IMkf','ilIMDr','[aA]laMkr','DvaMjAnu','fRaMcaya','evaM','EdaM','kaM[jdD]','kawaMkaw','k[Aa]TaM','karaMDay','p[Aa]raMpar','kAMdiS','puM','k[Uu]laM','ASuMga','karRaM','kAM','kupyaMjara','koyaMpurI','kzudraM','MDa[my]','gAM','gomaRiMda','svayaMB','ciraM','cUMkfta','jIvaM','tadAnIM','timiM','naktaM','tUzRIM','tElaM','zaMDi','tv[aA]M','daM','dayyAM','puraMdar','dAnaM','dAMpaty','devAnAM','devIMDiyaka','dEnaM','dEyAM','dyAM','druhaMtara','D[Aa]naM','DiyaM','DarmaM','DuMDuM','DenuM','naraM','nikftiM','paRyaM','paraM','pAMkt','putraM','p[uO]raM','pfTivIM','prARaM','bAlaMBawwa','B[aA]gaM','makzuM','mahiM','mArtyuM','mitaM','mftyuM','sAyaM','yuDiM','rAtriM','rATaM','lakzmIM','lokaM','varzaM','v[iE]SvaM','vftaM','SataM','S[aA]truM','SayyaM','SarDaM','SAkaM','SunaM','SuBaM','SyEnaM','samaM','samitiM','sarvaM','sahasraM','sAkaM','sAtyaM','suKaM','sEr[ai]M','stanaM','sv[aA]yaM','svarRaM','hUM',]
+exclusionlist13 = []
 def conventionviolation(word,dict):
+	global hw1
 	if dict in ["AP90"] and re.search('[NYRnm][kKgGcCjJwWqQtTdDpPbB]',word):
 		violation11.write(word+":"+dict+"\n")
 	elif dict in ["AP","BEN","BOP","BUR","CAE","CCS","MD","MW","MW72","PW","PWG","SCH","SHS","STC","VCP","WIL","YAT"] and re.search('M[kKgGcCjJwWqQtTdDpPbB]',word):
 		if dict in ["AP","AP90","CAE","CCS","IEG","MCI","MD","MW","PD","PW","PWG","SCH","SHS","STC","VEI","WIL"] and notinarray(exclusionlist12,word):
 			violation12.write(word+":"+dict+"\n")
+	elif dict in ["SKD","AP90","BHS","WIL","PW","PWG","VCP"] and re.search('M$',word) and not normanusvara(hw1,word[:-1]):
+		violation13.write(word+":"+dict+"\n")
+		
+		
 for (word,dicts) in headwithdicts:
 	for dict in dicts:
 		conventionviolation(word,dict)
