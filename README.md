@@ -19,7 +19,7 @@ Dictionaries - ACC,AP,BEN,BOP,BUR,CAE,CCS,MCI,MD,MW,MW72,PD,PE,PGN,PW,PWG,SCH,SH
 ##Option 1.3
 Use M at the end of a word to denote neuter gender. e.g. aMSukaM 
 
-Dictionaries - SKD,AP90,BHS,WIL,PW,PWG,VCP
+Dictionaries - SKD,AP90,BHS,WIL,VCP
 
 ##Option 1.4
 Use M at the end of a word (not to denote neuter gender, but to denote avyayas mostly) where 'm' is supposed to be. e.g. anukAmaM, anudiSaM etc.

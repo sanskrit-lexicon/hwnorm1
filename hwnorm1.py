@@ -111,26 +111,38 @@ def normanusvara(list,word):
 	else:
 		return False
 		
-violation11 = codecs.open('proberrors/11violation.txt','w','utf-8')
-violation12 = codecs.open('proberrors/12violation.txt','w','utf-8')
-violation13 = codecs.open('proberrors/13violation.txt','w','utf-8')
+#violation11 = codecs.open('proberrors/11violation.txt','w','utf-8')
+#violation12 = codecs.open('proberrors/12violation.txt','w','utf-8')
+#violation13 = codecs.open('proberrors/13violation.txt','w','utf-8')
+#violation14 = codecs.open('proberrors/14violation.txt','w','utf-8')
+violation21 = codecs.open('proberrors/21violation.txt','w','utf-8')
+rxx = codecs.open('proberrors/rxx.txt','w','utf-8')
 exclusionlist12 = ['[sS][aA][M][kKgGcCjJwWqQtTdDpPbB]','k[iE][M][kKgGcCjJwWqQtTdDpPbB]','aMk[aA]r','BujaMg','yaMdin','aMtap','aMg','MDar','aMBA','Mpac','a[hl]aMk','ahaM','aMBav','h[iu]Mk','oMk','aMDam','annaMBaww','yaMd','aMkf','apAM','dv[Aa]Mdv','aMkaz','[aAiIuU]Mjaya','puraMDr','MGuz','Mdam','Mtud','alaM','Mgat','MBar','MpaSy','Mk[Aa]r','raTaMt','AMpati','AMkf','AsyaMDa','itTaM','idaM','idAnIM','AMd[aA]','^IMkf','ilIMDr','[aA]laMkr','DvaMjAnu','fRaMcaya','evaM','EdaM','kaM[jdD]','kawaMkaw','k[Aa]TaM','karaMDay','p[Aa]raMpar','kAMdiS','puM','k[Uu]laM','ASuMga','karRaM','kAM','kupyaMjara','koyaMpurI','kzudraM','MDa[my]','gAM','gomaRiMda','svayaMB','ciraM','cUMkfta','jIvaM','tadAnIM','timiM','naktaM','tUzRIM','tElaM','zaMDi','tv[aA]M','daM','dayyAM','puraMdar','dAnaM','dAMpaty','devAnAM','devIMDiyaka','dEnaM','dEyAM','dyAM','druhaMtara','D[Aa]naM','DiyaM','DarmaM','DuMDuM','DenuM','naraM','nikftiM','paRyaM','paraM','pAMkt','putraM','p[uO]raM','pfTivIM','prARaM','bAlaMBawwa','B[aA]gaM','makzuM','mahiM','mArtyuM','mitaM','mftyuM','sAyaM','yuDiM','rAtriM','rATaM','lakzmIM','lokaM','varzaM','v[iE]SvaM','vftaM','SataM','S[aA]truM','SayyaM','SarDaM','SAkaM','SunaM','SuBaM','SyEnaM','samaM','samitiM','sarvaM','sahasraM','sAkaM','sAtyaM','suKaM','sEr[ai]M','stanaM','sv[aA]yaM','svarRaM','hUM',]
-exclusionlist13 = []
 def conventionviolation(word,dict):
 	global hw1
+	"""
 	if dict in ["AP90"] and re.search('[NYRnm][kKgGcCjJwWqQtTdDpPbB]',word):
 		violation11.write(word+":"+dict+"\n")
 	if dict in ["AP","BEN","BOP","BUR","CAE","CCS","MD","MW","MW72","PW","PWG","SCH","SHS","STC","VCP","WIL","YAT"] and re.search('M[kKgGcCjJwWqQtTdDpPbB]',word):
 		if dict in ["AP","AP90","CAE","CCS","IEG","MCI","MD","MW","PD","PW","PWG","SCH","SHS","STC","VEI","WIL"] and notinarray(exclusionlist12,word):
 			violation12.write(word+":"+dict+"\n")
-	if dict in ["SKD","AP90","BHS","WIL","PW","PWG","VCP"] and re.search('M$',word) and not normanusvara(hw1,word[:-1]):
+	if dict in ["SKD","AP90","BHS","WIL","VCP"] and re.search('M$',word) and not normanusvara(hw1,word[:-1]):
 		violation13.write(word+":"+dict+"\n")
+	if dict in ["YAT"] and re.search('M$',word) and notinarray(hw1,word[:-1]+"m"):
+		pass # No error caught.
+	"""
+	if dict in ["SKD","VCP","SHS","WIL","YAT","PD"] and re.search('r[kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh]',word) and not re.search('r[kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh][kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh]',word):
+		violation21.write(word+":"+dict+"\n")
+		print word, dict
+	if dict in ["SKD","VCP","SHS","WIL","YAT","PD"] and re.search('r[kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh][kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh]',word):
+		rxx.write(word+":"+dict+"\n")
 		
+
 		
 for (word,dicts) in headwithdicts:
 	for dict in dicts:
 		conventionviolation(word,dict)
-violation11.close()
-violation12.close()
-
+#violation11.close()
+#violation12.close()
+#violation14.close()
 	
