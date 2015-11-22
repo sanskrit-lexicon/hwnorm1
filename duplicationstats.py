@@ -61,6 +61,8 @@ def duplicatedlist():
 	output = []
 	for con in consonants:
 		output.append("r"+con+con)
+	for member in ['rkK','rgG','rcC','rjJ','rwW','rqQ','rtT','rdD','rpP','rbB']: # See https://github.com/sanskrit-lexicon/hwnorm1/issues/1#issuecomment-158735703
+		output.append(member)
 	return output
 
 def dictdupstats():
@@ -102,4 +104,4 @@ def dictnodupstats():
 			print entry, "pattern in", dict, "dictionary is", counter, "/", len(data)
 			rxstats.write(entry+" pattern in "+dict+" dictionary is "+str(counter)+" / "+str(len(data))+"\n")
 	rxstats.close()
-#dictnodupstats()	
+dictnodupstats()	

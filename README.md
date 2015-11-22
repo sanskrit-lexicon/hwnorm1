@@ -41,9 +41,9 @@ Dictionaries - BUR,GRA,GST,IEG,MW72,PGN,SHS,SKD,VCP,YAT,
 ## Option 2.1
 Duplication done
 
-Dictionaries - SKD,VCP,SHS,WIL,YAT,PD
+Dictionaries - SKD,VCP,SHS,WIL,YAT
 
-Notes - 
+Notes - PD removed becaue of [this](https://github.com/sanskrit-lexicon/hwnorm1/issues/1#issuecomment-158735408).
 
 ## Option 2.2
 Duplication not done
