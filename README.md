@@ -27,7 +27,7 @@ Use M at the end of a word (not to denote neuter gender, but to denote avyayas m
 Dictionaries - PW,PWG,YAT
 
 ##Option 1.5
-Treat m as M when occuring in the cases where the first member of compound ends with m. e.g. saMgIta (sam+gIta) 
+Treat m as M when occuring in the cases where the first member of compound ends with m. e.g. saMgIta (sam+gIta)
 
 Dictionaries - AP,AP90,CAE,CCS,IEG,MCI,MD,MW,PD,PW,PWG,SCH,SHS,STC,VEI,WIL
 
@@ -35,6 +35,10 @@ Dictionaries - AP,AP90,CAE,CCS,IEG,MCI,MD,MW,PD,PW,PWG,SCH,SHS,STC,VEI,WIL
 Treat m as fifth letter of a varga when occuring in the cases where the first member of compound ends with m. e.g. saNgIta (sam+gIta) 
 
 Dictionaries - BUR,GRA,GST,IEG,MW72,PGN,SHS,SKD,VCP,YAT,
+
+## Standard convention - where we want our dictionaries to normalise to.
+1. Convert every inside nasals to 'M'.
+2. Convert every terminal 'M' to 'm'.
 
 # Convention 2 - Duplication of letters after 'r'
 
@@ -49,6 +53,9 @@ Notes - PD removed from the list becaue of [this](https://github.com/sanskrit-le
 Duplication not done
 
 Dictionaries - Rest all dictionaries
+
+## Standard convetion
+No duplication
 
 # Convention 3 - Convention of writing words which have 't' at end but get converted to 'n' in declention.
 
@@ -122,14 +129,18 @@ kartar:CCS,PW,PWG,SCH
 kartf:AP,AP90,BEN,BOP,BUR,CAE,GRA,IEG,INM,MD,MW,MW72,STC
 
 
-## Uses 'f' at the end. (e.g. kartf)
+## Option 6.2 
+Uses 'f' at the end. (e.g. kartf)
 
 Dictionaries - AP,AP90,BEN,BOP,BUR,CAE,GRA,MD,MW,MW72,STC
 
-## Uses inflected form with 'A' at end (e.g. kartA)
+## Option 6.3
+Uses inflected form with 'A' at end (e.g. kartA)
 
 Dictionaries - INM,PUI,SKD
 
+## Standard convention
+Use 'f' at the end.
 
 # Analysis of hypothesis - optionwise
 

@@ -8,6 +8,7 @@ Documentation at https://github.com/sanskrit-lexicon/CORRECTIONS/issues/43.
 import sys, re
 import codecs
 import string
+from string import maketrans
 import datetime
 
 # Function to return timestamp
@@ -27,7 +28,6 @@ def sanhw1():
 	return output
 
 headwithdicts = sanhw1()
-print len(headwithdicts)
 
 def hw1():
 	global headwithdicts
@@ -103,6 +103,8 @@ def duplicatedlist():
 	output = []
 	for con in consonants:
 		output.append("r"+con+con)
+	for member in ['rkK','rgG','rcC','rjJ','rwW','rqQ','rtT','rdD','rpP','rbB']: # See https://github.com/sanskrit-lexicon/hwnorm1/issues/1#issuecomment-158735703
+		output.append(member)
 	return output
 def normupasarga(list,word):
 	upasarga = ['pr','prati','praty','api','parA','apa','sam','saM','aBi','aBy','anu','anv','ava','nir','niH','niz','dur','duH','duz','vi','vy','A','ni','ny','aDi','aDy','ati','aty','su','sv','ut','ud','ul','prati','praty','pari','pary','upa']
@@ -135,11 +137,11 @@ def normanusvara(list,word):
 #violation21 = codecs.open('conv2/21violation.txt','w','utf-8')
 #rxx = codecs.open('conv2/rxx.txt','w','utf-8')
 #violation41 = codecs.open('proberrors/41violation.txt','w','utf-8')
-violation61 = codecs.open('proberrors/61violation.txt','w','utf-8')
-violation62 = codecs.open('proberrors/62violation.txt','w','utf-8')
+#violation61 = codecs.open('proberrors/61violation.txt','w','utf-8')
+#violation62 = codecs.open('proberrors/62violation.txt','w','utf-8')
 #exclusionlist12 = ['[sS][aA][M][kKgGcCjJwWqQtTdDpPbB]','k[iE][M][kKgGcCjJwWqQtTdDpPbB]','aMk[aA]r','BujaMg','yaMdin','aMtap','aMg','MDar','aMBA','Mpac','a[hl]aMk','ahaM','aMBav','h[iu]Mk','oMk','aMDam','annaMBaww','yaMd','aMkf','apAM','dv[Aa]Mdv','aMkaz','[aAiIuU]Mjaya','puraMDr','MGuz','Mdam','Mtud','alaM','Mgat','MBar','MpaSy','Mk[Aa]r','raTaMt','AMpati','AMkf','AsyaMDa','itTaM','idaM','idAnIM','AMd[aA]','^IMkf','ilIMDr','[aA]laMkr','DvaMjAnu','fRaMcaya','evaM','EdaM','kaM[jdD]','kawaMkaw','k[Aa]TaM','karaMDay','p[Aa]raMpar','kAMdiS','puM','k[Uu]laM','ASuMga','karRaM','kAM','kupyaMjara','koyaMpurI','kzudraM','MDa[my]','gAM','gomaRiMda','svayaMB','ciraM','cUMkfta','jIvaM','tadAnIM','timiM','naktaM','tUzRIM','tElaM','zaMDi','tv[aA]M','daM','dayyAM','puraMdar','dAnaM','dAMpaty','devAnAM','devIMDiyaka','dEnaM','dEyAM','dyAM','druhaMtara','D[Aa]naM','DiyaM','DarmaM','DuMDuM','DenuM','naraM','nikftiM','paRyaM','paraM','pAMkt','putraM','p[uO]raM','pfTivIM','prARaM','bAlaMBawwa','B[aA]gaM','makzuM','mahiM','mArtyuM','mitaM','mftyuM','sAyaM','yuDiM','rAtriM','rATaM','lakzmIM','lokaM','varzaM','v[iE]SvaM','vftaM','SataM','S[aA]truM','SayyaM','SarDaM','SAkaM','SunaM','SuBaM','SyEnaM','samaM','samitiM','sarvaM','sahasraM','sAkaM','sAtyaM','suKaM','sEr[ai]M','stanaM','sv[aA]yaM','svarRaM','hUM',]
-exclusionlist61 = ['kf$','^f$']
-exclusionlist62 = ['[GcjJPtvs]ar$','kzar$','antar$','punar$','prAtar','ahar$','kmar$']
+#exclusionlist61 = ['kf$','^f$']
+#exclusionlist62 = ['[GcjJPtvs]ar$','kzar$','antar$','punar$','prAtar','ahar$','kmar$']
 def conventionviolation(word,dict):
 	global hw1
 	"""
@@ -189,13 +191,58 @@ def conventionviolation(word,dict):
 	if dict in ["AP","AP90","BEN","BOP","BUR","CAE","GRA","MD","MW","MW72","STC"] and re.search('ar$',word) and notinarray(exclusionlist62,word):
 		violation62.write(word+":"+dict+"\n")
 		print '62', word, dict
-
+"""
 for (word,dicts) in headwithdicts:
 	for dict in dicts:
 		conventionviolation(word,dict)
+"""
 #violation11.close()
 #violation12.close()
 #violation14.close()
 #violation41.close()
-violation61.close()
-violation62.close()
+#violation61.close()
+#violation62.close()
+   
+def countlen():
+	global sanhw1
+	global hw1
+	global headwithdicts
+	hw1file = codecs.open('normalization/hw1.txt','w','utf-8')
+	hw1 = sorted(hw1)
+	hw1file.write("\n".join(hw1))
+	hw1file.close()
+	print "Total entries without normalization are", len(hw1)
+	output = []
+	# Do anusvAra normalization
+	intab = "NYRnm"
+	outtab = "MMMMM"
+	trantab = maketrans(intab,outtab)
+	for word in hw1:
+		word = str(word).translate(trantab)
+		word = re.sub('M$','m',word)
+		output.append(word)
+	hw2 = list(set(output))
+	hw2 = sorted(hw2)
+	print "Total entries with anusvAra normalization are", len(hw2)
+	hw2file = codecs.open('normalization/hw2.txt','w','utf-8')
+	hw2file.write("\n".join(hw2))
+	hw2file.close()
+	# Do duplication normalization
+	duplicates = duplicatedlist()
+	singles = ['r'+con for con in consonants]
+	output1 = []
+	for member in ['rK','rG','rC','rJ','rW','rQ','rT','rD','rP','rB']:
+		singles.append(member)
+	for word in hw2:
+		for i in xrange(len(duplicates)):
+			word = word.replace(duplicates[i],singles[i])
+		output1.append(word)
+	hw3 = list(set(output1))
+	hw3 = sorted(hw3)
+	print "Total entries with duplication normalization are", len(hw3)
+	hw3file = codecs.open('normalization/hw3.txt','w','utf-8')
+	hw3file.write("\n".join(hw3))
+	hw3file.close()
+	
+countlen()
+	
