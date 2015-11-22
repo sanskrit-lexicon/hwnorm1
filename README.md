@@ -24,7 +24,7 @@ Dictionaries - SKD,AP90,BHS,WIL,VCP
 ##Option 1.4
 Use M at the end of a word (not to denote neuter gender, but to denote avyayas mostly) where 'm' is supposed to be. e.g. anukAmaM, anudiSaM etc.
 
-Dictionaries - YAT
+Dictionaries - PW,PWG,YAT
 
 ##Option 1.5
 Treat m as M when occuring in the cases where the first member of compound ends with m. e.g. saMgIta (sam+gIta) 
