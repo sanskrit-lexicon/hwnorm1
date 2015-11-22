@@ -43,6 +43,8 @@ Duplication done
 
 Dictionaries - SKD,VCP,SHS,WIL,YAT,PD
 
+Notes - 
+
 ## Option 2.2
 Duplication not done
 

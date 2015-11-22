@@ -98,6 +98,12 @@ def normduplication(list,word):
 		return True
 	else:
 		return False
+def duplicatedlist():
+	global consonants
+	output = []
+	for con in consonants:
+		output.append("r"+con+con)
+	return output
 def normanusvara(list,word):
 	word = re.sub('M([kKgG])','N\g<1>',word)
 	word = re.sub('M([cCjJ])','Y\g<1>',word)
