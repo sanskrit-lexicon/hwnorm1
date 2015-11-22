@@ -43,7 +43,7 @@ Duplication done
 
 Dictionaries - SKD,VCP,SHS,WIL,YAT
 
-Notes - PD removed becaue of [this](https://github.com/sanskrit-lexicon/hwnorm1/issues/1#issuecomment-158735408).
+Notes - PD removed from the list becaue of [this](https://github.com/sanskrit-lexicon/hwnorm1/issues/1#issuecomment-158735408).
 
 ## Option 2.2
 Duplication not done
