@@ -120,12 +120,17 @@ Dictionaries - CCS,PW,PWG,SCH
 
 Observations for mAtA (uNAdi tf pratyaya) are as follows -
 mAtA:AP,AP90,MD,MW,MW72,PUI,PW,PWG,SKD,VCP
+
 mAtar:CCS,PW,PWG,SCH
+
 mAtf:AP,AP90,BEN,BOP,BUR,CAE,GRA,IEG,INM,MD,MW,MW72,SHS,STC,VCP,VEI,WIL,YAT
 
 Observations for kartA (tfc pratyaya with verbs )are as follows -
+
 kartA:PE
+
 kartar:CCS,PW,PWG,SCH
+
 kartf:AP,AP90,BEN,BOP,BUR,CAE,GRA,IEG,INM,MD,MW,MW72,STC
 
 
