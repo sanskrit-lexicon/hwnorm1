@@ -137,11 +137,11 @@ def normanusvara(list,word):
 #violation21 = codecs.open('conv2/21violation.txt','w','utf-8')
 #rxx = codecs.open('conv2/rxx.txt','w','utf-8')
 #violation41 = codecs.open('proberrors/41violation.txt','w','utf-8')
-violation61 = codecs.open('proberrors/61violation.txt','w','utf-8')
-violation62 = codecs.open('proberrors/62violation.txt','w','utf-8')
+#violation61 = codecs.open('proberrors/61violation.txt','w','utf-8')
+#violation62 = codecs.open('proberrors/62violation.txt','w','utf-8')
 #exclusionlist12 = ['[sS][aA][M][kKgGcCjJwWqQtTdDpPbB]','k[iE][M][kKgGcCjJwWqQtTdDpPbB]','aMk[aA]r','BujaMg','yaMdin','aMtap','aMg','MDar','aMBA','Mpac','a[hl]aMk','ahaM','aMBav','h[iu]Mk','oMk','aMDam','annaMBaww','yaMd','aMkf','apAM','dv[Aa]Mdv','aMkaz','[aAiIuU]Mjaya','puraMDr','MGuz','Mdam','Mtud','alaM','Mgat','MBar','MpaSy','Mk[Aa]r','raTaMt','AMpati','AMkf','AsyaMDa','itTaM','idaM','idAnIM','AMd[aA]','^IMkf','ilIMDr','[aA]laMkr','DvaMjAnu','fRaMcaya','evaM','EdaM','kaM[jdD]','kawaMkaw','k[Aa]TaM','karaMDay','p[Aa]raMpar','kAMdiS','puM','k[Uu]laM','ASuMga','karRaM','kAM','kupyaMjara','koyaMpurI','kzudraM','MDa[my]','gAM','gomaRiMda','svayaMB','ciraM','cUMkfta','jIvaM','tadAnIM','timiM','naktaM','tUzRIM','tElaM','zaMDi','tv[aA]M','daM','dayyAM','puraMdar','dAnaM','dAMpaty','devAnAM','devIMDiyaka','dEnaM','dEyAM','dyAM','druhaMtara','D[Aa]naM','DiyaM','DarmaM','DuMDuM','DenuM','naraM','nikftiM','paRyaM','paraM','pAMkt','putraM','p[uO]raM','pfTivIM','prARaM','bAlaMBawwa','B[aA]gaM','makzuM','mahiM','mArtyuM','mitaM','mftyuM','sAyaM','yuDiM','rAtriM','rATaM','lakzmIM','lokaM','varzaM','v[iE]SvaM','vftaM','SataM','S[aA]truM','SayyaM','SarDaM','SAkaM','SunaM','SuBaM','SyEnaM','samaM','samitiM','sarvaM','sahasraM','sAkaM','sAtyaM','suKaM','sEr[ai]M','stanaM','sv[aA]yaM','svarRaM','hUM',]
-exclusionlist61 = ['kf$','^f$','^[gjdnBnvsh]f$']
-exclusionlist62 = ['[GcjJPtvs]ar$','kzar$','antar$','punar$','prAtar','ahar$','kmar$','vaDar$','uzar$','^UDar$','^janar$']
+#exclusionlist61 = ['kf$','^f$','^[gjdnBnvsh]f$']
+#exclusionlist62 = ['[GcjJPtvs]ar$','kzar$','antar$','punar$','prAtar','ahar$','kmar$','vaDar$','uzar$','^UDar$','^janar$']
 def conventionviolation(word,dict):
 	global hw1
 	"""
@@ -191,18 +191,32 @@ def conventionviolation(word,dict):
 	if dict in ["AP","AP90","BEN","BOP","BUR","CAE","GRA","MD","MW","MW72","STC"] and re.search('ar$',word) and notinarray(exclusionlist62,word):
 		violation62.write(word+":"+dict+"\n")
 		print '62', word, dict
-
+"""
 for (word,dicts) in headwithdicts:
 	for dict in dicts:
 		conventionviolation(word,dict)
-
+"""
 #violation11.close()
 #violation12.close()
 #violation14.close()
 #violation41.close()
-violation61.close()
-violation62.close()
+#violation61.close()
+#violation62.close()
    
+def norminflection(list,word):
+	output = []
+	if word not in output:
+		word = re.sub('([aA])H','\1',word)
+		word = re.sub('[aA]m','\1',word)
+		if word in list:
+			output.append(word)
+	return output
+	
+def difflist(outputfile,list1,list2):
+	fout = codecs.open(outputfile,'w','utf-8')
+	difflist = list(set(list1) - set(list2))
+	fout.write("\n".join(difflist))
+	fout.close()
 def countlen():
 	global sanhw1
 	global hw1
@@ -213,12 +227,13 @@ def countlen():
 	hw1file.close()
 	print "Total entries without normalization are", len(hw1)
 	output = []
-	# Do anusvAra normalization
-	intab = "NYRnm"
-	outtab = "MMMMM"
-	trantab = maketrans(intab,outtab)
 	for word in hw1:
-		word = str(word).translate(trantab)
+		word = re.sub('N([kKgG])','M\g<1>',word)
+		word = re.sub('Y([cCjJ])','M\g<1>',word)
+		word = re.sub('R([wWqQ])','M\g<1>',word)
+		word = re.sub('n([tTdD])','M\g<1>',word)
+		word = re.sub('m([pPbB])','M\g<1>',word)
+		word = re.sub('m([Szs])','M\g<1>',word)
 		word = re.sub('M$','m',word)
 		output.append(word)
 	hw2 = list(set(output))
@@ -243,8 +258,23 @@ def countlen():
 	hw3file = codecs.open('normalization/hw3.txt','w','utf-8')
 	hw3file.write("\n".join(hw3))
 	hw3file.close()
-	
-#countlen()
+	# Do inflection normalization
+	output3 = []
+	for word in hw3:
+		word = re.sub('([aA])H$','\g<1>',word)
+		word = re.sub('([aA])m$','\g<1>',word)
+		output3.append(word)
+	hw4 = list(set(output3))
+	hw4 = sorted(hw4)
+	print "Total entries with inflection normalization are", len(hw4)
+	hw4file = codecs.open('normalization/hw4.txt','w','utf-8')
+	hw4file.write("\n".join(hw4))
+	hw4file.close()
+	difffiles = [('normalization/hw1minushw2.txt',hw1,hw2),('normalization/hw2minushw3.txt',hw2,hw3),('normalization/hw3minushw4.txt',hw3,hw4)]
+	for (file,list1,list2) in difffiles:
+		difflist(file,list1,list2)
 
 
 	
+countlen()
+

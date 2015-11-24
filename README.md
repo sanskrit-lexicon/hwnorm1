@@ -94,6 +94,9 @@ Uninflected form
 
 Dictionaries - Rest all dictioanries.
 
+## Standard convention
+Uninflected form
+
 # Convention 5 -  anusvAra of verb
 
 ## Option 5.1
