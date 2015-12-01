@@ -183,7 +183,6 @@ def conventionviolation(word,dict):
 			else:
 				print word, dict
 				violation41.write(word+":"+dict+"\n")
-	"""
 	# Convention 5 would take much mind. Skipping for now.
 	if dict in ["CCS","PW","PWG","SCH",] and re.search('f$',word) and notinarray(exclusionlist61,word):
 		violation61.write(word+":"+dict+"\n")
@@ -191,17 +190,16 @@ def conventionviolation(word,dict):
 	if dict in ["AP","AP90","BEN","BOP","BUR","CAE","GRA","MD","MW","MW72","STC"] and re.search('ar$',word) and notinarray(exclusionlist62,word):
 		violation62.write(word+":"+dict+"\n")
 		print '62', word, dict
-"""
 for (word,dicts) in headwithdicts:
 	for dict in dicts:
 		conventionviolation(word,dict)
-"""
 #violation11.close()
 #violation12.close()
 #violation14.close()
 #violation41.close()
 #violation61.close()
 #violation62.close()
+"""
    
 def norminflection(list,word):
 	output = []
@@ -224,21 +222,32 @@ def triming(lst):
 		member = str(member)
 		output.append(member.strip())
 	return output
-def exam(test,control):
-	examine = codecs.open('normalization/examine.txt','w','utf-8')
+def exam(test,control,step,outfile):
 	examinableentries = []
+	fout = codecs.open(outfile,'w','utf-8')
 	ok = []
 	test = sorted(test)
-	print "Writing suspect entries to examine.txt"
+	print "Writing suspect entries to", outfile
 	test1 = list(set(test)-set(control))
 	test1 = sorted(test1)
-	for member in test:
-		if member in test1 and member[:-1] not in control:
-			examine.write(member+"\n")
-			examinableentries.append(member)
-		else:
-			ok.append(member)
-	examine.close()
+	if step == 4:
+		for member in test:
+			if member in test1 and member not in control:
+				if member[-2:] == "AH" and member[-2:]+"aH" in control:
+					pass
+				if member[-2:] == "AH" and member[-2:]+"as" in control:
+					pass
+				elif member+"H" in control:
+					fout.write(member+"H\n")
+				elif member+"m" in control:
+					fout.write(member+"m\n")
+				else:
+					print "Something is wrong"
+					exit(1)
+				examinableentries.append(member)
+			else:
+				ok.append(member)
+	fout.close()
 	ok = list(set(ok))
 	ok = sorted(ok)
 	examinableentries = list(set(examinableentries))
@@ -289,17 +298,20 @@ def countlen():
 	# Do inflection normalization
 	output3 = []
 	examineable = []
-	examinablefile = codecs.open('normalization/examine.txt','w','utf-8')
+	#examinablefile = codecs.open('normalization/examine.txt','w','utf-8')
 	for word in hw3:
 		word1 = re.sub('([aAiIuUeEoO])H$','\g<1>',word)
 		word1 = re.sub('([aAiIuUeEoO])m$','\g<1>',word1)
-		if word1 in hw3:
+		output3.append(word1)
+		"""if word1 in hw3:
 			output3.append(word1)
 		else:
 			print "Examine - ", word
 			examineable.append(word)
 			examinablefile.write(word+"\n")
 	examinablefile.close()
+	"""
+		
 	hw4 = list(set(output3))
 	hw4 = sorted(hw4)
 	hw4file = codecs.open('normalization/hw4.txt','w','utf-8')
@@ -308,7 +320,7 @@ def countlen():
 	print "Total entries with inflection normalization are", len(hw4)
 	examineable = list(set(examineable))
 	examineable = sorted(examineable)
-	print "Total entries which require manual investigation are", len(examinable)
+	print "Total entries which require manual investigation are", len(examineable)
 	difffiles = [('normalization/hw1minushw2.txt',hw1,hw2),('normalization/hw2minushw3.txt',hw2,hw3),('normalization/hw3minushw4.txt',hw3,hw4)]
 	for (file,list1,list2) in difffiles:
 		difflist(file,list1,list2)
@@ -333,6 +345,7 @@ def difflister():
 	hw2text.close()
 	hw3text.close()
 	hw4text.close()
+	exam(hw4,hw3,4,'normalization/examine4.txt')
 
-countlen()
+#countlen()
 difflister()
