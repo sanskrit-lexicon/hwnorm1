@@ -20,4 +20,9 @@ There are three difference files generated in the process.
 
 3. hw3minushw4.txt - hw3.txt entries not found in hw4.txt
 
+There is also one subsidiary file generated in step 4, which requires manual examination
+
+1. examine.txt - The words in hw3 whose word[:-1] (removal of last letter) form is not found in hw3. This at least beacons that the word is not found in other dictionaries. Have a closer look.
+
+
 I hope someone would cursorily examine the files and decide whether we are on right track or not.

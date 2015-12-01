@@ -334,5 +334,5 @@ def difflister():
 	hw3text.close()
 	hw4text.close()
 
-#countlen()
+countlen()
 difflister()
