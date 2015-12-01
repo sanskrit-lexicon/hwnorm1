@@ -218,6 +218,33 @@ def difflist(outputfile,list1,list2):
 	difflist = sorted(difflist);
 	fout.write("\n".join(difflist))
 	fout.close()
+def triming(lst):
+	output = []
+	for member in lst:
+		member = str(member)
+		output.append(member.strip())
+	return output
+def exam(test,control):
+	examine = codecs.open('normalization/examine.txt','w','utf-8')
+	examinableentries = []
+	ok = []
+	test = sorted(test)
+	print "Writing suspect entries to examine.txt"
+	test1 = list(set(test)-set(control))
+	test1 = sorted(test1)
+	for member in test:
+		if member in test1 and member[:-1] not in control:
+			examine.write(member+"\n")
+			examinableentries.append(member)
+		else:
+			ok.append(member)
+	examine.close()
+	ok = list(set(ok))
+	ok = sorted(ok)
+	examinableentries = list(set(examinableentries))
+	examinableentries = sorted(examinableentries)
+	return [ok,examinableentries]
+
 def countlen():
 	global sanhw1
 	global hw1
@@ -261,21 +288,30 @@ def countlen():
 	hw3file.close()
 	# Do inflection normalization
 	output3 = []
+	examineable = []
+	examinablefile = codecs.open('normalization/examine.txt','w','utf-8')
 	for word in hw3:
-		word = re.sub('([aA])H$','\g<1>',word)
-		word = re.sub('([aA])m$','\g<1>',word)
-		output3.append(word)
+		word1 = re.sub('([aAiIuUeEoO])H$','\g<1>',word)
+		word1 = re.sub('([aAiIuUeEoO])m$','\g<1>',word1)
+		if word1 in hw3:
+			output3.append(word1)
+		else:
+			print "Examine - ", word
+			examineable.append(word)
+			examinablefile.write(word+"\n")
+	examinablefile.close()
 	hw4 = list(set(output3))
 	hw4 = sorted(hw4)
-	print "Total entries with inflection normalization are", len(hw4)
 	hw4file = codecs.open('normalization/hw4.txt','w','utf-8')
 	hw4file.write("\n".join(hw4))
 	hw4file.close()
+	print "Total entries with inflection normalization are", len(hw4)
+	examineable = list(set(examineable))
+	examineable = sorted(examineable)
+	print "Total entries which require manual investigation are", len(examinable)
 	difffiles = [('normalization/hw1minushw2.txt',hw1,hw2),('normalization/hw2minushw3.txt',hw2,hw3),('normalization/hw3minushw4.txt',hw3,hw4)]
 	for (file,list1,list2) in difffiles:
 		difflist(file,list1,list2)
-
-
-	
+		
 countlen()
 
