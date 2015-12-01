@@ -312,6 +312,27 @@ def countlen():
 	difffiles = [('normalization/hw1minushw2.txt',hw1,hw2),('normalization/hw2minushw3.txt',hw2,hw3),('normalization/hw3minushw4.txt',hw3,hw4)]
 	for (file,list1,list2) in difffiles:
 		difflist(file,list1,list2)
-		
-countlen()
 
+def difflister():
+	hw1text = codecs.open('normalization/hw1.txt','r','utf-8')
+	hw2text = codecs.open('normalization/hw2.txt','r','utf-8')
+	hw3text = codecs.open('normalization/hw3.txt','r','utf-8')
+	hw4text = codecs.open('normalization/hw4.txt','r','utf-8')
+	hw1 = hw1text.readlines()
+	hw2 = hw2text.readlines()
+	hw3 = hw3text.readlines()
+	hw4 = hw4text.readlines()
+	hw1 = triming(hw1)
+	hw2 = triming(hw2)
+	hw3 = triming(hw3)
+	hw4 = triming(hw4)
+	difffiles = [('normalization/hw1minushw2.txt',hw1,hw2),('normalization/hw2minushw3.txt',hw2,hw3),('normalization/hw3minushw4.txt',hw3,hw4)]
+	for (file,list1,list2) in difffiles:
+		difflist(file,list1,list2)
+	hw1text.close()
+	hw2text.close()
+	hw3text.close()
+	hw4text.close()
+
+#countlen()
+difflister()
