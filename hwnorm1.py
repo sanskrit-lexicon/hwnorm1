@@ -215,6 +215,7 @@ def norminflection(list,word):
 def difflist(outputfile,list1,list2):
 	fout = codecs.open(outputfile,'w','utf-8')
 	difflist = list(set(list1) - set(list2))
+	difflist = sorted(difflist);
 	fout.write("\n".join(difflist))
 	fout.close()
 def countlen():
