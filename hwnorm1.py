@@ -85,8 +85,6 @@ def notinarray(list,word):
 		if re.search(member,word):
 			return False
 			break
-		else:
-			continue
 	else:
 		return True
 consonants = ['k','K','g','G','N','c','C','j','J','Y','w','W','q','Q','R','t','T','d','D','n','p','P','b','B','m','y','r','l','v','S','z','s','h']
@@ -233,11 +231,7 @@ def exam(test,control,step,outfile):
 	if step == 4:
 		for member in test:
 			if member in test1 and member not in control:
-				if member[-2:] == "AH" and member[-2:]+"aH" in control:
-					pass
-				if member[-2:] == "AH" and member[-2:]+"as" in control:
-					pass
-				elif member+"H" in control:
+				if member+"H" in control:
 					fout.write(member+"H\n")
 				elif member+"m" in control:
 					fout.write(member+"m\n")
@@ -297,20 +291,14 @@ def countlen():
 	hw3file.close()
 	# Do inflection normalization
 	output3 = []
-	examineable = []
-	#examinablefile = codecs.open('normalization/examine.txt','w','utf-8')
+	exclist = ['$aDi.*\m','pUrvam$','pUrvakam$','^a[BD][iy].*m$','^aMta[rH]','naMtaram$','^anati','^an[vu].*m$','tum$','[aA]rTam$','^[ua]pa.*m$','^at[yi].*m$','aSaH$','^ni[rzH].*m$','^par[i].*m','^pr[aA].*m$','^up[aA].*m','sa[nMm].*m$','^u[td].*m$','^v[iy].*m$','^y[aA]TA.*m$','^zw.*m$']
 	for word in hw3:
-		word1 = re.sub('([aAiIuUeEoO])H$','\g<1>',word)
-		word1 = re.sub('([aAiIuUeEoO])m$','\g<1>',word1)
-		output3.append(word1)
-		"""if word1 in hw3:
-			output3.append(word1)
+		if not notinarray(exclist,word):
+			output3.append(word)
 		else:
-			print "Examine - ", word
-			examineable.append(word)
-			examinablefile.write(word+"\n")
-	examinablefile.close()
-	"""
+			word1 = re.sub('([aAiIuU])H$','\g<1>',word)
+			word1 = re.sub('([aAiIuU])m$','\g<1>',word1)
+			output3.append(word1)
 		
 	hw4 = list(set(output3))
 	hw4 = sorted(hw4)
@@ -318,9 +306,6 @@ def countlen():
 	hw4file.write("\n".join(hw4))
 	hw4file.close()
 	print "Total entries with inflection normalization are", len(hw4)
-	examineable = list(set(examineable))
-	examineable = sorted(examineable)
-	print "Total entries which require manual investigation are", len(examineable)
 	difffiles = [('normalization/hw1minushw2.txt',hw1,hw2),('normalization/hw2minushw3.txt',hw2,hw3),('normalization/hw3minushw4.txt',hw3,hw4)]
 	for (file,list1,list2) in difffiles:
 		difflist(file,list1,list2)
@@ -347,5 +332,5 @@ def difflister():
 	hw4text.close()
 	exam(hw4,hw3,4,'normalization/examine4.txt')
 
-#countlen()
+countlen()
 difflister()
