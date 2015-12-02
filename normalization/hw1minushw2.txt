@@ -48303,7 +48303,6 @@ hrasvANga
 hrasvANgaH
 hrasvEraRqa
 hrasvaM
-hrasvagaveDukAM
 hrasvajambU
 hrasvajambuH
 hrasvamARqUkeya
@@ -49511,7 +49510,6 @@ jaGanaM
 jaGnivant
 jaMBanaM
 jaMgulaM
-jaMnmaM
 jaNGA
 jaNGASUla
 jaNGASUlaM
@@ -69943,7 +69941,6 @@ pustaM
 pustakaBARqAra
 pustakendra
 putIsfYjaya
-putrIkaraRamImAMsAM
 putraBARqa
 putraSfNgI
 putraYjIvaka
@@ -79555,7 +79552,6 @@ svaramaYcanftya
 svaramaYjarI
 svaramantrakARqa
 svarapaYcASat
-svarapaYcASata
 svarapaYcASikA
 svarapattanaM
 svarapuraYjaya
@@ -80026,7 +80022,6 @@ tElaparRikaM
 tElapiYja
 tElasADanaM
 tElaspandA
-tElaspanda
 tElasyandA
 tElayantra
 tElayantracakra
