@@ -307,48 +307,60 @@ def countlen():
 	hw3file = codecs.open('normalization/hw3.txt','w','utf-8')
 	hw3file.write("\n".join(hw3))
 	hw3file.close()
-	# Do inflection normalization
 	output3 = []
-	exclist = ['$aDi.*\m','pUrvam$','pUrvakam$','^a[BD][iy].*m$','^aMta[rH]','naMtaram$','^anati','^an[vu].*m$','tum$','[aA]rTam$','^[ua]pa.*m$','^at[yi].*m$','aSaH$','^ni[rzH].*m$','^par[i].*m','^pr[aA].*m$','^up[aAo].*m','sa[nMm].*m$','^u[td].*m$','^v[iy].*m$','^y[aA]TA.*m$','^zw.*m$','^A.*am$','ataH$','AH$','agr[ae].*m$','ta[mr]am$','^an[AiIU].*m$','^ana[BD][iy].*m$','^ana[vp][ae].*m$','^apra.*m$','^av[aAio].*m$','^ayaTA.*m$','^bahi[rzH].*m$','^bahu.*m$','^catu[rHz].*m$','dv[iy].*m$','SiraH$','AyAm$','^s[aA].*m$','[DQ]um$','^kiM','^kiya[tc].*m','^maDye.*m','^nAti.*m$','^niSc.*m$','^pAre.*m$','dyuH$','^uccEH.*m$','^yAva[tcd].*m$','^yaT[Aeo].*m$','^yat.*m$']
 	for word in hw3:
-		if not notinarray(exclist,word) or len(word) < 5:
-			output3.append(word)
+		if re.search('aMt$',word):
+			output3.append(re.sub('aMt$','at',word))
 		else:
-			word1 = re.sub('([aAiIuU])H$','\g<1>',word)
-			word1 = re.sub('([aAiIuU])m$','\g<1>',word1)
-			output3.append(word1)
-		
+			output3.append(word)
 	hw4 = list(set(output3))
 	hw4 = sorted(hw4)
 	hw4file = codecs.open('normalization/hw4.txt','w','utf-8')
 	hw4file.write("\n".join(hw4))
 	hw4file.close()
-	print "Total entries with inflection normalization are", len(hw4)
-	difffiles = [('normalization/hw1minushw2.txt',hw1,hw2),('normalization/hw2minushw3.txt',hw2,hw3),('normalization/hw3minushw4.txt',hw3,hw4)]
-	for (file,list1,list2) in difffiles:
-		difflist(file,list1,list2)
+	print "Total entries with 'ant' normalization are", len(hw4)
+	# Do inflection normalization
+	output4 = []
+	exclist = ['$aDi.*\m','pUrvam$','pUrvakam$','^a[BD][iy].*m$','^aMta[rH]','naMtaram$','^anati','^an[vu].*m$','tum$','[aA]rTam$','^[ua]pa.*m$','^at[yi].*m$','aSaH$','^ni[rzH].*m$','^par[i].*m','^pr[aA].*m$','^up[aAo].*m','sa[nMm].*m$','^u[td].*m$','^v[iy].*m$','^y[aA]TA.*m$','^zw.*m$','^A.*am$','ataH$','AH$','agr[ae].*m$','ta[mr]am$','^an[AiIU].*m$','^ana[BD][iy].*m$','^ana[vp][ae].*m$','^apra.*m$','^av[aAio].*m$','^ayaTA.*m$','^bahi[rzH].*m$','^bahu.*m$','^catu[rHz].*m$','dv[iy].*m$','SiraH$','AyAm$','^s[aA].*m$','[DQ]um$','^kiM','^kiya[tc].*m','^maDye.*m','^nAti.*m$','^niSc.*m$','^pAre.*m$','dyuH$','^uccEH.*m$','^yAva[tcd].*m$','^yaT[Aeo].*m$','^yat.*m$']
+	for word in hw3:
+		if not notinarray(exclist,word) or len(word) < 5:
+			output4.append(word)
+		else:
+			word1 = re.sub('([aAiIuU])H$','\g<1>',word)
+			word1 = re.sub('([aAiIuU])m$','\g<1>',word1)
+			output4.append(word1)
+		
+	hw5 = list(set(output4))
+	hw5 = sorted(hw5)
+	hw5file = codecs.open('normalization/hw5.txt','w','utf-8')
+	hw5file.write("\n".join(hw5))
+	hw5file.close()
+	print "Total entries with inflection normalization are", len(hw5)
 
 def difflister():
 	hw1text = codecs.open('normalization/hw1.txt','r','utf-8')
 	hw2text = codecs.open('normalization/hw2.txt','r','utf-8')
 	hw3text = codecs.open('normalization/hw3.txt','r','utf-8')
 	hw4text = codecs.open('normalization/hw4.txt','r','utf-8')
+	hw5text = codecs.open('normalization/hw5.txt','r','utf-8')
 	hw1 = hw1text.readlines()
 	hw2 = hw2text.readlines()
 	hw3 = hw3text.readlines()
 	hw4 = hw4text.readlines()
+	hw5 = hw5text.readlines()
 	hw1 = triming(hw1)
 	hw2 = triming(hw2)
 	hw3 = triming(hw3)
 	hw4 = triming(hw4)
-	difffiles = [('normalization/hw1minushw2.txt',hw1,hw2),('normalization/hw2minushw3.txt',hw2,hw3),('normalization/hw3minushw4.txt',hw3,hw4)]
+	hw5 = triming(hw5)
+	difffiles = [('normalization/hw1minushw2.txt',hw1,hw2),('normalization/hw2minushw3.txt',hw2,hw3),('normalization/hw3minushw4.txt',hw3,hw4),('normalization/hw4minushw5.txt',hw4,hw5)]
 	for (file,list1,list2) in difffiles:
 		difflist(file,list1,list2)
 	hw1text.close()
 	hw2text.close()
 	hw3text.close()
 	hw4text.close()
-	exam(hw4,hw3,4,'normalization/examine4.txt')
+	hw5text.close()
 
-#countlen()
-#difflister()
+countlen()
+difflister()
