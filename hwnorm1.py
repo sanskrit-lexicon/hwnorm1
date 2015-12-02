@@ -307,9 +307,10 @@ def countlen():
 	hw3file = codecs.open('normalization/hw3.txt','w','utf-8')
 	hw3file.write("\n".join(hw3))
 	hw3file.close()
+	# Do 'ant$' normalization
 	output3 = []
 	for word in hw3:
-		if re.search('aMt$',word):
+		if re.search('aMt$',word): # Because it was already converted from 'nt'->'Mt'
 			output3.append(re.sub('aMt$','at',word))
 		else:
 			output3.append(word)
