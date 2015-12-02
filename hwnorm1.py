@@ -36,6 +36,13 @@ def hw1():
 		output.append(word)
 	return output
 hw1 = hw1()
+
+def rchop(thestring, ending):
+	if thestring.endswith(ending):
+		return thestring[:-len(ending)]
+	else:
+		return thestring
+ 
 # See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/43#issuecomment-65781239
 log = codecs.open("conv1/log.txt","a","utf-8")
 log.write(str(timestamp())+"\n")
@@ -133,6 +140,10 @@ def normanusvara(list,word):
 #violation13 = codecs.open('proberrors/13violation.txt','w','utf-8')
 #violation14 = codecs.open('proberrors/14violation.txt','w','utf-8')
 #violation21 = codecs.open('conv2/21violation.txt','w','utf-8')
+violation31 = codecs.open('conv3/31violation.txt','w','utf-8')
+violation32 = codecs.open('conv3/32violation.txt','w','utf-8')
+violation33 = codecs.open('conv3/33violation.txt','w','utf-8')
+violation34 = codecs.open('conv3/34violation.txt','w','utf-8')
 #rxx = codecs.open('conv2/rxx.txt','w','utf-8')
 #violation41 = codecs.open('proberrors/41violation.txt','w','utf-8')
 #violation61 = codecs.open('proberrors/61violation.txt','w','utf-8')
@@ -188,6 +199,14 @@ def conventionviolation(word,dict):
 	if dict in ["AP","AP90","BEN","BOP","BUR","CAE","GRA","MD","MW","MW72","STC"] and re.search('ar$',word) and notinarray(exclusionlist62,word):
 		violation62.write(word+":"+dict+"\n")
 		print '62', word, dict
+	"""
+	if dict in ["SHS","WIL","GST","MW","MW72","PD","MD"] and re.search('ant$',word) and not re.search('^ant$',word):
+		violation31.write(word+":"+dict+"\n")
+		print '31', word, dict
+	if dict in ["BEN","CAE","CCS","STC","SCH","BHS","PW","PWG","SCH"] and re.search('at$',word) and len(word)>4 and not re.search('[AM]Sat$',word) and not (re.search('[mv]at$',word) and dict in ['PW','PWG']) and not (word.endswith('vat') and rchop(word,'vat') in hw1) and word not in ['pfzat','jagat','camat','avocat','jAgrat','viyat','pawat','mahat','sanat','sarat']:
+		violation32.write(word+":"+dict+"\n")
+		print '32', word, dict
+	
 for (word,dicts) in headwithdicts:
 	for dict in dicts:
 		conventionviolation(word,dict)
@@ -197,7 +216,6 @@ for (word,dicts) in headwithdicts:
 #violation41.close()
 #violation61.close()
 #violation62.close()
-"""
    
 def norminflection(list,word):
 	output = []
@@ -332,5 +350,5 @@ def difflister():
 	hw4text.close()
 	exam(hw4,hw3,4,'normalization/examine4.txt')
 
-countlen()
-difflister()
+#countlen()
+#difflister()

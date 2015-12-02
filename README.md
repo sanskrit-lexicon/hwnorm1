@@ -62,12 +62,12 @@ No duplication
 ## Option 3.1
 Keep verb form as 'at'
 
-Dictionaries - SHS,WIL,GST,MW,MW72,PD,SCH,MD
+Dictionaries - SHS,WIL,GST,MW,MW72,PD,MD
 
 ## Option 3.2
 Keep verb form as 'ant'
 
-Dictionaries - BEN,CAE,CCS,PW,PWG,STC,SCH,PD,MD,BHS
+Dictionaries - BEN,CAE,CCS,STC,SCH,BHS,PW,PWG,SCH
 
 Note - Some dictionaries seem to follow two conventions in options 3.1 and 3.2. It will need a closer look.
 
@@ -80,6 +80,8 @@ Dictionaries - AP,AP90,BOP,BUR,GRA,GST,MD,MW,PD,SHS,VCP,WIL,YAT
 Keep 'vant' / 'mant' 
  
 Dictionaries - PW,PWG,SCH,STC,CAE,CCS,BEN,BHS
+
+## Standard convention - 'at'
 
 # Convention 4 - Uninflected / inflected forms
 
