@@ -152,6 +152,27 @@ Dictionaries - INM,PUI,SKD
 ## Standard convention
 Use 'f' at the end.
 
+
+# Convention 7
+
+## Option 7.1 
+Uses 'vas' at end
+
+Dictionaries - AP,AP90,BOP,BUR,CAE,CCS,GRA,MW,MW72,SHS,VCP,WIL,YAT
+
+## Option 7.2
+Uses 'AMs' at end
+
+Dictionaries - BHS,MD,STC
+
+## Option 7.3
+Uses 'An' at the end
+
+Dictioaries - PUI,SKD
+
+## Standard Convention
+Use 'vas' at the end.
+
 # Analysis of hypothesis - optionwise
 
 Here, we would note the most relevant documentation of further discoveries / addition / alteration / whitelist / blacklist of various options.

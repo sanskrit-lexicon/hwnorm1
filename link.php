@@ -1,4 +1,12 @@
 <?php
+/* 
+php link.php inputtextfile outputhtmlfile Breifheader Issuenumber
+
+e.g.
+
+php link.php abnorm.txt abnorm.html Suspect_word_ends 178
+*/
+
 $header = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
@@ -34,14 +42,14 @@ function webpagelink($dict,$word)
 	$y=Cologne_hrefyear($dict);
 	return '<a href="'."http://www.sanskrit-lexicon.uni-koeln.de/scans/".$dict."Scan/".$y."/web/webtc/indexcaller.php".'?key='.$word.'&input=slp1&output=SktDevaUnicode" target="_blank">'.$word."</a>"; 
 }
-
-function linked($inputfile,$outputfile)
+function linking($fin,$fout,$issuedescription,$issuenumber) 
 {
 	global $header;
-	$input = file($inputfile);
+	$input = file($fin);
 	$input = array_map('trim',$input);
-	$outfile = fopen($outputfile,"w");
+	$outfile = fopen($fout,"w");
 	fputs($outfile,$header);
+	fputs($outfile,"<h1>$issuedescription (See ".'<a href="https://github.com/sanskrit-lexicon/hwnorm1/issues/'.$issuenumber.'">This issue</a>)</h1>');
 	$counter = 1;
 	foreach ($input as $value)
 	{
@@ -51,9 +59,9 @@ function linked($inputfile,$outputfile)
 	}
 	fputs($outfile,"</table></body></html>");
 	fclose($outfile);
-	echo "Check $outputfile for testing.\n";
+	echo "Check $fout for testing.\n";
 }
-$inputfile = $argv[1];
-$outputfile = $argv[2];
-linked($inputfile,$outputfile);
+
+linking($argv[1],$argv[2],$argv[3],$argv[4]);
+
 ?>
