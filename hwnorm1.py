@@ -291,7 +291,7 @@ def countlen():
 	hw3file.close()
 	# Do inflection normalization
 	output3 = []
-	exclist = ['$aDi.*\m','pUrvam$','pUrvakam$','^a[BD][iy].*m$','^aMta[rH]','naMtaram$','^anati','^an[vu].*m$','tum$','[aA]rTam$','^[ua]pa.*m$','^at[yi].*m$','aSaH$','^ni[rzH].*m$','^par[i].*m','^pr[aA].*m$','^up[aA].*m','sa[nMm].*m$','^u[td].*m$','^v[iy].*m$','^y[aA]TA.*m$','^zw.*m$','^A.*am$','ataH$','AH$','agr[ae].*m$','ta[mr]am$','^an[AiIU].*m$','^ana[BD][iy].*m$','^ana[vp][ae].*m$','^apra.*m$','^av[aAio].*m$','^ayaTA.*m$','^bahi[rzH].*m$','^bahu.*m$','^catu[rHz].*m$','dv[iy].*m$','SiraH$','AyAm$','^s[aA].*m$','[DQ]um$']
+	exclist = ['$aDi.*\m','pUrvam$','pUrvakam$','^a[BD][iy].*m$','^aMta[rH]','naMtaram$','^anati','^an[vu].*m$','tum$','[aA]rTam$','^[ua]pa.*m$','^at[yi].*m$','aSaH$','^ni[rzH].*m$','^par[i].*m','^pr[aA].*m$','^up[aAo].*m','sa[nMm].*m$','^u[td].*m$','^v[iy].*m$','^y[aA]TA.*m$','^zw.*m$','^A.*am$','ataH$','AH$','agr[ae].*m$','ta[mr]am$','^an[AiIU].*m$','^ana[BD][iy].*m$','^ana[vp][ae].*m$','^apra.*m$','^av[aAio].*m$','^ayaTA.*m$','^bahi[rzH].*m$','^bahu.*m$','^catu[rHz].*m$','dv[iy].*m$','SiraH$','AyAm$','^s[aA].*m$','[DQ]um$','^kiM','^kiya[tc].*m','^maDye.*m','^nAti.*m$','^niSc.*m$','^pAre.*m$','dyuH$','^uccEH.*m$','^yAva[tcd].*m$','^yaT[Aeo].*m$','^yat.*m$']
 	for word in hw3:
 		if not notinarray(exclist,word) or len(word) < 5:
 			output3.append(word)
