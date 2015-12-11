@@ -709,7 +709,6 @@ BArgavapriyaH
 BArgaveSam
 BAriH
 BArikaH
-BArikam
 BAriwaH
 BAruzaH
 BAryAruH
@@ -6447,7 +6446,6 @@ anaBijYaH
 anaBilAzaH
 anaBilakzitaH
 anaBipariharat
-anaBisaMDimat
 anaBram
 anaByAvfttiH
 anaDikAraH
@@ -7705,7 +7703,6 @@ atipAtaH
 atiparicayaH
 atipatraH
 atipattiH
-atiprItimat
 atipraSnaH
 atiprabaMDaH
 atiprasaMgaH

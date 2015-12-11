@@ -1898,7 +1898,6 @@ BArgavArcanacandrikA
 BArgavacampU
 BArgavanandana
 BArgavapaYcANga
-BArikaM
 BAruRqAdisAmAni
 BAruRqAni
 BAruRqa
@@ -5301,7 +5300,6 @@ SANKika
 SANKikaH
 SANKina
 SANKya
-SANKyamitri
 SANgIya
 SANgozWA
 SANguzWA
@@ -9509,7 +9507,6 @@ aDigatatvatsidDAnta
 aDigatavfttAnta
 aDigatavyAkaraRatantra
 aDigatyantara
-aDihastyaM
 aDijANgalam
 aDijAlakAntaram
 aDijaNGam
@@ -21631,7 +21628,6 @@ anaBipariharant
 anaBiprARant
 anaBipretopAlamBa
 anaBisaMDAnaM
-anaBisaMDimant
 anaBisaMbanDArTa
 anaBisaMbanDa
 anaBisaMvanDa
@@ -36758,7 +36754,6 @@ atipiNgala
 atipiYjara
 atipiYjarasacCAya
 atiprEzAnta
-atiprItimant
 atipraRItasaNkalpa
 atipraSAntAkArA
 atipraSAntAkfti
@@ -39272,7 +39267,7 @@ avarIRaM
 avaraM
 avaraNgasAha
 avaraNgasAhaH
-avarakaNka
+avarakaNkA
 avarakanda
 avaramb
 avaroDaSiKaRqin
@@ -43529,7 +43524,7 @@ dakziRAmUrtipaYjara
 dakziRAmUrtitantra
 dakziRAmUrtiyantra
 dakziRAntikA
-dakziRApraYc
+dakziRAprAYc
 dakziRApratyaYc
 dakziRAvant
 dakziRAvartaSaNKa
@@ -51713,6 +51708,7 @@ kUwadantI
 kUwadanta
 kUwagranTa
 kUwakaM
+kUwakambalamanzIyas
 kUwapUrvvaM
 kUwasTaM
 kUwasaMkrAnti
@@ -64705,7 +64701,6 @@ paNkri
 paNktI
 paNktIhara
 paNktIkfta
-paNkta
 paNkti
 paNktiH
 paNktiSaH

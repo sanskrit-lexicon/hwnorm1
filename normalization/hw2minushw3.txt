@@ -3265,7 +3265,6 @@ mADuryya
 mADuryyam
 mAMsaniryyAsa
 mAhAvArttika
-mAkzIkaSarkkarA
 mAlAdUrvvA
 mAnavarjjita
 mArdDIka
@@ -4370,7 +4369,6 @@ rAjaDarmmavid
 rAjaDarmmaviwu
 rAjaKarjjUrI
 rAjakAryya
-rAjakarkkawI
 rAjardDi
 rAjavArttika
 rAjyavardDana
@@ -5190,7 +5188,6 @@ toyakarmman
 trEDarmmya
 trEgarttaka
 trEsvaryya
-trapukarkkawI
 trayIDarmma
 trayIDarmmaH
 triDAmUrtti
@@ -5687,7 +5684,6 @@ vasuDAKarjjUrikA
 vasuDarmmikA
 vazawkarttf
 veRukarkkara
-veRukarkkaraH
 veSyAcAryya
 veSyAcAryyaH
 vedAMtavArttika
@@ -5700,7 +5696,6 @@ vfttADyayanardDi
 vfttADyayanardDiH
 vfttAnuvarttin
 vfttAvfDyayanardDi
-vfttakarkkawI
 vfttavArttika
 vfttervvAruH
 vfttisaMbadDavArttika

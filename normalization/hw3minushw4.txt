@@ -578,7 +578,6 @@ anaBiGnaMt
 anaBinaMdaMt
 anaBipariharaMt
 anaBiprARaMt
-anaBisaMDimaMt
 anaByAgamizyaMt
 anaDItavaMt
 anaDIyaMt
@@ -808,7 +807,6 @@ atilOlyavaMt
 atimAnavaMt
 atimahaMt
 atimatimaMt
-atiprItimaMt
 atipuRyavaMt
 atisaktimaMt
 atitvaraMt
