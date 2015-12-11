@@ -53,7 +53,9 @@ function linking($fin,$fout,$issuedescription,$issuenumber)
 	$counter = 1;
 	foreach ($input as $value)
 	{
-		list($word,$dict) = explode(':',$value);
+		$split = explode(':',$value);
+		$dict = $split[0];
+		$word = $split[1]
 		fputs($outfile,"<tr><td>".$counter."</td><td>".webpagelink($dict,$word)."</td><td>".pdflink($dict,$word)."</td></tr>\n");
 		$counter++;
 	}
