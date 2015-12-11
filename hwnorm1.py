@@ -135,24 +135,25 @@ def normanusvara(list,word):
 	else:
 		return False
 
-violation11 = codecs.open('proberrors/11violation.txt','w','utf-8')
-violation12 = codecs.open('proberrors/12violation.txt','w','utf-8')
-violation13 = codecs.open('proberrors/13violation.txt','w','utf-8')
-violation14 = codecs.open('proberrors/14violation.txt','w','utf-8')
-#violation21 = codecs.open('conv2/21violation.txt','w','utf-8')
+#violation11 = codecs.open('proberrors/11violation.txt','w','utf-8')
+#violation12 = codecs.open('proberrors/12violation.txt','w','utf-8')
+#violation13 = codecs.open('proberrors/13violation.txt','w','utf-8')
+#violation14 = codecs.open('proberrors/14violation.txt','w','utf-8')
+violation21 = codecs.open('conv2/21violation.txt','w','utf-8')
 #violation31 = codecs.open('conv3/31violation.txt','w','utf-8')
 #violation32 = codecs.open('conv3/32violation.txt','w','utf-8')
 #violation33 = codecs.open('conv3/33violation.txt','w','utf-8')
 #violation34 = codecs.open('conv3/34violation.txt','w','utf-8')
-#rxx = codecs.open('conv2/rxx.txt','w','utf-8')
+rxx = codecs.open('conv2/rxx.txt','w','utf-8')
 #violation41 = codecs.open('proberrors/41violation.txt','w','utf-8')
 #violation61 = codecs.open('proberrors/61violation.txt','w','utf-8')
 #violation62 = codecs.open('proberrors/62violation.txt','w','utf-8')
 exclusionlist12 = ['[sS][aA][M][kKgGcCjJwWqQtTdDpPbB]','k[iE][M][kKgGcCjJwWqQtTdDpPbB]','aMk[aA]r','BujaMg','yaMdin','aMtap','aMg','MDar','aMBA','Mpac','a[hl]aMk','ahaM','aMBav','h[iu]Mk','oMk','aMDam','annaMBaww','yaMd','aMkf','apAM','dv[Aa]Mdv','aMkaz','[aAiIuU]Mjaya','puraMDr','MGuz','Mdam','Mtud','alaM','Mgat','MBar','MpaSy','Mk[Aa]r','raTaMt','AMpati','AMkf','AsyaMDa','itTaM','idaM','idAnIM','AMd[aA]','^IMkf','ilIMDr','[aA]laMkr','DvaMjAnu','fRaMcaya','evaM','EdaM','kaM[jdD]','kawaMkaw','k[Aa]TaM','karaMDay','p[Aa]raMpar','kAMdiS','puM','k[Uu]laM','ASuMga','karRaM','kAM','kupyaMjara','koyaMpurI','kzudraM','MDa[my]','gAM','gomaRiMda','svayaMB','ciraM','cUMkfta','jIvaM','tadAnIM','timiM','naktaM','tUzRIM','tElaM','zaMDi','tv[aA]M','daM','dayyAM','puraMdar','dAnaM','dAMpaty','devAnAM','devIMDiyaka','dEnaM','dEyAM','dyAM','druhaMtara','D[Aa]naM','DiyaM','DarmaM','DuMDuM','DenuM','naraM','nikftiM','paRyaM','paraM','pAMkt','putraM','p[uO]raM','pfTivIM','prARaM','bAlaMBawwa','B[aA]gaM','makzuM','mahiM','mArtyuM','mitaM','mftyuM','sAyaM','yuDiM','rAtriM','rATaM','lakzmIM','lokaM','varzaM','v[iE]SvaM','vftaM','SataM','S[aA]truM','SayyaM','SarDaM','SAkaM','SunaM','SuBaM','SyEnaM','samaM','samitiM','sarvaM','sahasraM','sAkaM','sAtyaM','suKaM','sEr[ai]M','stanaM','sv[aA]yaM','svarRaM','hUM',]
-#exclusionlist61 = ['kf$','^f$','^[gjdnBnvsh]f$']
-#exclusionlist62 = ['[GcjJPtvs]ar$','kzar$','antar$','punar$','prAtar','ahar$','kmar$','vaDar$','uzar$','^UDar$','^janar$']
+exclusionlist61 = ['kf$','^f$','^[gjdnBnvsh]f$']
+exclusionlist62 = ['[GcjJPtvs]ar$','kzar$','antar$','punar$','prAtar','ahar$','kmar$','vaDar$','uzar$','^UDar$','^janar$']
 def conventionviolation(word,dict):
 	global hw1
+	"""
 	if dict in ["AP90"] and re.search('[NYRnm][kKgGcCjJwWqQtTdDpPbB]',word):
 		print '11', word, dict
 		violation11.write(dict.lower()+":"+word+":"+word+":n:\n")
@@ -166,9 +167,11 @@ def conventionviolation(word,dict):
 	"""
 	if dict in ["SKD","VCP","SHS","WIL","YAT"] and re.search('r[kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh]',word) and not re.search('r[kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh][kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh]',word): # PD removed
 		violation21.write(dict.lower()+":"+word+":"+word+":n:\n")
-		print word, dict
+		print '21', word, dict
 	if dict in ["SKD","VCP","SHS","WIL","YAT"] and re.search('r[kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh][kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh]',word):
 		rxx.write(dict.lower()+":"+word+":"+word+":n:\n")
+		print '22', word, dict
+	"""
 	# Convention 3 is too tricky to enter. Leaving it as it is now.
 	if dict in ["AP","AP90","SKD","VCP"] and re.search('[MH]$',word): # and (notinarray(hw1,word[:-1]) ):
 		if (word[1:] in hw1 or normanusvara(hw1,word[1:]) )and word[0] == 'a': # agardaBaH
@@ -211,9 +214,9 @@ def conventionviolation(word,dict):
 for (word,dicts) in headwithdicts:
 	for dict in dicts:
 		conventionviolation(word,dict)
-violation11.close()
-violation12.close()
-violation14.close()
+#violation11.close()
+#violation12.close()
+#violation14.close()
 #violation41.close()
 #violation61.close()
 #violation62.close()
