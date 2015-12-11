@@ -10,7 +10,9 @@ Let me document the steps.
 
 3. hw3.txt - hw2.txt after normalization of duplication ( r[consonant][consonant] -> r[consonant] conversion).
 
-4. hw4.txt - hw3.txt after normalization of terminal 'm' and 'H' ( [aA][mH]$ -> [aA]$ )
+4. hw4.txt - hw3.txt after normalization of terminal 'ant'. ('aMt$'->'at')
+
+5. hw5.txt - hw4.txt after normalization of terminal 'm' and 'H' ( [aA][mH]$ -> [aA]$ )
 
 There are three difference files generated in the process.
 
