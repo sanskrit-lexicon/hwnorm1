@@ -1,6 +1,6 @@
 sch:aQaMQolayat:aQaMQolayat:n:
 cae:aMBikANkzA:aMBikANkzA:n:
-ap:araMDuza:araMDuza:n:
+ap:araMDuza:araMGuza:n:
 shs:arkaMparRa:arkaMparRa:n:
 shs:arjunaMcCavi:arjunaMcCavi:n:
 cae:AMBu:AMBu:n:

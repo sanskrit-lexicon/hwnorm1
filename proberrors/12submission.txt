@@ -1,0 +1,65 @@
+sch:aQaMQolayat:aQaMQolayat:n:Questionable form marked by dictionary itself. Leave it as it is.
+cae:aMBikANkzA:aBikANkzA:t:print smudge
+ap:araMDuza:araMDuza:t:Confusion of G and D in Sanskrit. 'Sounding loudly' has more relevance to 'Guz'.
+shs:arkaMparRa:arkaMparRa:t:print smudge
+shs:arjunaMcCavi:arjunacCavi:t:pring smudge
+cae:AMBu:ABu:t:pring smudge
+sch:utkaMpitA:utkampitA:t:c
+ap:OqupiMka:Oqupika:t:pring smudge
+pw:kacawatapagajaqaMdaba:kacawatapagajaqadaba:t:
+cae:kalakaRWiMkA:kalakaRWikA:t:print smudge. MW and PW has kalakaRWikA
+pw:kavirAjavasuMGara:kavirAjavasuMDara:t:D and G confusion.
+shs:keSapaMkti:keSapaNkti:t:convention error. SHS has paNkti as headword.
+mw:guMkvaRa:guMkvaRa:n:It is because 'guM' is a headword and 'kvaRa' is subentry. Not as a conjoint entry.
+cae:GarmiMta:Garmita:t:print smudge
+ap:caMdanIyA:candanIyA:t:c
+cae:cUcuMka:cUcuka:t:print smudge
+sch:jagaJaMpaRa:jagaJampaRa:t:Convention error. The entry is marked by ? by author.
+pw:jaMpatI:jampatI:t:c
+pwg:jaMpatI:jampatI:t:c
+mw:jamBaMjamBam:jamBaMjamBam:n:Compound word.
+mw:jAMDita:jAMDita:n:compound
+pw:jAyaMpatI:jAyampatI:t:c
+pw:jitaMte:jitante:t:c
+ccs:JaMkAtin:JaMkArin:t:JaM seems to be a valid thing. Many dictionaries are having this. So keeping it as it is.
+md:JaMJA:JaMJA:n:
+shs:tarupaMkti:tarupaNkti:t:c
+wil:tarupaMkti:tarupaNkti:t:c
+sch:tAwaMkati:tAwaNkati:t:c
+shs:devavadDaMki:devavardDaki:t:vardDaki is carpenter.
+mw:dvaMda:dvaMda:n:compound
+pw:dvaMda:dvaMda:n:compund
+pwg:dvaMda:dvaMda:n:compound
+pw:dvaMdaBUta:dvaMdaBUta:n:compound
+sch:pakzaMbfhat:pakzaMbfhat:n:compound. Also the author marked it with '!'
+pw:pacaMbacA:pacaMbacA:n:compound
+mw:paYcajitaMte:paYcajitaMte:n:compound
+pw:paYcajitaMte:paYcajitaMte:n:compound
+ccs:pAzaMqatA:pAzaRqatA:t:print has R
+ccs:pratibiMba:pratibimba:t:
+ccs:pratibiMbita:pratibinbita:t:
+ap:BaMBaH:BaMBaH:n:Seems a valid word
+cae:BIMti:BIti:t:print smudge
+pwg:BeMpura:BeMpura:n:
+ccs:BrAMtar:BrAMtar:n:
+ccs:mAMkis:mAMkis:n:
+ap:mimaMkzA:mimaMkzA:n:
+wil:mruMca:mruMca:n:
+pwg:vAMgguRa:vAMgguRa:n:
+wil:visPuliMga:visPuliMga:n:
+pwg:SilaMDira:SilaMDira:n:
+pw:SiliMDra:SiliMDra:n:
+pw:SItIMBAva:SItIMBAva:n:
+cae:SraMB:SraMB:n:
+mw:SrOtAMqabilA:SrOtAMqabilA:n:
+mw:sAmagAnAMCandas:sAmagAnAMCandas:n:
+ap:sArvaMBOmam:sArvaMBOmam:n:
+pw:sumuRqIMka:sumuRqIMka:n:
+ccs:suMbrahman:suMbrahman:n:
+pw:suSlizwamaMDi:suSlizwamaMDi:n:
+ap:sfMjayAH:sfMjayAH:n:
+mw:strISUdrAdInAMdevArcanavicAra:strISUdrAdInAMdevArcanavicAra:n:
+pwg:svaDIMti:svaDIMti:n:
+cae:havirAhuMti:havirAhuMti:n:
+ap:huMBA:huMBA:n:
+pwg:hEMqimba:hEMqimba:n:
