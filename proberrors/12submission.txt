@@ -1,7 +1,7 @@
 sch:aQaMQolayat:aQaMQolayat:n:Questionable form marked by dictionary itself. Leave it as it is.
 cae:aMBikANkzA:aBikANkzA:t:print smudge
-ap:araMDuza:araMDuza:t:Confusion of G and D in Sanskrit. 'Sounding loudly' has more relevance to 'Guz'.
-shs:arkaMparRa:arkaMparRa:t:print smudge
+ap:araMDuza:araMGuza:t:Confusion of G and D in Sanskrit. 'Sounding loudly' has more relevance to 'Guz'.
+shs:arkaMparRa:arkaparRa:t:print smudge
 shs:arjunaMcCavi:arjunacCavi:t:pring smudge
 cae:AMBu:ABu:t:pring smudge
 sch:utkaMpitA:utkampitA:t:c
@@ -20,7 +20,7 @@ pwg:jaMpatI:jampatI:t:c
 mw:jamBaMjamBam:jamBaMjamBam:n:Compound word.
 mw:jAMDita:jAMDita:n:compound
 pw:jAyaMpatI:jAyampatI:t:c
-pw:jitaMte:jitante:t:c
+pw:jitaMte:jitaMte:n:compound
 ccs:JaMkAtin:JaMkArin:t:JaM seems to be a valid thing. Many dictionaries are having this. So keeping it as it is.
 md:JaMJA:JaMJA:n:
 shs:tarupaMkti:tarupaNkti:t:c
@@ -37,29 +37,29 @@ mw:paYcajitaMte:paYcajitaMte:n:compound
 pw:paYcajitaMte:paYcajitaMte:n:compound
 ccs:pAzaMqatA:pAzaRqatA:t:print has R
 ccs:pratibiMba:pratibimba:t:
-ccs:pratibiMbita:pratibinbita:t:
+ccs:pratibiMbita:pratibimbita:t:
 ap:BaMBaH:BaMBaH:n:Seems a valid word
 cae:BIMti:BIti:t:print smudge
-pwg:BeMpura:BeMpura:n:
-ccs:BrAMtar:BrAMtar:n:
-ccs:mAMkis:mAMkis:n:
-ap:mimaMkzA:mimaMkzA:n:
-wil:mruMca:mruMca:n:
-pwg:vAMgguRa:vAMgguRa:n:
-wil:visPuliMga:visPuliMga:n:
-pwg:SilaMDira:SilaMDira:n:
-pw:SiliMDra:SiliMDra:n:
-pw:SItIMBAva:SItIMBAva:n:
-cae:SraMB:SraMB:n:
-mw:SrOtAMqabilA:SrOtAMqabilA:n:
-mw:sAmagAnAMCandas:sAmagAnAMCandas:n:
-ap:sArvaMBOmam:sArvaMBOmam:n:
-pw:sumuRqIMka:sumuRqIMka:n:
-ccs:suMbrahman:suMbrahman:n:
-pw:suSlizwamaMDi:suSlizwamaMDi:n:
-ap:sfMjayAH:sfMjayAH:n:
-mw:strISUdrAdInAMdevArcanavicAra:strISUdrAdInAMdevArcanavicAra:n:
-pwg:svaDIMti:svaDIMti:n:
-cae:havirAhuMti:havirAhuMti:n:
-ap:huMBA:huMBA:n:
-pwg:hEMqimba:hEMqimba:n:
+pwg:BeMpura:BeMpura:n:Name of a location. Maybe influenced by local pronounciation.
+ccs:BrAMtar:BrAtar:t:Accent mark wrongly read as anusvAra
+ccs:mAMkis:mAkis:t:Accent mark wrongly read as anusvAra
+ap:mimaMkzA:mimaMkzA:n:Not sure. This is a verb derivation. Maybe M is justified.
+wil:mruMca:mruMca:n:Dictionary has both mruMca and mruYca in the entry
+pwg:vAMgguRa:vAgguRa:t:print smudge
+wil:visPuliMga:visPuliNga:t:Convention error. WIL has 'liNga' as headword and not 'liMga'.
+pwg:SilaMDira:SilaMDira:n:Dictionary itself says that it is 'wohl fehlerhaft' i.e. 'probably erraneous'.
+pw:SiliMDra:SiliMDra:n:Compound. 'wohl fehlerhaft'
+pw:SItIMBAva:SItIMBAva:n:w
+cae:SraMB:SraMB:n:Verb. Both reading in explanation.
+mw:SrOtAMqabilA:SrOtAMqabilA:t:
+mw:sAmagAnAMCandas:sAmagAnAMCandas:n:Two words
+ap:sArvaMBOmam:sArvaBOmam:t:No anusvAra
+pw:sumuRqIMka:sumuRqIka:t:
+ccs:suMbrahman:subrahman:t:accent anusvAra confusion
+pw:suSlizwamaMDi:suSlizwasaMDi:t:sam has the tendency to generate 'M' all across dictionaries.
+ap:sfMjayAH:sfMjayAH:n:Compound
+mw:strISUdrAdInAMdevArcanavicAra:strISUdrAdInAMdevArcanavicAra:n:Two words
+pwg:svaDIMti:svaDIMti:t:print smudge
+cae:havirAhuMti:havirAhuti:t:print smudge
+ap:huMBA:huMBA:n:Compound
+pwg:hEMqimba:hEMqimba:t:print smudge
