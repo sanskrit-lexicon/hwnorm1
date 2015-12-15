@@ -12,20 +12,20 @@ pw:kavirAjavasuMGara:kavirAjavasuMDara:t:D and G confusion.
 shs:keSapaMkti:keSapaNkti:t:convention error. SHS has paNkti as headword.
 mw:guMkvaRa:guMkvaRa:n:It is because 'guM' is a headword and 'kvaRa' is subentry. Not as a conjoint entry.
 cae:GarmiMta:Garmita:t:print smudge
-ap:caMdanIyA:candanIyA:t:c
+ap:caMdanIyA:candanIyA:p:c
 cae:cUcuMka:cUcuka:t:print smudge
-sch:jagaJaMpaRa:jagaJampaRa:t:Convention error. The entry is marked by ? by author.
-pw:jaMpatI:jampatI:t:c
-pwg:jaMpatI:jampatI:t:c
+sch:jagaJaMpaRa:jagaJampaRa:p:Convention error. The entry is marked by ? by author.
+pw:jaMpatI:jampatI:p:c
+pwg:jaMpatI:jampatI:p:c
 mw:jamBaMjamBam:jamBaMjamBam:n:Compound word.
 mw:jAMDita:jAMDita:n:compound
 pw:jAyaMpatI:jAyampatI:t:c
 pw:jitaMte:jitaMte:n:compound
 ccs:JaMkAtin:JaMkArin:t:JaM seems to be a valid thing. Many dictionaries are having this. So keeping it as it is.
 md:JaMJA:JaMJA:n:
-shs:tarupaMkti:tarupaNkti:t:c
-wil:tarupaMkti:tarupaNkti:t:c
-sch:tAwaMkati:tAwaNkati:t:c
+shs:tarupaMkti:tarupaNkti:p:c
+wil:tarupaMkti:tarupaNkti:p:c
+sch:tAwaMkati:tAwaNkati:p:c
 shs:devavadDaMki:devavardDaki:t:vardDaki is carpenter.
 mw:dvaMda:dvaMda:n:compound
 pw:dvaMda:dvaMda:n:compund
@@ -46,12 +46,12 @@ ccs:mAMkis:mAkis:t:Accent mark wrongly read as anusvAra
 ap:mimaMkzA:mimaMkzA:n:Not sure. This is a verb derivation. Maybe M is justified.
 wil:mruMca:mruMca:n:Dictionary has both mruMca and mruYca in the entry
 pwg:vAMgguRa:vAgguRa:t:print smudge
-wil:visPuliMga:visPuliNga:t:Convention error. WIL has 'liNga' as headword and not 'liMga'.
+wil:visPuliMga:visPuliNga:p:Convention error. WIL has 'liNga' as headword and not 'liMga'.
 pwg:SilaMDira:SilaMDira:n:Dictionary itself says that it is 'wohl fehlerhaft' i.e. 'probably erraneous'.
 pw:SiliMDra:SiliMDra:n:Compound. 'wohl fehlerhaft'
 pw:SItIMBAva:SItIMBAva:n:w
 cae:SraMB:SraMB:n:Verb. Both reading in explanation.
-mw:SrOtAMqabilA:SrOtAMqabilA:t:
+mw:SrOtAMqabilA:SrOtARqabilA:t:
 mw:sAmagAnAMCandas:sAmagAnAMCandas:n:Two words
 ap:sArvaMBOmam:sArvaBOmam:t:No anusvAra
 pw:sumuRqIMka:sumuRqIka:t:
@@ -59,7 +59,7 @@ ccs:suMbrahman:subrahman:t:accent anusvAra confusion
 pw:suSlizwamaMDi:suSlizwasaMDi:t:sam has the tendency to generate 'M' all across dictionaries.
 ap:sfMjayAH:sfMjayAH:n:Compound
 mw:strISUdrAdInAMdevArcanavicAra:strISUdrAdInAMdevArcanavicAra:n:Two words
-pwg:svaDIMti:svaDIMti:t:print smudge
+pwg:svaDIMti:svaDIti:t:print smudge
 cae:havirAhuMti:havirAhuti:t:print smudge
 ap:huMBA:huMBA:n:Compound
-pwg:hEMqimba:hEMqimba:t:print smudge
+pwg:hEMqimba:hEqimba:t:print smudge
