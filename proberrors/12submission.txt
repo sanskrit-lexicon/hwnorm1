@@ -2,7 +2,7 @@ sch:aQaMQolayat:aQaMQolayat:n:Questionable form marked by dictionary itself. Lea
 cae:aMBikANkzA:aBikANkzA:t:print smudge
 ap:araMDuza:araMGuza:t:Confusion of G and D in Sanskrit. 'Sounding loudly' has more relevance to 'Guz'.
 shs:arkaMparRa:arkaparRa:t:print smudge
-shs:arjunaMcCavi:arjunacCavi:t:pring smudge
+shs:arjunaMcCavi:arjunacCavi:t:print smudge. Also alphabetic misordering. See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/171#issuecomment-164723191
 cae:AMBu:ABu:t:pring smudge
 sch:utkaMpitA:utkampitA:t:c
 ap:OqupiMka:Oqupika:t:pring smudge
