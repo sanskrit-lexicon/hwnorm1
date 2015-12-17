@@ -654,7 +654,6 @@ skd:mAcIpatraM:mAcIpatraM:n:
 ap90:mAwanaM:mAwanaM:n:
 skd:mAnasajapaH:mAnasajapaH:n:
 skd:mAnuzikaM:mAnuzikaM:n:
-ap90:mAhadreM:mAhadreM:n:
 skd:mitraSIH:mitraSIH:n:
 ap:milapatraH:milapatraH:n:
 skd:mizwapAkaH:mizwapAkaH:n:
@@ -684,7 +683,6 @@ skd:yakzasADanaM:yakzasADanaM:n:
 skd:yaTAyaTaM:yaTAyaTaM:n:
 skd:yaTitraH:yaTitraH:n:
 skd:yamalapatrakaH:yamalapatrakaH:n:
-skd:yavakzodeH:yavakzodeH:n:
 skd:yavajodBavaM:yavajodBavaM:n:
 skd:yavatElaM:yavatElaM:n:
 ap90:yAJavalkyaH:yAJavalkyaH:n:

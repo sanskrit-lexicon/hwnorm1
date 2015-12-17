@@ -217,7 +217,7 @@ for (word,dicts) in headwithdicts:
 #violation11.close()
 #violation12.close()
 #violation14.close()
-#violation41.close()
+violation41.close()
 #violation61.close()
 #violation62.close()
    
