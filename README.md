@@ -130,18 +130,36 @@ With removal of anubandha but without conversion to fifth letter - with anusvAra
 
 ## Option 6.1
 Uses 'ar' instead of 'f' at the end.
-* `kartar`
+* `kartar`:CCS,PW,PWG,SCH
+* `pitar`:CCS,PW,PWG
 
 > Dictionaries: CCS,PW,PWG,SCH,KCH
 
-Observations for mAtA (uNAdi tf pratyaya) are as follows -
+## Option 6.2 
+Uses 'f' at the end.
+* `kartf`:AP,AP90,BEN,BOP,BUR,CAE,GRA,IEG,INM,MD,MW,MW72,STC
+* `pitf`:AP,AP90,BEN,BOP,BUR,CAE,GRA,INM,MD,MW,MW72,PE,SHS,STC,VCP,VEI,WIL,YAT
+
+> Dictionaries: AP,AP90,BEN,BOP,BUR,CAE,GRA,MD,MW,MW72,STC
+
+## Option 6.3
+Uses inflected form with 'A' at end 
+* `kartA`:PE
+* `pitA`:INM,MW,PUI,SKD
+
+> Dictionaries: INM,PUI,SKD
+
+## Standard convention
+Use 'f' at the end.
+
+Observations for `mAtA` (`uNAdi tf pratyaya`) are as follows -
 * `mAtA`:AP,AP90,MD,MW,MW72,PUI,PW,PWG,SKD,VCP
 
 * `mAtar`:CCS,PW,PWG,SCH
 
 * `mAtf`:AP,AP90,BEN,BOP,BUR,CAE,GRA,IEG,INM,MD,MW,MW72,SHS,STC,VCP,VEI,WIL,YAT
 
-Observations for kartA (tfc pratyaya with verbs )are as follows -
+Observations for `kartA` (`tfc pratyaya` with verbs) are as follows -
 
 * `kartA`:PE
 
@@ -149,39 +167,28 @@ Observations for kartA (tfc pratyaya with verbs )are as follows -
 
 * `kartf`:AP,AP90,BEN,BOP,BUR,CAE,GRA,IEG,INM,MD,MW,MW72,STC
 
-
-## Option 6.2 
-Uses 'f' at the end.
-* `kartf`
-
-> Dictionaries: AP,AP90,BEN,BOP,BUR,CAE,GRA,MD,MW,MW72,STC
-
-## Option 6.3
-Uses inflected form with 'A' at end 
-* `kartA`
-
-> Dictionaries: INM,PUI,SKD
-
-## Standard convention
-Use 'f' at the end.
-
-
 # Convention 7
 
 ## Option 7.1 
 Uses 'vas' at end
+* `anASvas`:AP,AP90,GST,MD,MW,MW72,PD,SHS,VCP,WIL,YAT
+* `gUrtaSravas`:GRA,MW,PW,PWG
 
 > Dictionaries: AP,AP90,BOP,BUR,CAE,CCS,GRA,MW,MW72,SHS,VCP,WIL,YAT
 
 ## Option 7.2
 Uses 'AMs' at end
+* `pumAMs`:BOP,MD,VEI
+* `mAMs`:AP,AP90,CAE,CCS,MD,MW,MW72,PW,PWG
 
 > Dictionaries: BHS,MD,STC
 
 ## Option 7.3
 Uses 'An' at the end
+* `yavIyAn`:PUI,SKD
+* `rAjavAn`:PE,PUI,SKD
 
-Dictioaries - PUI,SKD
+> Dictioaries: PUI,SKD
 
 ## Standard Convention
 Use 'vas' at the end.
