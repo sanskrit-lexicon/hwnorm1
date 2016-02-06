@@ -1,6 +1,8 @@
 # hwnorm1
 Headword normalization for Cologne dictionaries
 
+[830] = 830 cases, statistics extracted from sanhw1.txt
+
 # Origin
 https://github.com/sanskrit-lexicon/CORRECTIONS/issue/43
 
@@ -8,21 +10,27 @@ https://github.com/sanskrit-lexicon/CORRECTIONS/issue/43
 
 ##Option 1.1
 Treat them as `M` when occuring in between a word (other than the cases where the first member of compound ends with `m`). 
-*  `caMcalaM`:AP90 (_=caṃcalaṃ_)
+* `caMcalaM`:AP90 (_=caṃcalaṃ_)
+* `karaMka`:PUI [19428, \lM\l]
 
 > Dictionaries: AP90
 
 ##Option 1.2
 Treat them as fifth letter of each varga when in between a word.
-* `caYcala`:AP,BEN,BOP,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SCH,SHS,STC,VCP,WIL,YAT (_=cañcala_)
+* `caYcala`:AP,BEN,BOP,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SCH,SHS,STC,VCP,WIL,YAT (_=cañcala_) [7881]
+* `viyaNga`:MW,PW,PWG [13577]
+* `hastirohaRaka`:MW,PW,PWG,VCP [39603]
+* `gundra`:BUR,CAE,CCS,MD,MW,MW72,PW,PWG,VCP,WIL,YAT
+* `Cinnama`:MW,PW,PWG
 
 > Dictionaries: ACC,AP,BEN,BOP,BUR,CAE,CCS,MCI,MD,MW,MW72,PD,PE,PGN,PW,PWG,SCH,SHS,SKD,SNP,STC,VCP,VEI,WIL,YAT
 
 ##Option 1.3
 Use `M` at the end of a word to denote neuter gender. 
 * `aMSukaM`:AP90,SKD (_=aṃśukaṃ_)
+* `CudraM`:AP90,SKD
 
-> > Dictionaries: SKD,AP90,BHS,WIL,VCP
+> Dictionaries: SKD,AP90,BHS,WIL,VCP
 
 ##Option 1.4
 Use `M` at the end of a word (not to denote neuter gender, but to denote avyayas mostly) where `m` is supposed to be. 
@@ -62,9 +70,7 @@ Duplication not done
 > Dictionaries: Rest all dictionaries
 
 ## Standard convetion
-No duplication
-
-##
+* No duplication
 
 # Convention 3 - (-at, -vat, -mat = -ant, -vant, -mant)
 Convention of writing words which have 't' at end but get converted to 'n' in declention.
