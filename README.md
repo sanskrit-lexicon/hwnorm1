@@ -7,9 +7,10 @@ https://github.com/sanskrit-lexicon/CORRECTIONS/issue/43
 # Convention 1 - Treatment of AnusvAra
 
 ##Option 1.1
-Treat them as M when occuring in between a word (other than the cases where the first member of compound ends with m). e.g. caMcalaM:AP90 
+Treat them as M when occuring in between a word (other than the cases where the first member of compound ends with m). 
+e.g. `caMcalaM:AP90` (=caṃcalaṃ)
 
-Dictionaries - AP90,
+Dictionaries - AP90
 
 ##Option 1.2
 Treat them as fifth letter of each varga when in between a word. e.g. caYcala
