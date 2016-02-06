@@ -4,42 +4,48 @@ Headword normalization for Cologne dictionaries
 # Origin
 https://github.com/sanskrit-lexicon/CORRECTIONS/issue/43
 
-# Convention 1 - Treatment of AnusvAra
+# Convention 1 - Treatment of AnusvAra (आनुस्वार)
 
 ##Option 1.1
-Treat them as M when occuring in between a word (other than the cases where the first member of compound ends with m). 
-e.g. `caMcalaM:AP90` (=caṃcalaṃ)
+Treat them as `M` when occuring in between a word (other than the cases where the first member of compound ends with `m`). 
+*  `caMcalaM`:AP90 (_=caṃcalaṃ_)
 
-Dictionaries - AP90
+Dictionaries: AP90
 
 ##Option 1.2
-Treat them as fifth letter of each varga when in between a word. e.g. caYcala
+Treat them as fifth letter of each varga when in between a word.
+* `caYcala`:AP,BEN,BOP,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SCH,SHS,STC,VCP,WIL,YAT (_=cañcala_)
 
-Dictionaries - ACC,AP,BEN,BOP,BUR,CAE,CCS,MCI,MD,MW,MW72,PD,PE,PGN,PW,PWG,SCH,SHS,SKD,SNP,STC,VCP,VEI,WIL,YAT
+Dictionaries: ACC,AP,BEN,BOP,BUR,CAE,CCS,MCI,MD,MW,MW72,PD,PE,PGN,PW,PWG,SCH,SHS,SKD,SNP,STC,VCP,VEI,WIL,YAT
 
 ##Option 1.3
-Use M at the end of a word to denote neuter gender. e.g. aMSukaM 
+Use `M` at the end of a word to denote neuter gender. 
+* `aMSukaM`:AP90,SKD (_=aṃśukaṃ_)
 
 Dictionaries - SKD,AP90,BHS,WIL,VCP
 
 ##Option 1.4
-Use M at the end of a word (not to denote neuter gender, but to denote avyayas mostly) where 'm' is supposed to be. e.g. anukAmaM, anudiSaM etc.
+Use `M` at the end of a word (not to denote neuter gender, but to denote avyayas mostly) where `m` is supposed to be. 
+* `anukAmaM`:YAT
+* `anudiSaM`:YAT
 
-Dictionaries - PW,PWG,YAT
+Dictionaries: PW,PWG,YAT
 
 ##Option 1.5
-Treat m as M when occuring in the cases where the first member of compound ends with m. e.g. saMgIta (sam+gIta)
+Treat `m` as `M` when occuring in the cases where the first member of compound ends with `m`. 
+* `saMgIta`:AP,AP90,CAE,CCS,MD,MW,PUI,PW,PWG,STC (`sam`+`gIta`)
 
-Dictionaries - AP,AP90,CAE,CCS,IEG,MCI,MD,MW,PD,PW,PWG,SCH,SHS,STC,VEI,WIL
+Dictionaries: AP,AP90,CAE,CCS,IEG,MCI,MD,MW,PD,PW,PWG,SCH,SHS,STC,VEI,WIL
 
 ##Option 1.6
-Treat m as fifth letter of a varga when occuring in the cases where the first member of compound ends with m. e.g. saNgIta (sam+gIta) 
+Treat `m` as fifth letter of a varga when occuring in the cases where the first member of compound ends with `m`. 
+* `saNgIta`:BUR,MW72,SHS,VCP,WIL,YAT (`sam`+`gIta`)
 
-Dictionaries - BUR,GRA,GST,IEG,MW72,PGN,SHS,SKD,VCP,YAT,
+Dictionaries: BUR,GRA,GST,IEG,MW72,PGN,SHS,SKD,VCP,YAT
 
-## Standard convention - where we want our dictionaries to normalise to.
-1. Convert every inside nasals to 'M'.
-2. Convert every terminal 'M' to 'm'.
+## Standard convention - what we want our dictionaries to be.
+1. Convert every inside nasal to `M`.
+2. Convert every terminal `M` to `m`.
 
 # Convention 2 - Duplication of letters after 'r'
 
