@@ -64,15 +64,24 @@ Duplication not done
 ## Standard convetion
 No duplication
 
-# Convention 3 - Convention of writing words which have 't' at end but get converted to 'n' in declention.
+##
+
+# Convention 3 - (-at, -vat, -mat = -ant, -vant, -mant)
+Convention of writing words which have 't' at end but get converted to 'n' in declention.
 
 ## Option 3.1
 Keep verb form as 'at'
+* `snehayat`:MW72 [830]
+* `sTAnivat`:AP,MW,PW,PWG [2942]
+* `strImat`:MW,SHS,WIL,YAT [634]
 
 > Dictionaries: SHS,WIL,GST,MW,MW72,PD,MD
 
 ## Option 3.2
-Keep verb form as 'ant'
+    Keep verb form as 'ant'
+* `sumahant`:CAE,CCS,PW,PWG [424]
+* `snehavant`:BEN,CAE,CCS,PW,PWG [1778]
+* `sfzwimant`:PW,PWG [474]
 
 > Dictionaries: BEN,CAE,CCS,STC,SCH,BHS,PW,PWG,SCH
 
