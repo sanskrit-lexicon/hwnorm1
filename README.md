@@ -22,7 +22,7 @@ Treat them as fifth letter of each varga when in between a word.
 Use `M` at the end of a word to denote neuter gender. 
 * `aMSukaM`:AP90,SKD (_=aṃśukaṃ_)
 
-> Dictionaries - SKD,AP90,BHS,WIL,VCP
+> > Dictionaries: SKD,AP90,BHS,WIL,VCP
 
 ##Option 1.4
 Use `M` at the end of a word (not to denote neuter gender, but to denote avyayas mostly) where `m` is supposed to be. 
@@ -52,14 +52,14 @@ Treat `m` as fifth letter of a varga when occuring in the cases where the first 
 ## Option 2.1
 Duplication done
 
-> Dictionaries - SKD,VCP,SHS,WIL,YAT
+> Dictionaries: SKD,VCP,SHS,WIL,YAT
 
 Notes - PD removed from the list becaue of [this](https://github.com/sanskrit-lexicon/hwnorm1/issues/1#issuecomment-158735408).
 
 ## Option 2.2
 Duplication not done
 
-> Dictionaries - Rest all dictionaries
+> Dictionaries: Rest all dictionaries
 
 ## Standard convetion
 No duplication
@@ -69,24 +69,24 @@ No duplication
 ## Option 3.1
 Keep verb form as 'at'
 
-Dictionaries - SHS,WIL,GST,MW,MW72,PD,MD
+> Dictionaries: SHS,WIL,GST,MW,MW72,PD,MD
 
 ## Option 3.2
 Keep verb form as 'ant'
 
-Dictionaries - BEN,CAE,CCS,STC,SCH,BHS,PW,PWG,SCH
+> Dictionaries: BEN,CAE,CCS,STC,SCH,BHS,PW,PWG,SCH
 
 Note - Some dictionaries seem to follow two conventions in options 3.1 and 3.2. It will need a closer look.
 
 ## Option 3.3
 Keep 'vat' / 'mat' 
 
-Dictionaries - AP,AP90,BOP,BUR,GRA,GST,MD,MW,PD,SHS,VCP,WIL,YAT
+> Dictionaries: AP,AP90,BOP,BUR,GRA,GST,MD,MW,PD,SHS,VCP,WIL,YAT
 
 ## Option 3.4
 Keep 'vant' / 'mant' 
  
-Dictionaries - PW,PWG,SCH,STC,CAE,CCS,BEN,BHS
+> Dictionaries: PW,PWG,SCH,STC,CAE,CCS,BEN,BHS
 
 ## Standard convention - 'at'
 
@@ -96,12 +96,12 @@ Dictionaries - PW,PWG,SCH,STC,CAE,CCS,BEN,BHS
 Inflected form
 This would include the usage of "H" and "M" at the end to denote masculine and neuter also.
 
-Dictionaries - AP,AP90,SKD,VCP
+> Dictionaries: AP,AP90,SKD,VCP
 
 ## Option 4.2
 Uninflected form
 
-Dictionaries - Rest all dictioanries.
+> Dictionaries: Rest all dictioanries.
 
 ## Standard convention
 Uninflected form
@@ -109,52 +109,58 @@ Uninflected form
 # Convention 5 -  anusvAra of verb
 
 ## Option 5.1
-As in dhAtupATha (stanBa)
+As in dhAtupATha 
+* `stanBa`
 
-Dictionaries - SKD,VCP,PD
+> Dictionaries: SKD,VCP,PD
 
 ## Option 5.2
-With removal of anubandhas and with conversion to fifth letter. (stamB)
+With removal of anubandhas and with conversion to fifth letter. 
+* `stamB`
 
-Dictionaries - AP,BEN,BOP,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SHS,STC
+> Dictionaries: AP,BEN,BOP,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SHS,STC
 
 ## Option 5.3
-With removal of anubandha but without conversion to fifth letter - with anusvAra (staMB)
+With removal of anubandha but without conversion to fifth letter - with anusvAra 
+* `staMB`
 
-Dictionaries - AP90
+> Dictionaries: AP90
 
 # Convention 6 - 'f' at end of a word
 
 ## Option 6.1
-Uses 'ar' instead of 'f' at the end. (e.g. kartar )
+Uses 'ar' instead of 'f' at the end.
+* `kartar`
 
-Dictionaries - CCS,PW,PWG,SCH
+> Dictionaries: CCS,PW,PWG,SCH,KCH
 
 Observations for mAtA (uNAdi tf pratyaya) are as follows -
-mAtA:AP,AP90,MD,MW,MW72,PUI,PW,PWG,SKD,VCP
+* `mAtA`:AP,AP90,MD,MW,MW72,PUI,PW,PWG,SKD,VCP
 
-mAtar:CCS,PW,PWG,SCH
+* `mAtar`:CCS,PW,PWG,SCH
 
-mAtf:AP,AP90,BEN,BOP,BUR,CAE,GRA,IEG,INM,MD,MW,MW72,SHS,STC,VCP,VEI,WIL,YAT
+* `mAtf`:AP,AP90,BEN,BOP,BUR,CAE,GRA,IEG,INM,MD,MW,MW72,SHS,STC,VCP,VEI,WIL,YAT
 
 Observations for kartA (tfc pratyaya with verbs )are as follows -
 
-kartA:PE
+* `kartA`:PE
 
-kartar:CCS,PW,PWG,SCH
+* `kartar`:CCS,PW,PWG,SCH
 
-kartf:AP,AP90,BEN,BOP,BUR,CAE,GRA,IEG,INM,MD,MW,MW72,STC
+* `kartf`:AP,AP90,BEN,BOP,BUR,CAE,GRA,IEG,INM,MD,MW,MW72,STC
 
 
 ## Option 6.2 
-Uses 'f' at the end. (e.g. kartf)
+Uses 'f' at the end.
+* `kartf`
 
-Dictionaries - AP,AP90,BEN,BOP,BUR,CAE,GRA,MD,MW,MW72,STC
+> Dictionaries: AP,AP90,BEN,BOP,BUR,CAE,GRA,MD,MW,MW72,STC
 
 ## Option 6.3
-Uses inflected form with 'A' at end (e.g. kartA)
+Uses inflected form with 'A' at end 
+* `kartA`
 
-Dictionaries - INM,PUI,SKD
+> Dictionaries: INM,PUI,SKD
 
 ## Standard convention
 Use 'f' at the end.
@@ -165,12 +171,12 @@ Use 'f' at the end.
 ## Option 7.1 
 Uses 'vas' at end
 
-Dictionaries - AP,AP90,BOP,BUR,CAE,CCS,GRA,MW,MW72,SHS,VCP,WIL,YAT
+> Dictionaries: AP,AP90,BOP,BUR,CAE,CCS,GRA,MW,MW72,SHS,VCP,WIL,YAT
 
 ## Option 7.2
 Uses 'AMs' at end
 
-Dictionaries - BHS,MD,STC
+> Dictionaries: BHS,MD,STC
 
 ## Option 7.3
 Uses 'An' at the end
