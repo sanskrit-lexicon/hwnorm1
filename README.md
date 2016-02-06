@@ -10,38 +10,38 @@ https://github.com/sanskrit-lexicon/CORRECTIONS/issue/43
 Treat them as `M` when occuring in between a word (other than the cases where the first member of compound ends with `m`). 
 *  `caMcalaM`:AP90 (_=caṃcalaṃ_)
 
-Dictionaries: AP90
+> Dictionaries: AP90
 
 ##Option 1.2
 Treat them as fifth letter of each varga when in between a word.
 * `caYcala`:AP,BEN,BOP,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SCH,SHS,STC,VCP,WIL,YAT (_=cañcala_)
 
-Dictionaries: ACC,AP,BEN,BOP,BUR,CAE,CCS,MCI,MD,MW,MW72,PD,PE,PGN,PW,PWG,SCH,SHS,SKD,SNP,STC,VCP,VEI,WIL,YAT
+> Dictionaries: ACC,AP,BEN,BOP,BUR,CAE,CCS,MCI,MD,MW,MW72,PD,PE,PGN,PW,PWG,SCH,SHS,SKD,SNP,STC,VCP,VEI,WIL,YAT
 
 ##Option 1.3
 Use `M` at the end of a word to denote neuter gender. 
 * `aMSukaM`:AP90,SKD (_=aṃśukaṃ_)
 
-Dictionaries - SKD,AP90,BHS,WIL,VCP
+> Dictionaries - SKD,AP90,BHS,WIL,VCP
 
 ##Option 1.4
 Use `M` at the end of a word (not to denote neuter gender, but to denote avyayas mostly) where `m` is supposed to be. 
-* `anukAmaM`:YAT
-* `anudiSaM`:YAT
+* `anukAmaM`:YAT (_=anukāmaṃ_)
+* `anudiSaM`:YAT (_=anudiśaṃ_)
 
-Dictionaries: PW,PWG,YAT
+> Dictionaries: PW,PWG,YAT
 
 ##Option 1.5
 Treat `m` as `M` when occuring in the cases where the first member of compound ends with `m`. 
-* `saMgIta`:AP,AP90,CAE,CCS,MD,MW,PUI,PW,PWG,STC (`sam`+`gIta`)
+* `saMgIta`:AP,AP90,CAE,CCS,MD,MW,PUI,PW,PWG,STC (`sam`+`gIta`) (_=saṃgīta_)
 
-Dictionaries: AP,AP90,CAE,CCS,IEG,MCI,MD,MW,PD,PW,PWG,SCH,SHS,STC,VEI,WIL
+> Dictionaries: AP,AP90,CAE,CCS,IEG,MCI,MD,MW,PD,PW,PWG,SCH,SHS,STC,VEI,WIL
 
 ##Option 1.6
 Treat `m` as fifth letter of a varga when occuring in the cases where the first member of compound ends with `m`. 
-* `saNgIta`:BUR,MW72,SHS,VCP,WIL,YAT (`sam`+`gIta`)
+* `saNgIta`:BUR,MW72,SHS,VCP,WIL,YAT (`sam`+`gIta`) (_=saṅgīta_)
 
-Dictionaries: BUR,GRA,GST,IEG,MW72,PGN,SHS,SKD,VCP,YAT
+> Dictionaries: BUR,GRA,GST,IEG,MW72,PGN,SHS,SKD,VCP,YAT
 
 ## Standard convention - what we want our dictionaries to be.
 1. Convert every inside nasal to `M`.
@@ -52,14 +52,14 @@ Dictionaries: BUR,GRA,GST,IEG,MW72,PGN,SHS,SKD,VCP,YAT
 ## Option 2.1
 Duplication done
 
-Dictionaries - SKD,VCP,SHS,WIL,YAT
+> Dictionaries - SKD,VCP,SHS,WIL,YAT
 
 Notes - PD removed from the list becaue of [this](https://github.com/sanskrit-lexicon/hwnorm1/issues/1#issuecomment-158735408).
 
 ## Option 2.2
 Duplication not done
 
-Dictionaries - Rest all dictionaries
+> Dictionaries - Rest all dictionaries
 
 ## Standard convetion
 No duplication
