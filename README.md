@@ -95,11 +95,15 @@ Keep 'vant' / 'mant'
 ## Option 4.1
 Inflected form
 This would include the usage of "H" and "M" at the end to denote masculine and neuter also.
+* `DarmaH`:AP,AP90,BHS
+* `putraH`:AP,AP90
 
 > Dictionaries: AP,AP90,SKD,VCP
 
 ## Option 4.2
 Uninflected form
+* `Darma`:ACC,BEN,BHS,BOP,BUR,CAE,CCS,IEG,INM,MD,MW,MW72,PE,PUI,PW,PWG,SCH,STC,VEI
+* `putra`:BEN,BOP,BUR,CAE,CCS,GRA,IEG,MD,MW,MW72,PUI,PW,PWG,SCH,STC,VCP,VEI
 
 > Dictionaries: Rest all dictioanries.
 
@@ -110,19 +114,22 @@ Uninflected form
 
 ## Option 5.1
 As in dhAtupATha 
-* `stanBa`
+* `stanBa`:VCP
+* `skanBa`:VCP
 
 > Dictionaries: SKD,VCP,PD
 
 ## Option 5.2
 With removal of anubandhas and with conversion to fifth letter. 
-* `stamB`
+* `stamB`:AP,BEN,BOP,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SHS,STC
+* `parizwuB`:CAE,CCS,GRA,MW,MW72,PW,PWG,VCP
 
 > Dictionaries: AP,BEN,BOP,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SHS,STC
 
 ## Option 5.3
 With removal of anubandha but without conversion to fifth letter - with anusvAra 
-* `staMB`
+* `staMB`:AP90
+* `sriMB`:AP90
 
 > Dictionaries: AP90
 
@@ -154,20 +161,15 @@ Use 'f' at the end.
 
 Observations for `mAtA` (`uNAdi tf pratyaya`) are as follows -
 * `mAtA`:AP,AP90,MD,MW,MW72,PUI,PW,PWG,SKD,VCP
-
 * `mAtar`:CCS,PW,PWG,SCH
-
 * `mAtf`:AP,AP90,BEN,BOP,BUR,CAE,GRA,IEG,INM,MD,MW,MW72,SHS,STC,VCP,VEI,WIL,YAT
 
 Observations for `kartA` (`tfc pratyaya` with verbs) are as follows -
-
 * `kartA`:PE
-
 * `kartar`:CCS,PW,PWG,SCH
-
 * `kartf`:AP,AP90,BEN,BOP,BUR,CAE,GRA,IEG,INM,MD,MW,MW72,STC
 
-# Convention 7
+# Convention 7 - (-yas, vas = -yaṁs, vaṁs)
 
 ## Option 7.1 
 Uses 'vas' at end
@@ -188,12 +190,11 @@ Uses 'An' at the end
 * `yavIyAn`:PUI,SKD
 * `rAjavAn`:PE,PUI,SKD
 
-> Dictioaries: PUI,SKD
+> Dictionaries: PUI,SKD
 
 ## Standard Convention
 Use 'vas' at the end.
 
 # Analysis of hypothesis - optionwise
 
-Here, we would note the most relevant documentation of further discoveries / addition / alteration / whitelist / blacklist of various options.
-
+> Here, we would note the most relevant documentation of further discoveries / addition / alteration / whitelist / blacklist of various options.
