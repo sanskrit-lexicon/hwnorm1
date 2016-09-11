@@ -1,0 +1,88 @@
+mw:aCayA:VERB K
+mw:aCAi:VERB K
+mw:apasavyaNkf:VERB K
+mw:aBraNga:cpd1=aBraM-ga
+mw:ahaNkf:VERB K
+mw:uCaMs:VERB P
+mw:uCuc:VERB P
+mw:uCraT:VERB P
+mw:uCrAyI:f of ucCrAya
+mw:uCvi:VERB P
+mw:uzRaNkftya:cpd1=uzRaM-kftya
+mw:UrRAlaNkftamuKatA:UrRA+alaMkfta-muKa+tA
+mw:oNkfta:cpd1a oM<-om=oM+kfta
+mw:kaTaNkarman:cpd1=kaTaM-karman
+mw:kAmakAraNkf:VERB K
+mw:kiNkAmya:VERB N
+mw:kiYcijjYa:cpd3 kiMcij<-kiMcid(sandhi)=kiMcid-jYa
+mw:kintayA:case 4 of kiMtA
+mw:kflopa:cpd3 kfl<-kft(sandhi)=kft-lopa
+mw:kzunnivfti:cpd1=kzun-nivftti
+mw:KArinDaya:cpd1=KAriM-Daya
+mw:gokfCra:cpd1=go-kfcCra
+mw:coraNkAram:cpd1=coraM-kAram
+mw:Catrapa:cpd1=Cattra-pa
+mw:jIvaYjIvika:cpd1 +sfx ka=jIvaM-jIvi+ka
+mw:jIvantiSUlANkf:VERB K
+mw:turaNgamI:f of turaMgama
+mw:turaNgiRI:f of turaMgin
+mw:tUzRImBUya:cpd1=tUzRIM-BUya
+mw:trisanDyI:f of trisaMDya
+mw:tvaNkftya:cpd1=tvaM-kftya
+mw:darSanIyammanya:cpd1=darSanIyaM-manya
+mw:dfkroDa:cpd1=dfk-kroDa
+mw:dfkzaya:cpd1=dfk-kzaya
+mw:dfkCada:cpd1 -cC=dfk-Cada
+mw:DIsantati:cpd1=DI-saMtati
+mw:naktaYcarI:f of naktaMcara
+mw:niruzRatAnnI:VERB K
+mw:nizpratiBaNkf:VERB K
+mw:nfpakriyANkf:VERB K
+mw:puYjanmada:cpd1=puMjanma-da
+mw:pUrRapAtravftyA:cpd1=pUrRapAtra-vfttyA
+mw:pEppalIkaCapa:cpd1a pEppalI<-pEppala=pEppalI+kacCapa
+mw:pratidvandvaya:VERB N
+mw:priyaNkAra:cpd1=priyaM-kAra
+mw:BaktavrAtasantozika:cpd3 +sfx ka=Bakta-vrAta-saMtozi+ka
+mw:BayaNkartf:cpd1=BayaM-kartf
+mw:BAvavftI:f of BAvavftta
+mw:BUvfta:cpd1=BU-vftta
+mw:matipaTannI:VERB K
+mw:mADyandinI:f of mADyaMdina
+mw:yadfCayA:case 3 of yadfcCa
+mw:rATantarI:f of rATaMtara
+mw:vakrapuCika:cpd1a last pucCika<-pucCikA=vakra+pucCika
+mw:vAcanniyama:cpd1=vAcaM-niyama
+mw:vAsunDareyI:f of vAsuMDareya
+mw:viCardikA:f of vicCardaka
+mw:vfScikaCadA:cpd1 -cC=vfScika-CadA
+mw:SaraRaNgata:cpd1=SaraRaM-gata
+mw:SuBaNkarI:f of SuBaMkara
+mw:SftaNkartf:cpd1=SftaM-kartf
+mw:SftaNkfta:cpd1=SftaM-kfta
+mw:saNkIrt:VERB K
+mw:saNkuYc:VERB K
+mw:saNkuYcita:saM-kuYcita
+mw:saNguRaya:VERB N
+mw:saNgfBAya:VERB P
+mw:saNgraB:VERB P
+mw:saNGAtikA:f of saMGAtaka
+mw:saYcArayitf:pfxderiv of sam+car
+mw:saYCedya:saM-Cedya
+mw:santAninI:f of saMtAnin
+mw:santAy:VERB K
+mw:sandarSanI:f of saMdarSana
+mw:sandarSayitf:saM-darSayitf
+mw:sandIpanI:f of saMdIpana
+mw:sandrava:saM-drava
+mw:sanDUmAya:VERB N
+mw:sannyAsitA:cpd1=saMnyAsi-tA
+mw:samyagvfta:cpd1=samyag-vftta
+mw:sAyantUrya:cpd1=sAyaM-tUrya
+mw:sAyanDfti:cpd1=sAyaM-Dfti
+mw:siMhAsanadvAtriMSatputtalikAvArtA:cpd3=siMhAsana-dvAtriMSat-puttalikA-vArttA
+mw:siMhAsanadvAtriMSatputrikAvArtA:cpd3=siMhAsana-dvAtriMSat-putrikA-vArttA
+mw:suhfnArI:cpd1=suhfn-nArI
+mw:svizwakfcaturTa:cpd3 svizwakfc<-svizwakft(sandhi)=svizwakft-caturTa
+mw:huNkArI:f of huMkAra
+mw:hflAsikA:cpd1=hfl-lAsikA

@@ -1,0 +1,16 @@
+adaHkar:adaHkar:PWG@ adaHkar=adaHkf@adaHkf:adaHkf:PD
+adaHkf:adaHkf:PD@ adaHkf=adaHkar@adaHkar:adaHkar:PWG
+aBihiNkar:aBihiNkar:PW@ aBihiNkar=aBihiNkf@aBihiNkf:aBihiNkf:MW
+arUkar:arUkar:PWG@ arUkar=arUkf@arUkf:arUkf:MW,MW72,STC
+izkar:izkar:PWG@ izkar=izkf@izkf:izkf:AP,AP90,MW,MW72
+fjUkar:fjUkar:PWG@ fjUkar=fjUkf@fjUkf:fjUkf:AP,AP90,MD,MW,MW72,SCH
+gurUkar:gurUkar:PWG@ gurUkar=gurUkf@gurUkf:gurUkf:MW
+gokar:gokar:PWG@ gokar=gokf@gokf:gokf:MW
+cakzUkar:cakzUkar:PWG@ cakzUkar=cakzUkf@cakzUkf:cakzUkf:MW
+tanUkar:tanUkar:PWG@ tanUkar=tanUkf@tanUkf:tanUkf:AP,AP90,CAE,MD,MW,MW72,VCP
+paSUkar:paSUkar:PWG@ paSUkar=paSUkf@paSUkf:paSUkf:MD,MW
+banDUkar:banDUkar:PWG@ banDUkar=banDUkf@banDUkf:banDUkf:AP,MD,MW
+laGUkar:laGUkar:PWG@ laGUkar=laGUkf@laGUkf:laGUkf:AP,AP90,CAE,MD,MW
+sfkar:sfkkar:PWG@ sfkar=sfkf@sfkf:sfkkf:MW,MW72
+skar:skar:PW@ skar=skf@skf:skf:GRA,MD,MW
+hetUkar:hetUkar:PWG@ hetUkar=hetUkf@hetUkf:hetUkf:MW

@@ -1,0 +1,37 @@
+; known prefixes
+a
+an
+aBi
+; provide form of aBi before vowels
+aBy
+anu
+anv
+ava
+apa
+aDi
+aDy
+A
+upa
+ut
+ud
+ul
+ni
+ny
+nir
+nih
+pari
+pary
+pra
+prati
+mahAvi
+vy
+sam
+saM
+su
+sv
+sa
+ati
+aty
+antar
+sam
+saM

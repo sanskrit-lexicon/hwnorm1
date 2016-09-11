@@ -1,0 +1,23 @@
+May 19, 2016.
+Some misc. filters used in the dictionary whitelist
+
+1. gram.txt 
+(Gr.)
+  There are numerous technical grammatical terms.
+  These are (usually) identified by the presence of string '(Gr.)' on the
+  first line of the entry.
+  Select these and generate useful related listings.
+
+sh redogram.sh
+
+NOTE: $PDTXT and $PDHW2 are paths to these files.
+Their original sources are orig/pd.txt and pywork/pdhw2.txt in the pd directory
+python hwchk_iast1.py $PDTXT $PDHW2 hwchk_iast1.txt hwchk_iast1.org
+python gram.py $PDTXT $PDHW2 gram.txt gram.org
+
+72 of the 356 cases were identified for further examination.
+These are identified in gram.org and gram.txt with a question mark '?'.
+gram_edit.txt was manually adjusted from gram.txt, and
+6 of these 72 were identified as false positives;  these appear 
+commented out in gram_edit.txt (line begins with a ';').
+--------------------------------------

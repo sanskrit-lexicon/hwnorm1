@@ -1,0 +1,1204 @@
+mw:akarmikA:f of akarmaka
+mw:agatyA:cpd_nan=a-gatyA
+mw:aGaya:VERB N
+mw:acCayA:VERB K (hwnorm=aCayA)
+mw:acCAi:VERB K (hwnorm=aCAi)
+mw:aTovA:cpd1=aTo-vA
+mw:aDyAhAriRI:aDy-AhAriRI
+mw:anUd:VERB P
+mw:antaScakzus:cpd3 antaS<-antar(sandhi)=antar-cakzus
+mw:anyahaka:cpd1 +sfx ka=anya-ha+ka
+mw:apariBogam:cpd_nan +m=a-pariBoga
+mw:apasavyaMkf:VERB K (hwnorm=apasavyaNkf)
+mw:apiSF:VERB K
+mw:apizWita:cpd4 -z=api+sTita
+mw:apliNga:cpd4=ap-liNga
+mw:abudDyA:case 4 of abudDi
+mw:aBipale:VERB P
+mw:aBiviDO:case 7 of aBiviDi
+mw:aBizidDa:aBi+sidDa
+mw:aBisaMsfta:cpd4=aBi-saM-sfta
+mw:aBisAvakIya:VERB N
+mw:aBIzahA:case 3 of aBIzah
+mw:aByupapattf:pfxderiv of aBi+upa+pad
+mw:aBraMga:cpd1=aBraM-ga (hwnorm=aBraNga)
+mw:amalinaDI:cpd1=amalina-DI
+mw:amitAyurDyAnasUtra:amita+Ayur-DyAna-sUtra
+mw:ambazWI:f of ambazWa
+mw:ayaHSalAkA:cpd1=ayaH-SalAkA
+mw:ayaskuRqa:cpd1=ayas-kuRqa
+mw:ayaskumBI:cpd1=ayas-kumBI
+mw:ayugbARa:cpd3 ayug<-ayuj(sandhi)=ayuj-bARa
+mw:arAntaragatA:ara+antara-gatA,ara+Antara-gatA
+mw:arussrARa:cpd1=arus-srARa
+mw:arkaya:VERB N
+mw:arDaya:VERB N
+mw:arbudaDA:cpd1=arbuda-DA
+mw:arvAkkUla:cpd1=arvAk-kUla
+mw:arvAkzazWa:cpd1=arvAk-zazWa
+mw:alamarTatva:cpd3=alam-arTa-tva
+mw:alpIyaHKA:cpd1=alpIyaH-KA
+mw:avajYayA:case 4 of avajYA
+mw:avatUlaya:VERB N
+mw:avamehanIya:pfxderiv of ava+mih
+mw:avayutyA:case 4 of avayuti
+mw:avaSyamBAvitA:cpd1=avaSyam-BAvitA
+mw:aviDinA:case 3 of aviDi
+mw:aSaNkayA:case 3 of aSaNka
+mw:aSnItapibatIya:VERB N
+mw:aSvAvatI:f of aSvAvat
+mw:asaScatA:case 3 of asaScat
+mw:asfksrAva:cpd1=asfk-srAva
+mw:asfksrAvin:cpd1=asfk-srAvin
+mw:asvaryogya:cpd_nan multicpd=a-svar-yogya
+mw:ahaMSrezWikA:cpd1 SrezWikA<-SrezWika,SrezWaka=ahaM-SrezWikA
+mw:ahaHkzAnta:cpd1=ahaH-kzAnta
+mw:ahaMkf:VERB K (hwnorm=ahaNkf)
+mw:AkrAntanAyakA:cpd1 nAyakA<-nAyaka=AkrAnta-nAyakA
+mw:AkroSayitf:pfxderiv of A+kruS
+mw:AkzepiRI:f of Akzepin
+mw:AKyayA:case 4 of AKyA
+mw:AtmagatyA:case 4 of Atmagati
+mw:AntrImuKa:cpd1a AntrI<-Antra=AntrI+muKa
+mw:ApannArtipraSamanaPala:Apanna+arti-praSamana-Pala,Apanna+Arti-praSamana-Pala
+mw:ApyAyanI:f of ApyAyana
+mw:AyatapARileKatA:cpd3 +sfx tA=Ayata-pARi-leKa+tA
+mw:Ayuzaya:VERB N
+mw:Arogyapratipadvrata:cpd3=Arogya-pratipad-vrata
+mw:AvirmuKI:f of AvirmuKa
+mw:Asanizu:cpd1=Asan-izu
+mw:itTamkAram:cpd1=itTam-kAram
+mw:idaMSabda:cpd3 idaM<-idam(sandhi)=idam-Sabda
+mw:idamdvitIya:cpd1=idam-dvitIya
+mw:indrARyupanizad:cpd3 indrARy<-indrARI(sandhi)=indrARI-upanizad
+mw:uccakzUas:VERB K
+mw:ucculump:VERB P
+mw:uccEHSabdam:cpd1 +m=uccEH-Sabda
+mw:uccEHSravyakarRaka:cpd3=uccEH-Sravya-karRaka
+mw:uccErBAzya:cpd1=uccEr-BAzya
+mw:uccEstarAm:cpd5=uccEs-tarAm
+mw:ucCaMs:VERB P (hwnorm=uCaMs)
+mw:ucCuc:VERB P (hwnorm=uCuc)
+mw:ucCraT:VERB P (hwnorm=uCraT)
+mw:ucCrAyI:f of ucCrAya (hwnorm=uCrAyI)
+mw:ucCvi:VERB P (hwnorm=uCvi)
+mw:ujjAgf:VERB K
+mw:uqumbaradalA:cpd1=uqumbara-dalA
+mw:utkUlaya:VERB N
+mw:utkoSaya:VERB N
+mw:uttaradiksTa:cpd3=uttara-dik-sTa
+mw:utpaTaya:VERB N
+mw:utpalamAlABarin:cpd1a last Barin<-BariRI=utpalamAlA+Barin
+mw:utpAdayitf:pfxderiv of ut+pad
+mw:utpuMsaya:VERB N
+mw:udayavatI:f of udayavat
+mw:udAttaya:VERB N
+mw:udIritaDI:cpd1=udIrita-DI
+mw:udgUrayitf:pfxderiv of ut+gur
+mw:udDve:VERB P
+mw:unnaB:VERB P
+mw:unnaS:VERB K
+mw:unnAmya:pfxderiv of ut+nam
+mw:unnidraya:VERB N
+mw:unmaTAy:VERB K
+mw:unmanaya:VERB N
+mw:unmanIas:VERB K
+mw:unmand:VERB K
+mw:unmi:VERB K
+mw:unmuKIkAra:cpd1a unmuKI<-unmuKa fauxcpd=unmuKI+kAra
+mw:unmud:VERB P
+mw:unmurC:VERB K
+mw:unmuz:VERB P
+mw:unmfS:VERB K
+mw:upakASinI:upa-kASinI
+mw:upakzapayitf:pfxderiv of upa+kzi
+mw:upadrazwfkA:cpd1=upadrazwf-kA
+mw:upaniHSri:VERB P
+mw:upaniplu:VERB K
+mw:upanimand:VERB K
+mw:upapUrvAhRam:upa-pUrvAhRa
+mw:uparizwAjjyotis:cpd1=uparizwAj-jyotis
+mw:upavatI:f of upavat
+mw:upavigulP:VERB K
+mw:upasargaya:VERB N
+mw:upahastaya:VERB N
+mw:upAvartitf:pfxderiv of upa+A+vft
+mw:upeqakIya:VERB N
+mw:upED:VERB P
+mw:upozaya:VERB N
+mw:uraHSUla:cpd1=uraH-SUla
+mw:uragI:f of uraga
+mw:uraspeSa:cpd1=uras-peSa
+mw:ulkuzyanta:cpd3 ulkuzy<-ulkuzI(sandhi)=ulkuzI-anta
+mw:uzRaMkftya:cpd1=uzRaM-kftya (hwnorm=uzRaNkftya)
+mw:uzRaya:VERB N
+mw:UrjasvinI:f of Urjasvin
+mw:UrRAlaMkftamuKatA:UrRA+alaMkfta-muKa+tA (hwnorm=UrRAlaNkftamuKatA)
+mw:UrDvaBaram:cpd1 +m=UrDva-Bara
+mw:UvarRa:cpd1=U-varRa
+mw:fkpada:cpd1=fk-pada
+mw:fksAman:cpd1=fk-sAman
+mw:fgyajus:cpd1=fg-yajus
+mw:fRada:cpd1=fRa-da
+mw:ftvigASis:cpd3 ftvig<-ftvik(sandhi)=ftvik-ASis
+mw:fSyagatA:cpd1=fSya-gatA
+mw:fSyaproktA:cpd1=fSya-proktA
+mw:ekanATI:f of ekanATa
+mw:ekahelayA:case 4 of ekahelA
+mw:eqakIya:VERB N
+mw:etadAdi:cpd1=etad-Adi
+mw:oMkfta:cpd1a oM<-om=oM+kfta (hwnorm=oNkfta)
+mw:omkArIya:VERB N
+mw:kakudminI:f of kakudmin
+mw:kakudvatI:f of kakudvat
+mw:kawuBAzitA:cpd1=kawu-BAzitA
+mw:kaTaMkarman:cpd1=kaTaM-karman (hwnorm=kaTaNkarman)
+mw:kapIvatI:f of kapIvat
+mw:kapotapAkI:f of kapotapAka
+mw:kaPada:cpd1=kaPa-da
+mw:kamalabAlanAlaya:VERB N
+mw:kamalAtmikA:kamala+AtmikA
+mw:karanyastakapolAntam:cpd5=kara-nyasta-(kapola+antam,kapola+Antam,kapolA+antam,kapolA+Antam)
+mw:karuRAvatI:f of karuRAvat
+mw:karRewiriwirA:cpd1a karRe<-karRa=karRe+wiriwirA
+mw:kaluzaya:VERB N
+mw:kalyARavatI:f of kalyARavat
+mw:kAkakUrmamfgAKu:cpd5=kAka-kUrma-(mfga+AKu,mfgA+AKu)
+mw:kAkavaktrI:f of kAkavaktra
+mw:kAmakAraMkf:VERB K (hwnorm=kAmakAraNkf)
+mw:kAyasTI:f of kAyasTa
+mw:kAlavatI:f of kAlavat
+mw:kiMsTa:cpd1=kiM-sTa
+mw:kiMkAmya:VERB N (hwnorm=kiNkAmya)
+mw:kiMcijjYa:cpd3 kiMcij<-kiMcid(sandhi)=kiMcid-jYa (hwnorm=kiYcijjYa)
+mw:kiwakiwApaya:VERB N
+mw:kiMtayA:case 4 of kiMtA (hwnorm=kintayA)
+mw:kimparyantam:cpd1=kim-paryantam
+mw:kilikilaya:VERB N
+mw:kizkinDagandika:cpd1a last gandika<-gandikA=kizkinDa+gandika
+mw:kisalayakarA:cpd1=kisalaya-karA
+mw:kukkuwamardikA:f of kukkuwamardaka
+mw:kukriya:cpd5=ku-kriya
+mw:kuDfti:cpd1=ku-Dfti
+mw:kunadI:cpd1=ku-nadI
+mw:kunfpati:cpd1=ku-nfpati
+mw:kuntAkanti:cpd1a kuntA<-kunta=kuntA+kanti
+mw:kupapi:cpd1=ku-papi
+mw:kupapI:cpd1=ku-papI
+mw:kubrAhmaRa:cpd1=ku-brAhmaRa
+mw:kumAritarA:cpd1=kumAri-tarA
+mw:kuravI:f of kurava
+mw:kurkurIya:VERB N
+mw:kulANgArI:f of kulANgAra
+mw:kuSimbI:cpd1=ku-SimbI
+mw:kftajijYAsa:cpd1a last jijYAsa<-jijYAsA=kfta+jijYAsa
+mw:kftavatI:f of kftavat
+mw:kfllopa:cpd3 kfl<-kft(sandhi)=kft-lopa (hwnorm=kflopa)
+mw:kfzRaBawwI:f of kfzRaBawwa
+mw:kfzRIas:VERB K
+mw:kevAlIas:VERB K
+mw:kevAsIas:VERB K
+mw:kEravakorakIya:VERB N
+mw:kokanadaya:VERB N
+mw:koRepiSAcaka:cpd1a koRe<-koRa=koRe+piSAcaka
+mw:koyazwiBa:cpd1=koyazwi-Ba
+mw:koSavatI:f of koSavat
+mw:krIqanakatayA:case 4 of krIqanakatA
+mw:kroDavivaSA:cpd1=kroDa-vivaSA
+mw:klamitA:cpd1=klami-tA
+mw:klomanhfdaya:cpd1=kloman-hfdaya
+mw:kzIrodIya:VERB N
+mw:kzunnivftti:cpd1=kzun-nivftti (hwnorm=kzunnivfti)
+mw:kzemavatI:f of kzemavat
+mw:KakAra:cpd1=Ka-kAra
+mw:KaRqaSoBU:VERB K
+mw:KaRqaSoyA:VERB K
+mw:KadiravatI:cpd1 vatI<-vat=Kadira-vatI
+mw:Kapuwa:cpd1=Ka-puwa
+mw:KasamutTa:cpd1=Ka-samutTa
+mw:KAriMDaya:cpd1=KAriM-Daya (hwnorm=KArinDaya)
+mw:gaNgUya:VERB V
+mw:gaRavatI:f of gaRavat
+mw:gaRqUzaya:VERB N
+mw:gamBIrapARileKatA:cpd3 +sfx tA=gamBIra-pARi-leKa+tA
+mw:gargaBagiRI:cpd1 BagiRI<-Bagin=garga-BagiRI
+mw:galahastaya:VERB N
+mw:gAtravatI:f of gAtravat
+mw:gArgIputri:cpd1a gArgI<-gArga fauxcpd=gArgI+putri
+mw:gIHkAmya:VERB N
+mw:guRAntaraMvraj:VERB K
+mw:guRIas:VERB K
+mw:gUQatayA:case 4 of gUQatA
+mw:gfhaya:VERB N
+mw:gokfcCra:cpd1=go-kfcCra (hwnorm=gokfCra)
+mw:gokzveqa:cpd1=go-kzveqa
+mw:goGAsa:cpd1=go-GAsa
+mw:gotvagja:cpd3 gotvag<-gotvac(sandhi)=gotvac-ja
+mw:goDUlikA:cpd1=go-DUlikA
+mw:gonasI:f of gonasa
+mw:gonAqIca:cpd1=go-nAqIca
+mw:gonf:cpd1=go-nf
+mw:gopaGaRqA:cpd1 GaRqA<-GaRqa=gopa-GaRqA
+mw:gopitf:cpd1=go-pitf
+mw:goPaRikA:cpd1=go-PaRikA
+mw:goBaga:cpd1=go-Baga
+mw:goBartf:cpd1=go-Bartf
+mw:govARija:cpd1=go-vARija
+mw:govAhin:cpd1=go-vAhin
+mw:goviDA:cpd1=go-viDA
+mw:govEdya:cpd1=go-vEdya
+mw:govyADi:cpd1=go-vyADi
+mw:govratin:cpd1 fauxcpd=go-vratin
+mw:goSila:cpd1=go-Sila
+mw:goSru:cpd1=go-Sru
+mw:gosevA:cpd1=go-sevA
+mw:gosPuraRa:cpd1=go-sPuraRa
+mw:gohiMsA:cpd1=go-hiMsA
+mw:gOqorvIkulapraSasti:gOqa+urvI-kula-praSasti,gOqa+UrvI-kula-praSasti
+mw:grAmazaRqikA:cpd1 zaRqikA<-zaRqika,zaRqaka fauxcpd=grAma-zaRqikA
+mw:glOas:VERB K
+mw:GuGu:cpd1=Gu-Gu
+mw:GftaScunniDana:cpd3 GftaScun<-GftaScut(sandhi)=GftaScut-niDana
+mw:GftaScyunniDana:cpd3 GftaScyun<-GftaScyut(sandhi)=GftaScyut-niDana
+mw:GoravASinI:f of GoravASin
+mw:NakAra:cpd1=Na-kAra
+mw:cakraRitamba:cpd1 a-R=cakra+nitamba
+mw:cakramardikA:f of cakramardaka
+mw:cakravAkI:f of cakravAka
+mw:cakrANkitapARipAdatalatA:cakra+aNkita-pARi-pAda-tala+tA
+mw:cakzuHSrotra:cpd1=cakzuH-Srotra
+mw:cakzurgocara:cpd1=cakzur-gocara
+mw:catuHSAlikA:f of catuHSAlaka
+mw:caturoGottIrRa:cpd1 srs=catur-oGa+uttIrRa,catur-oGA+uttIrRa
+mw:caturnetf:cpd1=catur-netf
+mw:caturBUyas:cpd1=catur-BUyas
+mw:caturmahArAja:cpd1=catur-mahArAja
+mw:caturmAsa:cpd1=catur-mAsa
+mw:caturvESAradyaviSArada:cpd3=catur-vESAradya-viSArada
+mw:caturvyavasitayamaka:cpd3=catur-vyavasita-yamaka
+mw:caturhasta:cpd1=catur-hasta
+mw:caturhAyaRI:f of caturhAyaRa
+mw:catuzkarRatayA:case 4 of catuzkarRatA
+mw:catuzcatvAriMSadakzara:cpd5=catuz-catvAriMSadakzara
+mw:catuzpaYcan:cpd5=catuz-paYcan
+mw:catuzpArSva:cpd1=catuz-pArSva
+mw:catuzputra:cpd1=catuz-putra
+mw:catustriMSadrAtram:cpd3 catustriMSad<-catustriMSat(sandhi) +m=catustriMSat-rAtra
+mw:camUrunetrA:cpd1 netrA<-netra=camUru-netrA
+mw:cApaya:VERB N
+mw:cArugAmitA:cpd1 +sfx tA=cAru-gAmi+tA
+mw:citravartiRI:cpd1 vartiRI<-vartin=citra-vartiRI
+mw:cipiwanAsa:cpd1a last nAsa<-nAsA=cipiwa+nAsa
+mw:ciravelayA:case 4 of ciravelA
+mw:coraMkAram:cpd1=coraM-kAram (hwnorm=coraNkAram)
+mw:cORqapa:cpd1=cORqa-pa
+mw:Cattrapa:cpd1=Cattra-pa (hwnorm=Catrapa)
+mw:jagadISitf:cpd1=jagad-ISitf
+mw:jagadudDAra:cpd1=jagad-udDAra
+mw:jagadDitAtman:cpd1 srs=jagad-Dita+Atman,jagad-DitA+Atman
+mw:janarloka:cpd1=janar-loka
+mw:janiya:VERB N
+mw:jalajIvinI:f of jalajIvin
+mw:jAtamAsA:cpd1 mAsA<-mAsa=jAta-mAsA
+mw:jihvolleKanI:f of jihvolleKana
+mw:jIvaMjIvika:cpd1 +sfx ka=jIvaM-jIvi+ka (hwnorm=jIvaYjIvika)
+mw:jIvantiSUlAMkf:VERB K (hwnorm=jIvantiSUlANkf)
+mw:jIvavatI:f of jIvavat
+mw:jYata:cpd5=jYa-ta
+mw:jYAniya:VERB N
+mw:jyotirISvara:cpd1=jyotir-ISvara
+mw:jyotirudgamana:cpd1=jyotir-udgamana
+mw:jyotirmaRqala:cpd1=jyotir-maRqala
+mw:RakAra:cpd1=Ra-kAra
+mw:tagarikI:f of tagarika
+mw:tajjaya:cpd1=taj-jaya
+mw:tadekacitta:cpd1=tad-ekacitta
+mw:tadvacaHpratIta:cpd3=tad-vacaH-pratIta
+mw:tanUkartf:cpd1=tanU-kartf
+mw:tannASa:cpd1=tan-nASa
+mw:tanmaDya:cpd1=tan-maDya
+mw:tapaHSIla:cpd1=tapaH-SIla
+mw:tapastaNka:cpd1=tapas-taNka
+mw:tamasvatI:f of tamasvat
+mw:tAtparyaboDinI:cpd1=tAtparya-boDinI
+mw:tAmarasI:f of tAmarasa
+mw:tAmbUladAyinI:cpd1=tAmbUla-dAyinI
+mw:tiNanta:cpd1=tiN-anta
+mw:tiryaksUtra:cpd1=tiryak-sUtra
+mw:tiryagjyA:cpd1=tiryag-jyA
+mw:turaMgamI:f of turaMgama (hwnorm=turaNgamI)
+mw:turaMgiRI:f of turaMgin (hwnorm=turaNgiRI)
+mw:tUlaSoDinI:cpd1=tUla-SoDinI
+mw:tUlasadfSasukumArapARitA:cpd3 +sfx tA=tUla-sadfSa-sukumAra-pARi+tA
+mw:tUzRIMBUya:cpd1=tUzRIM-BUya (hwnorm=tUzRImBUya)
+mw:tfptida:cpd1=tfpti-da
+mw:tejastimira:cpd1=tejas-timira
+mw:tejastejas:cpd1=tejas-tejas
+mw:tokavatI:f of tokavat
+mw:toyavatI:f of toyavat
+mw:triyfca:cpd1=triy-fca
+mw:trizprakAra:cpd3 triz<-triH(sandhi)=triH-prakAra
+mw:trisaMDyI:f of trisaMDya (hwnorm=trisanDyI)
+mw:tristanI:f of tristana
+mw:tvakCedana:cpd1=tvak-Cedana
+mw:tvagindriya:cpd1=tvag-indriya
+mw:tvaMkftya:cpd1=tvaM-kftya (hwnorm=tvaNkftya)
+mw:tvanmanya:cpd1=tvan-manya
+mw:dakziRAc:dakziRa+ac
+mw:datvatI:f of datvat
+mw:dadrUrogin:cpd1=dadrU-rogin
+mw:dayAvatI:f of dayAvat
+mw:darBapiYjUlI:f of darBapiYjUla
+mw:darSanIyaMmanya:cpd1=darSanIyaM-manya (hwnorm=darSanIyammanya)
+mw:daSArhI:f of daSArha
+mw:dasyusAdBU:VERB K
+mw:dAkzAyaRIpa:cpd1a dAkzAyaRI<-dAkzAyaRa=dAkzAyaRI+pa
+mw:dASOdanikI:f of dASOdanika
+mw:dAsamitri:cpd1=dAsa-mitri
+mw:digAgata:cpd1=dig-Agata
+mw:digdarSin:cpd1=dig-darSin
+mw:diglABa:cpd1=dig-lABa
+mw:digvalaya:cpd1=dig-valaya
+mw:digviDAna:cpd1=dig-viDAna
+mw:diNmArga:cpd1=diN-mArga
+mw:dInaDI:cpd1=dIna-DI
+mw:dIrGajihvI:f of dIrGajihva
+mw:dIrGaya:VERB N
+mw:dIrGANgulitA:dIrGa+aNguli+tA
+mw:duHSakti:cpd1=duH-Sakti
+mw:duranuga:cpd1=dur-anuga
+mw:duranusamprApya:cpd1 anusamprApya<-anusamprAp(deriv)=dur-anusamprApya
+mw:duranUcAna:cpd1=dur-anUcAna
+mw:duri:VERB K
+mw:durpadDita:cpd3=dur-pad-Dita
+mw:durBAvanA:cpd1=dur-BAvanA
+mw:durlakzaRa:cpd1=dur-lakzaRa
+mw:durhanu:cpd1=dur-hanu
+mw:durhali:cpd1=dur-hali
+mw:durhfRAya:VERB N
+mw:duvoDA:VERB K
+mw:duScar:VERB K
+mw:duScintin:cpd1=duS-cintin
+mw:duScyAvana:cpd5=duS-cyAvana
+mw:duzkuha:cpd1=duz-kuha
+mw:duzkriyA:cpd1=duz-kriyA
+mw:duzwaDI:cpd1=duzwa-DI
+mw:duzpArzRigrAha:cpd1=duz-pArzRigrAha
+mw:duzpratItikara:cpd3=duz-pratIti-kara
+mw:dUratoBU:VERB K
+mw:dUramBAvuka:cpd1=dUram-BAvuka
+mw:dUraya:VERB N
+mw:dUrUpa:cpd1=dU-rUpa
+mw:dfkkroDa:cpd1=dfk-kroDa (hwnorm=dfkroDa)
+mw:dfkkzaya:cpd1=dfk-kzaya (hwnorm=dfkzaya)
+mw:dfkcCada:cpd1 -cC=dfk-Cada (hwnorm=dfkCada)
+mw:dfkpaTami:VERB K
+mw:dfkpaTamgam:VERB K
+mw:dfkSravas:cpd1=dfk-Sravas
+mw:dfgAyuDa:cpd3 dfg<-dfk(sandhi)=dfk-AyuDa
+mw:dfzwarajaskA:cpd1=dfzwa-rajaskA
+mw:devadarSI:f of devadarSa
+mw:devaya:VERB N
+mw:dornikartana:cpd1=dor-nikartana
+mw:dorlatikA:cpd1=dor-latikA
+mw:dorvizAda:cpd1=dor-vizAda
+mw:dolAkulaDI:dolA+akula-DI,dolA+Akula-DI
+mw:dOrBAgineyI:f of dOrBAgineya
+mw:dvAtriMSatkA:cpd1 triMSatkA<-triMSatka=dvA-triMSatkA
+mw:dvAviMSatiSatama:cpd1 +sfx tama=dvAviMSati-Sa+tama
+mw:dviyoDI:f of dviyoDa
+mw:dvEpakzya:cpd1=dvE-pakzya
+mw:dvyaRukIya:VERB N
+mw:DanakrItI:cpd1=Dana-krItI
+mw:Danava:VERB N
+mw:DanurAkfti:cpd1=Danur-Akfti
+mw:DanurdvitIya:cpd1=Danur-dvitIya
+mw:Danurhasta:cpd1=Danur-hasta
+mw:DanuzkarI:f of Danuzkara
+mw:DanuzkarzaRa:cpd1=Danuz-karzaRa
+mw:DanuzmatI:f of Danuzmat
+mw:DarmatayA:case 4 of DarmatA
+mw:DArAvatI:cpd1 vatI<-vat=DArA-vatI
+mw:DigvAda:cpd1=Dig-vAda
+mw:Diya:VERB N
+mw:DIsaMtati:cpd1=DI-saMtati (hwnorm=DIsantati)
+mw:DUmraDI:cpd1=DUmra-DI
+mw:DUlihastaya:VERB N
+mw:DvastarajaHsattvatamomala:cpd3=Dvasta-rajaH-sattva-tamo-mala
+mw:naktaMcarI:f of naktaMcara (hwnorm=naktaYcarI)
+mw:naktamBogin:cpd5=naktam-Bogin
+mw:naYarTa:cpd1=naY-arTa
+mw:naYSiromaRi:cpd1=naY-SiromaRi
+mw:nadUzita:cpd1=na-dUzita
+mw:nandagopakulodBavA:cpd1=nandagopa-kulodBavA
+mw:nartitaBrUlata:cpd1a last BrUlata<-BrUlatA=nartita+BrUlata
+mw:nalineSayI:f of nalineSaya
+mw:navayOvaRa:m of navayOvaRa
+mw:navaviMSaSati:cpd1=navaviMSa-Sati
+mw:navidvas:cpd1=na-vidvas
+mw:nazwarUpI:f of nazwarUpa
+mw:nAkaprizWa:m of nAkaprizWa
+mw:nAgavikrAntagamitA:cpd3=nAga-vikrAnta-gamitA
+mw:nATavatI:f of nATavat
+mw:nArAyaRabalisvayamprayojanasaYcikA:cpd3=nArAyaRabali-svayam-prayojana-saYcikA
+mw:nArAyaRopanizawwIkA:cpd3 nArAyaRopanizaw<-nArAyaRopanizad(sandhi)=nArAyaRopanizad-wIkA
+mw:nArnamana:cpd1=nAr-namana
+mw:niHkzi:VERB K
+mw:niHSaNkayA:case 3 of niHSaNka
+mw:niHSI:VERB K
+mw:niHSuc:VERB K
+mw:niHSF:VERB K
+mw:niHzic:VERB P
+mw:niHzu:VERB P
+mw:niHzU:VERB P
+mw:niHzwan:VERB P
+mw:niHzWiv:VERB K
+mw:nikARamakzi:cpd1=nikARam-akzi
+mw:nimnaya:VERB N
+mw:niravaDe:VERB K
+mw:nirupajIvitA:cpd1 +sfx tA=nir-upajIvi+tA
+mw:niruzRatAMnI:VERB K (hwnorm=niruzRatAnnI)
+mw:nirdayaratiSramAlasa:cpd5=nirdaya-rati-(Srama+alasa,Srama+Alasa,SramA+alasa,SramA+Alasa)
+mw:nirDAwaya:VERB N
+mw:nirbanDitA:cpd1=nirbanDi-tA
+mw:nizuta:ni+suta
+mw:nizkanizWika:cpd1a last kanizWika<-kanizWikA=niz+kanizWika
+mw:nizkAS:VERB K
+mw:nizKid:VERB K
+mw:nizpalAy:VERB P
+mw:nizpf:VERB K
+mw:nizpratiBaMkf:VERB K (hwnorm=nizpratiBaNkf)
+mw:nistandrI:cpd1=nis-tandrI
+mw:nistArayitf:pfxderiv of nis+tF
+mw:nistras:VERB K
+mw:nIcEHkftya:cpd1=nIcEH-kftya
+mw:nIcEHkftvA:cpd1=nIcEH-kftvA
+mw:nIcEstarAm:cpd1=nIcEs-tarAm
+mw:nIrAjanapadyAlilakzaRaviBakti:cpd5=nIrAjana-(padya+ali,padya+Ali,padyA+ali,padyA+Ali)-lakzaRa-viBakti
+mw:nIrI:VERB K
+mw:nIlaspandA:cpd1 spandA<-spanda=nIla-spandA
+mw:nIvfti:cpd1=nI-vfti
+mw:nIzAh:cpd1 -z=nI+sAh
+mw:nfdevI:f of nfdeva
+mw:nfpakriyAMkf:VERB K (hwnorm=nfpakriyANkf)
+mw:nfmaRasya:VERB N
+mw:nfviqamba:cpd1=nf-viqamba
+mw:nfsUrya:cpd1=nf-sUrya
+mw:netratAMyA:VERB K
+mw:netramanaHsvaBAva:cpd3=netra-manaH-svaBAva
+mw:nEzkAmya:cpd1=nEz-kAmya
+mw:nOnetf:cpd1=nO-netf
+mw:nOvimAna:cpd1=nO-vimAna
+mw:nOsAraTi:cpd1=nO-sAraTi
+mw:nyAyArTalaGusuboDinI:nyAya+arTa-laGu-suboDinI,nyAya+ArTa-laGu-suboDinI
+mw:paMs:VERB V
+mw:paNgutAhAriRI:cpd1 hAriRI<-hArin=paNgutA-hAriRI
+mw:paYcavftam:cpd1 +m=paYca-vfta
+mw:paYcAnanI:f of paYcAnana
+mw:paYcAyatanArTavarRaSIrzopanizad:cpd5=(paYcAyatana+arTa,paYcAyatana+ArTa)-varRa-(SIrza+upanizad,SIrzA+upanizad)
+mw:pawIkzepeRapraviS:VERB K
+mw:patitagarBA:cpd1 garBA<-garBa=patita-garBA
+mw:paTizadi:cpd1 -z=paTi+sadi
+mw:payaHvikAra:cpd1=payaH-vikAra
+mw:payaskAmya:VERB N
+mw:payasvatI:f of payasvat
+mw:paramahaMsopanizadhfdaya:paramahaMsa+upanizad-hfdaya
+mw:paramparayA:case 4 of paramparA
+mw:parANmuKaya:VERB N
+mw:parigaDitA:cpd1=pariga-DitA
+mw:pariniHstan:VERB K
+mw:parivfktI:f of parivfkta
+mw:parivraQaya:VERB N
+mw:parizanna:pari+sanna
+mw:parizita:pari+sita
+mw:parizeRaya:VERB N
+mw:parizwuta:pari+stuta
+mw:parizWiti:pfxderiv of pari+sTA
+mw:parizvajIyas:pfxderiv of pari+svaj
+mw:parisAvakIya:VERB N
+mw:paristaraRI:f of paristaraRa
+mw:paristaritf:pfxderiv of pari+stf
+mw:parIS:VERB P
+mw:paryARaya:VERB N
+mw:paryukzaRI:f of paryukzaRa
+mw:paladI:f of palada
+mw:palitamBAvuka:cpd1=palitam-BAvuka
+mw:palyARaya:VERB N
+mw:pavamAnawippana:cpd1a last wippana<-wippanI=pavamAna+wippana
+mw:paScAnnata:cpd1=paScAn-nata
+mw:pAdAvanejanI:f of pAdAvanejana
+mw:pApaya:VERB N
+mw:pAyinmAhAtmya:cpd1=pAyin-mAhAtmya
+mw:pArAyaRI:f of pArAyaRa
+mw:pArihArikI:f of pArihArika
+mw:pitrarjita:cpd1=pitr-arjita
+mw:pitrarTam:cpd1=pitr-arTam
+mw:piDAnikA:f of piDAnaka
+mw:pinI:VERB K
+mw:piluparRi:cpd1=pilu-parRi
+mw:piSaNgaya:VERB N
+mw:pItanidra:cpd1 nidra<-nidrA(deriv)=pIta-nidra
+mw:puMvizaya:cpd1=puM-vizaya
+mw:puMjanmada:cpd1=puMjanma-da (hwnorm=puYjanmada)
+mw:puRyavatI:f of puRyavat
+mw:putrahatI:f of putrahata
+mw:punardahana:cpd1=punar-dahana
+mw:punarBaryA:cpd1=punar-BaryA
+mw:purataHkf:VERB K
+mw:purIzavatI:f of purIzavat
+mw:puruzadveziRI:f of puruzadvezin
+mw:pulinajaGanA:cpd1=pulina-jaGanA
+mw:pUHkAmya:VERB N
+mw:pUrRapAtravfttyA:cpd1=pUrRapAtra-vfttyA (hwnorm=pUrRapAtravftyA)
+mw:pfTakSruti:cpd1=pfTak-Sruti
+mw:pfTaksalila:cpd1=pfTak-salila
+mw:pfTaksTita:cpd1=pfTak-sTita
+mw:pfTagISamAnin:cpd3=pfTag-ISa-mAnin
+mw:pfTukalpiRI:cpd1 kalpiRI<-kalpin=pfTu-kalpiRI
+mw:pfzWakekf:VERB K
+mw:pENginpENgirahasyabrAhmaRa:cpd3=pENgin-pENgi-rahasya-brAhmaRa
+mw:pEtfzvaseyI:f of pEtfzvaseya
+mw:pEppalIkacCapa:cpd1a pEppalI<-pEppala=pEppalI+kacCapa (hwnorm=pEppalIkaCapa)
+mw:pOtimAzyAyaRI:f of pOtimAzyAyaRa
+mw:praKyAtasadBartf:cpd3=praKyAta-sad-Bartf
+mw:pracaraRI:f of pracaraRa
+mw:pracetassmfti:cpd1=pracetas-smfti
+mw:praRAqyA:pra+nAqyA
+mw:praRihitaDI:cpd1=praRihita-DI
+mw:pratapanekf:VERB K
+mw:pratidvaMdvaya:VERB N (hwnorm=pratidvandvaya)
+mw:pratibandDf:pfxderiv of prati+banD
+mw:pratibimbaya:VERB N
+mw:pratizeDayitf:pfxderiv of prati+siD
+mw:pratizkaB:VERB P
+mw:pratyakcintAmaRi:cpd1=pratyak-cintAmaRi
+mw:pratyaksaMsTam:cpd1 +m=pratyak-saMsTa
+mw:pratyarTyAvedana:cpd3 pratyarTy<-pratyarTin(sandhi)=pratyarTin-Avedana
+mw:praTaya:VERB N
+mw:pradakziRagAmitA:cpd3=pradakziRa-gAmi-tA
+mw:pradakziRAvartEkaromatA:pradakziRAvarta+eka-roma,pradakziRAvarta+Eka-roma+tA
+mw:praprarz:VERB P
+mw:praBAkarAhnikI:f of praBAkarAhnika
+mw:pralepikA:f of pralepaka
+mw:pravAhayitf:pfxderiv of pra+vah
+mw:pravizwahAya:VERB N
+mw:prasaktaDI:cpd1=prasakta-DI
+mw:prasUvara:cpd1=prasU-vara
+mw:prasTAvatI:cpd1 vatI<-vat=prasTA-vatI
+mw:prasnavitrIya:VERB N
+mw:prAkprahAna:cpd1=prAk-prahAna
+mw:prAgudak:cpd5=prAg-udak
+mw:prAghAra:cpd1=prAg-hAra
+mw:prANnAsikA:cpd1=prAN-nAsikA
+mw:prAtiboDIputra:cpd1a prAtiboDI<-prAtiboDa=prAtiboDI+putra
+mw:prAtiveSmikI:f of prAtiveSmika
+mw:prAntaBUmO:case 7 of prAntaBUmi
+mw:prAptaprasavA:cpd1=prApta-prasavA
+mw:prABiRI:VERB P
+mw:prArTanayA:case 4 of prArTanA
+mw:prAvizkriyamARa:cpd5=(pra+Aviz,prA+Aviz)-kriyamARa
+mw:priyaMkAra:cpd1=priyaM-kAra (hwnorm=priyaNkAra)
+mw:priyaBAziRI:f of priyaBAzin
+mw:preyaskara:cpd1=preyas-kara
+mw:prED:VERB P
+mw:prokzaRI:f of prokzaRa
+mw:protkaRWaya:VERB N
+mw:prohyapAdi:cpd5=(pra+Uhya,prA+Uhya)-pAdi
+mw:PalapAkAvasAnA:PalapAka+avasAnA
+mw:PalepAkin:cpd1a Pale<-Pala=Pale+pAkin
+mw:PARwaya:VERB N
+mw:banDUkfta:cpd1=banDU-kfta
+mw:barhizpUla:cpd1=barhiz-pUla
+mw:balaBitsaKi:cpd3 balaBit<-balaBid(sandhi)=balaBid-saKi
+mw:balavatI:f of balavat
+mw:bahaya:VERB N
+mw:bahiHSOca:cpd1=bahiH-SOca
+mw:bahirante:cpd1=bahir-ante
+mw:bahirindriya:cpd1=bahir-indriya
+mw:bahirgamana:cpd1=bahir-gamana
+mw:bahirgAmin:cpd1=bahir-gAmin
+mw:bahirgIta:cpd1=bahir-gIta
+mw:bahirdeSa:cpd1=bahir-deSa
+mw:bahirBavana:cpd1=bahir-Bavana
+mw:bahirBUta:cpd1=bahir-BUta
+mw:bahirmAlA:cpd3 bahir<-bahiH(sandhi)=bahiH-mAlA
+mw:bahugo:cpd1=bahu-go
+mw:bahudarSitA:cpd1=bahudarSi-tA
+mw:bahuBAzitA:cpd1=bahuBAzi-tA
+mw:bahuBojitA:cpd1=bahuBoji-tA
+mw:bahurE:cpd1=bahu-rE
+mw:bahusUtigo:cpd1=bahusUti-go
+mw:bARaparRi:cpd1=bARa-parRi
+mw:bindusarastIrTa:cpd1=bindusaras-tIrTa
+mw:budDavapurDArin:cpd3=budDa-vapur-DArin
+mw:bfhajjana:cpd1=bfhaj-jana
+mw:bfhajjIvantikA:cpd1=bfhaj-jIvantikA
+mw:bfhajjIvA:cpd1=bfhaj-jIvA
+mw:bfhattuhinaSarkara:cpd3=bfhat-tuhina-Sarkara
+mw:bfhadasfNmati:cpd3=bfhad-asfN-mati
+mw:bfhannArAyaRI:cpd1=bfhan-nArAyaRI
+mw:brahmaRvatI:f of brahmaRvat
+mw:brAhmaRavatI:f of brAhmaRavat
+mw:brAhmaRitarA:cpd1=brAhmaRi-tarA
+mw:brAhmaRibruvA:cpd1=brAhmaRi-bruvA
+mw:brAhmaRIsattamA:cpd1=brAhmaRI-sattamA
+mw:brAhmapuzpi:cpd1=brAhma-puzpi
+mw:brUs:VERB V
+mw:BaktavrAtasaMtozika:cpd3 +sfx ka=Bakta-vrAta-saMtozi+ka (hwnorm=BaktavrAtasantozika)
+mw:Bagavadupanayana:cpd1=Bagavad-upanayana
+mw:BagavadgItAtAtparyaboDikA:cpd3=BagavadgItA-tAtparya-boDikA
+mw:BagavadyOvanodgama:cpd1 srs=Bagavad-yOvana+udgama,Bagavad-yOvanA+udgama
+mw:BagavannandasaMvAda:cpd3=Bagavan-nanda-saMvAda
+mw:BagavanmAnapUjA:cpd3=Bagavan-mAna-pUjA
+mw:Bagnanidra:cpd1 nidra<-nidrA(deriv)=Bagna-nidra
+mw:BagnayAcYa:cpd1a last yAcYa<-yAcYA=Bagna+yAcYa
+mw:BawwiboDinI:cpd1=Bawwi-boDinI
+mw:BaRqirI:f of BaRqira
+mw:BayaMkartf:cpd1=BayaM-kartf (hwnorm=BayaNkartf)
+mw:BartfdfQavratA:cpd1=Bartf-dfQavratA
+mw:BavagrAmIRavAdyokta:cpd5=Bava-grAmIRa-(vAdya+ukta,vAdyA+ukta)
+mw:BAgavatapurARAdyaSlokatrayIwIkA:BAgavatapurARa+adya-Sloka-trayI-wIkA,BAgavatapurARa+Adya-Sloka-trayI-wIkA
+mw:BAvavfttI:f of BAvavftta (hwnorm=BAvavftI)
+mw:BAvyupaDa:cpd1 upaDa<-upaDA(deriv)=BAvy-upaDa
+mw:BizakpASa:cpd1=Bizak-pASa
+mw:Bizagvara:cpd1=Bizag-vara
+mw:BizaNmAtf:cpd1=BizaN-mAtf
+mw:BuvaneSI:f of BuvaneSa
+mw:BUkadambikA:f of BUkadambaka
+mw:BUcaryA:cpd1=BU-caryA
+mw:BUtavAhanasaraTi:cpd1=BUtavAhana-saraTi
+mw:BUpUga:cpd1=BU-pUga
+mw:BUpradAna:cpd1=BU-pradAna
+mw:BUrizAh:cpd1 -z=BUri+sAh
+mw:BUvallUra:cpd1=BU-vallUra
+mw:BUvftta:cpd1=BU-vftta (hwnorm=BUvfta)
+mw:BUSvaBra:cpd1=BU-SvaBra
+mw:BUsTita:cpd1=BU-sTita
+mw:BedaDikkfti:cpd3=Beda-Dik-kfti
+mw:BovAdin:cpd1=Bo-vAdin
+mw:BramarasadfSakeSatA:cpd3=Bramara-sadfSa-keSa-tA
+mw:Brazwanidra:cpd1 nidra<-nidrA(deriv)=Brazwa-nidra
+mw:BrUkuwI:cpd1=BrU-kuwI
+mw:BrUkula:cpd1=BrU-kula
+mw:BrUcApAkfzwamukta:cpd5=BrU-(cApa+akfzwa,cApa+Akfzwa)-mukta
+mw:BrUmaRqala:cpd1=BrU-maRqala
+mw:BrUmaDya:cpd1=BrU-maDya
+mw:BrUvaYcita:cpd1=BrU-vaYcita
+mw:BrUvikriyA:cpd1=BrU-vikriyA
+mw:BrUvijfmBa:cpd1=BrU-vijfmBa
+mw:BrUviBeda:cpd1=BrU-viBeda
+mw:BrUviBrama:cpd1=BrU-viBrama
+mw:maGavanmuktakuliSa:cpd3=maGavan-mukta-kuliSa
+mw:matipaTaMnI:VERB K (hwnorm=matipaTannI)
+mw:maTina:VERB N
+mw:madanaDvajA:cpd1=madana-DvajA
+mw:manaHSama:cpd1=manaH-Sama
+mw:manaHSalya:cpd1=manaH-Salya
+mw:manastuzwi:cpd1=manas-tuzwi
+mw:manasvatI:f of manasvat
+mw:manAkpriya:cpd1=manAk-priya
+mw:manojvalA:cpd1 jvalA<-jvala=mano-jvalA
+mw:markawanAsa:cpd1a last nAsa<-nAsA=markawa+nAsa
+mw:martavatI:f of martavat
+mw:marmaveDitA:cpd1=marmaveDi-tA
+mw:malapu:cpd5=mala-pu
+mw:mahAnasI:f of mahAnasa
+mw:mahAnIlABrajAlIya:VERB N
+mw:mahABAratodDftasAraSloka:mahABArata+udDfta-sAra-Sloka
+mw:mahAsAhasikatayA:case 4 of mahAsAhasikatA
+mw:mahizasUdanI:cpd1=mahiza-sUdanI
+mw:mahizAsuraGAtinI:cpd1=mahizAsura-GAtinI
+mw:mahizAsurasUdanI:cpd1=mahizAsura-sUdanI
+mw:mahizvani:cpd1 -z=mahi+svani
+mw:mahOjasI:f of mahOjasa
+mw:mAMsarohA:cpd1=mAMsa-rohA
+mw:mAMsarohikA:cpd1 rohikA<-rohaka=mAMsa-rohikA
+mw:mARqUkyopanizadAloka:cpd1=mARqUkyopanizad-Aloka
+mw:mAtuHsvasf:cpd1=mAtuH-svasf
+mw:mADyaMdinI:f of mADyaMdina (hwnorm=mADyandinI)
+mw:mAnavatI:f of mAnavat
+mw:mAnotsekaparAkramavyasanin:mAna+utseka-parAkrama-vyasanin
+mw:mAntravarRikItva:cpd1a mAntravarRikI<-mAntravarRika=mAntravarRikI+tva
+mw:mApaya:VERB V
+mw:mAyAcidyoga:cpd3=mAyA-cid-yoga
+mw:mAlAvatI:f of mAlAvat
+mw:mAlyavatI:f of mAlyavat
+mw:mitravatI:f of mitravat
+mw:miTunIas:VERB K
+mw:mimikz:VERB V
+mw:mudAvatI:f of mudAvat
+mw:murmurIya:VERB N
+mw:muhurdIkzin:cpd1=muhur-dIkzin
+mw:mfduBAzitA:cpd1=mfduBAzi-tA
+mw:meGagarjitaGozatA:cpd3=meGa-garjita-Goza-tA
+mw:mEtreyyupanizad:cpd3 mEtreyy<-mEtreyI(sandhi)=mEtreyI-upanizad
+mw:yakfnmedas:cpd1=yakfn-medas
+mw:yaNanta:cpd1=yaN-anta
+mw:yajurvARImantra:cpd3=yajur-vARI-mantra
+mw:yajuzkAmya:VERB N
+mw:yaTAMSam:yaTA+aMSa,yaTA+AMSa
+mw:yaTABihitam:yaTA+aBihita
+mw:yadfcCayA:case 3 of yadfcCa (hwnorm=yadfCayA)
+mw:yanmaDye:cpd1=yan-maDye
+mw:yanmUrDan:cpd1=yan-mUrDan
+mw:yaSaHkAya:cpd1=yaSaH-kAya
+mw:yaSaHSarIra:cpd1=yaSaH-SarIra
+mw:yaSaskAmya:VERB N
+mw:yaSasvatI:f of yaSasvat
+mw:yaSodAgarBasamBUtA:cpd3=yaSodA-garBa-samBUtA
+mw:yAdaspati:cpd1=yAdas-pati
+mw:yAvadizwam:cpd1=yAvad-izwam
+mw:yuzmaya:VERB N
+mw:yogakaraRqikA:f of yogakaraRqaka
+mw:yozitsarpA:cpd1=yozit-sarpA
+mw:ratemadA:cpd1a rate<-rata=rate+madA
+mw:raTAyuDaka:raTa+ayuDa,raTa+AyuDa+ka
+mw:rapratyAhAra:cpd1=ra-pratyAhAra
+mw:raSmivatI:f of raSmivat
+mw:rAjavatI:f of rAjavat
+mw:rAjaSAkiRI:cpd1 SAkiRI<-SAkin=rAja-SAkiRI
+mw:rATaMtarI:f of rATaMtara (hwnorm=rATantarI)
+mw:riya:VERB N
+mw:rugBaya:cpd1=rug-Baya
+mw:ruNmatI:f of ruNmat
+mw:rudDavasuDa:cpd1a last vasuDa<-vasuDA=rudDa+vasuDa
+mw:rudraqamarUdBavasUtravivaraRa:cpd5=rudra-(qamaru+udBava)-sUtra-vivaraRa
+mw:rudrEkAdaSavastradAnaviDi:rudra+ekAdaSa-vastradAna-viDi
+mw:rodaHkuhara:cpd1=rodaH-kuhara
+mw:lakzmIvatI:f of lakzmIvat
+mw:lavaRalAyikA:cpd1 lAyikA<-lAyaka=lavaRa-lAyikA
+mw:liNgavarDiRI:f of liNgavarDin
+mw:lInaya:VERB N
+mw:lulitasragAkula:cpd3=lulita-srag-Akula
+mw:lokaprasidDyA:case 4 of lokaprasidDi
+mw:lohitapAddeSa:cpd3=lohita-pAd-deSa
+mw:lohitapuzpI:f of lohitapuzpa
+mw:vakrapucCika:cpd1a last pucCika<-pucCikA=vakra+pucCika (hwnorm=vakrapuCika)
+mw:vakzastawAGAta:cpd1=vakzas-tawAGAta
+mw:vaRiggfha:cpd1=vaRig-gfha
+mw:vaDUgfhapraveSa:cpd1=vaDU-gfhapraveSa
+mw:vaDUpraveSa:cpd1=vaDU-praveSa
+mw:vaDUyAna:cpd1=vaDU-yAna
+mw:vandanesTa:cpd1a vandane<-vandana=vandane+sTa
+mw:vapurguRa:cpd1=vapur-guRa
+mw:vapurmalasamAcita:cpd3=vapur-mala-samAcita
+mw:vayaskara:cpd1=vayas-kara
+mw:varRatarRikA:cpd1 tarRikA<-tarRaka=varRa-tarRikA
+mw:vavraya:VERB N
+mw:vahniztamBa:cpd1 -z=vahni+stamBa
+mw:vAkkelI:cpd1=vAk-kelI
+mw:vAkpracodana:cpd1=vAk-pracodana
+mw:vAkpratoda:cpd1=vAk-pratoda
+mw:vAkprasArin:cpd1=vAk-prasArin
+mw:vAgarTa:cpd1=vAg-arTa
+mw:vAgyudDa:cpd1=vAg-yudDa
+mw:vAgroDa:cpd1=vAg-roDa
+mw:vAgvyaya:cpd1=vAg-vyaya
+mw:vANniScaya:cpd1=vAN-niScaya
+mw:vANnizWA:cpd1=vAN-nizWA
+mw:vANmanasa:cpd1=vAN-manasa
+mw:vANmayADikftatA:vANmaya+aDikfta-tA
+mw:vANmUla:cpd1=vAN-mUla
+mw:vAcaMniyama:cpd1=vAcaM-niyama (hwnorm=vAcanniyama)
+mw:vAtaKuqakA:cpd1 KuqakA<-Kuqaka=vAta-KuqakA
+mw:vAtAhatanO:cpd1=vAtAhata-nO
+mw:vArDArA:cpd1=vAr-DArA
+mw:vAsuMDareyI:f of vAsuMDareya (hwnorm=vAsunDareyI)
+mw:vikaraRI:f of vikaraRa
+mw:vikANkz:VERB K
+mw:vikup:VERB K
+mw:vikroSayitf:pfxderiv of vi+kruS
+mw:viklavaya:VERB N
+mw:vikziptendriyaDI:vikzipta+indriya-DI
+mw:vikzubDa:cpd4=vi-kzubDa
+mw:vikzuBA:cpd1=vi-kzuBA
+mw:vigaRqIra:cpd1=vi-gaRqIra
+mw:vigataBI:cpd1=vigata-BI
+mw:vigarhiRI:f of vigarhin
+mw:vigF:VERB K
+mw:vicintitf:pfxderiv of vi+cint
+mw:vicetanI:f of vicetana
+mw:vicCardikA:f of vicCardaka (hwnorm=viCardikA)
+mw:vijayavatI:f of vijayavat
+mw:vitaTaya:VERB N
+mw:vitaritf:cpd5 fauxcpd=vi-taritf
+mw:vitAlI:f of vitAla
+mw:vitruq:VERB K
+mw:vidAS:VERB K
+mw:vidiv:VERB K
+mw:vidIpita:cpd5 fauxcpd=vi-dIpita
+mw:vidIpta:cpd5 fauxcpd=vi-dIpta
+mw:viduh:VERB K
+mw:vidyudunmeza:cpd1=vidyud-unmeza
+mw:vidrazwf:cpd4=vi-drazwf
+mw:vidvaccakora:cpd1=vidvac-cakora
+mw:vidveziRI:f of vidvezin
+mw:viDaraRI:f of viDaraRa
+mw:viDArayitf:pfxderiv of vi+Df
+mw:viDirasAyanasuKopajIvinI:cpd5=viDi-rasAyana-(suKa+upajIvinI,suKA+upajIvinI)
+mw:viDI:VERB K
+mw:viDUtanidra:cpd1 nidra<-nidrA(deriv)=viDUta-nidra
+mw:viDUp:VERB K
+mw:viDvaMsinI:f of viDvaMsin
+mw:vinayavatI:f of vinayavat
+mw:vinAmikA:cpd5=vi-nAmikA
+mw:vinigUhitf:pfxderiv of vi+ni+guh
+mw:vinij:VERB K
+mw:vinid:VERB K
+mw:viniDf:VERB K
+mw:viniDvas:VERB K
+mw:vinipIq:VERB K
+mw:vinirvam:VERB K
+mw:vinirhata:cpd4=vi-nir-hata
+mw:viniveSita:cpd5 fauxcpd=vi-niveSita
+mw:vinizad:VERB P
+mw:vinizkf:VERB K
+mw:vinizwan:VERB P
+mw:vinizWiv:VERB K
+mw:vinizpIq:VERB K
+mw:vinismfta:cpd4=vi-ni-smfta
+mw:vinunna:cpd5 fauxcpd=vi-nunna
+mw:vinft:VERB K
+mw:vindatvatI:f of vindatvat
+mw:vipaYcaya:VERB K
+mw:vipaTaya:VERB N
+mw:vipan:VERB K
+mw:vipannApatyA:vipanna+apatyA,vipanna+ApatyA
+mw:vipariRata:cpd5 fauxcpd=vi-pariRata
+mw:vipariRIta:cpd5=vi-pariRIta
+mw:viparidru:VERB K
+mw:viparipat:VERB K
+mw:viparihf:VERB K
+mw:viparyastaputrA:cpd1=viparyasta-putrA
+mw:viparyastamanaScezwa:cpd3=viparyasta-manaS-cezwa
+mw:vipiS:VERB K
+mw:vipiSita:cpd5 fauxcpd=vi-piSita
+mw:vipfkta:cpd5 fauxcpd=vi-pfkta
+mw:vipoTita:cpd5 fauxcpd=vi-poTita
+mw:vipraC:VERB K
+mw:viprADipamuKA:cpd1=viprADipa-muKA
+mw:vipru:VERB K
+mw:vibfh:VERB K
+mw:vimaTitf:cpd5 fauxcpd=vi-maTitf
+mw:vimanTara:cpd1=vi-manTara
+mw:vimuKaya:VERB N
+mw:vimUQaDI:cpd1=vimUQa-DI
+mw:vime:VERB K
+mw:vimocanI:f of vimocana
+mw:vimohada:cpd1=vimoha-da
+mw:viyanmaDyahaMsa:cpd3=viyan-maDya-haMsa
+mw:virAwsuta:cpd1=virAw-suta
+mw:virAqdeha:cpd1=virAq-deha
+mw:virAviRI:f of virAvin
+mw:virudDasambanDanIya:cpd1 sambanDanIya<-sambanD(deriv)=virudDa-sambanDanIya
+mw:virudDArTadIpika:virudDa+arTa-dIpi,virudDa+ArTa-dIpi+ka
+mw:viroDavarUTinIBaYjinI:cpd3=viroDa-varUTinI-BaYjinI
+mw:vilasanmarIci:cpd1=vilasan-marIci
+mw:vilasanmeGaSabda:cpd3=vilasan-meGa-Sabda
+mw:viliptI:f of vilipta
+mw:viluRw:VERB K
+mw:vilU:VERB K
+mw:vivarR:VERB K
+mw:vivAsayitf:pfxderiv of vi+vas
+mw:vivid:VERB K
+mw:vivip:VERB K
+mw:vivezw:VERB K
+mw:vivyaD:VERB K
+mw:viSaMs:VERB K
+mw:viSaNkayA:case 4 of viSaNkA
+mw:viSadanarakaraNkAya:VERB N
+mw:viSabdita:cpd5 fauxcpd=vi-Sabdita
+mw:viSalyaya:VERB N
+mw:viSAKI:f of viSAKa
+mw:viSAtaya:VERB N
+mw:viSAs:VERB K
+mw:viSikz:VERB K
+mw:viSfD:VERB K
+mw:viSrita:cpd4=vi-Srita
+mw:viSvit:VERB K
+mw:vizajjita:cpd4 -z=vi+sajjita
+mw:vizic:VERB P
+mw:viziv:VERB P
+mw:vizuvatpUrRaSitAMSu:cpd5=vizuvat-pUrRa-(Sita+aMSu,SitA+aMSu)
+mw:vizuvadBA:cpd1=vizuvad-BA
+mw:vizU:VERB P
+mw:vizev:VERB P
+mw:vizkamBikA:f of vizkamBaka
+mw:vizkumB:VERB P
+mw:vizwuB:VERB P
+mw:vizRusarastIrTa:cpd3=vizRu-saras-tIrTa
+mw:vizpf:VERB P
+mw:vizvakkaca:cpd1=vizvak-kaca
+mw:vizvaksama:cpd1=vizvak-sama
+mw:vizvagvfta:cpd1=vizvag-vfta
+mw:visarjanI:f of visarjana
+mw:visarjikA:cpd4=vi-sarjikA
+mw:visarpiRI:f of visarpin
+mw:visiD:VERB K
+mw:visUtr:VERB K
+mw:visKalita:cpd5 fauxcpd=vi-sKalita
+mw:vistan:VERB K
+mw:vistAriRI:f of vistArin
+mw:vispf:VERB K
+mw:visPal:VERB K
+mw:visPAy:VERB K
+mw:visPIta:cpd4=vi-sPIta
+mw:visPuwita:cpd5 fauxcpd=vi-sPuwita
+mw:vismArita:cpd4=vi-smArita
+mw:visraMsajA:cpd1=visraMsa-jA
+mw:visraMsita:cpd5=vi-sraMsita
+mw:visvap:VERB K
+mw:vihagagADipa:cpd1 srs=vihaga-ga+aDipa,vihaga-gA+aDipa
+mw:vihary:VERB K
+mw:vihAriRI:f of vihArin
+mw:vihurC:VERB K
+mw:viheW:VERB K
+mw:vihnu:VERB K
+mw:vihmal:VERB K
+mw:vIralIla:cpd1a last lIla<-lIlA=vIra+lIla
+mw:vfScikacCadA:cpd1 -cC=vfScika-CadA (hwnorm=vfScikaCadA)
+mw:vegavatI:f of vegavat
+mw:veRuyavI:f of veRuyava
+mw:vEtAlikarRikanTa:cpd1a last kanTa<-kanTA=vEtAlikarRi+kanTa
+mw:vEtulakanTa:cpd1a last kanTa<-kanTA=vEtula+kanTa
+mw:vErAnubanDitA:cpd1=vErAnubanDi-tA
+mw:vyaktaya:VERB N
+mw:vyagraya:VERB N
+mw:vyatizajya:pfxderiv of vi+ati+saYj
+mw:vyavadE:VERB K
+mw:vyAGrapatsmfti:cpd3 vyAGrapat<-vyAGrapad(sandhi)=vyAGrapad-smfti
+mw:SakfnmUtra:cpd1=Sakfn-mUtra
+mw:SatabrAhmaRaGAtaja:cpd3=Sata-brAhmaRa-GAta-ja
+mw:SatahrAdA:cpd1 hrAdA<-hrAda=Sata-hrAdA
+mw:SatruBa:cpd1=Satru-Ba
+mw:SapaTIya:VERB N
+mw:SabdAnuSAsanadurgapadAvali:cpd5=SabdAnuSAsana-durga-(pada+Avali)
+mw:SaBeda:cpd1=Sa-Beda
+mw:SaraRaMgata:cpd1=SaraRaM-gata (hwnorm=SaraRaNgata)
+mw:SarEzIkA:Sara+EzIkA
+mw:SalyadA:cpd1=Salya-dA
+mw:Salyaya:VERB N
+mw:Savarga:cpd1=Sa-varga
+mw:SaSISaSiSuSI:cpd3=SaSISa-SiSu-SI
+mw:SAlakawaNkawI:f of SAlakawaNkawa
+mw:SAlAvatI:f of SAlAvat
+mw:SiKaradaSanA:cpd1=SiKara-daSanA
+mw:SiYjadzaqaNGri:cpd1=SiYjad-zaqaNGri
+mw:SipivizwavatI:f of Sipivizwavat
+mw:SimbijA:cpd1=Simbi-jA
+mw:SiraHSreRi:cpd1=SiraH-SreRi
+mw:SilpajIvinI:f of SilpajIvin
+mw:SivasUtravimarSinI:cpd1=SivasUtra-vimarSinI
+mw:SiSupAlaSiraSCettf:cpd3=SiSupAla-SiraS-Cettf
+mw:SiSuvarjitA:cpd1=SiSu-varjitA
+mw:SIGraboDinI:cpd1=SIGra-boDinI
+mw:SucinAsatA:cpd1a last nAsa<-nAsA +sfx tA=Suci+nAsa+tA
+mw:SucizmatI:f of Sucizmat
+mw:SudDamaDyamArgI:cpd3=SudDa-maDya-mArgI
+mw:SudDavatI:f of SudDavat
+mw:SuBaMkarI:f of SuBaMkara (hwnorm=SuBaNkarI)
+mw:SumBamaTanI:cpd1=SumBa-maTanI
+mw:SumBahananI:cpd1=SumBa-hananI
+mw:Sulb:VERB V
+mw:SfNgAgrapraharaRABimuKa:cpd5=(SfNga+agra,SfNgA+agra)-(praharaRa+aBimuKa)
+mw:SfNgAravatI:f of SfNgAravat
+mw:SftaMkartf:cpd1=SftaM-kartf (hwnorm=SftaNkartf)
+mw:SftaMkfta:cpd1=SftaM-kfta (hwnorm=SftaNkfta)
+mw:SEvAlIya:VERB N
+mw:SokArAtiBayatrARa:Soka+arAti-Baya-trARa,Soka+ArAti-Baya-trARa
+mw:SokonmaTitacittAtman:cpd5=(Soka+unmaTita,SokA+unmaTita)-(citta+Atman,cittA+Atman)
+mw:SOryOdaryaSfNgAramaya:SOrya+Odarya-SfNgAra-maya
+mw:SyenajidAKyAna:cpd3 Syenajid<-Syenajit(sandhi)=Syenajit-AKyAna
+mw:SraTarya:VERB N
+mw:SvaBravatI:f of SvaBravat
+mw:SvetabindukA:cpd1 bindukA<-binduka=Sveta-bindukA
+mw:Svetaya:VERB N
+mw:zawKaRqa:cpd1=zaw-KaRqa
+mw:zawpAramitAparipUrRa:cpd3=zaw-pAramitA-paripUrRa
+mw:zawputra:cpd1=zaw-putra
+mw:zawSatI:f of zawSata
+mw:zawsahasrI:f of zawsahasra
+mw:zaqaNgI:f of zaqaNga
+mw:zaqaDika:cpd1=zaq-aDika
+mw:zaqgata:cpd1=zaq-gata
+mw:zaqvaktrI:f of zaqvaktra
+mw:zaqvadana:cpd1=zaq-vadana
+mw:zaqvarzikamaha:cpd3=zaq-varzika-maha
+mw:zaqvizARa:cpd1=zaq-vizARa
+mw:zaRQaya:VERB N
+mw:zaRmatasTApaka:cpd3=zaR-mata-sTApaka
+mw:zaRmAsI:f of zaRmAsa
+mw:zaRmuKI:f of zaRmuKa
+mw:zoqIya:VERB N
+mw:saMSuzkamAMsatvaksnAyu:cpd3=saMSuzka-mAMsa-tvak-snAyu
+mw:saMsaNginItva:cpd1a saMsaNginI<-saMsaNgin=saMsaNginI+tva
+mw:saMsargaya:VERB N
+mw:saMsarpitA:cpd1=saMsarpi-tA
+mw:saMspfzwamETunA:cpd1=saMspfzwa-mETunA
+mw:sakalArTisArTakalpadruma:sakala+arTi-sArTa-kalpa-druma
+mw:sakfdAdIpana:cpd1=sakfd-AdIpana
+mw:sakfdAhfta:cpd1=sakfd-Ahfta
+mw:saMkIrt:VERB K (hwnorm=saNkIrt)
+mw:saMkuYc:VERB K (hwnorm=saNkuYc)
+mw:saMkuYcita:saM-kuYcita (hwnorm=saNkuYcita)
+mw:saMguRaya:VERB N (hwnorm=saNguRaya)
+mw:saMgfBAya:VERB P (hwnorm=saNgfBAya)
+mw:saMgraB:VERB P (hwnorm=saNgraB)
+mw:saMGAtikA:f of saMGAtaka (hwnorm=saNGAtikA)
+mw:saMcArayitf:pfxderiv of sam+car (hwnorm=saYcArayitf)
+mw:saMCedya:saM-Cedya (hwnorm=saYCedya)
+mw:satyAnandacidAtmatA:cpd3=satyAnanda-cidAtma-tA
+mw:sadyaHprakzAlitAnnaka:cpd1 srs +sfx ka=sadyaH-prakzAlita+anna,sadyaH-prakzAlita+Anna,sadyaH-prakzAlitA+anna,sadyaH-prakzAlitA+Anna+ka
+mw:sadyastapta:cpd1=sadyas-tapta
+mw:saMtAninI:f of saMtAnin (hwnorm=santAninI)
+mw:saMtAy:VERB K (hwnorm=santAy)
+mw:saMdarSanI:f of saMdarSana (hwnorm=sandarSanI)
+mw:saMdarSayitf:saM-darSayitf (hwnorm=sandarSayitf)
+mw:saMdIpanI:f of saMdIpana (hwnorm=sandIpanI)
+mw:saMdrava:saM-drava (hwnorm=sandrava)
+mw:saMDUmAya:VERB N (hwnorm=sanDUmAya)
+mw:sannaDI:cpd1=sanna-DI
+mw:saMnyAsitA:cpd1=saMnyAsi-tA (hwnorm=sannyAsitA)
+mw:sanmAtf:cpd1=san-mAtf
+mw:saptaSatajapArTanyAsaDyAna:cpd5=sapta-Sata-(japa+arTa,japa+ArTa,japA+arTa,japA+ArTa)-nyAsa-DyAna
+mw:saptasAgaraprAdAnikA:cpd1=saptasAgara-prAdAnikA
+mw:samagraya:VERB N
+mw:samacatvAriMSadantatA:cpd3=sama-catvAriMSa-danta-tA
+mw:samaDikalajjAvatI:cpd1 lajjAvatI<-lajjAvat=samaDika-lajjAvatI
+mw:samarDayitf:pfxderiv of sam+fD
+mw:samarpayitf:pfxderiv of sam+f
+mw:samAhvI:f of samAhva
+mw:sampipAdayizA:pfxderiv of sam+pad
+mw:samprakzAlanI:f of samprakzAlana
+mw:samprezaRI:f of samprezaRa
+mw:samBARqaya:VERB N
+mw:sammuKaya:VERB N
+mw:samyakpraRiDAna:cpd1=samyak-praRiDAna
+mw:samyakprahARa:cpd1=samyak-prahARa
+mw:samyaggamana:cpd1 fauxcpd=samyag-gamana
+mw:samyaggoptf:cpd1=samyag-goptf
+mw:samyagdaRqana:cpd1=samyag-daRqana
+mw:samyagvftta:cpd1=samyag-vftta (hwnorm=samyagvfta)
+mw:samyaNmati:cpd1=samyaN-mati
+mw:sayantrika:cpd1a last yantrika<-yantrikA=sa+yantrika
+mw:sarayUtawa:cpd1=sarayU-tawa
+mw:sarayUvana:cpd1=sarayU-vana
+mw:saralayAyinI:f of saralayAyin
+mw:saravatI:cpd1 vatI<-vat=sara-vatI
+mw:sarinmaruvanASraya:cpd3=sarin-maru-vanASraya
+mw:saromavikriya:cpd1a last vikriya<-vikriyA=saroma+vikriya
+mw:sarpaBftA:cpd1=sarpa-BftA
+mw:sarpizkAmya:VERB N
+mw:sarvataTAgatASAparipUraRajYAnamudrA:sarvataTAgata+ASA-paripUraRa-jYAna-mudrA
+mw:sarvatragAminIpratipattijYAnabala:cpd3=sarvatra-gAminI-pratipatti-jYAna-bala
+mw:sarvaprAyaScittya:cpd1a last prAyaScittya<-prAyaScittyA=sarva+prAyaScittya
+mw:sarvaSaktyA:case 4 of sarvaSakti
+mw:sarvahfdA:case 3 of sarvahfd
+mw:savyazwf:cpd1 -z=savya+stf
+mw:sahagAminI:f of sahagAmin
+mw:sahajanyI:f of sahajanya
+mw:sahastatalam:cpd1 +m=sahasta-tala
+mw:sahasrakalaSasnapanAdi:cpd5=sahasra-kalaSa-(snapana+Adi)
+mw:sahasvatI:f of sahasvat
+mw:sAkamprasTAyya:cpd1=sAkam-prasTAyya
+mw:sAntvada:cpd1=sAntva-da
+mw:sABravatI:cpd1 vatI<-vat=sABra-vatI
+mw:sAmarzahAsam:cpd1 +m=sAmarza-hAsa
+mw:sAmavErya:cpd1a last vErya<-vEryA=sAma+vErya
+mw:sAyaMtUrya:cpd1=sAyaM-tUrya (hwnorm=sAyantUrya)
+mw:sAyaMDfti:cpd1=sAyaM-Dfti (hwnorm=sAyanDfti)
+mw:sAyamaDivAsa:cpd1=sAyam-aDivAsa
+mw:sAyamprAtaragnihotraprayoga:cpd3=sAyamprAtar-agnihotra-prayoga
+mw:siMhavikrAntagAmitA:cpd3=siMhavikrAnta-gAmi-tA
+mw:siMhAsanadvAtriMSatputtalikAvArttA:cpd3=siMhAsana-dvAtriMSat-puttalikA-vArttA (hwnorm=siMhAsanadvAtriMSatputtalikAvArtA)
+mw:siMhAsanadvAtriMSatputrikAvArttA:cpd3=siMhAsana-dvAtriMSat-putrikA-vArttA (hwnorm=siMhAsanadvAtriMSatputrikAvArtA)
+mw:sitapItaharinnIla:cpd3=sitapIta-harin-nIla
+mw:sitAsitakamaladalanayanatA:cpd3=sitAsita-kamala-dala-nayana-tA
+mw:sinDuvArikA:cpd1 vArikA<-vArika,vAraka=sinDu-vArikA
+mw:suKavatI:cpd1 vatI<-vat=suKa-vatI
+mw:sugezRA:cpd1 gezRA<-gezRa=su-gezRA
+mw:sucArudaSanA:cpd1=sucAru-daSanA
+mw:sujanaya:VERB N
+mw:sunandanI:f of sunandana
+mw:suparipUrRottamANgatA:suparipUrRa+uttamANga-tA
+mw:supuRyada:cpd1=supuRya-da
+mw:suptiNanta:cpd1=sup-tiNanta
+mw:suptottiTa:supta+ut+tiTa
+mw:supratizWitapARipAdatalatA:cpd3=supratizWita-pARi-pAda-tala-tA
+mw:subanta:cpd1=sub-anta
+mw:subarTa:cpd1=sub-arTa
+mw:suBrUnAsAkzikeSAnta:cpd5=su-BrU-(nAsA+akzi)-keSAnta
+mw:sumagaDI:f of sumagaDa
+mw:sumajjani:cpd1=sumaj-jani
+mw:surasI:f of surasa
+mw:suviBaktANgapratyaNgatA:suviBakta+aNga-pratyaNga,suviBakta+ANga-pratyaNga+tA
+mw:suSarmannagara:cpd1=suSarman-nagara
+mw:suSarmanpura:cpd1=suSarman-pura
+mw:suzamI:f of suzama
+mw:susamBramat:cpd1 samBra<-samBf(deriv) +sfx mat=su-samBra+mat
+mw:susTaya:VERB N
+mw:suhfnnArI:cpd1=suhfn-nArI (hwnorm=suhfnArI)
+mw:suhfnmitra:cpd1=suhfn-mitra
+mw:suhfnmuKa:cpd1=suhfn-muKa
+mw:sUrajI:cpd1=sUra-jI
+mw:sUryavatI:f of sUryavat
+mw:somakrayaRI:f of somakrayaRa
+mw:somaBAvA:cpd1 BAvA<-BAva=soma-BAvA
+mw:sOKyada:cpd1=sOKya-da
+mw:sOBAgyavatI:f of sOBAgyavat
+mw:sOSamikanTa:cpd1a last kanTa<-kanTA=sOSami+kanTa
+mw:stambahananI:cpd1=stamba-hananI
+mw:sTaRqilaSa:cpd1=sTaRqila-Sa
+mw:sTapuwaya:VERB N
+mw:snigDapARileKatA:cpd3 +sfx tA=snigDa-pARi-leKa+tA
+mw:spandasUtravimarSinI:cpd1=spandasUtra-vimarSinI
+mw:sPigdaGna:cpd1=sPig-daGna
+mw:sPuranmIna:cpd1=sPuran-mIna
+mw:smitapUrvABiBAzitA:smitapUrva+aBiBAzi-tA
+mw:smftiharikA:cpd1 harikA<-harika,haraka=smfti-harikA
+mw:sragviRI:f of sragvin
+mw:sravatpARipAdA:cpd1 pARipAdA<-pARipAda=sravat-pARipAdA
+mw:srukpAtra:cpd1=sruk-pAtra
+mw:srukpraRAlikA:cpd1=sruk-praRAlikA
+mw:srugAsAdana:cpd1=srug-AsAdana
+mw:srugjihva:cpd1=srug-jihva
+mw:srugvyUha:cpd1=srug-vyUha
+mw:svaHkAmya:VERB N
+mw:svapraButayA:case 4 of svapraButA
+mw:svayaMvakra:cpd1=svayaM-vakra
+mw:svayaMsaMvidDa:cpd1=svayaM-saMvidDa
+mw:svayaMhotf:cpd1=svayaM-hotf
+mw:svayamupAgata:cpd1=svayam-upAgata
+mw:svayamprokta:cpd1=svayam-prokta
+mw:svayamBramin:cpd1=svayam-Bramin
+mw:svargaya:VERB N
+mw:svarmaDya:cpd1=svar-maDya
+mw:svarvanniDana:cpd3 svarvan<-svarvat(sandhi)=svarvat-niDana
+mw:svalpadehA:cpd1 dehA<-deha=svalpa-dehA
+mw:svaSaktyA:case 4 of svaSakti
+mw:svAtmasaMvidupadeSa:cpd3 svAtma<-svAtman(sandhi)=svAtman-saMvid+upadeSa
+mw:svAdupuzpI:f of svAdupuzpa
+mw:svAdUkf:VERB K
+mw:svApakIya:VERB N
+mw:svizwakfccaturTa:cpd3 svizwakfc<-svizwakft(sandhi)=svizwakft-caturTa (hwnorm=svizwakfcaturTa)
+mw:haMsacarasvArodaya:cpd5=haMsa-cara-(svAra+udaya,svArA+udaya)
+mw:haMsavAraRagAminI:cpd3=haMsa-vAraRa-gAminI
+mw:haMsavikrAntagAmitA:cpd3 +sfx tA=haMsa-vikrAnta-gAmi+tA
+mw:hakkaya:VERB N
+mw:hatajyotirniSITa:cpd3=hata-jyotir-niSITa
+mw:hanumajjayantI:cpd1=hanumaj-jayantI
+mw:harajI:cpd1=hara-jI
+mw:harilIlAkfzRakOtaka:cpd3 +sfx ka=harilIlA-kfzRa-kOta+ka
+mw:harzavatI:f of harzavat
+mw:haviHSAlA:cpd1=haviH-SAlA
+mw:havirDUma:cpd1=havir-DUma
+mw:hastAgralagnA:cpd1=hastAgra-lagnA
+mw:hitEzitA:cpd1=hitEzi-tA
+mw:himavatI:f of himavat
+mw:hIL:VERB V
+mw:huMkArI:f of huMkAra (hwnorm=huNkArI)
+mw:hutaBugdiS:cpd3 hutaBug<-hutaBuj(sandhi)=hutaBuj-diS
+mw:hfllAsikA:cpd1=hfl-lAsikA (hwnorm=hflAsikA)
+mw:hF:VERB V
+mw:hevAkitA:cpd1=hevAki-tA
+mw:hvF:VERB V

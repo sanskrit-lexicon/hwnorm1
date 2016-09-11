@@ -1,0 +1,48 @@
+; special_misc.txt
+; Begun May 17, 2016
+; format is
+; dict:hw:comment  or dict:hw,L:comment
+; dict code is lower case
+pwg:aMsApay,43: verb. vgl aMSApay (cf mw aMS)
+pd:aGni,14271: abbrev form of aGniyA
+pd:aMsikA,609: prob. for AsikA 
+pd:aMsepAd,611: aMse = 7s of aMsa
+pd:aMsesunABAyuDa,613:aMse + (sunABa + AyuDa)
+pd:aMhikuwi,642: aMhi(?)+kuwi
+pd:aMhIyas,644: aMh+Iyas (cpd. of aMhu)
+pd:aHkAra,690: aH-kAra  (gram.)
+pd:akaN,709: gram.
+pd:akaY,717: gram.
+; May 18, 2016
+pd:aMvikA,22:variant of ambikA (cf mw)
+pwg:aMSaMBU,62409:  aMSam + BU; variant of aMSaBU ?
+pd:aMSaru,175: primary derivative of root aMS with 'ru' (w 1192) ?
+mw72:kadryac,13548: = kadryaYc
+gra:kadriac,2405: variant sp. of kadryaYc
+gra:kuDryac,2596: = kuDryaYc (pwg)
+pwg:kuDryaYc,17723: = kuDryac (gra); in akuDryaYc (mw, etc)
+pw:kuDryak,28599: = kuDryac ('k' is n. indeclinable?)
+gra:devadriac,4442: = devadryac (mw)
+pw:devadrIc,: ?
+mw:devadryac,95745: 
+ap:devadryaYca,17524:  is the final 'a' a print error?
+gra:madryac,6542: = mw madryaYc
+mw:madryak,155283: ind. from madryaYc
+ap90:vizvadryac,26668: = vizvadryaYc (mw)
+mw:vizvadryak,202256: ind. from vizvadryaYc
+vcp:viSvac,41873: = viSvaYc (mw, etc)
+pd:aGac,13788: gram.
+pd:aGaY,13797: gram.
+pd:awac,24669: gram.
+;May 19,2016
+pd:aYaMSa,23996: gram = aY-aMSa
+pd:aYanta,23997: gram = aY-anta
+pd:aYit,24000: gram = a-Yit
+pd:aRat,25096: aR-at . (prap of aR ?)
+pd:aRiY,25168: gram. = a-RiY
+;
+pd:aMSAMSikA,258: aMSAMSa+ikA
+mw:aMSAMsi,34: = aMSAMSi (wil).  Is 'si' a print error or variant spelling?
+pwg:aMSApay,17: Denom. verb from aMSa
+pd:aMSukesarita,357: aMSu-kesarita   (kesarita? from kesarin or kesara?)
+mw:amlajuRqI,14615.1: also amla-duRqI. Neither juRqI or duRqI is found anywhere

@@ -1,0 +1,294 @@
+
+* hwnorm1c.txt
+  This is the main input for the whitelist program.  
+  It is file GitHub/hwnorm1/ejf/hwnorm1c/hwnorm1c.txt
+
+* 20160307 version
+python whitelist.py hwnorm1c.txt graylist.txt
+387951 records from hwnorm1c.txt
+187906 headwords coded as 0: In two or more dictionaries
+  4997 headwords coded as 0a: special words (icf, foreign, etc.)
+  6341 headwords coded as 1: key1=X+am and X+a is found
+   905 headwords coded as 2: SKD nouns ending in 'an' or 'in' shown as ending 'A' or 'I'
+   168 headwords coded as 2a: SKD nouns ending in 'f' shown as ending in 'A'
+ 18862 headwords coded as 3a: prefix of known word
+  9787 headwords coded as 3b: suffix of known word
+  2637 headwords coded as 5: probable f. nouns ending in 'A'
+ 74206 headwords coded as cpd1: simple compound of 2 parts
+ 10108 headwords coded as cpd2: simple compound of 3 or more parts
+ 72034 headwords coded as gray: Not yet whitelisted
+* Run on 20160405
+$ python whitelist.py hwnorm1c.txt graylist.txt
+387951 records from hwnorm1c.txt
+187906 headwords coded as 0: In two or more dictionaries
+  6227 headwords coded as 0a: special words (icf, foreign, etc.)
+  6341 headwords coded as 1: key1=X+am and X+a is found
+   905 headwords coded as 2: SKD nouns ending in 'an' or 'in' shown as ending 'A' or 'I'
+   168 headwords coded as 2a: SKD nouns ending in 'f' shown as ending in 'A'
+ 18633 headwords coded as 3a: prefix of known word
+  9787 headwords coded as 3b: suffix of known word
+   424 headwords coded as 3c: words ending in pseudo-suffix ga, ja
+  2637 headwords coded as 4a: probable f. nouns ending in 'A'
+   637 headwords coded as 4b: inflected form
+   314 headwords coded as 5a: kar<->kf
+   365 headwords coded as 5b: Ikf, IBU, Ikfta, IBUta
+ 75135 headwords coded as cpd1: simple compound of 2 parts, first ending in 'aiufeo'
+  8645 headwords coded as cpd1a: simple compound of 2 parts, first ending at 'A,I'
+  9921 headwords coded as cpd2: simple compound of 3 or more parts, each part ending in 'aiufeo'
+  3823 headwords coded as cpd2a: simple compound of 3 or more parts, each part ending in 'aiufeoA'
+ 14182 headwords coded as cpdsrs1: Simple compound with vowel sandhi at 'AoeEO'
+ 41901 headwords coded as gray: Not yet whitelisted
+
+* Run on 20160407
+ Using a new hwnorm1c.txt
+$ python whitelist.py hwnorm1c.txt graylist.txt
+386339 records from hwnorm1c.txt
+187962 headwords coded as 0: In two or more dictionaries
+  6224 headwords coded as 0a: special words (icf, foreign, etc.)
+  6344 headwords coded as 1: key1=X+am and X+a is found
+   905 headwords coded as 2: SKD nouns ending in 'an' or 'in' shown as ending 'A' or 'I'
+   168 headwords coded as 2a: SKD nouns ending in 'f' shown as ending in 'A'
+ 18554 headwords coded as 3a: prefix of known word
+  9765 headwords coded as 3b: suffix of known word
+   418 headwords coded as 3c: words ending in pseudo-suffix ga, ja
+  2627 headwords coded as 4a: probable f. nouns ending in 'A'
+   634 headwords coded as 4b: inflected form
+   310 headwords coded as 5a: kar<->kf
+   363 headwords coded as 5b: Ikf, IBU, Ikfta, IBUta
+ 74953 headwords coded as cpd1: simple compound of 2 parts, first ending in 'aiufeo'
+  8609 headwords coded as cpd1a: simple compound of 2 parts, first ending at 'A,I'
+  9851 headwords coded as cpd2: simple compound of 3 or more parts, each part ending in 'aiufeo'
+  3810 headwords coded as cpd2a: simple compound of 3 or more parts, each part ending in 'aiufeoA'
+ 14138 headwords coded as cpdsrs1: Simple compound with vowel sandhi at 'AoeEO'
+ 40704 headwords coded as gray: Not yet whitelisted
+* Run of Apr 8, 2016
+$ python whitelist.py hwnorm1c.txt graylist.txt
+386332 records from hwnorm1c.txt
+187963 headwords coded as 0: In two or more dictionaries
+  6224 headwords coded as 0a: special words (icf, foreign, etc.)
+  6344 headwords coded as 1: key1=X+am and X+a is found
+   905 headwords coded as 2: SKD nouns ending in 'an' or 'in' shown as ending 'A' or 'I'
+   168 headwords coded as 2a: SKD nouns ending in 'f' shown as ending in 'A'
+ 18554 headwords coded as 3a: prefix of known word
+  9765 headwords coded as 3b: suffix of known word
+   418 headwords coded as 3c: words ending in pseudo-suffix ga, ja
+  2627 headwords coded as 4a: probable f. nouns ending in 'A'
+   634 headwords coded as 4b: inflected form
+   309 headwords coded as 5a: kar<->kf
+   363 headwords coded as 5b: Ikf, IBU, Ikfta, IBUta
+ 74949 headwords coded as cpd1: simple compound of 2 parts, first ending in 'aiufeo'
+  8608 headwords coded as cpd1a: simple compound of 2 parts, first ending at 'A,I'
+  9851 headwords coded as cpd2: simple compound of 3 or more parts, each part ending in 'aiufeo'
+  3810 headwords coded as cpd2a: simple compound of 3 or more parts, each part ending in 'aiufeoA'
+ 14138 headwords coded as cpdsrs1: Simple compound with vowel sandhi at 'AoeEO'
+ 40702 headwords coded as gray: Not yet whitelisted
+* Apr 9, 2016.  Variants for SKD (code='2')
+386332 records from hwnorm1c.txt
+187963 headwords coded as 0: In two or more dictionaries
+  6224 headwords coded as 0a: special words (icf, foreign, etc.)
+  6344 headwords coded as 1: key1=X+am and X+a is found
+  1619 headwords coded as 2: SKD nouns shown in nominative singular
+ 18529 headwords coded as 3a: prefix of known word
+  9765 headwords coded as 3b: suffix of known word
+   418 headwords coded as 3c: words ending in pseudo-suffix ga, ja
+  2627 headwords coded as 4a: probable f. nouns ending in 'A'
+   630 headwords coded as 4b: inflected form
+   309 headwords coded as 5a: kar<->kf
+   363 headwords coded as 5b: Ikf, IBU, Ikfta, IBUta
+ 74757 headwords coded as cpd1: simple compound of 2 parts, first ending in 'aiufeo'
+  8590 headwords coded as cpd1a: simple compound of 2 parts, first ending at 'A,I'
+  9842 headwords coded as cpd2: simple compound of 3 or more parts, each part ending in 'aiufeo'
+  3809 headwords coded as cpd2a: simple compound of 3 or more parts, each part ending in 'aiufeoA'
+ 14131 headwords coded as cpdsrs1: Simple compound with vowel sandhi at 'AoeEO'
+ 40412 headwords coded as gray: Not yet whitelisted
+* Apr 15, 2016
+$ python whitelist.py hwnorm1c.txt graylist.txt
+385905 records from hwnorm1c.txt
+187955 headwords coded as 0: In two or more dictionaries
+  6225 headwords coded as 0a: special words (icf, foreign, etc.)
+  6343 headwords coded as 1: key1=X+am and X+a is found
+  1759 headwords coded as 2: SKD nouns shown in nominative singular
+ 18461 headwords coded as 3a: prefix of known word
+  9754 headwords coded as 3b: suffix of known word
+   418 headwords coded as 3c: words ending in pseudo-suffix ga, ja
+  2624 headwords coded as 4a: probable f. nouns ending in 'A'
+   630 headwords coded as 4b: inflected form
+   309 headwords coded as 5a: kar<->kf
+   364 headwords coded as 5b: Ikf, IBU, Ikfta, IBUta
+ 74615 headwords coded as cpd1: simple compound of 2 parts, first ending in 'aiufeo'
+  8570 headwords coded as cpd1a: simple compound of 2 parts, first ending at 'A,I'
+  9832 headwords coded as cpd2: simple compound of 3 or more parts, each part ending in 'aiufeo'
+  3804 headwords coded as cpd2a: simple compound of 3 or more parts, each part ending in 'aiufeoA'
+ 14115 headwords coded as cpdsrs1: Simple compound with vowel sandhi at 'AoeEO'
+ 40127 headwords coded as gray: Not yet whitelisted
+* filterdict.py
+As of May 18, 2016,  hwnorm1c.txt is from hwnorm1 directory, so
+the code below is not quite right
+
+python filterdict.py hwnorm1c.txt <outputfile> dict1 [dict2 ...]
+Examples:
+python filterdict.py hwnorm1c.txt cae-only.txt cae
+python filterdict.py hwnorm1c.txt ccs-only.txt ccs
+python filterdict.py hwnorm1c.txt cae-ccs-only.txt cae ccs
+ 874 cae-only.txt   
+ 152 ccs-only.txt
+ 366 cae-ccs-only.txt
+
+* Apr 18, 2016
+cp ~/Documents/GitHub/hwnorm1/ejf/hwnorm1c/hwnorm1c.txt .
+
+$ python whitelist.py hwnorm1c.txt graylist.txt
+385598 records from hwnorm1c.txt
+187977 headwords coded as 0: In two or more dictionaries
+  6225 headwords coded as 0a: special words (icf, foreign, etc.)
+  6340 headwords coded as 1: key1=X+am and X+a is found
+  1759 headwords coded as 2: SKD nouns shown in nominative singular
+ 18448 headwords coded as 3a: prefix of known word
+  9750 headwords coded as 3b: suffix of known word
+   417 headwords coded as 3c: words ending in pseudo-suffix ga, ja
+  2622 headwords coded as 4a: probable f. nouns ending in 'A'
+   629 headwords coded as 4b: inflected form
+   309 headwords coded as 5a: kar<->kf
+   364 headwords coded as 5b: Ikf, IBU, Ikfta, IBUta
+ 74540 headwords coded as cpd1: simple compound of 2 parts, first ending in 'aiufeo'
+  8558 headwords coded as cpd1a: simple compound of 2 parts, first ending at 'A,I'
+  9826 headwords coded as cpd2: simple compound of 3 or more parts, each part ending in 'aiufeo'
+  3796 headwords coded as cpd2a: simple compound of 3 or more parts, each part ending in 'aiufeoA'
+ 14101 headwords coded as cpdsrs1: Simple compound with vowel sandhi at 'AoeEO'
+ 39937 headwords coded as gray: Not yet whitelisted
+* Apr 18, 2016 filterdict
+python filterdict.py hwnorm1c.txt cae-only.txt cae
+python filterdict.py hwnorm1c.txt ccs-only.txt ccs
+python filterdict.py hwnorm1c.txt cae-ccs-only.txt cae ccs
+ 567 cae-only.txt   
+ 145 ccs-only.txt
+ 373 cae-ccs-only.txt
+* Apr 18, 2016  modify whitelist.py
+a third command-line parameter specifies the directory into which
+output files are written.
+python whitelist.py 
+python whitelist.py hwnorm1c.txt graylist.txt output/all
+python whitelist-subset.py hwnorm1c.txt  graylist.txt output/cae-ccs cae-ccs-only.txt
+* Apr 19, 2016 redo whitelist
+cp ~/Documents/GitHub/hwnorm1/ejf/hwnorm1c/hwnorm1c.txt .
+mkdir output/20160419
+python whitelist.py hwnorm1c.txt graylist.txt output/20160419
+385578 records from hwnorm1c.txt
+187957 headwords coded as 0: In two or more dictionaries
+  6225 headwords coded as 0a: special words (icf, foreign, etc.)
+  6340 headwords coded as 1: key1=X+am and X+a is found
+  1759 headwords coded as 2: SKD nouns shown in nominative singular
+ 18447 headwords coded as 3a: prefix of known word
+  9749 headwords coded as 3b: suffix of known word
+   417 headwords coded as 3c: words ending in pseudo-suffix ga, ja
+  2622 headwords coded as 4a: probable f. nouns ending in 'A'
+   629 headwords coded as 4b: inflected form
+   309 headwords coded as 5a: kar<->kf
+   364 headwords coded as 5b: Ikf, IBU, Ikfta, IBUta
+ 74538 headwords coded as cpd1: simple compound of 2 parts, first ending in 'aiufeo'
+  8558 headwords coded as cpd1a: simple compound of 2 parts, first ending at 'A,I'
+  9826 headwords coded as cpd2: simple compound of 3 or more parts, each part ending in 'aiufeo'
+  3796 headwords coded as cpd2a: simple compound of 3 or more parts, each part ending in 'aiufeoA'
+ 14101 headwords coded as cpdsrs1: Simple compound with vowel sandhi at 'AoeEO'
+ 39941 headwords coded as gray: Not yet whitelisted
+* Apr 19, 2016 SKD only
+python filterdict.py hwnorm1c.txt output/20160419/skd-only.txt skd
+python filterdict.py output/20160419/graylist.txt output/20160419/skd-only.txt skd
+
+* May 16, 2016. Redo whitelist
+NOW using hwnorm1/ejf/hwnorm1c/hwnorm1c.txt directly
+$ sh redo.sh
+regenerating graylist.txt and all whitelistX.txt files
+Reusing output/20160516
+385198 records from c:/Users/Jim/Documents/GitHub/hwnorm1/ejf/hwnorm1c/hwnorm1c.txt
+187973 headwords coded as 0: In two or more dictionaries
+  6222 headwords coded as 0a: special words (icf, foreign, etc.)
+  2170 headwords coded as 0b: special no change words
+  6335 headwords coded as 1: key1=X+am and X+a is found
+  1765 headwords coded as 2: SKD nouns shown in nominative singular
+ 18365 headwords coded as 3a: prefix of known word
+  9703 headwords coded as 3b: suffix of known word
+   414 headwords coded as 3c: words ending in pseudo-suffix ga, ja
+  2594 headwords coded as 4a: probable f. nouns ending in 'A'
+   623 headwords coded as 4b: inflected form
+   302 headwords coded as 5a: kar<->kf
+   359 headwords coded as 5b: Ikf, IBU, Ikfta, IBUta
+ 74207 headwords coded as cpd1: simple compound of 2 parts, first ending in 'aiufeo'
+  8498 headwords coded as cpd1a: simple compound of 2 parts, first ending at 'A,I'
+  9733 headwords coded as cpd2: simple compound of 3 or more parts, each part ending in 'aiufeo'
+  3776 headwords coded as cpd2a: simple compound of 3 or more parts, each part ending in 'aiufeoA'
+ 13965 headwords coded as cpdsrs1: Simple compound with vowel sandhi at 'AoeEO'
+ 38194 headwords coded as gray: Not yet whitelisted
+* May 17, 2016
+$ sh redo.sh
+Recreating auxiliary/special.txt
+regenerating graylist.txt and all whitelistX.txt files
+Reusing output/20160517
+385198 records from c:/Users/Jim/Documents/GitHub/hwnorm1/ejf/hwnorm1c/hwnorm1c.txt
+187973 headwords coded as 0: In two or more dictionaries
+  6357 headwords coded as 1: key1=X+am and X+a is found
+  1773 headwords coded as 2: SKD nouns shown in nominative singular
+ 19239 headwords coded as 3a: prefix of known word
+ 11098 headwords coded as 3b: suffix of known word
+  7424 headwords coded as 0a: special words (icf, foreign, etc.)
+  2594 headwords coded as 4a: probable f. nouns ending in 'A'
+   618 headwords coded as 4b: inflected form
+ 74046 headwords coded as cpd1: simple compound of 2 parts, first ending in 'aiufeoAIOxs'
+  8766 headwords coded as cpd1a: simple compound of 2 parts, first ending at 'A,I'
+   697 headwords coded as cpd1b: simple compound of 2 parts, first ending at 't'
+  9717 headwords coded as cpd2: simple compound of 3 or more parts, each part ending in 'aiufeo'
+  4450 headwords coded as cpd2a: simple compound of 3 or more parts, each part ending in 'aiufeoAI'
+ 17721 headwords coded as cpdsrs1: Simple compound with vowel sandhi at 'AIUoeEOvy'
+  3321 headwords coded as cpdsrs1a: non-Simple compound with vowel sandhi at 'AIUoeEOvy'
+    16 headwords coded as 5a: kar<->kf
+    57 headwords coded as 5b: Ikf, IBU, Ikfta, IBUta
+   810 headwords coded as 3bcpd: Compound word + suffix
+   633 headwords coded as 3acpd: prefix + Compound word
+  1063 headwords coded as cpdsandhi1: Compound word with sandhi
+   808 headwords coded as 3a1: prefix of known compound
+ 26017 headwords coded as gray: Not yet whitelisted
+
+* Mar 18, 2016
+save previous whitelist.py as old/whitelist-20160307.py
+Refactor whitelist.py.
+In the main routine, the previous version iterated first over the
+various codes, and for each code called the accompanying whitelist<code> 
+function which iterated over all the records.
+
+In the refactoring, the main program iterates over all records and, for
+each record iterates over the codes.
+
+* June 17, 2016 (21846 to go)
+
+See output/20160617/
+$ sh redo.sh
+Recreating auxiliary/special.txt
+regenerating graylist.txt and all whitelistX.txt files
+Creating output/20160617
+385049 records from c:/Users/Jim/Documents/GitHub/hwnorm1/ejf/hwnorm1c/hwnorm1c.txt
+187979 headwords coded as 0: In two or more dictionaries
+  6357 headwords coded as 1: key1=X+am and X+a is found
+  1773 headwords coded as 2: SKD nouns shown in nominative singular
+ 19235 headwords coded as 3a: prefix of known word
+ 11095 headwords coded as 3b: suffix of known word
+  8823 headwords coded as 0a: special words (icf, foreign, etc.)
+  2590 headwords coded as 4a: probable f. nouns ending in 'A'
+   618 headwords coded as 4b: inflected form
+ 74023 headwords coded as cpd1: simple compound of 2 parts, first ending in 'aiufeoAIOxs'
+  8751 headwords coded as cpd1a: simple compound of 2 parts, first ending at 'A,I'
+   698 headwords coded as cpd1b: simple compound of 2 parts, first ending at 't'
+  9714 headwords coded as cpd2: simple compound of 3 or more parts, each part ending in 'aiufeo'
+  4443 headwords coded as cpd2a: simple compound of 3 or more parts, each part ending in 'aiufeoAI'
+ 17697 headwords coded as cpdsrs1: Simple compound with vowel sandhi at 'AIUoeEOvy'
+  3320 headwords coded as cpdsrs1a: non-Simple compound with vowel sandhi at 'AIUoeEOvy'
+    16 headwords coded as 5a: kar<->kf
+    57 headwords coded as 5b: Ikf, IBU, Ikfta, IBUta
+   810 headwords coded as 3bcpd: Compound word + suffix
+   629 headwords coded as 3acpd: prefix + Compound word
+  1104 headwords coded as cpdsandhi1: Compound word with sandhi
+   819 headwords coded as 3a1: prefix of known compound
+    95 headwords coded as cpdsandhi2: Compound word with sandhi
+  2557 headwords coded as cpdsrs1b: non-Simple compound with vowel sandhi at 'AIUoeEOvy'
+ 21846 headwords coded as gray: Not yet whitelisted
+
+*  THE END

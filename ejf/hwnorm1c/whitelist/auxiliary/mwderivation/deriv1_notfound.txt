@@ -1,0 +1,1997 @@
+mw:aktuBis:TODO = noparts
+mw:akzaryaMrevat:TODO = 2B	624	akzaryaMrevat	akzaryaM-revat	n		TODO	init
+mw:agastyagfhaspatika:TODO = 3	828.1	agastyagfhaspatika	agastya-gfhaspatika	m:f:n		TODO	init:parent=agastya
+mw:acyAvin:TODO = 1	1857.1	acyAvin	a-cyAvin	m:f:n		TODO	init
+mw:awawyA:TODO = noparts
+mw:aqara:TODO = noparts
+mw:aquva:TODO = noparts
+mw:aTaryU:TODO = noparts
+mw:adayIya:TODO = noparts
+mw:aDyayanatapasI:TODO = 3	4494	aDyayanatapasI	aDy-ayana-tapasI	n		TODO	init:parent=aDyayana
+mw:anAjYayA:TODO = noparts
+mw:antaScaRqAla:TODO = 3	8172.3	antaScaRqAla	an~taS-caRqAla	NONE		NTD	init
+mw:apasalEH:TODO = 2	9836	apasalEH	apa-salEH	ind		TODO	init:parent=apasalavi
+mw:apAtrIkarana:TODO = 2	10003	apAtrIkarana	a-pAtrI-karana	n		TODO	init:parent=apAtra
+mw:apASraga:TODO = 1	10096	apASraga	apA@Sraga	m:f:n		TODO	init
+mw:apivatI:TODO = 2	10204	apivatI	api-vatI	f		TODO	init:parent=apivat:VERB
+mw:apisomopITa:TODO = 1	10227.1	apisomopITa	api-somopITa	m:f:n		TODO	init
+mw:apuvAyate:TODO = 2	10879.2	apuvAyate	apuvAyate	NONE		NTD	init
+mw:apej:TODO = 1	10386	apej	ape@j	NONE		NTD	init
+mw:aptoryAman:TODO = 2	10446	aptoryAman	aptor-yAman	m		TODO	init:parent=aptu
+mw:apsarAyita:TODO = noparts
+mw:abjala:TODO = noparts
+mw:abbA:TODO = noparts
+mw:aBigUryA:TODO = 2	11292	aBigUryA	aBi-gUryA	NONE		NTD	init
+mw:aBicAkaS:TODO = 1	11359	aBicAkaS	aBi-cAkaS	NONE		NTD	init
+mw:aBijidviSvajitO:TODO = 3	11400	aBijidviSvajitO	aBijid-viSvajitO	INFLECTID=f1d,STEM=aBijidviSvajit		TODO	init:parent=aBijit
+mw:aBito:TODO = 2	11193	aBito	aBito	NONE		NTD	init
+mw:aBinimlupta:TODO = 1	11638	aBinimlupta	aBi-ni-mlupta	NONE		NTD	init
+mw:aBizavaRIs:TODO = 2B	12615	aBizavaRIs	aBi-zavaRIs	INFLECTID=aBizavaRIs,STEM=aBizavaRI		TODO	init
+mw:aBIpsat:TODO = 2	13431	aBIpsat	aBI@psat	m:f#atI:f#antI:n		TODO	init:parent=aByAp:VERB
+mw:aBIr:TODO = 1	13041	aBIr	aBI@r	NONE		NTD	init
+mw:amamrI:TODO = noparts
+mw:ambuDakAminI:TODO = 3	14508.1	ambuDakAminI	ambu-DakAminI	f		TODO	init:parent=ambu
+mw:amBaHsyAmAka:TODO = 3	14574	amBaHsyAmAka	amBaH-syAmAka	m		TODO	init:parent=amBaH
+mw:ammarA:TODO = noparts
+mw:ayukSakti:TODO = 3	14920	ayukSakti	ayuk-Sakti	m		TODO	init:parent=ayuj
+mw:araMkftyA:TODO (hwnorm=araNkftyA) = 3	15181	araMkftyA	araM-kftyA	NONE		NTD	init
+mw:araqa:TODO = 2	15045.1	araqa	a-raqa	m		TODO	init:parent=arawu
+mw:araRyakulaTikA:TODO = 3	15073	araRyakulaTikA	araRya-kulaTikA	f		TODO	init:parent=araRya
+mw:arula:TODO = noparts
+mw:aruzI:TODO = noparts
+mw:argalya:TODO = noparts
+mw:arcas:TODO = noparts
+mw:arcisArcizmat:TODO = 3B	15734	arcisArcizmat	arcis-Arciz-mat	m		TODO	init
+mw:arcisArcizmatI:TODO = 3B	15736	arcisArcizmatI	arcis-Arciz-matI	f		TODO	init
+mw:arRo:TODO = 2	15827	arRo	arRo	NONE		NTD	init
+mw:arTaSabdO:TODO = 3	15981	arTaSabdO	arTa-SabdO	INFLECTID=m1d,STEM=arTaSabda		TODO	init:parent=arTa
+mw:arTuzya:TODO = noparts
+mw:arDadvicaturaska:TODO = 3	16177.1	arDadvicaturaska	arDa-dvi-caturaska	n		TODO	init:parent=arDa
+mw:arDAntarEkavAcaka:TODO = 3	16290.1	arDAntarEkavAcaka	ar~DA@ntarE@ka-vAcaka	m		TODO	init:parent=arDa
+mw:arpima:TODO = noparts
+mw:arpiSa:TODO = noparts
+mw:arpiza:TODO = noparts
+mw:aryamiya:TODO = noparts
+mw:arzaRin:TODO = noparts
+mw:arzwf:TODO = noparts
+mw:arhasAna:TODO = noparts
+mw:aluma:TODO = noparts
+mw:alopI:TODO = 2	16807.1	alopI	a-lopI	f		TODO	init:parent=alopa
+mw:aloluptva:TODO = 3	16818	aloluptva	alolup-tva	n		TODO	init:parent=alolupa
+mw:algaRqu:TODO = 1	16824.1	algaRqu	algaRqu	NONE		NTD	init
+mw:avawyAyanI:TODO = noparts
+mw:avaDes:TODO = 2C	17461	avaDes	ava-Des	ind		TODO	init
+mw:avanektf:TODO = 2	17592	avanektf	ava-nektf	NONE		NTD	init
+mw:avarunDam:TODO = 2	17923	avarunDam	ava-runDam	NONE		NTD	init
+mw:avaSarDayitf:TODO = 3	18165.2	avaSarDayitf	ava~SarDayitf	m		TODO	init:parent=avaSfD:VERB
+mw:avasarjita:TODO = 2	18305	avasarjita	ava-sarjita	m:f:n		TODO	init:parent=avasfj:VERB
+mw:avAkCruti:TODO = 3	18501.1	avAkCruti	avAk-Cruti	m:f:n		TODO	init:parent=avAk
+mw:avAcina:TODO = noparts
+mw:aviBraMsin:TODO = 2	18934	aviBraMsin	a-viBraMsin	m:f:n		TODO	init:parent=aviBraMSa
+mw:avivararm:TODO = 1	19113	avivararm	a-vivararm	ind		TODO	init
+mw:avokzaRIya:TODO = 2	19217.1	avokzaRIya	avo@kzaRIya	m:f:n		TODO	init:parent=avokz
+mw:aSanAyApipAse:TODO = 3	19427	aSanAyApipAse	aSanAyA-pipAse	INFLECTID=f1d,STEM=aSanAyApipAsA		TODO	init:parent=aSanAyA
+mw:aSnat:TODO = noparts
+mw:aSni:TODO = noparts
+mw:aSmayu:TODO = noparts
+mw:aSlika:TODO = 1	19863	aSlika	a-Slika	NONE		NTD	init
+mw:aSvakzaBa:TODO = 3	19885	aSvakzaBa	aSva-kzaBa	m:f#A:n		TODO	init:parent=aSva
+mw:asampuza:TODO = 1	20733.1	asampuza	a-sampuza	m		TODO	init
+mw:asUsU:TODO = 2	21137	asUsU	a-sUsU	m:f:n		TODO	init:parent=asU
+mw:astaMyAt:TODO = 3	21252	astaMyAt	asta-M-yAt	NONE		NTD	init
+mw:asmadryak:TODO = noparts
+mw:ahiMkfti:TODO (hwnorm=ahiNkfti) = 2	21893.2	ahiMkfti	a-hiMkfti	m:f:n		TODO	init:parent=ahiMkAra
+mw:ahinilvayanI:TODO = 3	21839.1	ahinilvayanI	ahi-nilvayanI	f		TODO	init:parent=ahi
+mw:AkzikI:TODO = noparts
+mw:AKidat:TODO = 2	22483	AKidat	A-Kidat	m:f:n		TODO	init:parent=AKid:VERB
+mw:AKyAyanI:TODO = 2	22522.1	AKyAyanI	A-KyAyanI	f		TODO	init:parent=AKyA:VERB
+mw:AgIgrAma:TODO = noparts
+mw:AgUHkaraRa:TODO = 2	22649	AgUHkaraRa	AgUH-karaRa	n		TODO	init:parent=Agur:VERB
+mw:AgUrya:TODO = 2	22653	AgUrya	A-gUrya	NONE		NTD	init
+mw:AgnIDrI:TODO = noparts
+mw:AgrayaRI:TODO = noparts
+mw:AgrahAyaRi:TODO = noparts
+mw:AGawwalikA:TODO = noparts
+mw:AcCAdayitvA:TODO (hwnorm=ACAdayitvA) = 2	23000.1	AcCAdayitvA	A-cCAdayitvA	ind		TODO	init:parent=AcCad:VERB
+mw:AqindikA:TODO = noparts
+mw:AQA:TODO = noparts
+mw:AQika:TODO = noparts
+mw:ARuka:TODO = noparts
+mw:ARqIvatAyani:TODO = 2	23327	ARqIvatAyani	ARqIvatAyani	NONE		NTD	init
+mw:AtapatrAyita:TODO = 4	23360	AtapatrAyita	A-tapa-t~rA@yita	m:f:n		TODO	init:parent=Atapatra
+mw:AtaSca:TODO = 1	23386	AtaSca	A@taS-ca	NONE		NTD	init
+mw:AttasomapITIya:TODO = 3	23774.3	AttasomapITIya	Atta-somapITIya	m:f:n		TODO	init:parent=Atta
+mw:AttAm:TODO = 2	23453	AttAm	A@ttAm	NONE		NTD	init
+mw:AdityacandrO:TODO = 3	23917	AdityacandrO	Aditya-candrO	INFLECTID=m1d,STEM=Adityacandra		TODO	init:parent=Aditya
+mw:AndIra:TODO = noparts
+mw:AnDAsvara:TODO = 1	24725.1	AnDAsvara	AnDA-svara	n		TODO	init
+mw:AnDrI:TODO = noparts
+mw:Apfta:TODO = 2	25018	Apfta	A-pfta	m:f:n		TODO	init:parent=Apf:VERB
+mw:ApoTya:TODO = 2	25006	ApoTya	A-poTya	NONE		NTD	init
+mw:Abarhita:TODO = 2	25213	Abarhita	A-barhita	m:f:n		TODO	init:parent=Abfh:VERB
+mw:AmantraRika:TODO = 2	25467.1	AmantraRika	A-mantraRika	n		TODO	init:parent=Amantr:VERB
+mw:AmitrAyaRi:TODO = noparts
+mw:AmIvita:TODO = 2	25544	AmIvita	A-mIvita	m:f:n		TODO	init:parent=AmIv:VERB
+mw:AmuzyakulikA:TODO = noparts
+mw:AmraguptAyani:TODO = 4	25656.1	AmraguptAyani	Amra-guptAyani	m		TODO	init:parent=Amragupta
+mw:AmrAtakI:TODO = noparts
+mw:AyAsadayin:TODO = 3	25837.2	AyAsadayin	A-yAsa-dayin	m:f:n		TODO	init:parent=Ayasa
+mw:Aracayya:TODO = 2	26054	Aracayya	A-racayya	NONE		NTD	init
+mw:AradDAyani:TODO = noparts
+mw:Aralu:TODO = noparts
+mw:ArAgita:TODO = 3	26157.4	ArAgita	ArA~gita	m:f:n		TODO	init:parent=ArAgaya:VERB
+mw:ArkalUzAyaRa:TODO = noparts
+mw:ArkalUzAyaRi:TODO = noparts
+mw:ArkAyaRi:TODO = noparts
+mw:ArkzAkAyaRa:TODO = 2	26397.1	ArkzAkAyaRa	ArkzAkAyaRa	NONE		NTD	init
+mw:ArzI:TODO = noparts
+mw:Arhantya:TODO = noparts
+mw:Alapya:TODO = 2	26685	Alapya	A-lapya	NONE		NTD	init
+mw:AligavyAyanI:TODO = noparts
+mw:Alipya:TODO = 2	26845	Alipya	A-lipya	NONE		NTD	init
+mw:Allakeya:TODO = 1	26940.1	Allakeya	Allakeya	NONE		NTD	init
+mw:AvikI:TODO = noparts
+mw:AvoDavE:TODO = 1	27311.1	AvoDavE	A-voDavE	NONE		NTD	init
+mw:ASocani:TODO = noparts
+mw:ASpfSya:TODO = 2	28199	ASpfSya	A-SpfSya	NONE		NTD	init
+mw:ASvatarAsvi:TODO = 2	27744.1	ASvatarAsvi	ASvatarA@svi	m		TODO	init:parent=ASva
+mw:ASvameDikI:TODO = noparts
+mw:AhutIzahi:TODO = 3	28363.1	AhutIzahi	A-hutI-zahi	m:f:n		TODO	init:parent=Ahuti
+mw:AhvAyikA:TODO = noparts
+mw:icCayA:TODO (hwnorm=iCayA) = noparts
+mw:ijjAdevI:TODO = 1	28662.1	ijjAdevI	ijjA-devI	f		TODO	init
+mw:iqas:TODO = 2	28691	iqas	iqas	NONE		NTD	init
+mw:iqaspade:TODO = 3	28693	iqaspade	iqas-pade	NONE		NTD	init
+mw:iqAyAspade:TODO = 3	28702	iqAyAspade	iqA~yAs-pade	ind		TODO	init:parent=iqA
+mw:ititi:TODO = 3	28773.3	ititi	i~titi	NONE		NTD	init
+mw:idahA:TODO = noparts
+mw:idAvatsarIya:TODO = noparts
+mw:indrI:TODO = noparts
+mw:inDita:TODO = noparts
+mw:irgalIya:TODO = noparts
+mw:irgalya:TODO = noparts
+mw:illisa:TODO = noparts
+mw:izan:TODO = noparts
+mw:izwATititva:TODO = 3	29578.2	izwATititva	iz~wA@Tititva	n		TODO	init:parent=izwa
+mw:izvanIkIya:TODO = 4	29496	izvanIkIya	izv~anIkIya	m:f:n		TODO	init:parent=izvanIka
+mw:ILita:TODO = noparts
+mw:IdfSIdfktA:TODO = 3	29742	IdfSIdfktA	I-dfS-Idfk-tA	f		TODO	init:parent=IdfS
+mw:IlinI:TODO = noparts
+mw:ISinI:TODO = noparts
+mw:IzadAQyaMkara:TODO (hwnorm=IzadAQyaNkara) = 3	29945	IzadAQyaMkara	Izad-AQyaM-kara	m:f:n		TODO	init:parent=Izad
+mw:IzadAQyaMBava:TODO (hwnorm=IzadAQyamBava) = 3	29946	IzadAQyaMBava	Izad-AQyaM-Bava	m:f:n		TODO	init:parent=Izad
+mw:uktamASra:TODO = 3	30018.2	uktamASra	ukta-mASra	m:f:n		TODO	init:parent=ukta
+mw:ugrI:TODO = noparts
+mw:uccArayitf:TODO = 2	30343	uccArayitf	uc-cArayitf	m:f:n		TODO	init:parent=uccar:VERB
+mw:ucCiNKana:TODO (hwnorm=uCiNKana) = 1	30391	ucCiNKana	uc-CiNKana	n		TODO	init
+mw:ucCuna:TODO (hwnorm=uCuna) = 1	30442.1	ucCuna	uc-Cuna	m		TODO	init
+mw:uqumbarAvatI:TODO = 3	30658	uqumbarAvatI	uqumbarA-vatI	f		TODO	init:parent=uqumbara
+mw:uqumbarI:TODO = noparts
+mw:utkalikAvElarI:TODO = 3	30769.1	utkalikAvElarI	ut-kalikA-vElarI	f		TODO	init:parent=utkalikA
+mw:utkliSya:TODO = 2	30953	utkliSya	ut-kliSya	NONE		NTD	init
+mw:utkzepO:TODO = 2A	30980	utkzepO	ut-kzepO	INFLECTID=m1d,STEM=utkzepa		TODO	init
+mw:uttamottamika:TODO = 3	31133.2	uttamottamika	utta~mo@ttamika	n		TODO	init:parent=uttama
+mw:uttarapadakIya:TODO = 3	31237	uttarapadakIya	uttara~padakIya	m:f:n		TODO	init:parent=uttara
+mw:uttuNgita:TODO = noparts
+mw:utpipAna:TODO = 2	31728.1	utpipAna	ut-pipAna	NONE		NTD	init
+mw:utpraBAtIya:TODO = 2	31784.1	utpraBAtIya	ut-praBAtIya	NONE		NTD	init
+mw:utsaNginI:TODO = noparts
+mw:utsvapnAyita:TODO = noparts
+mw:udaraBaraRamAtrakevalecCu:TODO (hwnorm=udaraBaraRamAtrakevaleCu) = 3	32368	udaraBaraRamAtrakevalecCu	udara-BaraRamAtra-kevale@cCu	m:f:n		TODO	init:parent=udara
+mw:udfci:TODO = 2C	32408	udfci	ud-fci	ind		TODO	init
+mw:udgranTya:TODO = 2	32817	udgranTya	ud-granTya	NONE		NTD	init
+mw:udDarotsfjA:TODO = 3	33159	udDarotsfjA	udDaro@tsfjA	f		TODO	init:parent=udDara
+mw:unnamya:TODO = 2	33811	unnamya	un-namya	NONE		NTD	init
+mw:unnIpam:TODO = 1	33867.1	unnIpam	un-nIpam	ind		TODO	init
+mw:unmadita:TODO = 2	33933	unmadita	un-madita	m:f:n		TODO	init:parent=unmad:VERB
+mw:unmardita:TODO = 2	34061	unmardita	un-mardita	m:f:n		TODO	init:parent=unmfd:VERB
+mw:unmuzita:TODO = 2	34038	unmuzita	un-muzita	m:f:n		TODO	init:parent=unmuz:VERB
+mw:upatsarya:TODO = 2	34651	upatsarya	upa-tsarya	NONE		NTD	init
+mw:upadadya:TODO = 2	34670	upadadya	upa-dadya	NONE		NTD	init
+mw:upadaSya:TODO = 2	34660	upadaSya	upa-daSya	ind		TODO	init:parent=upadaMS:VERB
+mw:upadIpayitvA:TODO = 2	34744	upadIpayitvA	upa-dIpayitvA	NONE		NTD	init
+mw:upaDOkita:TODO = 2	34614	upaDOkita	upa-DOkita	m:f:n		TODO	init:parent=upaQOk:VERB
+mw:upapakzO:TODO = 1A	35046	upapakzO	upa-pakzO	INFLECTID=m1d,STEM=upapakza		TODO	init
+mw:upapalyayya:TODO = 2	35112	upapalyayya	upa-paly-ayya	NONE		NTD	init
+mw:upaBrita:TODO = 2	35263	upaBrita	upa-Brita	m:f:n		TODO	init:parent=upaBf:VERB
+mw:upayazwri:TODO = 2	35378	upayazwri	upa-yazwri	m		TODO	init:parent=upayaj:VERB
+mw:upalaDi:TODO = 1	35646	upalaDi	upalaDi	NONE		NTD	init
+mw:upalipya:TODO = 2	35686	upalipya	upa-lipya	NONE		NTD	init
+mw:upavatsyat:TODO = 1	35717	upavatsyat	upa-vatsyat	SEE		NTD	init
+mw:upavfMhin:TODO = 2	35838	upavfMhin	upa-vfMhin	m:f:n		TODO	init:parent=upavfMh:VERB
+mw:upaSikzana:TODO = 2	35925.1	upaSikzana	upa-Sikzana	n		TODO	init:parent=upaSikzA
+mw:upasaMSasya:TODO = 2	36016	upasaMSasya	upa-saMSasya	NONE		NTD	init
+mw:upasaMsfpya:TODO = 2	36029	upasaMsfpya	upa-saMsfpya	NONE		NTD	init
+mw:upasadDoma:TODO = 3	36107.1	upasadDoma	upasad-Doma	m		TODO	init:parent=upasad
+mw:upasAntvya:TODO = 2	36202	upasAntvya	upa-sAntvya	ind		TODO	init:parent=upasAntvaya:VERB
+mw:upasicya:TODO = 2	36205	upasicya	upa-sicya	NONE		NTD	init
+mw:upastitaram:TODO = 3	36311	upastitaram	upa-sti-taram	ind	upasti-tara	DONE	wsfx:tara:w1242:+m
+mw:upaspijam:TODO = 1	36416	upaspijam	upa-spijam	ind		TODO	init
+mw:upADidUzakatAbIja:TODO = 3	36676	upADidUzakatAbIja	upA@-Di-dUzakatA-bIja	n		TODO	init:parent=upADi
+mw:upila:TODO = noparts
+mw:upoktavatI:TODO = 1	36992	upoktavatI	upo@kta-vatI	f		TODO	init
+mw:upodAsfpta:TODO = 2	37012	upodAsfpta	upo@dAsfpta	m:f:n		TODO	init:parent=upodAsfp:VERB
+mw:uBayI:TODO = noparts
+mw:umBita:TODO = noparts
+mw:uzwvA:TODO = 2	37863	uzwvA	uzwvA	NONE		NTD	init
+mw:uzRABiprAyin:TODO = 4	37804	uzRABiprAyin	uzRA@Bi~prAyin	m:f:n		TODO	init:parent=uzRABiprAya
+mw:uhlaRa:TODO = noparts
+mw:UKa:TODO = noparts
+mw:UpA:TODO = noparts
+mw:Urikf:TODO = 1	38003.1	Urikf	Uri-<root>kf	NONE		NTD	init
+mw:UrjayantatIrTa:TODO = noparts
+mw:fkTin:TODO = noparts
+mw:fkzI:TODO = noparts
+mw:fN:TODO = 2	38754	fN	fN	NONE		NTD	init
+mw:fDad:TODO = 2	38947	fDad	fDad	NONE		NTD	init
+mw:fDmuka:TODO = noparts
+mw:ekatfMSa:TODO = 3	39946.5	ekatfMSa	eka-tfMSa	NONE		NTD	init
+mw:ekato:TODO = 2	39953	ekato	ekato	NONE		NTD	init
+mw:ekadehO:TODO = 3B	39337	ekadehO	eka-dehO	INFLECTID=m1d,STEM=ekadeha		TODO	init
+mw:ekANgO:TODO = 3B	39766	ekANgO	ekA@NgO	INFLECTID=m1d,STEM=ekANga		TODO	init
+mw:ekAntaritin:TODO = 3	39833.1	ekAntaritin	ekA@ntaritin	m:f:n		TODO	init:parent=eka
+mw:ekAntarin:TODO = 3	39833.2	ekAntarin	ekA@ntarin	m:f:n		TODO	init:parent=eka
+mw:ekAnnaviMsa:TODO = 3	39845	ekAnnaviMsa	ekAn-na-viMsa	m		TODO	init:parent=eka
+mw:ekAnnaviMsatiDA:TODO = 3	39846	ekAnnaviMsatiDA	ekAn-na-viMsati-DA	ind		TODO	init:parent=eka
+mw:ekzya:TODO = 2	39974	ekzya	e@kzya	NONE		NTD	init
+mw:eRikA:TODO = noparts
+mw:eRIkIya:TODO = 2	40028.2	eRIkIya	eRIkIya	NONE		NTD	init
+mw:etatkzaRe:TODO = 4	40065.1	etatkzaRe	etat-kzaRe	ind		TODO	init:parent=etatkzaRAt
+mw:etan:TODO = noparts
+mw:eDini:TODO = noparts
+mw:erakI:TODO = noparts
+mw:erA:TODO = noparts
+mw:EndraniGanwu:TODO = 2	40443.1	EndraniGanwu	Endra-niGanwu	NONE		NTD	init
+mw:EndrAyaRI:TODO = noparts
+mw:okta:TODO = 2	26945	okta	o@kta	m:f:n		TODO	init:parent=Avac:VERB
+mw:odanya:TODO = noparts
+mw:olj:TODO = 2	40723	olj	olj	NONE		NTD	init
+mw:ozwf:TODO = 1	40758	ozwf	ozwf	NONE		NTD	init
+mw:OKeya:TODO = noparts
+mw:Odamajji:TODO = noparts
+mw:OdambarI:TODO = noparts
+mw:OdumbarI:TODO = noparts
+mw:OdrAyaRa:TODO = noparts
+mw:OrasI:TODO = noparts
+mw:OrDva:TODO = 1	41208	OrDva	OrDva	NONE		NTD	init
+mw:OrvI:TODO = noparts
+mw:OlUKalO:TODO = noparts
+mw:OzwIna:TODO = noparts
+mw:kakum:TODO = 2	41494	kakum	kakum	NONE		NTD	init
+mw:kakkinda:TODO = noparts
+mw:kaNkawila:TODO = noparts
+mw:kaNgU:TODO = noparts
+mw:kacCAwI:TODO (hwnorm=kaCAwI) = noparts
+mw:kaYcidevA:TODO = noparts
+mw:kaqat:TODO = noparts
+mw:kaRWeguqa:TODO = 3	42529.1	kaRWeguqa	kaR~Weguqa	m		TODO	init:parent=kaRWa
+mw:kaRqUyanI:TODO = noparts
+mw:kaRvIya:TODO = noparts
+mw:kattfna:TODO = 3	42856	kattfna	kat-tfna	n		TODO	init:parent=kat
+mw:kapawanAtaka:TODO = 3	43335.1	kapawanAtaka	kapawa-nAtaka	n		TODO	init:parent=kapawa
+mw:kapotakI:TODO = noparts
+mw:kapPilla:TODO = 2	43692	kapPilla	kapPilla	NONE		NTD	init
+mw:kaPinI:TODO = noparts
+mw:kaPila:TODO = 2	43694	kaPila	kaPila	NONE		NTD	init
+mw:kamandaka:TODO = noparts
+mw:kampilvaka:TODO = noparts
+mw:kampIwa:TODO = noparts
+mw:kampIla:TODO = noparts
+mw:karaNkiRI:TODO = noparts
+mw:karaYjI:TODO = noparts
+mw:karad:TODO = 1	44433.1	karad	karad	NONE		NTD	init
+mw:karaBaYjika:TODO = 3	44131	karaBaYjika	kara-BaYjika	NONE		NTD	init
+mw:karIzaRI:TODO = noparts
+mw:karequka:TODO = noparts
+mw:karkaSI:TODO = noparts
+mw:karkeRata:TODO = noparts
+mw:karketila:TODO = noparts
+mw:karRinI:TODO = noparts
+mw:karpAsakI:TODO = noparts
+mw:karvawI:TODO = noparts
+mw:kalaca:TODO = noparts
+mw:kalamBi:TODO = noparts
+mw:kalpakeqAra:TODO = 3	46092	kalpakeqAra	kalpa-keqAra	m		TODO	init:parent=kalpa
+mw:kalpuza:TODO = noparts
+mw:kavawa:TODO = noparts
+mw:kaSerU:TODO = 2	46680	kaSerU	kaSerU	NONE		NTD	init
+mw:kahUza:TODO = noparts
+mw:kAkanI:TODO = noparts
+mw:kAkaSekikin:TODO = 3	47082.1	kAkaSekikin	kAka-Sekikin	m:f:n		TODO	init:parent=kAka
+mw:kAkutsTO:TODO = noparts
+mw:kAkocin:TODO = noparts
+mw:kAcCakI:TODO (hwnorm=kACakI) = noparts
+mw:kARWevidDI:TODO = 2B	47499	kARWevidDI	kARWevi~dDI	f		TODO	init
+mw:kARWevidDyA:TODO = 2B	47499.1	kARWevidDyA	kARWevi~dDyA	f		TODO	init
+mw:kARqAgnaka:TODO = 3	47552	kARqAgnaka	kARqA@gnaka	m:f:n		TODO	init:parent=kARqa
+mw:kAnTakyAyanI:TODO = 3	47807	kAnTakyAyanI	kAnTa~kyA@yanI	f		TODO	init:parent=kAnTakya
+mw:kApawavI:TODO = noparts
+mw:kAmaRqaleyI:TODO = noparts
+mw:kAmaprasTIya:TODO = 3	48118	kAmaprasTIya	kAma~prasTIya	m:f:n		TODO	init:parent=kAma
+mw:kAmalAyani:TODO = noparts
+mw:kAmAkuyatantra:TODO = 4	48225	kAmAkuyatantra	kAmA@kuya-tantra	n		TODO	init:parent=kAmAKya
+mw:kAmAgAyin:TODO = 3	48225.1	kAmAgAyin	kA~mA@gAyin	m:f:n		TODO	init:parent=kAma
+mw:kAmpilI:TODO = noparts
+mw:kAmpillikA:TODO = noparts
+mw:kAmbojikA:TODO = noparts
+mw:kAraYjI:TODO = noparts
+mw:kAratantavikI:TODO = noparts
+mw:kArkawyAyani:TODO = noparts
+mw:kArRacCidrika:TODO (hwnorm=kArRaCidrika) = noparts
+mw:kArtakOjapO:TODO = 3	48748	kArtakOjapO	kArta-kOjapO	INFLECTID=m1d,STEM=kArtakOjapa		TODO	init:parent=kArta
+mw:kArzRasundari:TODO = noparts
+mw:kAlabDI:TODO = noparts
+mw:kAliYjarI:TODO = noparts
+mw:kAlindikA:TODO = noparts
+mw:kAzAyI:TODO = noparts
+mw:kAzi:TODO = noparts
+mw:kikivi:TODO = noparts
+mw:kikI:TODO = noparts
+mw:kikkisa:TODO = noparts
+mw:kiMcidCeza:TODO (hwnorm=kiYcidCeza) = 4	50369	kiMcidCeza	kiM-cid-Ceza	m:f#A:n		TODO	init:parent=kiMcid
+mw:kiRvya:TODO = noparts
+mw:kimIdinI:TODO = noparts
+mw:kilikilita:TODO = noparts
+mw:kilbizI:TODO = noparts
+mw:kiSarika:TODO = noparts
+mw:kiSorI:TODO = noparts
+mw:kIwapAqikA:TODO = 3	50723	kIwapAqikA	kIwa-pAqikA	f		TODO	init:parent=kIwa
+mw:kIwI:TODO = noparts
+mw:kIluza:TODO = noparts
+mw:kuwvudI:TODO = noparts
+mw:kuqAyI:TODO = noparts
+mw:kuRqaloddyotitAnana:TODO = 3	51950	kuRqaloddyotitAnana	kuRqalo@ddyotitA@nana	m:f:n		TODO	init:parent=kuRqala
+mw:kuRqinI:TODO = noparts
+mw:kutsayA:TODO = noparts
+mw:kuTita:TODO = noparts
+mw:kudrIcI:TODO = noparts
+mw:kunTita:TODO = noparts
+mw:kuptu:TODO = noparts
+mw:kuraRwikA:TODO = noparts
+mw:kuruRwikA:TODO = noparts
+mw:kulaNgapamarin:TODO = 2	53098.1	kulaNgapamarin	kulaNgapa-marin	m		TODO	init:parent=kulaNga
+mw:kulawApatI:TODO = 3B	53105	kulawApatI	kulawA-patI	f		TODO	init
+mw:kulinI:TODO = noparts
+mw:kulmAzI:TODO = noparts
+mw:kulharI:TODO = noparts
+mw:kuvarI:TODO = noparts
+mw:kuSaRqI:TODO = noparts
+mw:kuzapa:TODO = noparts
+mw:kusumavfztyaBiprakIrRa:TODO = 3	53622.1	kusumavfztyaBiprakIrRa	kusuma-vfzty-aBiprakIrRa	m		TODO	init:parent=kusuma
+mw:kusumBI:TODO = noparts
+mw:kUpepitAcaka:TODO = 3	53966.1	kUpepitAcaka	kU~pe-pitAcaka	m		TODO	init:parent=kUpa
+mw:kUlita:TODO = noparts
+mw:kfcCrAtikfcCrO:TODO (hwnorm=kfCrAtikfCrO) = 3A	54760	kfcCrAtikfcCrO	kfcCrA@tikfcCrO	INFLECTID=m1d,STEM=kfcCrAtikfcCra		TODO	init
+mw:kfcCrAnmukta:TODO (hwnorm=kfCrAnmukta) = 3	54761	kfcCrAnmukta	kfcCrAn-mukta	m:f:n		TODO	init:parent=kfcCra
+mw:kfRuzvapAjIyA:TODO = 2	54776	kfRuzvapAjIyA	kfRuzva-pAjIyA	f		TODO	init:parent=kfRuzvapAjavatI
+mw:kftAByanujYa:TODO = 3	54476.1	kftAByanujYa	kf~tA@ByanujYa	m:f:n		TODO	init:parent=kfta
+mw:kfndDivicakzaRA:TODO = 2	54809	kfndDivicakzaRA	kfndDi-vicakzaRA	f		TODO	init:parent=kft:VERB
+mw:kfpAvEta:TODO = 3	54892	kfpAvEta	kfpA@vEta	m		TODO	init:parent=kfpA
+mw:kfvI:TODO = noparts
+mw:kfzI:TODO = noparts
+mw:kfzRO:TODO = noparts
+mw:ketayitf:TODO = noparts
+mw:ketf:TODO = noparts
+mw:kedArI:TODO = noparts
+mw:kevI:TODO = noparts
+mw:keSarikA:TODO = noparts
+mw:keSariRI:TODO = noparts
+mw:keSikI:TODO = noparts
+mw:kesariRI:TODO = noparts
+mw:kEtavAyani:TODO = noparts
+mw:kEtavI:TODO = noparts
+mw:kEyyawa:TODO = noparts
+mw:kokalla:TODO = noparts
+mw:kokI:TODO = noparts
+mw:kokkili:TODO = noparts
+mw:koWI:TODO = noparts
+mw:koRaspfgvftta:TODO (hwnorm=koRaspfgvfta) = 3	56551	koRaspfgvftta	koRa-spfg-vftta	n		TODO	init:parent=koRa
+mw:koReyana:TODO = 2	56558	koReyana	koReyana	NONE		NTD	init
+mw:kolambavarza:TODO = 2	56716.1	kolambavarza	kolamba-varza	m		TODO	init:parent=kolambaka
+mw:kozaRI:TODO = noparts
+mw:kOkkuqIvaha:TODO = noparts
+mw:kORqIvfsI:TODO = 2	57086	kORqIvfsI	kORqIvfsI	NONE		NTD	init
+mw:kORqIvfsya:TODO = 2	57087	kORqIvfsya	kORqIvfsya	NONE		NTD	init
+mw:kOtUla:TODO = noparts
+mw:kOtsI:TODO = noparts
+mw:kOnakIya:TODO = noparts
+mw:kOnftika:TODO = noparts
+mw:kOrujANgala:TODO = noparts
+mw:kOlI:TODO = noparts
+mw:kOlUtara:TODO = 2	57398	kOlUtara	kOlUtara	NONE		NTD	init
+mw:kOleSI:TODO = 3	57327.1	kOleSI	kO~le@SI	f		TODO	init:parent=kOla
+mw:kOzItakI:TODO = noparts
+mw:kOzIdya:TODO = 1	57531	kOzIdya	kOzIdya	NONE		NTD	init
+mw:kOsalI:TODO = noparts
+mw:kraDIyas:TODO = noparts
+mw:kranditf:TODO = noparts
+mw:krAntvA:TODO = 2	57895	krAntvA	krAntvA	NONE		NTD	init
+mw:krIqAbiqAlikA:TODO = 3	58142.1	krIqAbiqAlikA	krIqA-biqAlikA	f		TODO	init:parent=krIqa
+mw:kruYcO:TODO = noparts
+mw:kruDyamAna:TODO = noparts
+mw:kruSika:TODO = noparts
+mw:kreRI:TODO = noparts
+mw:krozwukI:TODO = noparts
+mw:krOSna:TODO = noparts
+mw:klavita:TODO = noparts
+mw:kzaRitu:TODO = noparts
+mw:kzatrI:TODO = noparts
+mw:kzAralavaRAvarAnnasaMsfzwa:TODO = 4	59198.1	kzAralavaRAvarAnnasaMsfzwa	kzAra-lavaRA@varA@nna-saMsfzwa	n		TODO	init:parent=kzAralavaRa
+mw:kzitiBfttA:TODO (hwnorm=kzitiBftA) = 4	59348	kzitiBfttA	kziti-Bft-tA	f	kzitiBft-tA	DONE	wsfx:tA:w1237
+mw:kzity:TODO = 2	59372	kzity	kzity	NONE		NTD	init
+mw:kzudracirBitA:TODO = 3	59929	kzudracirBitA	kzudra-cirBitA	f		TODO	init:parent=kzudra
+mw:kzudracUda:TODO = 3	59930	kzudracUda	kzudra-cUda	m		TODO	init:parent=kzudra
+mw:kzudri:TODO = noparts
+mw:kzullakatApaScitta:TODO = 3	60231	kzullakatApaScitta	kzullaka-tApaScitta	n		TODO	init:parent=kzullaka
+mw:kzetravitfRRI:TODO (hwnorm=kzetravitfRI) = 3	60311.1	kzetravitfRRI	kzetra-vitfRRI	f		TODO	init:parent=kzetra
+mw:kzetriRI:TODO = noparts
+mw:kzemEs:TODO = noparts
+mw:kzotf:TODO = noparts
+mw:kzoBayitf:TODO = noparts
+mw:kzOdrakI:TODO = noparts
+mw:kzOrI:TODO = noparts
+mw:kzRU:TODO = noparts
+mw:kzmayA:TODO = noparts
+mw:KaYjara:TODO = noparts
+mw:KaYjarIwI:TODO = noparts
+mw:KawwikI:TODO = noparts
+mw:KaqgAriwa:TODO = noparts
+mw:KaRaKaRAyita:TODO = noparts
+mw:KanakI:TODO = noparts
+mw:KapariqIRaka:TODO = 3	60784.1	KapariqIRaka	Ka-pariqIRaka	n		TODO	init:parent=Ka
+mw:Karawa:TODO = noparts
+mw:Karari:TODO = 3	61442.1	Karari	Ka~rari	m		TODO	init:parent=Kara
+mw:KarvikA:TODO = noparts
+mw:KarvUrA:TODO = noparts
+mw:Kallita:TODO = noparts
+mw:KAgikA:TODO = noparts
+mw:KAwI:TODO = noparts
+mw:KAwvika:TODO = noparts
+mw:KAdirI:TODO = noparts
+mw:KArdaBImuKa:TODO = 1	61876	KArdaBImuKa	KArdaBImuKa	NONE		NTD	init
+mw:KArdamAyana:TODO = noparts
+mw:KiNKirI:TODO = noparts
+mw:Kicci:TODO = noparts
+mw:KiccI:TODO = noparts
+mw:KinDi:TODO = noparts
+mw:KimiqI:TODO = noparts
+mw:KunamuKa:TODO = 1	61979	KunamuKa	Kuna-muKa	NONE		NTD	init
+mw:KurI:TODO = noparts
+mw:gaMhman:TODO = 1	62159	gaMhman	gaMhman	NONE		NTD	init
+mw:gaNgama:TODO = noparts
+mw:gaNgAyamune:TODO = 3	62267	gaNgAyamune	gaNgA-yamune	INFLECTID=f1d,STEM=gaNgAyamunA		TODO	init:parent=gaNgA
+mw:gaNgI:TODO = noparts
+mw:gaqqAlikApravAheRa:TODO = 3	62520	gaqqAlikApravAheRa	gaqqAlikA-pravAheRa	ind		TODO	init:parent=gaqqAlikA
+mw:gaRayitrikA:TODO = noparts
+mw:gaty:TODO = 2	63571	gaty	gaty	NONE		NTD	init
+mw:gatvI:TODO = 2	63582	gatvI	gatvI	NONE		NTD	init
+mw:gaDita:TODO = noparts
+mw:gantavE:TODO = 2	63584	gantavE	gantavE	NONE		NTD	init
+mw:gaBastI:TODO = noparts
+mw:gami:TODO = noparts
+mw:gargI:TODO = noparts
+mw:garvarI:TODO = noparts
+mw:galagoqI:TODO = 3	64248	galagoqI	gala-goqI	f		TODO	init:parent=gala
+mw:galagolI:TODO = 3	64249	galagolI	gala-golI	f		TODO	init:parent=gala
+mw:galagranihi:TODO = 3	64204.1	galagranihi	gala-granihi	m		TODO	init:parent=gala
+mw:galaqA:TODO = noparts
+mw:galUnasa:TODO = noparts
+mw:gavizWila:TODO = 3	64408	gavizWila	gavi-zWila	NONE		NTD	init
+mw:gavIDu:TODO = 1	64431	gavIDu	gavIDu	NONE		NTD	init
+mw:gavequkA:TODO = noparts
+mw:gaveraRi:TODO = 1	64452	gaveraRi	gaveraRi	NONE		NTD	init
+mw:gahi:TODO = noparts
+mw:gAM:TODO = 1	64656	gAM	gAM	NONE		NTD	init
+mw:gANgodaki:TODO = 2	64693	gANgodaki	gANgo@daki	m		TODO	init:parent=gANga
+mw:gAqivi:TODO = noparts
+mw:gAqeraki:TODO = noparts
+mw:gATinI:TODO = noparts
+mw:gAdAyana:TODO = 2	64755	gAdAyana	gAdAyana	NONE		NTD	init
+mw:gADanI:TODO = noparts
+mw:gAnDikI:TODO = noparts
+mw:gAyakI:TODO = noparts
+mw:gAyanI:TODO = noparts
+mw:gAyikI:TODO = noparts
+mw:gArgIputrAyaRi:TODO = noparts
+mw:gArgyAyaRI:TODO = noparts
+mw:gArBAyaRa:TODO = noparts
+mw:gAlaqi:TODO = noparts
+mw:gAvizWila:TODO = 2	65017	gAvizWila	gAvizWila	NONE		NTD	init
+mw:giristanI:TODO = 3	65250.1	giristanI	giri-stanI	f		TODO	init:parent=giri
+mw:gugguli:TODO = 2	65347	gugguli	gugguli	NONE		NTD	init
+mw:guqI:TODO = noparts
+mw:gum:TODO = 1	65961	gum	gum	NONE		NTD	init
+mw:gulPita:TODO = noparts
+mw:gusAyin:TODO = noparts
+mw:gUrdI:TODO = noparts
+mw:gfBItvA:TODO = 2	66498	gfBItvA	gfBItvA	NONE		NTD	init
+mw:gfhAlikI:TODO = 3	66684	gfhAlikI	gfhA@~likI	f		TODO	init:parent=gfha
+mw:gfhRAna:TODO = 2	66760	gfhRAna	gf~hRAna	m:f:n		TODO	init:parent=gfB
+mw:goapaSa:TODO = 3	66886.1	goapaSa	go-apaSa	NONE		NTD	init
+mw:goKalu:TODO = 3	66960	goKalu	go-Kalu	NONE		NTD	init
+mw:gopat:TODO = noparts
+mw:goPila:TODO = 1	67981	goPila	goPila	NONE		NTD	init
+mw:gomaRiMda:TODO (hwnorm=gomaRinda) = 3	67347	gomaRiMda	go-maRiMda	m		TODO	init:parent=go
+mw:gor:TODO = 2	67779	gor	gor	NONE		NTD	init
+mw:golunda:TODO = 1	68042	golunda	golunda	NONE		NTD	init
+mw:goz:TODO = 2	67781	goz	goz	NONE		NTD	init
+mw:gozada:TODO = 3	67672	gozada	go-zada	NONE		NTD	init
+mw:gohi:TODO = 2	68062	gohi	gohi	NONE		NTD	init
+mw:gohila:TODO = noparts
+mw:gOkakzyAyaRI:TODO = noparts
+mw:gOdapariRadDi:TODO = noparts
+mw:gODASanika:TODO = 2	68183	gODASanika	gODA@Sanika	NONE		NTD	init
+mw:gODili:TODO = 1	68190	gODili	gODili	NONE		NTD	init
+mw:gOPila:TODO = 1	68226	gOPila	gOPila	NONE		NTD	init
+mw:gOmaWika:TODO = 2	68216	gOmaWika	gOmaWika	NONE		NTD	init
+mw:gOmatI:TODO = noparts
+mw:gOraki:TODO = noparts
+mw:gOraTa:TODO = noparts
+mw:gOriva:TODO = noparts
+mw:gOlunda:TODO = noparts
+mw:gOlundya:TODO = noparts
+mw:gOlgulavI:TODO = noparts
+mw:gOhalavyAyanI:TODO = noparts
+mw:gOhileya:TODO = 2	68423	gOhileya	gOhileya	NONE		NTD	init
+mw:gOhya:TODO = noparts
+mw:gnAs:TODO = 2	68431	gnAs	gnAs	NONE		NTD	init
+mw:gla:TODO = 1	69135	gla	gla	SEE		NTD	init
+mw:GawoDnI:TODO = 3	69283	GawoDnI	Gawo@DnI	f		TODO	init:parent=Gawa
+mw:GawwI:TODO = noparts
+mw:GaRwI:TODO = noparts
+mw:GarawwikA:TODO = noparts
+mw:Gargaraka:TODO = noparts
+mw:GarGarI:TODO = noparts
+mw:GAsakundika:TODO = 3	69709	GAsakundika	GAsa~kundika	m:f:n		TODO	init:parent=GAsa
+mw:GuGulArava:TODO = 2	69783	GuGulArava	GuGulA-rava	m		TODO	init:parent=Gu:VERB
+mw:GumaGumA:TODO = noparts
+mw:GuraGurA:TODO = noparts
+mw:GuruGurA:TODO = noparts
+mw:GuSmeSa:TODO = 1	69840	GuSmeSa	GuSme@Sa	NONE		NTD	init
+mw:GeYculI:TODO = noparts
+mw:GorikA:TODO = noparts
+mw:Gorita:TODO = 2	70216.11	Gorita	Go~rita	n		TODO	init:parent=Gora
+mw:GolikA:TODO = 2	70221	GolikA	Go~likA	f		TODO	init:parent=Gol:VERB
+mw:GoziRI:TODO = noparts
+mw:Gnu:TODO = 1	70242.11	Gnu	Gnu	NONE		NTD	init
+mw:GrAM:TODO = noparts
+mw:cakfvat:TODO = noparts
+mw:cakzuS:TODO = 2	70687	cakzuS	cakzuS	NONE		NTD	init
+mw:caNgerI:TODO = noparts
+mw:caYcalI:TODO = noparts
+mw:cawat:TODO = noparts
+mw:caRava:TODO = noparts
+mw:caturaDyAyI:TODO = 3	71145	caturaDyAyI	catur-aDyA~yI	f		TODO	init:parent=catur
+mw:caturADyAyI:TODO = 3	71182	caturADyAyI	catur-ADyA~yI	NONE		NTD	init
+mw:caturdikzu:TODO = 3	71227	caturdikzu	catur-dikzu	ind		TODO	init:parent=catur
+mw:caturviMSacCata:TODO (hwnorm=caturviMSaCata) = 4	71305.1	caturviMSacCata	catur-viMSac-Cata	n		TODO	init:parent=caturviMSat
+mw:catta:TODO = noparts
+mw:cappawwaka:TODO = noparts
+mw:carakI:TODO = noparts
+mw:carawI:TODO = noparts
+mw:carahArDa:TODO = 3	72278	carahArDa	carahA@rDa	n		TODO	init:parent=caraRa
+mw:calanikA:TODO = noparts
+mw:cAKAyitf:TODO = noparts
+mw:cAtakI:TODO = noparts
+mw:cAturmAsin:TODO = noparts
+mw:cAndraBAgyA:TODO = noparts
+mw:cAppawwakya:TODO = noparts
+mw:cAPawwakya:TODO = noparts
+mw:cAmuRqI:TODO = noparts
+mw:cArAyaRI:TODO = noparts
+mw:cAhuyARa:TODO = noparts
+mw:cikArizu:TODO = noparts
+mw:cicCukI:TODO (hwnorm=ciCukI) = 3	73457	cicCukI	cic-Cu~kI	NONE		NTD	init
+mw:ciwiciwAya:TODO = 1	73471	ciwiciwAya	ciwiciwAya	NONE		NTD	init
+mw:citraputrikAyita:TODO = 4	73792	citraputrikAyita	citra-putri~kAyita	m:f:n		TODO	init:parent=citraputrikA
+mw:cipiwikA:TODO = noparts
+mw:cibu:TODO = noparts
+mw:ciraRWI:TODO = noparts
+mw:cirAyita:TODO = noparts
+mw:cirillI:TODO = noparts
+mw:cili:TODO = 1	74360	cili	cili	NONE		NTD	init
+mw:cillaqa:TODO = 2	74382	cillaqa	ci~llaqa	m		TODO	init:parent=cill:VERB
+mw:cIt:TODO = noparts
+mw:cuknat:TODO = noparts
+mw:cuwI:TODO = noparts
+mw:cundikA:TODO = noparts
+mw:curcura:TODO = noparts
+mw:culhi:TODO = noparts
+mw:cecced:TODO = 1	74893	cecced	cec-ced	ind		TODO	init
+mw:cerala:TODO = noparts
+mw:cEtaki:TODO = noparts
+mw:codanI:TODO = noparts
+mw:codAyani:TODO = noparts
+mw:cozkUyamaRa:TODO = noparts
+mw:cORqa:TODO = noparts
+mw:cOlakAyana:TODO = 2	75247	cOlakAyana	cOlakAyana	NONE		NTD	init
+mw:CagalAntrin:TODO = 3	75372	CagalAntrin	CagalA@ntrin	m		TODO	init:parent=Cagala
+mw:CadmarUpeRa:TODO = 3	75496	CadmarUpeRa	Cadma-rUpeRa	ind		TODO	init:parent=Cadma
+mw:CandaS:TODO = 2	75608	CandaS	CandaS	NONE		NTD	init
+mw:CandahAnis:TODO = 3	75582	CandahAnis	Canda-hAnis	m:f:n		TODO	init:parent=Canda
+mw:Cardita:TODO = noparts
+mw:CardyAyanI:TODO = 2	76122	CardyAyanI	CardyAya~nI	f		TODO	init:parent=Cfd:VERB
+mw:CAgalAntrin:TODO = 3	75780	CAgalAntrin	CAgalA@ntrin	m		TODO	init:parent=CAgala
+mw:CAdinI:TODO = noparts
+mw:CAndogi:TODO = 2	75820	CAndogi	CAndogi	NONE		NTD	init
+mw:CindatprARi:TODO = 2	75968	CindatprARi	Cindat-prA@Ri	n		TODO	init:parent=Cid:VERB
+mw:Cekila:TODO = noparts
+mw:CedI:TODO = noparts
+mw:Ceppa:TODO = 1	76134	Ceppa	Ceppa	NONE		NTD	init
+mw:CemuRqA:TODO = noparts
+mw:Cowita:TODO = noparts
+mw:Corita:TODO = noparts
+mw:jakzita:TODO = noparts
+mw:jagamyA:TODO = 1	76408.5	jagamyA	jagamyA	NONE		NTD	init
+mw:jagDvA:TODO = 2	76200	jagDvA	jagDvA	NONE		NTD	init
+mw:jagmAna:TODO = noparts
+mw:jaNGeraTa:TODO = 3	76495	jaNGeraTa	jaNGe-raTa	NONE		NTD	init
+mw:jajYana:TODO = noparts
+mw:janayitnu:TODO = noparts
+mw:januzA:TODO = noparts
+mw:janU:TODO = noparts
+mw:janmajanmani:TODO = 3C	77042.1	janmajanmani	janma-janma~ni	ind		TODO	init
+mw:japta:TODO = noparts
+mw:jabDa:TODO = noparts
+mw:jambUkI:TODO = noparts
+mw:jamBikA:TODO = noparts
+mw:jarBurat:TODO = 1	77756	jarBurat	jarBurat	NONE		NTD	init
+mw:jalaqA:TODO = noparts
+mw:jalamAtreRa:TODO = 3	78013	jalamAtreRa	jala-mAtreRa	ind		TODO	init:parent=jala
+mw:jalAluhA:TODO = 3B	78193	jalAluhA	jalA@luhA	f		TODO	init
+mw:jahANgIra:TODO = noparts
+mw:jAMhAgira:TODO = 2	78417	jAMhAgira	jAMhAgira	NONE		NTD	init
+mw:jAgrad:TODO = 2	78464	jAgrad	jAgrad	NONE		NTD	init
+mw:jAgran:TODO = 2	78468	jAgran	jAgran	NONE		NTD	init
+mw:jANgalin:TODO = noparts
+mw:jANGalAyana:TODO = noparts
+mw:jAjalAyani:TODO = noparts
+mw:jAjalla:TODO = noparts
+mw:jARqAra:TODO = 3	78541	jARqAra	jARqAra	NONE		NTD	init
+mw:jAtuki:TODO = noparts
+mw:jAturaki:TODO = noparts
+mw:jAtUkarRI:TODO = noparts
+mw:jAmadagnyAyita:TODO = noparts
+mw:jAmuna:TODO = noparts
+mw:jAlAbadDANgulipARipAdatalatA:TODO = 3	79095.1	jAlAbadDANgulipARipAdatalatA	jA~lA@badDA@Nguli-pARi-pAda-talatA	f		TODO	init:parent=jAla
+mw:jigIzita:TODO = noparts
+mw:jijyUzita:TODO = noparts
+mw:jitma:TODO = noparts
+mw:jimita:TODO = noparts
+mw:jihANgIra:TODO = noparts
+mw:jihIti:TODO = noparts
+mw:jihnu:TODO = noparts
+mw:jIvattokI:TODO = 3	79802	jIvattokI	jIvat-to~kI	f		TODO	init:parent=jIvat
+mw:jIvanavidambana:TODO = 3	79851	jIvanavidambana	jIvana-vidambana	n		TODO	init:parent=jIvana
+mw:jIvaMDaraRacaritra:TODO (hwnorm=jIvanDaraRacaritra) = 3	79697	jIvaMDaraRacaritra	jIva-M-DaraRa-caritra	n		TODO	init:parent=jIva
+mw:jIvAnusidDikulaka:TODO = 3	79771	jIvAnusidDikulaka	jIvA@nusidDi-kulaka	n		TODO	init:parent=jIva
+mw:jUwikA:TODO = noparts
+mw:jehila:TODO = noparts
+mw:jEtrAyaRa:TODO = 2	80202	jEtrAyaRa	jEtrAyaRa	NONE		NTD	init
+mw:jYipsyamAna:TODO = noparts
+mw:jvalacCarIra:TODO (hwnorm=jvalaCarIra) = 3	80897.1	jvalacCarIra	jvalac-CarIra	m:f:n		TODO	init:parent=jvalat
+mw:jvalantI:TODO = noparts
+mw:jvalitf:TODO = noparts
+mw:jvAlinI:TODO = noparts
+mw:JaNki:TODO = noparts
+mw:JaNkI:TODO = noparts
+mw:JaRqU:TODO = noparts
+mw:JallakI:TODO = noparts
+mw:JAM:TODO = noparts
+mw:JArJarika:TODO = noparts
+mw:JAvU:TODO = 2	81099	JAvU	JA~vU	f		TODO	init:parent=JAvu
+mw:JiYJiriwA:TODO = noparts
+mw:JiYJirIwA:TODO = 2	81108	JiYJirIwA	JiYJi~rIwA	f		TODO	init:parent=JiYJirA
+mw:JiRikA:TODO = noparts
+mw:JiRwikA:TODO = noparts
+mw:JirIkA:TODO = noparts
+mw:wiRwiRIkA:TODO = 2	81252	wiRwiRIkA	wiRwi~RIkA	NONE		NTD	init
+mw:wiRWiRi:TODO = 1	81254	wiRWiRi	wiRWiRi	NONE		NTD	init
+mw:wiRqinikA:TODO = noparts
+mw:wIwiBI:TODO = noparts
+mw:weka:TODO = noparts
+mw:wowI:TODO = 1	81295.1	wowI	wowI	NONE		NTD	init
+mw:woqara:TODO = noparts
+mw:Wepaka:TODO = noparts
+mw:Wevaka:TODO = noparts
+mw:qaNkamAhAtmya:TODO = 1	81334.1	qaNkamAhAtmya	qaNka-mAhAtmya	n		TODO	init
+mw:qahU:TODO = noparts
+mw:quRqura:TODO = noparts
+mw:quRQi:TODO = 1	81453.1	quRQi	quRQi	NONE		NTD	init
+mw:QilI:TODO = noparts
+mw:QillikA:TODO = noparts
+mw:QillI:TODO = noparts
+mw:QeNkI:TODO = noparts
+mw:takzRI:TODO = noparts
+mw:taNganaKatA:TODO = 2	81653.1	taNganaKatA	taNga-naKatA	f		TODO	init:parent=taNgaRa
+mw:taqAkini:TODO = 3	81711	taqAkini	taqA~kini	NONE		NTD	init
+mw:taqil:TODO = 2	81703	taqil	taqil	NONE		NTD	init
+mw:taRqulin:TODO = noparts
+mw:taRqyAyanI:TODO = noparts
+mw:tadDitaQuRQI:TODO = 4	82126.2	tadDitaQuRQI	tad-Dita-QuRQI	f		TODO	init:parent=tadDita
+mw:tanitf:TODO = noparts
+mw:tapatAmpati:TODO = 3	82647	tapatAmpati	tapatAm-pati	m		TODO	init:parent=tapat
+mw:tapaScitAmayana:TODO = 4	82699	tapaScitAmayana	tapaS-ci~tAm-ayana	n		TODO	init:parent=tapaScit
+mw:tamAlakI:TODO = noparts
+mw:taraMgikA:TODO (hwnorm=taraNgikA) = noparts
+mw:tarawI:TODO = noparts
+mw:tarAyaRa:TODO = 2	83145	tarAyaRa	tarAyaRa	NONE		NTD	init
+mw:tarItf:TODO = noparts
+mw:taruzI:TODO = noparts
+mw:taruzyat:TODO = noparts
+mw:tarkaBAzABAvaprahASikA:TODO = 4	83373	tarkaBAzABAvaprahASikA	tarka-BAzA-BAva-prahASikA	f		TODO	init:parent=tarkaBAzA
+mw:tarpara:TODO = noparts
+mw:talpaSadya:TODO = 3	83586	talpaSadya	talpa-Sadya	n		TODO	init:parent=talpa
+mw:tavizIBis:TODO = noparts
+mw:tavIzI:TODO = noparts
+mw:tasTAna:TODO = noparts
+mw:tARqavayitf:TODO = noparts
+mw:tArkzyAyaRi:TODO = 3	84475	tArkzyAyaRi	tArkzyAyaRi	NONE		NTD	init
+mw:tAluvi:TODO = 1	84673	tAluvi	tAluvi	NONE		NTD	init
+mw:tAvatA:TODO = noparts
+mw:tAvuru:TODO = noparts
+mw:titiru:TODO = noparts
+mw:tibewa:TODO = 1	84972.1	tibewa	tibewa	NONE		NTD	init
+mw:tiraSci:TODO = 2	85051	tiraSci	tiraSci	NONE		NTD	init
+mw:tiruvAnandapura:TODO = 1	85207.2	tiruvAnandapura	tiruvA@nanda-pura	n		TODO	init
+mw:tiryagyoninyanvaya:TODO = 4B	85170	tiryagyoninyanvaya	tiryag-yoni~nyanvaya	m:f:n		TODO	init
+mw:tilakAyita:TODO = noparts
+mw:tilvarIka:TODO = 1	85354	tilvarIka	tilvarIka	NONE		NTD	init
+mw:tilvirIka:TODO = 3	85359	tilvirIka	tilvi~rIka	m		TODO	init:parent=tilvilAya:VERB
+mw:tilvilIka:TODO = noparts
+mw:tizWad:TODO = 1	85361	tizWad	tizWad	NONE		NTD	init
+mw:tIrI:TODO = noparts
+mw:tuNganAsikI:TODO = 3	85769	tuNganAsikI	tuNga-nAsi~kI	f		TODO	init:parent=tuNga
+mw:tuRqI:TODO = noparts
+mw:tubarikA:TODO = noparts
+mw:tumbakI:TODO = noparts
+mw:tumbarI:TODO = noparts
+mw:tuviz:TODO = 2	86255	tuviz	tuviz	NONE		NTD	init
+mw:tUbarikA:TODO = noparts
+mw:tUrRataram:TODO = 3	86416	tUrRataram	tUrRa-taram	ind	tUrRa-tara	DONE	wsfx:tara:w1242:+m
+mw:tUrBis:TODO = noparts
+mw:tfRAvallI:TODO = 3	86684	tfRAvallI	tf~RAvallI	f		TODO	init:parent=tfRAmalla
+mw:tfpita:TODO = noparts
+mw:tfpyat:TODO = noparts
+mw:tfprin:TODO = noparts
+mw:tfmpaRIya:TODO = 3	86771	tfmpaRIya	tfmpa~RIya	m:f:n		TODO	init:parent=tfmpaRa
+mw:tejavatI:TODO = 3	86826	tejavatI	teja-vatI	NONE		NTD	init
+mw:tEjasI:TODO = noparts
+mw:tEtilAyani:TODO = noparts
+mw:tElikI:TODO = noparts
+mw:tyaktapunaHsvikfta:TODO = 3	87339.1	tyaktapunaHsvikfta	tyakta-punaH-svi-kfta	NONE		NTD	init
+mw:tyAdAyani:TODO = noparts
+mw:trawat:TODO = noparts
+mw:trayaS:TODO = 2	87463	trayaS	trayaS	NONE		NTD	init
+mw:triMSad:TODO = 2	88539	triMSad	triMSad	NONE		NTD	init
+mw:trir:TODO = 2	88591	trir	trir	NONE		NTD	init
+mw:trivaRI:TODO = 3	88212	trivaRI	tri-va~RI	f		TODO	init:parent=tri
+mw:triSulapawwitaDara:TODO = 3	88388.1	triSulapawwitaDara	tri-Sula-pawwita-Dara	m		TODO	init:parent=tri
+mw:trizwuRmuKa:TODO = 4	88433.1	trizwuRmuKa	tri-z~wuR-muKa	m:f:n		TODO	init:parent=trizwuk
+mw:trESAli:TODO = 3	88779	trESAli	trE~SAli	NONE		NTD	init
+mw:tryakzAyaRa:TODO = 2	88919	tryakzAyaRa	tryakzAyaRa	NONE		NTD	init
+mw:tvarayA:TODO = noparts
+mw:tsAra:TODO = 2	89184	tsAra	tsAra	NONE		NTD	init
+mw:daMSikA:TODO = noparts
+mw:daMzwrIkA:TODO = noparts
+mw:dakziREH:TODO = noparts
+mw:daRqavalaDi:TODO = 3	89690	daRqavalaDi	daRqa-valaDi	m		TODO	init:parent=daRqa
+mw:daRqApUpAyita:TODO = 4	89724.2	daRqApUpAyita	daRqA@pU~pAyita	m:f:n		TODO	init:parent=daRqApUpa
+mw:dattiya:TODO = noparts
+mw:dattogni:TODO = 2	89867	dattogni	dattogni	NONE		NTD	init
+mw:dattoni:TODO = 2	89868	dattoni	dattoni	NONE		NTD	init
+mw:daditTa:TODO = 1	89883.1	daditTa	daditTa	NONE		NTD	init
+mw:dadda:TODO = noparts
+mw:daParaKAna:TODO = 1	90226.1	daParaKAna	daPara-KAna	m		TODO	init
+mw:daridrat:TODO = noparts
+mw:daridrin:TODO = 3	90467	daridrin	dari~drin	m:f:n		TODO	init:parent=daridrat
+mw:dardarI:TODO = noparts
+mw:darBana:TODO = 3	90542	darBana	dar~Bana	n		TODO	init:parent=darBaka
+mw:darBin:TODO = 3	90545	darBin	dar~Bin	m		TODO	init:parent=darBaka
+mw:darSanI:TODO = noparts
+mw:darSaMdarSaM:TODO (hwnorm=darSandarSa) = 2	90680	darSaMdarSaM	darSaM-darSaM	ind		TODO	init:parent=darSa
+mw:daSra:TODO = noparts
+mw:dahanI:TODO = noparts
+mw:dahyu:TODO = noparts
+mw:dAkzikanTiya:TODO = 4	91504	dAkzikanTiya	dAkzi-kan~Tiya	m:f:n		TODO	init:parent=dAkzikanTA
+mw:dAdUpanTin:TODO = 3	91595	dAdUpanTin	dAdU-panTin	m		TODO	init:parent=dAdU
+mw:dAserakI:TODO = 3B	91992	dAserakI	dAse~rakI	f		TODO	init
+mw:dAhanI:TODO = noparts
+mw:digmaRqala:TODO = 3	92548	digmaRqala	dig-maRqala	NONE		NTD	init
+mw:digvidiksTa:TODO = 3	92567	digvidiksTa	dig-vidik-sTa	m:f:n		TODO	init:parent=dig
+mw:diRqin:TODO = noparts
+mw:ditsita:TODO = 3	92078	ditsita	dit~sita	m:f:n		TODO	init:parent=ditsA
+mw:didfkzitf:TODO = 3	92089	didfkzitf	didfk~zitf	m:f:n		TODO	init:parent=didfkzA
+mw:divas:TODO = 2	92262	divas	divas	NONE		NTD	init
+mw:dIkzitaDuRQirAja:TODO = 3	92733	dIkzitaDuRQirAja	dIkzita-DuRQi-rAja	m		TODO	init:parent=dIkzita
+mw:dIpinI:TODO = noparts
+mw:dIrGatamasorka:TODO = 4	93038.1	dIrGatamasorka	dIrGa~tamaso 'rka	m		TODO	init:parent=dIrGatamas
+mw:dIrGatamasovrata:TODO = 4	93038.2	dIrGatamasovrata	dIrGa-tama~so vrata	n		TODO	init:parent=dIrGatamas
+mw:dIrGABinizWAnAnta:TODO = 3	93247.1	dIrGABinizWAnAnta	dIr~GA@BinizWAnA@nta	m:f:n		TODO	init:parent=dIrGa
+mw:dutIprakASa:TODO = 3	94883	dutIprakASa	dutI-prakASa	m		TODO	init:parent=dUta
+mw:dutIlakzaRa:TODO = 3	94884	dutIlakzaRa	du~tI-lakzaRa	n		TODO	init:parent=dUta
+mw:duraDyayayana:TODO = 4	93653	duraDyayayana	dur-aDya~yayana	m:f:n		TODO	init:parent=duraDyaya
+mw:durRazwa:TODO = 3	93959	durRazwa	dur-Razwa	m:f:n		TODO	init:parent=dur
+mw:durdolI:TODO = 3	94009	durdolI	dur-dolI	f		TODO	init:parent=dur
+mw:durDaruwa:TODO = 3	94030	durDaruwa	dur-Daruwa	NONE		NTD	init
+mw:dustyajya:TODO = 3	94688	dustyajya	dus-tyajya	m:f:n		TODO	init:parent=dus
+mw:dUraupaSabdas:TODO = 3	94918	dUraupaSabdas	dUra-upa-Sabdas	m:f:n		TODO	init:parent=dUra
+mw:dfpti:TODO = 2	95250	dfpti	dfpti	NONE		NTD	init
+mw:dfSAsPutamAlA:TODO = 3	95320	dfSAsPutamAlA	dfSA@sPuta-mAlA	f		TODO	init:parent=dfSa
+mw:dfzadi:TODO = 2	95489	dfzadi	dfzadi	NONE		NTD	init
+mw:devadattaSaTa:TODO = 4	95694	devadattaSaTa	deva-dat~ta-SaTa	m		TODO	init:parent=devadatta
+mw:devaBUyaMgata:TODO (hwnorm=devaBUyaNgata) = 4	95877.1	devaBUyaMgata	deva-BUyaMgata	m:f:n		TODO	init:parent=devaBUya
+mw:devalokegata:TODO = 4	96011	devalokegata	deva-lo~ke gata	m:f:n		TODO	init:parent=devaloka
+mw:dozatrayaGRa:TODO = 4	97050.2	dozatrayaGRa	doza-traya-GRa	m:f#I:n		TODO	init:parent=dozatraya
+mw:dozAm:TODO = noparts
+mw:dOnduBi:TODO = noparts
+mw:dOnduBI:TODO = noparts
+mw:dOr:TODO = 2	97176	dOr	dOr	NONE		NTD	init
+mw:dOrmatya:TODO = noparts
+mw:dOS:TODO = 2	97222	dOS	dOS	NONE		NTD	init
+mw:dOz:TODO = 2	97225	dOz	dOz	NONE		NTD	init
+mw:dyumOrvi:TODO = 3	97335	dyumOrvi	dyu-mOrvi	f		TODO	init:parent=dyu
+mw:dyUtapOrRimI:TODO = 3	97486	dyUtapOrRimI	dyUta-pOrRimI	f		TODO	init:parent=dyUta
+mw:draviqopanizattAtparyaratnAvali:TODO = 4	97719.1	draviqopanizattAtparyaratnAvali	draviqo@pani~zat-tAtparya-ratnA@vali	f		TODO	init:parent=draviqopanizad
+mw:drogDovya:TODO = 1	98001	drogDovya	drogDovya	NONE		NTD	init
+mw:dvayI:TODO = noparts
+mw:dvArakozwaka:TODO = 3	98324	dvArakozwaka	dvAra-kozwaka	m		TODO	init:parent=dvAra
+mw:dvitIyUka:TODO = 3	98922	dvitIyUka	dvitI~yUka	m:f:n		TODO	init:parent=dvitIyika
+mw:dvibarhAs:TODO = 3	98580	dvibarhAs	dvi-barhAs	n:ind		TODO	init:parent=dvi
+mw:dviraByAsAkUpara:TODO = 3	98927	dviraByAsAkUpara	dvir-aByAsA@kUpara	n		TODO	init:parent=dvir
+mw:dvizwarAm:TODO = 3	98956	dvizwarAm	dviz-warAm	ind		TODO	init:parent=dviz
+mw:dvistanI:TODO = 3	98769	dvistanI	dvi-sta~nI	f		TODO	init:parent=dvi
+mw:dvIpi:TODO = 2	99030	dvIpi	dvIpi	NONE		NTD	init
+mw:dvezwum:TODO = 2	98991	dvezwum	dvezwum	NONE		NTD	init
+mw:DanDuka:TODO = noparts
+mw:DarIyas:TODO = noparts
+mw:DaruRI:TODO = 2B	99881.1	DaruRI	DaruRI	NONE		NTD	init
+mw:DarmamativinanditarAga:TODO = 4	100180.1	DarmamativinanditarAga	Darma-mati-vinandita-rAga	m		TODO	init:parent=Darmamati
+mw:DarmarAjADvarindra:TODO = 4	100222.5	DarmarAjADvarindra	Darma-rAjA@Dvarindra	m		TODO	init:parent=DarmarAja
+mw:DarmasaMsfta:TODO = 3	100300	DarmasaMsfta	Darma-saMsfta	m:f:n		TODO	init:parent=Darma
+mw:DarmAmboDi:TODO = 3	100417	DarmAmboDi	DarmA@mboDi	m		TODO	init:parent=Darma
+mw:DarmesTita:TODO = noparts
+mw:DavalAyita:TODO = 3	100598.1	DavalAyita	DavalA~yita	m:f:n		TODO	init:parent=DavalAya:VERB
+mw:DAnyakozwaka:TODO = 3	100791	DAnyakozwaka	DAnya-kozwaka	n		TODO	init:parent=DAnya
+mw:DArteyI:TODO = noparts
+mw:DIr:TODO = 1	101328.1	DIr	DIr	NONE		NTD	init
+mw:DunDurI:TODO = 1	101418.1	DunDurI	DunDurI	NONE		NTD	init
+mw:DumaDumAya:TODO = 1	101419	DumaDumAya	DumaDumAya	NONE		NTD	init
+mw:DUrRi:TODO = noparts
+mw:DUlita:TODO = 3	101724	DUlita	DU~lita	m:f:n		TODO	init:parent=DUlaya:VERB
+mw:DUlIpatala:TODO = 3	101719	DUlIpatala	DU~lI-patala	n		TODO	init:parent=DUli
+mw:DenI:TODO = noparts
+mw:Dotra:TODO = noparts
+mw:Druvanaqi:TODO = 3	102340	Druvanaqi	Druva-naqi	f		TODO	init:parent=Druva
+mw:DruvanaqI:TODO = 3	102341	DruvanaqI	Druva-na~qI	f		TODO	init:parent=Druva
+mw:DrURA:TODO = noparts
+mw:nakutaScid:TODO = 3	102629	nakutaScid	na-kutaScid	ind		TODO	init:parent=na
+mw:nakulikA:TODO = noparts
+mw:nakla:TODO = noparts
+mw:naKAlikA:TODO = 3	102996	naKAlikA	naKA@~likA	f		TODO	init:parent=naKa
+mw:nawiti:TODO = noparts
+mw:natAgranAsa:TODO = 3	103291	natAgranAsa	natA@gra-nAsa	m:f:n		TODO	init:parent=nata
+mw:naDita:TODO = noparts
+mw:nanAnduHpati:TODO = 3	103411	nanAnduHpati	nanAn~duH-pati	m		TODO	init:parent=nanAndf
+mw:nandayitf:TODO = 3	103539	nandayitf	nan~dayitf	m:f:n		TODO	init:parent=nandayat
+mw:nandayitnu:TODO = noparts
+mw:napAtI:TODO = noparts
+mw:nararzaba:TODO = 3	104115	nararzaba	nara-rzaba	m		TODO	init:parent=nara
+mw:narikA:TODO = noparts
+mw:narkuwa:TODO = noparts
+mw:nartakikA:TODO = 3	104289	nartakikA	narta~kikA	f		TODO	init:parent=nartaka
+mw:narmaRA:TODO = noparts
+mw:nalini:TODO = 2	104447	nalini	nalini	NONE		NTD	init
+mw:navagrahADipatyAhidevatAsTApana:TODO = 4	104628.64	navagrahADipatyAhidevatAsTApana	nava-gra~hA@DipatyA@hidevatA-sTApana	n		TODO	init:parent=navagraha
+mw:navyasA:TODO = noparts
+mw:navyase:TODO = noparts
+mw:nastaHkaraRa:TODO = 4	104831.1	nastaHkaraRa	nas-taH-karaRa	NONE		NTD	init
+mw:nasra:TODO = noparts
+mw:nahasra:TODO = noparts
+mw:nAkaprizWya:TODO = 4	104894.1	nAkaprizWya	nAka-prizWya	m:f:n		TODO	init:parent=nAkaprizWa
+mw:nAganAsorU:TODO = 4	105026	nAganAsorU	nAga-nA~so@rU	f		TODO	init:parent=nAganAsA
+mw:nAginI:TODO = noparts
+mw:nAwakAKyAyikadarSana:TODO = 3	105318	nAwakAKyAyikadarSana	nAwakA@KyAyika-darSana	n		TODO	init:parent=nAwaka
+mw:nAwI:TODO = noparts
+mw:nAqapitI:TODO = 3B	105361	nAqapitI	nAqa-pitI	f		TODO	init
+mw:nAticCina:TODO (hwnorm=nAtiCina) = 4	102675.09	nAticCina	nA@ti-cCina	m:f:n		TODO	init:parent=nAti
+mw:nAty:TODO = 3	102676	nAty	nA@ty	NONE		NTD	init
+mw:nApitI:TODO = noparts
+mw:nABikupikA:TODO = 3	105668	nABikupikA	nABi-kupikA	f		TODO	init:parent=nABi
+mw:nAriNgI:TODO = noparts
+mw:nAlakini:TODO = noparts
+mw:nAsAdakzRAvarta:TODO = 3	106233	nAsAdakzRAvarta	nAsA-dakzRA@varta	m		TODO	init:parent=nAsA
+mw:niHzAmam:TODO = 3	106389	niHzAmam	niH-zAmam	ind		TODO	init:parent=niH
+mw:niHzWu:TODO = 1	107776.1	niHzWu	niH-zWu	NONE		NTD	init
+mw:niHzyand:TODO = 1	107804.1	niHzyand	niH-zyand	NONE		NTD	init
+mw:nigrihIti:TODO = 3	108116	nigrihIti	ni~grihIti	f		TODO	init:parent=nigrah:VERB
+mw:niGAnIGa:TODO = 3	108156	niGAnIGa	niGA@nIGa	m:f:n		TODO	init:parent=niGa
+mw:nitAntakaTiRa:TODO = 4	108301	nitAntakaTiRa	ni~tAnta-kaTiRa	m:f:n		TODO	init:parent=nitAnta
+mw:nityArTasAmAnyapaYcapaWI:TODO = 3	108441	nityArTasAmAnyapaYcapaWI	nityA@rTa-sAmAnya-paYcapaWI	f		TODO	init:parent=nitya
+mw:nipAtAvyayopasarga:TODO = 4	108702	nipAtAvyayopasarga	ni~pA~tA@vyayo@pasarga	m		TODO	init:parent=nipAta
+mw:nipuRi:TODO = noparts
+mw:nipfta:TODO = 3	108780	nipfta	ni~pfta	m:f:n		TODO	init:parent=nipF:VERB
+mw:nimezArDAt:TODO = 4	109018	nimezArDAt	ni~me~zA@rDAt	ind		TODO	init:parent=nimeza
+mw:niyantranA:TODO = 3B	109114	niyantranA	ni~yantranA	f		TODO	init
+mw:niyogyarTagrahopAya:TODO = 4	109224	niyogyarTagrahopAya	ni~yo~gy-arTa-graho@pA@ya	m		TODO	init:parent=niyogin
+mw:nirARadDa:TODO = 1	109346	nirARadDa	nir-A-RadDa	m:f:n		TODO	init
+mw:nirguRamAmasa:TODO = 4	106947	nirguRamAmasa	nir-gu~Ra-mAmasa	m:f:n		TODO	init:parent=nirguRa
+mw:nirdayAsleza:TODO = 4	107029	nirdayAsleza	nir-da~yA@sleza	m		TODO	init:parent=nirdaya
+mw:nivapta:TODO = 3	110205	nivapta	ni~vapta	m:f:n		TODO	init:parent=nivap:VERB
+mw:nivartitAKilAhAra:TODO = 4	110377	nivartitAKilAhAra	ni~varti~tA@KilA@hAra	m:f:n		TODO	init:parent=nivartita
+mw:niScikramizA:TODO = 1	110625.1	niScikramizA	niS-cikramizA	f		TODO	init
+mw:nizita:TODO = 3	110788	nizita	ni~zita	m:f:n		TODO	init:parent=nizo:VERB
+mw:nizkfzyamARa:TODO = 3	110871	nizkfzyamARa	niz~kfzyamARa	m:f:n		TODO	init:parent=nizkfz:VERB
+mw:nizwaNk:TODO = 1	110900	nizwaNk	niz-waNk	NONE		NTD	init
+mw:nizparyAyanta:TODO = 3	107550	nizparyAyanta	niz-paryAya~nta	NONE		NTD	init
+mw:nizPur:TODO = 1	111024	nizPur	ni-zPur	NONE		NTD	init
+mw:nizPul:TODO = 1	111025	nizPul	ni-zPul	NONE		NTD	init
+mw:nistarIpa:TODO = 3	107652	nistarIpa	nis-tarIpa	NONE		NTD	init
+mw:nIqin:TODO = noparts
+mw:nIlAruna:TODO = 3	111685	nIlAruna	nIlA@runa	m		TODO	init:parent=nIla
+mw:nIliRI:TODO = noparts
+mw:nUpurin:TODO = noparts
+mw:nfyuj:TODO = 3	111891	nfyuj	nf-yuj	NONE		NTD	init
+mw:nfsiMhamahataScaritra:TODO = 4	111932.1	nfsiMhamahataScaritra	nf-siMha-mahataScaritra	n		TODO	init:parent=nfsiMha
+mw:nFMHpraRetra:TODO = 1	112063	nFMHpraRetra	nFMH-praRetra	NONE		NTD	init
+mw:nFnHpraRetra:TODO = 3	111941	nFnHpraRetra	nFnH-praRetra	m:f:n		TODO	init:parent=nf
+mw:nevalla:TODO = noparts
+mw:nezatamEs:TODO = 3	112284.1	nezatamEs	neza-tamEs	ind		TODO	init:parent=neza
+mw:nE:TODO = 1	112296	nE	nE	NONE		NTD	init
+mw:nEvaSASvatonASASvataSca:TODO = 3	112562	nEvaSASvatonASASvataSca	nE@va-SASvato-nA@SASvataS-ca	NONE		NTD	init
+mw:nEvasaMjYAnAsaMjYAnAyatana:TODO (hwnorm=nEvasaYjYAnAsaYjYAnAyatana) = 3	112563	nEvasaMjYAnAsaMjYAnAyatana	nE@va-saMjYAnA@saMjYAnA@yatana	n		TODO	init:parent=nEva
+mw:nEvAntavAnnAnantavAMSca:TODO = 3	112567	nEvAntavAnnAnantavAMSca	nE@vA@ntavAn-nA@nantavAMS-ca	NONE		NTD	init
+mw:nEs:TODO = 2	112496	nEs	nEs	NONE		NTD	init
+mw:nEsvya:TODO = 3	112406	nEsvya	nE-svya	NONE		NTD	init
+mw:nOlI:TODO = noparts
+mw:nyagBUtvA:TODO = 3	112707	nyagBUtvA	nyag-BUtvA	ind		TODO	init:parent=nyag
+mw:nyAgroDamUlika:TODO = noparts
+mw:nyAyaniBanDa:TODO = 3	112853	nyAyaniBanDa	ny-Aya-niBanDa	m		TODO	init:parent=nyAya
+mw:nyAyamakarandavivecinI:TODO = 4	112880.3	nyAyamakarandavivecinI	ny-Aya-makaranda-vivecinI	f		TODO	init:parent=nyAyamakaranda
+mw:nyAyalIlAvatIprakASadiDitiviveka:TODO = 4	112898.2	nyAyalIlAvatIprakASadiDitiviveka	ny-Aya-lIlAvatI-prakASa-diDiti-viveka	m		TODO	init:parent=nyAyalIlAvatI
+mw:nyAyasidDAntamaYjarIdipikA:TODO = 4	112930.3	nyAyasidDAntamaYjarIdipikA	ny-Aya-sidDA@nta-maYjarI-dipikA	f		TODO	init:parent=nyAyasidDAnta
+mw:nyAvicCAy:TODO (hwnorm=nyAviCAy) = 1	112959.1	nyAvicCAy	nyA-vicCAy	NONE		NTD	init
+mw:nva:TODO = 1	113037.1	nva	nva	NONE		NTD	init
+mw:paKOda:TODO = noparts
+mw:paccanI:TODO = noparts
+mw:pajihawikA:TODO = noparts
+mw:paYcagfhitin:TODO = 4	113600	paYcagfhitin	paYca-gfhi~tin	m:f:n		TODO	init:parent=paYcagfhIta
+mw:paYcataponvita:TODO = 4	113645	paYcataponvita	paYca-ta~po'nvita	m:f:n		TODO	init:parent=paYcatapas
+mw:pawarI:TODO = noparts
+mw:pawula:TODO = noparts
+mw:pawwABirAmatippaRI:TODO = 4	114482	pawwABirAmatippaRI	pawwA@BirAma-tippaRI	f		TODO	init:parent=pawwABirAma
+mw:pativaMsya:TODO = 3	115045	pativaMsya	pati-vaMsya	m:f:n		TODO	init:parent=pati
+mw:pattri:TODO (hwnorm=patri) = 2	114977	pattri	pattri	NONE		NTD	init
+mw:paTikAyita:TODO = noparts
+mw:padmanABadvadaSI:TODO = 4	115611	padmanABadvadaSI	padma-nABa-dvadaSI	f		TODO	init:parent=padmanABa
+mw:padmaBASa:TODO = 3	115651	padmaBASa	padma-BASa	m		TODO	init:parent=padma
+mw:panasI:TODO = noparts
+mw:pannagIgIrtakIrti:TODO = 4	115501	pannagIgIrtakIrti	panna-gI-gIrta-kIrti	m:f:n		TODO	init:parent=pannagI
+mw:papasya:TODO = 1	115869	papasya	papasya	NONE		NTD	init
+mw:paraSuvanapradurBAva:TODO = 4	116734.1	paraSuvanapradurBAva	paraSu-vana-pradur-BAva	m		TODO	init:parent=paraSuvana
+mw:parAgagin:TODO = 3	116779	parAgagin	parAga-gin	m:f:n		TODO	init:parent=parAga
+mw:parAmarSakaryakAraRaBAvavicAra:TODO = 4	116900.04	parAmarSakaryakAraRaBAvavicAra	parA-marSa-karya-kAraRa-BAva-vicAra	m		TODO	init:parent=parAmarSa
+mw:parASAtayitf:TODO = 1	116963	parASAtayitf	parA-SAtayitf	m		TODO	init
+mw:parijarBurARa:TODO = 1	117480.1	parijarBurARa	pari-jarBurARa	m:f:n		TODO	init
+mw:parijihIrzita:TODO = 3	117490	parijihIrzita	pari-jihIrzita	m:f:n		TODO	init:parent=parijihIrzA
+mw:parivApayitavya:TODO = 3	117833	parivApayitavya	pari-vApayitavya	m:f:n		TODO	init:parent=parinirvA:VERB
+mw:parivraQIyas:TODO = 4	118095.2	parivraQIyas	pari-vraQIyas	m:f:n		TODO	init:parent=paribfQa
+mw:parivrAjI:TODO = 3	118750	parivrAjI	pari-vrAjI	f		TODO	init:parent=parivraj:VERB
+mw:pariSilita:TODO = 3	118794	pariSilita	pari-Silita	m:f:n		TODO	init:parent=pariSIl:VERB
+mw:parihRuta:TODO = 1	119202	parihRuta	pari-hRuta	m:f:n		TODO	init
+mw:parItoyoni:TODO = 1	119349.1	parItoyoni	parI@to-yoni	m:f:n		TODO	init
+mw:parIndana:TODO = noparts
+mw:paruHSraMsa:TODO = 3	119376.2	paruHSraMsa	paruH-SraMsa	m		TODO	init:parent=paru
+mw:parpawakI:TODO = noparts
+mw:parpawi:TODO = noparts
+mw:paryARadDa:TODO = 3	119774	paryARadDa	pary~ARadDa	m:f:n		TODO	init:parent=paryARah:VERB
+mw:paryuzaRAzwAhnikA:TODO = 3	118513.1	paryuzaRAzwAhnikA	pary-uza~RA@zwA@hnikA	f		TODO	init:parent=paryuzaRa
+mw:paryehI:TODO = 3B	119327	paryehI	pary~ehI	f		TODO	init
+mw:parSUmat:TODO = 2	120086	parSUmat	parSU-mat	m:f:n		TODO	init:parent=parSu
+mw:paliNgu:TODO = noparts
+mw:pavanI:TODO = noparts
+mw:paSupatyazkwaka:TODO = 4	120594.1	paSupatyazkwaka	paSu-pa~ty-azkwaka	n		TODO	init:parent=paSupati
+mw:paSupuroqASamimaMsA:TODO = 4	120611	paSupuroqASamimaMsA	paSu-puroqASa-mimaMsA	f		TODO	init:parent=paSupuroqASa
+mw:pAcayitf:TODO = noparts
+mw:pAwalakIta:TODO = 3	121327	pAwalakIta	pAwala-kIta	m		TODO	init:parent=pAwala
+mw:pAwalakusama:TODO = 3	121328	pAwalakusama	pAwala-kusama	n		TODO	init:parent=pAwala
+mw:pAwIlilAvatI:TODO = 3	121307	pAwIlilAvatI	pAwI-lilAvatI	f		TODO	init:parent=pAwI
+mw:pARikUrcas:TODO = 3	121440	pARikUrcas	pARi-kUr~cas	m		TODO	init:parent=pARi
+mw:pAtADikArodAharana:TODO = 3	121739	pAtADikArodAharana	pAtA@DikAro@dAharana	n		TODO	init:parent=pAta
+mw:pAtnI:TODO = 2	121817	pAtnI	pAtnI	NONE		NTD	init
+mw:pAdavalimIka:TODO = 3	121995	pAdavalimIka	pAda-valimIka	m		TODO	init:parent=pAda
+mw:pAdaSuSruzA:TODO = 3	122006	pAdaSuSruzA	pAda-SuSruzA	f		TODO	init:parent=pAda
+mw:pAdEH:TODO = noparts
+mw:pApayallava:TODO = noparts
+mw:pAmpI:TODO = noparts
+mw:pAyinI:TODO = noparts
+mw:pArameSvarapuRyAhavarcana:TODO = 4	122579	pArameSvarapuRyAhavarcana	pArameSvara-puRyA@ha-varcana	n		TODO	init:parent=pArameSvara
+mw:pArikzitI:TODO = 3B	122684	pArikzitI	pAri-kzitI	f		TODO	init
+mw:pArikzepika:TODO = 3	122689.1	pArikzepika	pAri-kzepika	m:n		TODO	init:parent=pAri
+mw:pArimaRqalya:TODO = 3	122766	pArimaRqalya	pAri-maRqalya	n		TODO	init:parent=pAri
+mw:pArucCepI:TODO (hwnorm=pAruCepI) = noparts
+mw:pArTivesvara:TODO = 3	122922	pArTivesvara	pArTive@svara	m		TODO	init:parent=pArTiva
+mw:pArvateyI:TODO = noparts
+mw:pArvAyAnAntIya:TODO = 2	122947	pArvAyAnAntIya	pArvAyA@nAntIya	m:f#A:n		TODO	init:parent=pArvaRa
+mw:pArSvanATadaSaBAvavisaha:TODO = 4	123027.3	pArSvanATadaSaBAvavisaha	pArSva-nATa-daSa-BAva-visaha	m		TODO	init:parent=pArSvanATa
+mw:pArzRa:TODO = noparts
+mw:pAzARqya:TODO = noparts
+mw:piYjI:TODO = noparts
+mw:piRqaSa:TODO = noparts
+mw:piRqinI:TODO = noparts
+mw:piRqUza:TODO = noparts
+mw:pittalI:TODO = noparts
+mw:piTaya:TODO = 1	124251	piTaya	piTaya	NONE		NTD	init
+mw:piTita:TODO = noparts
+mw:pidfB:TODO = 1	124254	pidfB	pi-dfB	NONE		NTD	init
+mw:pinAkinI:TODO = noparts
+mw:pinvita:TODO = noparts
+mw:pipIzat:TODO = noparts
+mw:pimparI:TODO = noparts
+mw:piyaroja:TODO = noparts
+mw:piroja:TODO = noparts
+mw:pilipicCi:TODO (hwnorm=pilipiCi) = noparts
+mw:piSaNka:TODO = 2	124424.11	piSaNka	piSaNka	NONE		NTD	init
+mw:piSunI:TODO = noparts
+mw:pizpala:TODO = 1	124598.1	pizpala	pizpala	NONE		NTD	init
+mw:pIqayA:TODO = noparts
+mw:pIdArI:TODO = noparts
+mw:pInottuNgastanI:TODO = 3	124898	pInottuNgastanI	pIno@ttuNga-stanI	f		TODO	init:parent=pIna
+mw:pIvo:TODO = 2	124957	pIvo	pIvo	NONE		NTD	init
+mw:punarAtta:TODO = 3	125676.1	punarAtta	punar-Atta	NONE		NTD	init
+mw:purIzI:TODO = noparts
+mw:puruzamAninitva:TODO = 4	126517.1	puruzamAninitva	puruza-mAnini-tva	n		TODO	init:parent=puruzamAnin
+mw:puroqAs:TODO = 1	126639	puroqAs	puro-qAs	NONE		NTD	init
+mw:pulindikA:TODO = 3B	126722	pulindikA	pulin~dikA	f		TODO	init
+mw:pulinduka:TODO = 3	126719	pulinduka	pulin~duka	m		TODO	init:parent=pulinda
+mw:pulI:TODO = noparts
+mw:puzkalI:TODO = noparts
+mw:puzwicCu:TODO (hwnorm=puzwiCu) = noparts
+mw:pUrvAhRAparAhRayoH:TODO = 4	128228.2	pUrvAhRAparAhRayoH	pUrvA@~hRA@parA@hRayoH	ind		TODO	init:parent=pUrvAhRa
+mw:pfTurukman:TODO = 3	128612	pfTurukman	pfTu-ruk~man	m		TODO	init:parent=pfTu
+mw:pfzAtakI:TODO = noparts
+mw:pfzodvAni:TODO = 3	128764	pfzodvAni	pfzo@dvAni	NONE		NTD	init
+mw:pecikA:TODO = noparts
+mw:peqqanAcArya:TODO = 1	128939	peqqanAcArya	peqqanA@cArya	m		TODO	init
+mw:peraRI:TODO = noparts
+mw:pENgI:TODO = noparts
+mw:pEwakalAyana:TODO = noparts
+mw:pEtfkazvaseyI:TODO = 3	129155	pEtfkazvaseyI	pEtfka-zvase~yI	f		TODO	init:parent=pEtfka
+mw:pESAcI:TODO = noparts
+mw:potalikA:TODO = noparts
+mw:pOti:TODO = 1	129435	pOti	pOti	NONE		NTD	init
+mw:pOtudruva:TODO = noparts
+mw:pOtrya:TODO = noparts
+mw:pOnaH:TODO (hwnorm=pOna) = 1	129466	pOnaH	pOnaH	NONE		NTD	init
+mw:pOnar:TODO = 2	129470	pOnar	pOnar	NONE		NTD	init
+mw:pOraRI:TODO = noparts
+mw:pOraRWaka:TODO = noparts
+mw:pOrI:TODO = noparts
+mw:pOru:TODO = 1	129547	pOru	pOru	NONE		NTD	init
+mw:pOro:TODO = 1	129593	pOro	pOro	NONE		NTD	init
+mw:pOrodASika:TODO = 4	129597	pOrodASika	pOro-dA~Sika	m:f#I:n		TODO	init:parent=pOrodASa
+mw:pOrvikI:TODO = noparts
+mw:pOluzita:TODO = 2	129673.1	pOluzita	pOluzita	NONE		NTD	init
+mw:prakIrRakezI:TODO = 4B	130162	prakIrRakezI	pra~kIrRa-kezI	f		TODO	init
+mw:prakzAlayitf:TODO = 3	130285	prakzAlayitf	pra~kzAlayitf	m		TODO	init:parent=prakzal:VERB
+mw:prakzIbita:TODO = 1	130322	prakzIbita	pra-kzIbita	NONE		NTD	init
+mw:pracudita:TODO = 3	130716	pracudita	pra~cudita	m:f:n		TODO	init:parent=pracud:VERB
+mw:pracyAvanI:TODO = 3	130817.1	pracyAvanI	pra-cyAvanI	f		TODO	init:parent=pracyu:VERB
+mw:prajotpattyAnupUrvyeRa:TODO = 4	130919.1	prajotpattyAnupUrvyeRa	prajo@tpatty-AnupUrvyeRa	ind		TODO	init:parent=prajotpatti
+mw:pratApanAraSiMha:TODO = 4	131353	pratApanAraSiMha	pra~tApa-nAraSiMha	m		TODO	init:parent=pratApa
+mw:pratinandita:TODO = 3	132439	pratinandita	prati~nandita	m:f:n		TODO	init:parent=pratinand:VERB
+mw:pratiniHsfzwa:TODO = 3	132446	pratiniHsfzwa	prati~niHsfzwa	m:f:n		TODO	init:parent=pratiniHsfj:VERB
+mw:pratibimbata:TODO = 4	131666	pratibimbata	prati-bimbata	m		TODO	init:parent=pratibimba
+mw:pratiBojita:TODO = 3	132836	pratiBojita	prati~Bojita	m:f:n		TODO	init:parent=pratiBuj:VERB
+mw:pratisaMsaMsarga:TODO = 3	133343	pratisaMsaMsarga	prati-saM~saMsarga	m		TODO	init:parent=pratisaMsfj:VERB
+mw:pratisaMsaMsfzwa:TODO = 3	133344	pratisaMsaMsfzwa	prati-saM~saMsfzwa	m:f:n		TODO	init:parent=pratisaMsfj:VERB
+mw:pratisaMsaMskAra:TODO = 3	133347	pratisaMsaMskAra	prati-saM~saMskAra	m		TODO	init:parent=pratisaMskf:VERB
+mw:pratisaMsaMskAraRA:TODO = 3	133348	pratisaMsaMskAraRA	prati-saM~saMskAraRA	f		TODO	init:parent=pratisaMskf:VERB
+mw:pratisaMsaMskfta:TODO = 3	133349	pratisaMsaMskfta	prati-saM~saMskfta	m:f:n		TODO	init:parent=pratisaMskf:VERB
+mw:pratisamayya:TODO = 1	133410	pratisamayya	prati-samayya	ind		TODO	init
+mw:pratustuzu:TODO = 1	133751	pratustuzu	pra-tustuzu	NONE		NTD	init
+mw:pratyupaBupaBoga:TODO = 3	134403	pratyupaBupaBoga	praty-upa-B~upaBoga	m		TODO	init:parent=pratyupaBuj:VERB
+mw:prapattipariSilana:TODO = 3	135117	prapattipariSilana	pra-patti-pariSilana	n		TODO	init:parent=prapatti
+mw:prapadEs:TODO = 2C	135141.1	prapadEs	pra-padEs	ind		TODO	init
+mw:praBvI:TODO = 3	135584.1	praBvI	pra-BvI	f		TODO	init:parent=praBu
+mw:pravardaka:TODO = 1	136804	pravardaka	pra-vardaka	NONE		NTD	init
+mw:pravalhita:TODO = 3	136814	pravalhita	pra~valhita	m:f:n		TODO	init:parent=pravalh:VERB
+mw:praSamaratisUsra:TODO = 4	137496	praSamaratisUsra	pra~Sama-rati-sUsra	n		TODO	init:parent=praSama
+mw:prasAdazawSlokI:TODO = 3	137868	prasAdazawSlokI	pra-sAda-zaw-SlokI	f		TODO	init:parent=prasAda
+mw:prastAvamuktAvatI:TODO = 3	138257	prastAvamuktAvatI	pra-stAva-muktA@vatI	f		TODO	init:parent=prastAva
+mw:prasTAyya:TODO = 3	138368	prasTAyya	pra-sTAyya	NONE		NTD	init
+mw:prasmIkzya:TODO = 3	137918	prasmIkzya	pra~smIkzya	m:f:n		TODO	init:parent=prasamIkz:VERB
+mw:prahelayA:TODO = 4	138712	prahelayA	pra~helayA	ind		TODO	init:parent=prahelA
+mw:prAgvaMsika:TODO = 3	139360	prAgvaMsika	prAg-vaMsika	m:f:n		TODO	init:parent=prAg
+mw:prAghoma:TODO = 3	139373	prAghoma	prAg-homa	NONE		NTD	init
+mw:prANnAsikI:TODO = 3	139385	prANnAsikI	prAN-nAsi~kI	f		TODO	init:parent=prAN
+mw:prAcas:TODO = noparts
+mw:prAjaryA:TODO = noparts
+mw:prAtipadikAnuroDAt:TODO = 4	139876.01	prAtipadikAnuroDAt	prAti-padikA@nuroDAt	ind		TODO	init:parent=prAtipadika
+mw:prAtIboDIputra:TODO = 2	139932	prAtIboDIputra	prAtIboDI-putra	m		TODO	init:parent=prAti
+mw:prADvansana:TODO = 3	138871	prADvansana	prA-Dvansana	m		TODO	init:parent=prA
+mw:prAripsita:TODO = 3	140210	prAripsita	prA@~ripsita	m:f:n		TODO	init:parent=prAramBa
+mw:prAhuRI:TODO = noparts
+mw:priyakI:TODO = noparts
+mw:priyElikA:TODO = 3	140667	priyElikA	priyE@likA	f		TODO	init:parent=priya
+mw:prIRayitf:TODO = noparts
+mw:pruzwAyate:TODO = 3	140876	pruzwAyate	pruz~wAyate	NONE		NTD	init
+mw:pretasamkxpta:TODO = 3	140947	pretasamkxpta	pre@ta-samkxpta	m:f:n		TODO	init:parent=preta
+mw:premRA:TODO = noparts
+mw:projJya:TODO = 2	141187	projJya	pro@jJya	ind		TODO	init:parent=projJ:VERB
+mw:proddARqa:TODO = 1	141257	proddARqa	pro@ddARqa	m:f:n		TODO	init
+mw:plugi:TODO = 1	141563.1	plugi	plugi	NONE		NTD	init
+mw:plok:TODO = noparts
+mw:Pariva:TODO = noparts
+mw:PalepAku:TODO = 3	141940	PalepAku	Pale-pAku	NONE		NTD	init
+mw:PalguRI:TODO = 2	142105	PalguRI	Palgu~RI	NONE		NTD	init
+mw:PAlguRI:TODO = 2	142124	PAlguRI	PAlgu~RI	NONE		NTD	init
+mw:PuPusa:TODO = noparts
+mw:PenI:TODO = noparts
+mw:bawwa:TODO = 1	142401.1	bawwa	bawwa	NONE		NTD	init
+mw:baqabA:TODO = 1	142405	baqabA	baqabA	NONE		NTD	init
+mw:badaraPallI:TODO = 3	142435	badaraPallI	badara-PallI	f		TODO	init:parent=badara
+mw:baDirikA:TODO = noparts
+mw:banDukI:TODO = noparts
+mw:babakAra:TODO = noparts
+mw:babiru:TODO = 1	142839.1	babiru	babiru	NONE		NTD	init
+mw:babfhARa:TODO = 1	142841	babfhARa	babfhARa	NONE		NTD	init
+mw:baBrUmUtra:TODO = 2	142884.1	baBrUmUtra	baBrU-mUtra	n		TODO	init:parent=baBru
+mw:bambagErava:TODO = noparts
+mw:balavirya:TODO = 3B	143195	balavirya	bala-virya	m		TODO	init
+mw:balivardI:TODO = noparts
+mw:ballavI:TODO = noparts
+mw:bahAdura:TODO = 1	144086	bahAdura	bahAdura	NONE		NTD	init
+mw:bahiryAgapujA:TODO = 3	144154	bahiryAgapujA	bahir-yAga-pujA	f		TODO	init:parent=bahir
+mw:bahuniHSrita:TODO = 3	143653	bahuniHSrita	bahu-niHSrita	NONE		NTD	init
+mw:bahulOzadika:TODO = 3	144024	bahulOzadika	bahulO@zadika	m:f:n		TODO	init:parent=bahula
+mw:bahewaka:TODO = noparts
+mw:bahlIka:TODO = 2	144225.2	bahlIka	bahlIka	NONE		NTD	init
+mw:bARAparRi:TODO = 3	144282	bARAparRi	bARAparRi	NONE		NTD	init
+mw:bADayitrI:TODO = noparts
+mw:bAnDavI:TODO = noparts
+mw:bArhas:TODO = 2	144462	bArhas	bArhas	NONE		NTD	init
+mw:bAlAnucaragopta:TODO = 3	144675	bAlAnucaragopta	bAlA@nucara~gopta	m		TODO	init:parent=bAla
+mw:bAlopacaraRiya:TODO = 4B	144709	bAlopacaraRiya	bAlo@pacara~Riya	n		TODO	init
+mw:bAzpaviklaba:TODO = 3	144864	bAzpaviklaba	bAzpa-viklaba	m:f:n		TODO	init:parent=bAzpa
+mw:bAzpAvilekzaRa:TODO = 3	144874	bAzpAvilekzaRa	bAzpA@vile@kzaRa	m:f:n		TODO	init:parent=bAzpa
+mw:bAzpikA:TODO = noparts
+mw:bAzpI:TODO = noparts
+mw:bAhulkAt:TODO = noparts
+mw:bAhlIkI:TODO = noparts
+mw:bidAlikA:TODO = noparts
+mw:biza:TODO = 1	145349.1	biza	biza	NONE		NTD	init
+mw:bisamfRala:TODO = 3	145371	bisamfRala	bisa-mfRala	n		TODO	init:parent=bisa
+mw:buDaraYjiRI:TODO = 3	145760	buDaraYjiRI	buDa-raYjiRI	f		TODO	init:parent=buDa
+mw:bundira:TODO = noparts
+mw:bumBikA:TODO = noparts
+mw:bulba:TODO = noparts
+mw:bUKan:TODO = noparts
+mw:bfMhayitf:TODO = noparts
+mw:bfQa:TODO = noparts
+mw:bfhacCiras:TODO (hwnorm=bfhaCiras) = 3	146071.1	bfhacCiras	bfhac-Ciras	m		TODO	init:parent=bfhac
+mw:bfhadAraRyakopanizatKaRqArTa:TODO = 4	146247.4	bfhadAraRyakopanizatKaRqArTa	bfhad-AraRya~ko@panizat-KaRqA@rTa	m		TODO	init:parent=bfhadAraRyaka
+mw:bfhaspatila:TODO = 2	146434	bfhaspatila	bfhaspa~tila	m		TODO	init:parent=bfMh:VERB
+mw:bEjavApayana:TODO = 2A	146456	bEjavApayana	bEjavApayana	NONE		NTD	init
+mw:boDisattvasaMcodiRI:TODO (hwnorm=boDisattvasaYcodiRI) = 4	145904	boDisattvasaMcodiRI	boDi-sattva-saMcodiRI	f		TODO	init:parent=boDisattva
+mw:brahmagItAparAtmAnusaMDAna:TODO (hwnorm=brahmagItAparAtmAnusanDAna) = 4	146629	brahmagItAparAtmAnusaMDAna	brahma-gItA-parA@tmA@nusaMDA@na	n		TODO	init:parent=brahmagItA
+mw:brahmatattvasaMhitoddipanI:TODO = 4	146710.2	brahmatattvasaMhitoddipanI	brahma-tattva-saMhito@ddipanI	f		TODO	init:parent=brahmatattva
+mw:brahmatantregAyatrIpaYjara:TODO = 4	146712	brahmatantregAyatrIpaYjara	brahma-tan~tre gAyatrI-paYjara	n		TODO	init:parent=brahmatantra
+mw:brahmapurustAt:TODO = 3	146849	brahmapurustAt	brahma-purustAt	ind		TODO	init:parent=brahma
+mw:brahmARqayAmalepaYcamIsADana:TODO = 4	147157	brahmARqayAmalepaYcamIsADana	brahmA@Rqa-yAmale paYcamI-sADana	n		TODO	init:parent=brahmARqa
+mw:brAhmaRAcCaMsinaukTya:TODO (hwnorm=brAhmaRACaMsinaukTya) = 4	147409	brAhmaRAcCaMsinaukTya	brAhmaRAc-CaM~sina ukTya	n		TODO	init:parent=brAhmaRAcCaMsin
+mw:Bakkura:TODO = noparts
+mw:BaktyA:TODO = noparts
+mw:BakziRI:TODO = noparts
+mw:BagavadBaktirasAyaRa:TODO = 4	147863.35	BagavadBaktirasAyaRa	Bagavad-Bakti-rasA@yaRa	n		TODO	init:parent=BagavadBakti
+mw:BaYjikA:TODO = noparts
+mw:Batila:TODO = noparts
+mw:BadraMyikA:TODO = 2	148518	BadraMyikA	BadraM~yikA	f		TODO	init:parent=Band:VERB
+mw:BadrayA:TODO = noparts
+mw:Bandra:TODO = noparts
+mw:Bayana:TODO = noparts
+mw:BaraRqakezRa:TODO = 2	148702.1	BaraRqakezRa	BaraRqakezRa	NONE		NTD	init
+mw:BaraheSvaravftti:TODO (hwnorm=BaraheSvaravfti) = 2	148870	BaraheSvaravftti	Barahe@Svara-vftti	f		TODO	init:parent=BarahapAla
+mw:BaruwA:TODO = noparts
+mw:BarjU:TODO = 2	152715.1	BarjU	BarjU	NONE		NTD	init
+mw:Baluha:TODO = noparts
+mw:BavadBUtaBavye:TODO = 3	149121	BavadBUtaBavye	Bavad-BUta-Bavye	ind		TODO	init:parent=Bavad
+mw:BaveRu:TODO = noparts
+mw:BAgavatatattvadipaprakASAvaraRaBaNga:TODO = 3	149614	BAgavatatattvadipaprakASAvaraRaBaNga	BAgavata-tattva-dipa-prakASA@varaRa-BaNga	m		TODO	init:parent=BAgavata
+mw:BAginI:TODO = noparts
+mw:BAdrI:TODO = noparts
+mw:BAraRqI:TODO = noparts
+mw:BAvanayA:TODO = noparts
+mw:BAvayitavyitf:TODO = 3	150394	BAvayitavyitf	BAvayitav~yitf	m:f:n		TODO	init:parent=BAvayitavya
+mw:BAsKara:TODO = 3	150595	BAsKara	BAs-Kara	NONE		NTD	init
+mw:BAspati:TODO = 3	150596	BAspati	BAs-pati	NONE		NTD	init
+mw:BAsPeru:TODO = 3	150597	BAsPeru	BAs-Peru	NONE		NTD	init
+mw:BikzukI:TODO = noparts
+mw:BikzopaBegin:TODO = 3	150692.1	BikzopaBegin	Bikzo@paBegin	m:f:n		TODO	init:parent=BikzA
+mw:Bizaya:TODO = 1	150959	Bizaya	Bizaya	NONE		NTD	init
+mw:BizmiwA:TODO = 2	150964	BizmiwA	Biz~miwA	NONE		NTD	init
+mw:BizmizwA:TODO = 2	150965	BizmizwA	Biz~mizwA	NONE		NTD	init
+mw:BItaparitrARavastUpAlamBapaRqita:TODO = 3	150986	BItaparitrARavastUpAlamBapaRqita	BIta-paritrARa-vastU@pA@lamBa-paRqita	m:f:n		TODO	init:parent=BIta
+mw:Buktavajjane:TODO = 4	151361	Buktavajjane	Bukta-vaj-jane	ind		TODO	init:parent=Buktavat
+mw:Buktotohizwa:TODO = 3	151369.1	Buktotohizwa	Bukto@tohizwa	m:f:n		TODO	init:parent=Bukta
+mw:BurBurI:TODO = noparts
+mw:BusuKa:TODO = noparts
+mw:Busura:TODO = noparts
+mw:BUDAtirI:TODO = 3	151647	BUDAtirI	BU-DAtirI	f		TODO	init:parent=BU
+mw:BUmnA:TODO = noparts
+mw:BUyasA:TODO = noparts
+mw:BUrBUva:TODO = 3	152340	BUrBUva	BUr-BUva	m		TODO	init:parent=BUr
+mw:BeRqa:TODO = noparts
+mw:BeRqI:TODO = 1	152787.1	BeRqI	BeR~qI	f		TODO	init
+mw:BedaDikkftitattvanivecana:TODO = 4	152827	BedaDikkftitattvanivecana	Beda-Dik-kfti-tattva-nivecana	n		TODO	init:parent=BedaDikkfti
+mw:BedinI:TODO = noparts
+mw:BerItAdaRa:TODO = 3	152903	BerItAdaRa	BerI-tAdaRa	n		TODO	init:parent=BerI
+mw:Belana:TODO = noparts
+mw:BERqaka:TODO = noparts
+mw:BORikyA:TODO = noparts
+mw:BOmasAnti:TODO = 3	153415	BOmasAnti	BOma-sAnti	f		TODO	init:parent=BOma
+mw:BOrikI:TODO = noparts
+mw:BOliNgI:TODO = noparts
+mw:Bramanta:TODO = noparts
+mw:Braza:TODO = noparts
+mw:BrAmaRI:TODO = noparts
+mw:makvaRa:TODO = noparts
+mw:maNgalI:TODO = noparts
+mw:macCAkzANka:TODO (hwnorm=maCAkzANka) = 3	154343	macCAkzANka	macCA@kzA@Nka	m:f:n		TODO	init:parent=macCa
+mw:maYcana:TODO = noparts
+mw:maYjana:TODO = noparts
+mw:maYjuguYjatsamIra:TODO = 3	154492	maYjuguYjatsamIra	maYju-guYjat-samIra	m:f:n		TODO	init:parent=maYju
+mw:maYjUlA:TODO = noparts
+mw:maWakesavaDAriRI:TODO = 3	154562	maWakesavaDAriRI	maWa-kesava-DAriRI	f		TODO	init:parent=maWa
+mw:maqqukErika:TODO = 3	154586	maqqukErika	maqqu-kErika	m		TODO	init:parent=maqqu
+mw:maRIca:TODO = noparts
+mw:maRwapa:TODO = noparts
+mw:maRqayitnu:TODO = noparts
+mw:maRqalinI:TODO = noparts
+mw:maRqukI:TODO = noparts
+mw:matsakASe:TODO = 3	155271	matsakASe	mat-sakASe	ind		TODO	init:parent=mat
+mw:matsyakUrmAdyavatArin:TODO = 3	155101	matsyakUrmAdyavatArin	matsya-kUrmA@dy-avatArin	m		TODO	init:parent=matsya
+mw:maTara:TODO = noparts
+mw:maTikA:TODO = noparts
+mw:maTurAguhyavarnaRa:TODO = 3	155228	maTurAguhyavarnaRa	maTurA-guhya-varnaRa	n		TODO	init:parent=maTurA
+mw:madodarkA:TODO = 3	155453	madodarkA	mado@darkA	f		TODO	init:parent=mada
+mw:madguSa:TODO = noparts
+mw:madDaka:TODO = noparts
+mw:madyakIta:TODO = 3	155658	madyakIta	madya-kIta	m		TODO	init:parent=madya
+mw:maDunAlikerika:TODO = 3	155902	maDunAlikerika	maDu-nAlike~rika	m		TODO	init:parent=maDu
+mw:maDurI:TODO = noparts
+mw:maDUlika:TODO = noparts
+mw:maDyaBa:TODO = 3	156409	maDyaBa	maDya-Ba	NONE		NTD	init
+mw:maDvarRaS:TODO = 3	156323	maDvarRaS	maDv-arRaS	m:f:n		TODO	init:parent=maDv
+mw:maDvAhRika:TODO = 3	156623	maDvAhRika	maDvA@hRika	n		TODO	init:parent=maDva
+mw:manayitf:TODO = noparts
+mw:manoBiDA:TODO = 3	157082	manoBiDA	mano-'BiDA	f		TODO	init:parent=mano
+mw:manoBiniveSa:TODO = 3	157083	manoBiniveSa	mano-'BiniveSa	m		TODO	init:parent=mano
+mw:mantriRI:TODO = noparts
+mw:manTanI:TODO = noparts
+mw:mandaregin:TODO = 3	157761.1	mandaregin	manda-regin	m:f:n		TODO	init:parent=manda
+mw:mandura:TODO = 2	157894	mandura	mandura	NONE		NTD	init
+mw:mapuzWaka:TODO = noparts
+mw:marawa:TODO = noparts
+mw:marandOkasa:TODO = 3	158158	marandOkasa	marandO@~kasa	n		TODO	init:parent=maranda
+mw:marunDava:TODO = noparts
+mw:markasa:TODO = noparts
+mw:marmaspriS:TODO = 3	158560	marmaspriS	marma-spriS	m:f:n		TODO	init:parent=marma
+mw:mallikArjunaSriNga:TODO = 4	158987	mallikArjunaSriNga	mallikA@rjuna-SriNga	n		TODO	init:parent=mallikArjuna
+mw:maSana:TODO = noparts
+mw:mahAkASaBEravakalpeSaraBeSvarakavaca:TODO = 3	159392	mahAkASaBEravakalpeSaraBeSvarakavaca	mahA@-kASa-BErava-kalpe SaraBe@Svara-kavaca	n		TODO	init:parent=mahA
+mw:mahAkOzWilya:TODO = 3	159433	mahAkOzWilya	mahA-kOz~Wilya	m		TODO	init:parent=mahA
+mw:mahAgaReSapurARegaReSagItA:TODO = 4	159464	mahAgaReSapurARegaReSagItA	mahA-gaRe@Sa-purARe gaRe@Sa-gItA	f		TODO	init:parent=mahAgaReSa
+mw:mahAtyayatyayika:TODO = 4	159686.3	mahAtyayatyayika	mahA@-tyaya-tyayika	m:f:n		TODO	init:parent=mahAtyaya
+mw:mahAtripurasundaryuttaratApanI:TODO = 3	159696	mahAtripurasundaryuttaratApanI	mahA-tripura-sun~dary-uttara-tApanI	f		TODO	init:parent=mahA
+mw:mahApuruzavidyAyAMvizRurahasyekzetrakARqejagannATamAhAtmya:TODO = 4	160055	mahApuruzavidyAyAMvizRurahasyekzetrakARqejagannATamAhAtmya	mahA-puruza-vidyAyAM vizRu-rahasye kzetra-kARqe jagan-nATa-mAhAtmya	n		TODO	init:parent=mahApuruza
+mw:mahABAratakUwoddAra:TODO = 4	160245	mahABAratakUwoddAra	mahA-BArata-kUwo@ddAra	m		TODO	init:parent=mahABArata
+mw:mahABUwadAna:TODO = 4	160276	mahABUwadAna	mahA-BUwa-dAna	n		TODO	init:parent=mahABUta
+mw:mahAyogapaYcaratneASvalAyanopayogyADAnaprakaraRa:TODO = 3	160518	mahAyogapaYcaratneASvalAyanopayogyADAnaprakaraRa	mahA-yoga-paYcaratne ASvalAyano@payogyA@DAna-prakaraRa	n		TODO	init:parent=mahA
+mw:mahizAsuramajjoTA:TODO = 4	161487	mahizAsuramajjoTA	mahizA@sura-majjo@TA	f		TODO	init:parent=mahizAsura
+mw:mAMsi:TODO = noparts
+mw:mAgavI:TODO = noparts
+mw:mANkzavyAyaRI:TODO = 3	162010	mANkzavyAyaRI	mANkza~vyAyaRI	f		TODO	init:parent=mANkzavya
+mw:mAwIyAri:TODO = 1	162052.1	mAwIyAri	mAwIyAri	NONE		NTD	init
+mw:mARqUkAyanI:TODO = noparts
+mw:mARqUkI:TODO = noparts
+mw:mAtari:TODO = 2	162349	mAtari	mAtari	NONE		NTD	init
+mw:mAtuleyI:TODO = noparts
+mw:mAtfkAbijakoSa:TODO = 3	162431	mAtfkAbijakoSa	mAtfkA-bija-koSa	m		TODO	init:parent=mAtfkA
+mw:mAtfsvaseyA:TODO = 3	162344	mAtfsvaseyA	mAtf-svaseyA	NONE		NTD	init
+mw:mAtrayA:TODO = noparts
+mw:mAtrAdisrAdDanirRaya:TODO = 3	161745	mAtrAdisrAdDanirRaya	mAtrA@~di-srAdDa-nirRaya	m		TODO	init:parent=mAtrA
+mw:mAtrAyAm:TODO = noparts
+mw:mATika:TODO = noparts
+mw:mAdayitf:TODO = noparts
+mw:mAdinI:TODO = noparts
+mw:mADuryakadambinI:TODO = 3	162684	mADuryakadambinI	mADurya-kadambinI	f		TODO	init:parent=mADurya
+mw:mAnDIra:TODO = noparts
+mw:mArahAwwA:TODO = 3	163239	mArahAwwA	mAra-hAwwA	f		TODO	init:parent=mAra
+mw:mArahAWI:TODO = 3	163240	mArahAWI	mAra-hAWI	f		TODO	init:parent=mAra
+mw:mArkaRqI:TODO = noparts
+mw:mArkaRqeyakavindra:TODO = 3	163354	mArkaRqeyakavindra	mArkaRqeya-kavindra	m		TODO	init:parent=mArkaRqeya
+mw:mArgavartmasu:TODO = 4	163409	mArgavartmasu	mArga-vartmasu	ind		TODO	init:parent=mArgavartman
+mw:mArgAyaRI:TODO = noparts
+mw:mAlakI:TODO = noparts
+mw:mAlorjara:TODO = noparts
+mw:mAhizAqqaka:TODO = 3	164059	mAhizAqqaka	mAhi~zA@qqaka	m		TODO	init:parent=mAhiza
+mw:mAhuRqaka:TODO = noparts
+mw:mitrakrU:TODO = 3	164173	mitrakrU	mitra-krU	m:f		TODO	init:parent=mitra
+mw:milikA:TODO = 2	164472	milikA	milikA	NONE		NTD	init
+mw:mIQuzI:TODO = noparts
+mw:muktAvalivyAptivAdadipikA:TODO = 4	165202.51	muktAvalivyAptivAdadipikA	muktA@~vali-vyApti-vAda-dipikA	f		TODO	init:parent=muktAvali
+mw:muktAvalIvyAptivAdadipikA:TODO = 4	165203.9	muktAvalIvyAptivAdadipikA	muktA@~va~lI-vyApti-vAda-dipikA	f		TODO	init:parent=muktAvalI
+mw:muktikozwaka:TODO = 3	165222	muktikozwaka	mukti-kozwaka	m		TODO	init:parent=mukti
+mw:mugalasTAna:TODO = 1	165077.2	mugalasTAna	mugala-sTAna	NONE		NTD	init
+mw:mucalinda:TODO = 1	165277	mucalinda	mucalinda	NONE		NTD	init
+mw:muRqakopanizatKaRqArTa:TODO = 4	165414	muRqakopanizatKaRqArTa	muRqako@pani~zat-KaRqA@rTa	m		TODO	init:parent=muRqakopanizad
+mw:muRqanikA:TODO = noparts
+mw:munijYAnajyanta:TODO = 3	165615	munijYAnajyanta	muni-jYAna-jyanta	m		TODO	init:parent=muni
+mw:munI:TODO = noparts
+mw:muzma:TODO = noparts
+mw:musalikA:TODO = noparts
+mw:musuRWI:TODO = noparts
+mw:muhukEs:TODO = noparts
+mw:muhUrtakalpadrumIyasaMkrAntisaMjYAkusuma:TODO (hwnorm=muhUrtakalpadrumIyasaNkrAntisaYjYAkusuma) = 4	166070.1	muhUrtakalpadrumIyasaMkrAntisaMjYAkusuma	muhUrta-kalpadrumIyasaMkrAnti-saMjYA@-kusuma	n		TODO	init:parent=muhUrtakalpadruma
+mw:mUQacakzurgadacCetf:TODO (hwnorm=mUQacakzurgadaCetf) = 3	166138	mUQacakzurgadacCetf	mUQa-cakzur-gada-cCetf	m		TODO	init:parent=mUQa
+mw:mUzikAhEranyika:TODO = 3	166595	mUzikAhEranyika	mUzikA-hEranyika	m		TODO	init:parent=mUzikA
+mw:mfLaya:TODO = 2	167181	mfLaya	mfLaya	NONE		NTD	init
+mw:mfkta:TODO = 1	166786	mfkta	mfkta	SEE		NTD	init
+mw:mfRAliRI:TODO = noparts
+mw:mftyuhetave:TODO = 3C	166781	mftyuhetave	mftyu-hetave	ind		TODO	init
+mw:mfdutaruRahustapAdatalatA:TODO = 3	167323	mfdutaruRahustapAdatalatA	mfdu-taruRa-husta-pAda-tala-tA	f		TODO	init:parent=mfdu
+mw:mfdDa:TODO = noparts
+mw:mfSIta:TODO = noparts
+mw:meGadUtABiDa:TODO = 4	167562	meGadUtABiDa	meGa-dU~tA@BiDa	m:f:n		TODO	init:parent=meGadUta
+mw:mewI:TODO = 1	167751.1	mewI	mewI	NONE		NTD	init
+mw:meWI:TODO = 1	167755.1	meWI	meWI	NONE		NTD	init
+mw:medI:TODO = noparts
+mw:medorbuda:TODO = 3	167864	medorbuda	medo-'rbuda	n		TODO	init:parent=medo
+mw:meruvirahatantreBuvaneSvarIsahasranAmastotra:TODO = 3	168025	meruvirahatantreBuvaneSvarIsahasranAmastotra	meru-viraha-tantre Buvane@SvarI-sahasra-nAma-stotra	n		TODO	init:parent=meru
+mw:mezavizaRikA:TODO = 3	168087	mezavizaRikA	meza-vizaRikA	f		TODO	init:parent=meza
+mw:mokzaRI:TODO = noparts
+mw:modanI:TODO = noparts
+mw:mohanikA:TODO = noparts
+mw:mOYjAyanI:TODO = noparts
+mw:mORqika:TODO = noparts
+mw:mOni:TODO = 2	168772	mOni	mOni	NONE		NTD	init
+mw:mrakzita:TODO = noparts
+mw:mrita:TODO = 2	168890.1	mrita	mrita	NONE		NTD	init
+mw:mrukta:TODO = 2	168892	mrukta	mrukta	NONE		NTD	init
+mw:yakfttas:TODO (hwnorm=yakftas) = 3	169000	yakfttas	yakft-tas	ind	yakft-tas	DONE	wsfx:tas:w1098
+mw:yaNluk:TODO = 3	169112	yaNluk	yaN-luk	NONE		NTD	init
+mw:yajunA:TODO = noparts
+mw:yajurvedIya:TODO = 3	169193	yajurvedIya	yajur-vedIya	m:f:n		TODO	init:parent=yajur
+mw:yajuzwva:TODO = 3	169205	yajuzwva	yajuz-wva	n		TODO	init:parent=yajuz
+mw:yatacittendriyAnala:TODO = 3	170266	yatacittendriyAnala	yata-citte@ndriyA@nala	m:f:n		TODO	init:parent=yata
+mw:yaty:TODO = 2	169619	yaty	yaty	NONE		NTD	init
+mw:yaTa:TODO = 2	169648	yaTa	yaTa	NONE		NTD	init
+mw:yaTAKyata:TODO = 3	169695	yaTAKyata	yaTA@~Kyata	m:f:n		TODO	init:parent=yaTA
+mw:yaTAviBavavistarEs:TODO = 4	169954.4	yaTAviBavavistarEs	yaTA-viBava-vistarEs	ind		TODO	init:parent=yaTAviBava
+mw:yaTAviBavasamBavAt:TODO = 4	169954.6	yaTAviBavasamBavAt	yaTA-viBava-samBavAt	ind		TODO	init:parent=yaTAviBava
+mw:yadaBAve:TODO = 3	170150	yadaBAve	yad-aBAve	ind		TODO	init:parent=yad
+mw:yantrotkziptopala:TODO = 3	170362	yantrotkziptopala	yantro@tkzipto@pala	m		TODO	init:parent=yantra
+mw:yalla:TODO = noparts
+mw:yavasAnnodakenDana:TODO = 3	170739	yavasAnnodakenDana	yavasA@nno@dake@nDana	n		TODO	init:parent=yavasa
+mw:yavasyu:TODO = 2	170743	yavasyu	yavasyu	NONE		NTD	init
+mw:yavila:TODO = noparts
+mw:yavIyasI:TODO = noparts
+mw:yaSoBagya:TODO = 3	170931	yaSoBagya	yaSo-Bagya	m:f:n		TODO	init:parent=yaSo
+mw:yAcakI:TODO = noparts
+mw:yAcikA:TODO = noparts
+mw:yAvacCakti:TODO (hwnorm=yAvaCakti) = 3	171580	yAvacCakti	yAvac-Cakti	NONE		NTD	init
+mw:yAvayitf:TODO = 1	171654	yAvayitf	yAvayitf	SEE		NTD	init
+mw:yAskI:TODO = noparts
+mw:yiyapsu:TODO = noparts
+mw:yuktiBis:TODO = noparts
+mw:yuktyA:TODO = noparts
+mw:yupita:TODO = noparts
+mw:yuvaKalatI:TODO = 3B	172167	yuvaKalatI	yuva-KalatI	f		TODO	init
+mw:yUropaKaRqa:TODO = 1	171693.1	yUropaKaRqa	yUropa-KaRqa	NONE		NTD	init
+mw:yogasUtragUQArTadyotikA:TODO = 4	172569	yogasUtragUQArTadyotikA	yoga-sUtra-gUQA@rTa-dyotikA	f		TODO	init:parent=yogasUtra
+mw:yvAgulyA:TODO = noparts
+mw:raMhita:TODO = noparts
+mw:raktavarawi:TODO = 3	173594	raktavarawi	rakta-varawi	f		TODO	init:parent=rakta
+mw:raktavIjakA:TODO = 3	173622	raktavIjakA	rakta-vIjakA	NONE		NTD	init
+mw:rakzaRI:TODO = noparts
+mw:rakzI:TODO = noparts
+mw:raNkuwi:TODO = noparts
+mw:raNgezwAlu:TODO = 3	173847	raNgezwAlu	raNge@zwA@lu	n		TODO	init:parent=raNga
+mw:raYjakI:TODO = noparts
+mw:raRaMgaha:TODO (hwnorm=raRaNgaha) = 1	174209.1	raRaMgaha	raRaM-gaha	m		TODO	init
+mw:raTagaruta:TODO = 2	174744	raTagaruta	raTa-garuta	m		TODO	init:parent=raTa
+mw:raTinI:TODO = noparts
+mw:rantos:TODO = 2	175085	rantos	rantos	NONE		NTD	init
+mw:ranDasa:TODO = 2	174826	ranDasa	ran~Dasa	m		TODO	init:parent=ranD:VERB
+mw:ramaTa:TODO = noparts
+mw:rampA:TODO = noparts
+mw:ravizeRa:TODO = 3	175407.1	ravizeRa	ravi-zeRa	m		TODO	init:parent=ravi
+mw:rasendracUdAmaRi:TODO = 4	175799.2	rasendracUdAmaRi	rase@ndra-cUdAmaRi	m		TODO	init:parent=rasendra
+mw:rahasi:TODO = noparts
+mw:rahasyatrayacudAmaRi:TODO = 4	175960.2	rahasyatrayacudAmaRi	rahasya-traya-cudAmaRi	m		TODO	init:parent=rahasyatraya
+mw:rahassu:TODO = noparts
+mw:rAGavayAdAvIyacarita:TODO = 3	176213	rAGavayAdAvIyacarita	rAGava-yAdAvIya-carita	n		TODO	init:parent=rAGava
+mw:rAjayakzmannAman:TODO = 4	176558	rAjayakzmannAman	rAja-yakzmannAman	m		TODO	init:parent=rAjayakzman
+mw:rAjarAjesvara:TODO = 4	176583	rAjarAjesvara	rAja-rA~je@svara	m		TODO	init:parent=rAjarAja
+mw:rAjaSAkaRikA:TODO = 3	176669	rAjaSAkaRikA	rAja-SAkaRikA	f		TODO	init:parent=rAja
+mw:rAjImanmatIparityAga:TODO = 4	176983	rAjImanmatIparityAga	rAjI-manmatI-parityAga	m		TODO	init:parent=rAjImat
+mw:rAjju:TODO = 1	177006	rAjju	rAjju	NONE		NTD	init
+mw:rAjyEkaSezeRa:TODO = 3	176940	rAjyEkaSezeRa	rAjyE@ka-SezeRa	ind		TODO	init:parent=rAjya
+mw:rARAyanI:TODO = noparts
+mw:rATaMtari:TODO (hwnorm=rATantari) = 4	177144.4	rATaMtari	rATa-M~tari	m		TODO	init:parent=rATaMtara
+mw:rADanI:TODO = noparts
+mw:rAmakIrI:TODO = 3	177312	rAmakIrI	rAma-kIrI	NONE		NTD	init
+mw:rAmAyaRI:TODO = noparts
+mw:rArakzARa:TODO = noparts
+mw:riNgaRI:TODO = noparts
+mw:riricAna:TODO = 2	178025	riricAna	riricAna	NONE		NTD	init
+mw:rIDA:TODO = noparts
+mw:rukmala:TODO = noparts
+mw:ruciwa:TODO = noparts
+mw:rucu:TODO = noparts
+mw:rupita:TODO = 2	178857	rupita	rupita	NONE		NTD	init
+mw:rupyaka:TODO = noparts
+mw:rurukvas:TODO = 1	178894	rurukvas	rurukvas	NONE		NTD	init
+mw:rUpasvinI:TODO = noparts
+mw:rewi:TODO = noparts
+mw:reBawi:TODO = noparts
+mw:rErupyaka:TODO = noparts
+mw:rEvatI:TODO = noparts
+mw:rokya:TODO = noparts
+mw:romanTana:TODO = noparts
+mw:romaSI:TODO = noparts
+mw:romaharziRi:TODO = 4	179944.1	romaharziRi	roma-har~ziRi	m		TODO	init:parent=romaharzaRa
+mw:rohaRI:TODO = noparts
+mw:lakzapuzpoDyApana:TODO = 3	180351	lakzapuzpoDyApana	lakza-puzpo@DyApana	n		TODO	init:parent=lakza
+mw:lakzRAvalI:TODO = 3	180430	lakzRAvalI	lakzRA@valI	NONE		NTD	init
+mw:laGucitrAlaMkara:TODO (hwnorm=laGucitrAlaNkara) = 3	180835	laGucitrAlaMkara	laGu-citrA@laMkara	m		TODO	init:parent=laGu
+mw:laNkataNkawA:TODO = 3	181066	laNkataNkawA	laNka-taNkawA	f		TODO	init:parent=laNka
+mw:laNgana:TODO = noparts
+mw:laCimA:TODO = noparts
+mw:lawwana:TODO = noparts
+mw:lambAviSvavayasO:TODO = 3	181567	lambAviSvavayasO	lambA-viSvavayasO	INFLECTID=m1d,STEM=lambAviSvavayas		TODO	init:parent=lambA
+mw:lambI:TODO = noparts
+mw:lallara:TODO = noparts
+mw:lavaMgI:TODO (hwnorm=lavaNgI) = noparts
+mw:lazmideva:TODO = 2	181991.1	lazmideva	lazmi-deva	m		TODO	init:parent=lazamaRa
+mw:lahalahAya:TODO = 1	182048	lahalahAya	lahalahAya	NONE		NTD	init
+mw:lANgUlikI:TODO = 2	182169	lANgUlikI	lANgUli~kI	f		TODO	init:parent=lANgula
+mw:lAqIka:TODO = noparts
+mw:lAbU:TODO = noparts
+mw:lABakAraRAt:TODO = 3	181450	lABakAraRAt	lABa-kAraRAt	ind		TODO	init:parent=lABa
+mw:lABatAs:TODO = 3	181451	lABatAs	lABa-tAs	ind		TODO	init:parent=lABa
+mw:linduma:TODO = noparts
+mw:lIlAmAtreRa:TODO = 3	182844	lIlAmAtreRa	lIlA-mAtreRa	ind		TODO	init:parent=lIlA
+mw:lIsuza:TODO = noparts
+mw:lubDajAtakevarzavarDApanaviDAna:TODO = 3	183016	lubDajAtakevarzavarDApanaviDAna	lubDa-jAtake varza-varDApana-viDAna	n		TODO	init:parent=lubDa
+mw:lusta:TODO = noparts
+mw:lUman:TODO = noparts
+mw:leKABrummanya:TODO = 4	182422	leKABrummanya	leKA-Brum-manya	m:f:n		TODO	init:parent=leKABrU
+mw:leKiRI:TODO = noparts
+mw:leQf:TODO = noparts
+mw:lehI:TODO = noparts
+mw:lokAntAdri:TODO = 3	183496	lokAntAdri	lokA@ntA@dri	m		TODO	init:parent=loka
+mw:loBanI:TODO = noparts
+mw:lomaSI:TODO = noparts
+mw:lolozWa:TODO = 3	183104	lolozWa	lol'-ozWa	m:f:n		TODO	init:parent=lola
+mw:lostonI:TODO = noparts
+mw:lOlaka:TODO = noparts
+mw:vaktrapAni:TODO = 3	184665.1	vaktrapAni	vaktra-pAni	NONE		NTD	init
+mw:vakzasija:TODO = 2	184543	vakzasija	vakzasi-ja	m		TODO	init:parent=vakz:VERB
+mw:vakzo:TODO = 2	184544	vakzo	vakzo	NONE		NTD	init
+mw:vaNkimadAsa:TODO = 2	184496	vaNkimadAsa	vaNkima-dAsa	m		TODO	init:parent=vaNk:VERB
+mw:vajjadeva:TODO = 2	184794	vajjadeva	vajja-deva	m		TODO	init:parent=vaj:VERB
+mw:vajrARqi:TODO = 3	185077	vajrARqi	vajrA@Rqi	f		TODO	init:parent=vajra
+mw:vajriRI:TODO = noparts
+mw:vaYcUka:TODO = noparts
+mw:vataRqI:TODO = noparts
+mw:vatsIputrIya:TODO = 2	185514	vatsIputrIya	vatsI-pu~trIya	NONE		NTD	init
+mw:vadaBIkAra:TODO = 2	185291	vadaBIkAra	vadaBI-kAra	m		TODO	init:parent=vaqaBI
+mw:vaDira:TODO = 1	185663	vaDira	vaDira	NONE		NTD	init
+mw:vaDUsarAkftAhvayA:TODO = 4	185685	vaDUsarAkftAhvayA	vaDU-sarA-kftA@hvayA	f		TODO	init:parent=vaDUsarA
+mw:vaDvawI:TODO = noparts
+mw:vanakArpasi:TODO = 3	185744	vanakArpasi	vana-kArpasi	f		TODO	init:parent=vana
+mw:vanakArpasI:TODO = 3	185745	vanakArpasI	vana-kArpa~sI	f		TODO	init:parent=vana
+mw:vanavarbara:TODO = 3	185930	vanavarbara	vana-varbara	NONE		NTD	init
+mw:vanoddesa:TODO = 1	186177	vanoddesa	vano@ddesa	NONE		NTD	init
+mw:vapaRI:TODO = noparts
+mw:vapuzI:TODO = noparts
+mw:vaBruka:TODO = 1	186416	vaBruka	vaBruka	NONE		NTD	init
+mw:vamati:TODO = noparts
+mw:vamaSAhva:TODO = 3	184303	vamaSAhva	vamaSA@hva	m		TODO	init:parent=vaMSa
+mw:vamuka:TODO = noparts
+mw:vayasyikA:TODO = noparts
+mw:vayonurUpa:TODO = 3	186549.1	vayonurUpa	vayo-'nurUpa	m:f:n		TODO	init:parent=vayo
+mw:vayohARi:TODO = 3	186557	vayohARi	vayo-hARi	f		TODO	init:parent=vayo
+mw:varaRaSraj:TODO = 3	187036	varaRaSraj	varaRa-Sraj	f		TODO	init:parent=varaRa
+mw:varaBiDA:TODO = noparts
+mw:varIyasI:TODO = noparts
+mw:varuqI:TODO = noparts
+mw:varuRiya:TODO = 2	186738	varuRiya	varu~Riya	m		TODO	init:parent=vara
+mw:varUTyadeSe:TODO = 3	186773	varUTyadeSe	varUTya-deSe	ind		TODO	init:parent=varUTya
+mw:vareRuka:TODO = noparts
+mw:varRagraTaRA:TODO = 3	187320	varRagraTaRA	varRa-graTaRA	f		TODO	init:parent=varRa
+mw:varRiRI:TODO = noparts
+mw:varDanI:TODO = noparts
+mw:varDrI:TODO = noparts
+mw:valayitf:TODO = noparts
+mw:valhi:TODO = 1	188381	valhi	valhi	NONE		NTD	init
+mw:vasantakusama:TODO = 3	188571	vasantakusama	vasanta-kusama	m		TODO	init:parent=vasanta
+mw:vasar:TODO = 2	188645	vasar	vasar	NONE		NTD	init
+mw:vasI:TODO = noparts
+mw:vasuna:TODO = noparts
+mw:vasozpati:TODO = 3	188960.3	vasozpati	vasoz-pati	m		TODO	init:parent=vasu
+mw:vastI:TODO = noparts
+mw:vAkinI:TODO = noparts
+mw:vAgBUzanakAvya:TODO = 3	190060	vAgBUzanakAvya	vAg-BUzana-kAvya	n		TODO	init:parent=vAg
+mw:vAgvatItIrWayAtrAprakASa:TODO = 4	190077	vAgvatItIrWayAtrAprakASa	vAg-vatI-tIrWa-yAtrA-prakASa	m		TODO	init:parent=vAgvat
+mw:vARyovida:TODO = noparts
+mw:vAtakalAkalIya:TODO = 4	189449.1	vAtakalAkalIya	vAta-kalAkalIya	m:f:n		TODO	init:parent=vAtakalAkalA
+mw:vAtaRqI:TODO = noparts
+mw:vAtAgarIya:TODO = 4	189601.1	vAtAgarIya	vAtA@garIya	m:f:n		TODO	init:parent=vAtAgara
+mw:vAtsyI:TODO = noparts
+mw:vApima:TODO = noparts
+mw:vAmayA:TODO = noparts
+mw:vAminI:TODO = noparts
+mw:vAyuputrAyita:TODO = 4	191295.1	vAyuputrAyita	vAyu-putrAyita	n		TODO	init:parent=vAyuputrAya
+mw:vAricAmana:TODO = 3	191453	vAricAmana	vAri-cAmana	m		TODO	init:parent=vAri
+mw:vArmika:TODO = noparts
+mw:vAsarI:TODO = noparts
+mw:vAsizWalENgya:TODO = 3	192510	vAsizWalENgya	vAsizWa-lENgya	n		TODO	init:parent=vAsizWa
+mw:vAsukI:TODO = noparts
+mw:vAstuyAgaviDestattva:TODO = 4	192641	vAstuyAgaviDestattva	vAstu-yAga-viDes tattva	n		TODO	init:parent=vAstuyAga
+mw:vAhlIkI:TODO = noparts
+mw:vikalpananIya:TODO = 3	194142	vikalpananIya	vi~kalpananIya	m:f:n		TODO	init:parent=vikalpa
+mw:vikledIyas:TODO = 3	194325	vikledIyas	vi~kledIyas	m:f:n		TODO	init:parent=vikleda
+mw:viNka:TODO = noparts
+mw:vicula:TODO = noparts
+mw:vicezwitf:TODO = 3	194904	vicezwitf	vi~cezwitf	m:f:n		TODO	init:parent=vicezw:VERB
+mw:viWobA:TODO = 1	195394	viWobA	viWo-bA	NONE		NTD	init
+mw:viqqa:TODO = noparts
+mw:viduzita:TODO = 3	196143	viduzita	vi~duzita	m:f:n		TODO	init:parent=vidUzaka
+mw:vinirbAnu:TODO = 3	193201	vinirbAnu	vi-nirbAnu	m		TODO	init:parent=vi
+mw:vinDyakUwana:TODO = 3	197351	vinDyakUwana	vinDya-kU~wana	m		TODO	init:parent=vinDya
+mw:vipAwCutudrI:TODO = 3	197765	vipAwCutudrI	vi~pAw-CutudrI	f		TODO	init:parent=vipAS
+mw:vipizwI:TODO = 1	197775	vipizwI	vi-pizwI	NONE		NTD	init
+mw:vibuka:TODO = noparts
+mw:vimajjita:TODO = 3	198607	vimajjita	vi-majjita	m:f:n		TODO	init:parent=vimajj:VERB
+mw:vimarSita:TODO = 3	198928	vimarSita	vi~marSita	m:f:n		TODO	init:parent=vimarSa
+mw:vimalita:TODO = 3	198725.1	vimalita	vi-ma~lita	m:f:n		TODO	init:parent=vimalaya:VERB
+mw:vimAnasudDipUjA:TODO = 3	198755.1	vimAnasudDipUjA	vi-mAna-sudDi-pUjA	f		TODO	init:parent=vimAna
+mw:vimuKita:TODO = 3	198788.1	vimuKita	vimu~Kita	m:f:n		TODO	init:parent=vimuKaya:VERB
+mw:vimfSita:TODO = 3	198931	vimfSita	vi~mfSita	m:f:n		TODO	init:parent=vimfSa
+mw:viyUzka:TODO = noparts
+mw:virajastejombaraBUzaRa:TODO = 3	199082	virajastejombaraBUzaRa	vi-rajas-tejo'mbara-BUzaRa	m:f:n		TODO	init:parent=virajas
+mw:viralAtapacohavi:TODO = 3	199176	viralAtapacohavi	viralA@tapa-cohavi	m:f:n		TODO	init:parent=virala
+mw:virahotkaRWikA:TODO = 3	199199	virahotkaRWikA	vi-ra~ho@tkaRWikA	f		TODO	init:parent=viraha
+mw:virUDaka:TODO = 3B	199471	virUDaka	vi~rUDaka	m		TODO	init
+mw:viroDAcarana:TODO = 3	199427	viroDAcarana	vi-ro~DA@carana	m		TODO	init:parent=viroDa
+mw:vilaNgita:TODO = 1	199570.1	vilaNgita	vi-laNgita	m:f:n		TODO	init
+mw:vilinATa:TODO = 1	199729	vilinATa	vili-nATa	m		TODO	init
+mw:viluptI:TODO = 3	199814.1	viluptI	vi-luptI	f		TODO	init:parent=vilup:VERB
+mw:vivAhahomopayuktAmantra:TODO = 3	200080.1	vivAhahomopayuktAmantra	vi-vAha-ho~mo@payuktA mantra	m		TODO	init:parent=vivAha
+mw:vivihan:TODO = 1	200215.1	vivihan	vi-vi-<root>han	NONE		NTD	init
+mw:vivfDat:TODO = 2	200349	vivfDat	vi-vfDat	m:f:n		TODO	init:parent=vivfD:VERB
+mw:vivecya:TODO = 3	200196	vivecya	vi~vecya	m:f:n		TODO	init:parent=vivecaka
+mw:viSAlila:TODO = 2	200568	viSAlila	viSA~lila	m		TODO	init:parent=viSAla
+mw:viSiSAsizat:TODO = 2	200490	viSiSAsizat	vi-SiSAsizat	m:f:n		TODO	init:parent=viSas:VERB
+mw:viSunTalavaRa:TODO = 1	200796	viSunTalavaRa	viSunTa-lavaRa	n		TODO	init
+mw:viSezaRaSezaRIya:TODO = 3	200708	viSezaRaSezaRIya	vi-SezaRa-SezaRIya	m:f:n		TODO	init:parent=viSezaRa
+mw:viSezAvasyakaniryukti:TODO = 3	200680	viSezAvasyakaniryukti	vi-Se~zA@vasyaka-niryukti	f		TODO	init:parent=viSeza
+mw:viSramBakaTiTa:TODO = 3	200913.1	viSramBakaTiTa	vi-SramBa-kaTiTa	n		TODO	init:parent=viSramBa
+mw:viSlaTita:TODO = 2	200963	viSlaTita	vi-SlaTita	m:f:n		TODO	init:parent=viSlaT:VERB
+mw:viSvaggati:TODO = 2	201500	viSvaggati	viSvag-gati	NONE		NTD	init
+mw:viSvacakradanaviDi:TODO = 4	201057	viSvacakradanaviDi	viSva-cakra-dana-viDi	m		TODO	init:parent=viSvacakra
+mw:viSvajidawirAtrapadDati:TODO = 4	201082	viSvajidawirAtrapadDati	viSva~jid-awirAtra-padDati	f		TODO	init:parent=viSvajit
+mw:vizaKA:TODO = 3	201671	vizaKA	viza-KA	NONE		NTD	init
+mw:vizwamBita:TODO = 3	202355	vizwamBita	vi~zwamBita	m:f:n		TODO	init:parent=vizwamBa
+mw:vizwiBis:TODO = 2C	201868.1	vizwiBis	viz~wiBis	ind		TODO	init
+mw:vizwI:TODO = 2C	201868	vizwI	viz~wI	ind		TODO	init
+mw:vizPar:TODO = 1	202670	vizPar	vi-zPar	NONE		NTD	init
+mw:vizPAla:TODO = 1	202671	vizPAla	vi-zPAla	NONE		NTD	init
+mw:visaMjYAvatI:TODO (hwnorm=visaYjYAvatI) = 4	193674.1	visaMjYAvatI	vi-saM~jYA-vatI	f		TODO	init:parent=visaMjYa
+mw:visarjayitf:TODO = 3	202814	visarjayitf	vi~sarjayitf	m:f:n		TODO	init:parent=visarjanIya
+mw:visraMsraMsana:TODO = 3B	203051	visraMsraMsana	vi-sraM~sraMsana	n		TODO	init
+mw:visvapnaj:TODO = 3	193715	visvapnaj	vi-svapnaj	NONE		NTD	init
+mw:vihasitikA:TODO = 3	203128	vihasitikA	vi~hasitikA	NONE		NTD	init
+mw:vihAyasaHsTalI:TODO = 3	203168.1	vihAyasaHsTalI	vi-hAyasaH-sTalI	f		TODO	init:parent=vihAyas
+mw:vihAyasastala:TODO = 3	203168.2	vihAyasastala	vi-hAyasas-tala	n		TODO	init:parent=vihAyas
+mw:vIraSEvadikzAviDAna:TODO = 4	203788.1	vIraSEvadikzAviDAna	vIra-SEva-dikzA-viDAna	n		TODO	init:parent=vIraSEva
+mw:vIrasiMhamitrodayesaMskAraprakaraRa:TODO = 4	203796	vIrasiMhamitrodayesaMskAraprakaraRa	vIra-siMha-mitro@daye saMskAra-prakaraRa	n		TODO	init:parent=vIrasiMha
+mw:vuqita:TODO = noparts
+mw:vfSI:TODO = noparts
+mw:vfScikI:TODO = noparts
+mw:vfScita:TODO = noparts
+mw:vfzRI:TODO = noparts
+mw:veNkappayya:TODO = noparts
+mw:veNkayya:TODO = noparts
+mw:vewI:TODO = noparts
+mw:veRinI:TODO = noparts
+mw:veRWa:TODO = noparts
+mw:vedavedAntatattvasAreSAlagrAmamAhAtmya:TODO = 3	205804	vedavedAntatattvasAreSAlagrAmamAhAtmya	veda-vedA@nta-tattva-sAre SAlagrAma-mAhAtmya	n		TODO	init:parent=veda
+mw:vedAntAvabfTapluta:TODO = 3	206045	vedAntAvabfTapluta	vedA@ntA@vabfTa-pluta	m		TODO	init:parent=vedAnta
+mw:vedinI:TODO = noparts
+mw:veDasI:TODO = noparts
+mw:vemakI:TODO = noparts
+mw:veSanI:TODO = noparts
+mw:veSoBagya:TODO = 2	206398	veSoBagya	veSo-Bagya	m:f:n		TODO	init:parent=veSa
+mw:vEKAnasI:TODO = noparts
+mw:vEdArvya:TODO = noparts
+mw:vEdI:TODO = noparts
+mw:vEdyI:TODO = noparts
+mw:vEDavyalakzaRopetA:TODO = 3	207196	vEDavyalakzaRopetA	vEDavya-lakzaRo@pe@tA	f		TODO	init:parent=vEDavya
+mw:vEnateyI:TODO = noparts
+mw:vEnadI:TODO = noparts
+mw:vEyaTita:TODO = noparts
+mw:vEyAkaraRI:TODO = noparts
+mw:vEvaDikI:TODO = noparts
+mw:vESAKin:TODO = noparts
+mw:vESvantara:TODO = 2	207924.1	vESvantara	vESvantara	NONE		NTD	init
+mw:vESvAmitrI:TODO = noparts
+mw:vEzamyodDariRI:TODO = 3	207988	vEzamyodDariRI	vEzamyo@dDariRI	f		TODO	init:parent=vEzamya
+mw:vEzayikI:TODO = noparts
+mw:vEzka:TODO = 1	208002	vEzka	vEzka	NONE		NTD	init
+mw:vEzRuta:TODO = noparts
+mw:vEhatI:TODO = noparts
+mw:vOJaw:TODO = 1	208190	vOJaw	vOJaw	NONE		NTD	init
+mw:vyaNgitEkezaRa:TODO = 4	208349.1	vyaNgitEkezaRa	vy-aN~gitE@ke@zaRa	m:f#A:n		TODO	init:parent=vyaNgita
+mw:vyaYjanopaDa:TODO = 3	208477	vyaYjanopaDa	vy-aYja~no@paDa	m:f:n		TODO	init:parent=vyaYjana
+mw:vyaqambana:TODO = noparts
+mw:vyatizaYjita:TODO = 2	208596	vyatizaYjita	vy-atizaYjita	m:f:n		TODO	init:parent=vyatizaYj:VERB
+mw:vyatizikta:TODO = 1	208596.1	vyatizikta	vy-atizikta	m:f:n		TODO	init
+mw:vyapagatatilakagAtratA:TODO = 4	208721	vyapagatatilakagAtratA	vy-apa~gata-tilakagAtra-tA	f		TODO	init:parent=vyapagata
+mw:vyavagaQa:TODO = 3	208949.2	vyavagaQa	vy~avagaQa	m:f:n		TODO	init:parent=vyavagAh:VERB
+mw:vyazWa:TODO = noparts
+mw:vyApalaRqikA:TODO = 1	209833	vyApalaRqikA	vyApalaRqikA	NONE		NTD	init
+mw:vyAvahArikatvaKaRqaRasAra:TODO = 4	210013.1	vyAvahArikatvaKaRqaRasAra	vyAvahArika-tva-KaRqaRa-sAra	m		TODO	init:parent=vyAvahArikatva
+mw:vyutpattipakze:TODO = 3	210206	vyutpattipakze	vy-utpatti-pakze	ind		TODO	init:parent=vyutpatti
+mw:vrajaBuzaRamiSra:TODO = 3	210469	vrajaBuzaRamiSra	vraja-BuzaRa-miSra	m		TODO	init:parent=vraja
+mw:vraRayita:TODO = noparts
+mw:vrIlana:TODO = noparts
+mw:SakatAsuraBaYjana:TODO = 3	211261	SakatAsuraBaYjana	SakatA@sura-BaYjana	m		TODO	init:parent=Sakawa
+mw:SakuwA:TODO = noparts
+mw:SakunADizWAtrI:TODO = 3	211341	SakunADizWAtrI	SakunA@DizWAtrI	f		TODO	init:parent=Sakuna
+mw:Sakulin:TODO = noparts
+mw:SakfdData:TODO = 3	211411.1	SakfdData	Sakfd-Data	NONE		NTD	init
+mw:SaktikuRWana:TODO = 3	210931	SaktikuRWana	Sakti-kuRWana	n		TODO	init:parent=Sakti
+mw:SaNkila:TODO = noparts
+mw:SaNKiRI:TODO = noparts
+mw:SaWI:TODO = noparts
+mw:SaRqilI:TODO = noparts
+mw:SatacaRqIsahasracaRqyAdiviDAna:TODO = 4	211880.7	SatacaRqIsahasracaRqyAdiviDAna	Sata-caRqI-sahasra-caRqy-Adi-viDAna	n		TODO	init:parent=SatacaRqI
+mw:SatayUDa:TODO = 3B	212300	SatayUDa	SatayU@Da	m		TODO	init
+mw:SatinIBis:TODO = noparts
+mw:SatI:TODO = noparts
+mw:SanakEScara:TODO = 2	212496	SanakEScara	SanakES-cara	m		TODO	init:parent=Sana
+mw:Sapva:TODO = noparts
+mw:SabdaparicCedarahasyepUrvavAdarahasya:TODO (hwnorm=SabdapariCedarahasyepUrvavAdarahasya) = 4	212720.1	SabdaparicCedarahasyepUrvavAdarahasya	Sabda-paricCeda-rahasye 'pUrvavAdarahasya	n		TODO	init:parent=SabdaparicCeda
+mw:SamanaSvasf:TODO = 3	212965	SamanaSvasf	Samana-Svasf	f		TODO	init:parent=Samana
+mw:SambU:TODO = noparts
+mw:SayanEkadaSI:TODO = 3	213393	SayanEkadaSI	SayanE@kadaSI	f		TODO	init:parent=Sayana
+mw:Sayitf:TODO = noparts
+mw:SayIci:TODO = noparts
+mw:Sardis:TODO = 1	213989	Sardis	Sardis	NONE		NTD	init
+mw:SarvikA:TODO = noparts
+mw:SalyApanayanIya:TODO = 3	214167	SalyApanayanIya	SalyA@panayanIya	m:f:n		TODO	init:parent=Salya
+mw:SaSARqulI:TODO = 3	214391	SaSARqulI	SaSARqu~lI	f		TODO	init:parent=SaSARquli
+mw:SaSvacCAnti:TODO (hwnorm=SaSvaCAnti) = 2	214502	SaSvacCAnti	SaSvac-CAnti	f		TODO	init:parent=SaSvat
+mw:SastrAmayArti:TODO = 3	214625	SastrAmayArti	SastrA@mayA@rti	f		TODO	init:parent=Sastra
+mw:SAkajaYjaBa:TODO = noparts
+mw:SAwyAyanI:TODO = noparts
+mw:SAntizeRa:TODO = 3	215430.1	SAntizeRa	SAnti-zeRa	m		TODO	init:parent=SAnti
+mw:SAbastI:TODO = noparts
+mw:SAbdI:TODO = noparts
+mw:SAmIvatI:TODO = noparts
+mw:SAmbava:TODO = noparts
+mw:SAmBarAyiRI:TODO = noparts
+mw:SAradaRqAyinI:TODO = 3	215710	SAradaRqAyinI	SAra-daRqA~yinI	f		TODO	init:parent=SAra
+mw:SAralomI:TODO = 3	215711	SAralomI	SAra-lomI	m		TODO	init:parent=SAra
+mw:SArNgaravI:TODO = noparts
+mw:SArNgozWA:TODO = 2	215889	SArNgozWA	SArN~gozWA	NONE		NTD	init
+mw:SAlivAhanasaptatI:TODO = 4	216138.2	SAlivAhanasaptatI	SAli-vAhana-saptatI	f		TODO	init:parent=SAlivAhana
+mw:SAlvakI:TODO = noparts
+mw:SAhAjyAhAm:TODO = 3	216475.1	SAhAjyAhAm	SAhA-jyAhAm	NONE		NTD	init
+mw:SiNga:TODO = noparts
+mw:SiNgin:TODO = noparts
+mw:SiNgI:TODO = noparts
+mw:SiNGARikA:TODO = noparts
+mw:SiNGARin:TODO = noparts
+mw:Sibinta:TODO = noparts
+mw:Sirasi:TODO = 2	217142	Sirasi	Sirasi	NONE		NTD	init
+mw:SirIziRI:TODO = noparts
+mw:SilaMDari:TODO (hwnorm=SilanDari) = 3	217257	SilaMDari	Sila-M-Dari	m		TODO	init:parent=Sila
+mw:SivakaRWamalikA:TODO = 3	217544	SivakaRWamalikA	Siva-kaRWa-malikA	f		TODO	init:parent=Siva
+mw:SivapAramparyapratipAdikaSrutismftyudAharaRa:TODO = 3	217688	SivapAramparyapratipAdikaSrutismftyudAharaRa	Siva-pAramparya-pratipAdika-Sruti-smfty-udAharaRa	n		TODO	init:parent=Siva
+mw:SivAdyazwottaraSatanAman:TODO = 3	217882	SivAdyazwottaraSatanAman	SivA@dy-azwo@ttara-Sata-nAman	n		TODO	init:parent=Siva
+mw:SiSirita:TODO = noparts
+mw:SiSupraBoDAlaMkAra:TODO (hwnorm=SiSupraBoDAlaNkAra) = 3	218056	SiSupraBoDAlaMkAra	SiSu-praBoDA@laMkAra	m		TODO	init:parent=SiSu
+mw:SiSnapraRejinI:TODO = 3	218095	SiSnapraRejinI	SiSna-praRejinI	f		TODO	init:parent=SiSna
+mw:SIkita:TODO = noparts
+mw:SIkzADyAyopanizad:TODO = 3	218195	SIkzADyAyopanizad	SIkzA@DyAyo@panizad	f		TODO	init:parent=SIkzA
+mw:SItetarAcis:TODO = 4	218410.1	SItetarAcis	SIte@~tarA@cis	m		TODO	init:parent=SItetara
+mw:SuRQi:TODO = noparts
+mw:SunakI:TODO = noparts
+mw:SuPAliha:TODO = 1	219615	SuPAliha	SuPAliha	NONE		NTD	init
+mw:SuBita:TODO = noparts
+mw:SuzikA:TODO = noparts
+mw:Suzkawavarman:TODO = 2	220014	Suzkawavarman	Suzkawa-varman	m		TODO	init:parent=Suz:VERB
+mw:SuzkanitamBasTalI:TODO = 3	219972	SuzkanitamBasTalI	Suzka-nitamBa-sTalI	f		TODO	init:parent=Suzka
+mw:Suzmi:TODO = noparts
+mw:SUTa:TODO = noparts
+mw:SUrpaviRA:TODO = 3	220362	SUrpaviRA	SUrpa-viRA	f		TODO	init:parent=SUrpa
+mw:SfNgAriRI:TODO = noparts
+mw:SfNgerimaWA:TODO = 3	220753	SfNgerimaWA	SfNgeri-maWA	f		TODO	init:parent=SfNgerI
+mw:SekuzWa:TODO = 1	220787.1	SekuzWa	Seku-zWa	NONE		NTD	init
+mw:Seqqa:TODO = 1	220810.1	Seqqa	Seqqa	NONE		NTD	init
+mw:SEtozman:TODO = noparts
+mw:SElAlibrAhmana:TODO = 3	221202	SElAlibrAhmana	SElAli-brAhmana	n		TODO	init:parent=SElAli
+mw:SElUzI:TODO = noparts
+mw:SEvI:TODO = noparts
+mw:SEzikI:TODO = noparts
+mw:SEsIta:TODO = noparts
+mw:SoMsAva:TODO = 2	221340	SoMsAva	SoM~sAva	NONE		NTD	init
+mw:SoMsAvas:TODO = 2	221339	SoMsAvas	SoM~sAvas	NONE		NTD	init
+mw:Socayitf:TODO = noparts
+mw:SoRAyita:TODO = noparts
+mw:SoRqI:TODO = 1	221523.1	SoRqI	SoRqI	NONE		NTD	init
+mw:SoDayitf:TODO = noparts
+mw:SoBayitf:TODO = noparts
+mw:SoBuSuBa:TODO = noparts
+mw:Sozayitf:TODO = noparts
+mw:SORqikI:TODO = noparts
+mw:SOBuSuBa:TODO = noparts
+mw:SOBreyI:TODO = noparts
+mw:ScotanmayUKa:TODO = 2	221950	ScotanmayUKa	Scotan-mayUKa	m:f:n		TODO	init:parent=Scut:VERB
+mw:Scoti:TODO = noparts
+mw:SnABASnOzwIya:TODO = noparts
+mw:SyAmasujayanta:TODO = 3	222096.1	SyAmasujayanta	SyAma-sujayanta	m		TODO	init:parent=SyAma
+mw:SradDayita:TODO = 2	222331	SradDayita	Srad-Dayita	m:f:n		TODO	init:parent=Srad
+mw:SrIbera:TODO = noparts
+mw:SrIvatsamuktikanandyAvartalakzitapARipAdatalatA:TODO = 4	223232	SrIvatsamuktikanandyAvartalakzitapARipAdatalatA	SrI-vatsa-muktika-nandy-Avarta-lakzita-pARi-pAda-tala-tA	f		TODO	init:parent=SrIvatsa
+mw:Srutanigadin:TODO = 3	223450	Srutanigadin	Sruta-nigadin	m:f:n		TODO	init:parent=Sruta
+mw:Srutinigadin:TODO = 3	223578	Srutinigadin	Sruti-nigadin	m:f:n		TODO	init:parent=Sruti
+mw:SrOtakarmaRyASvalAyanopayogiprAyaScitta:TODO = 4	223910.2	SrOtakarmaRyASvalAyanopayogiprAyaScitta	SrOta-kar~maRy-ASvalAyano@payogi-prA@yaScitta	n		TODO	init:parent=SrOtakarman
+mw:Slavana:TODO = noparts
+mw:SvalominI:TODO = 3	224271.1	SvalominI	Sva-lominI	f		TODO	init:parent=Sva
+mw:SvaSurI:TODO = noparts
+mw:SvastanI:TODO = noparts
+mw:Svetagaruta:TODO = 3	224588	Svetagaruta	Sveta-garuta	m		TODO	init:parent=Sveta
+mw:zawkArakapraticCandasa:TODO (hwnorm=zawkArakapratiCandasa) = 4	224960.1	zawkArakapraticCandasa	zaw-kAraka-praticCandasa	m		TODO	init:parent=zawkAraka
+mw:zawwaya:TODO = noparts
+mw:zawtriMSad:TODO = 3	225000	zawtriMSad	zaw-triMSad	NONE		NTD	init
+mw:zaqQotf:TODO = 3	225186	zaqQotf	zaq-Qotf	m		TODO	init:parent=zaq
+mw:zaRqaya:TODO = 2	224917	zaRqaya	zaRqaya	NONE		NTD	init
+mw:zaRqIya:TODO = 2	224924	zaRqIya	zaRqIya	NONE		NTD	init
+mw:zaRQI:TODO = noparts
+mw:zaRmAsAByantare:TODO = 4	225283	zaRmAsAByantare	zaR-mA~sA@Byantare	ind		TODO	init:parent=zaRmAsa
+mw:zazWamI:TODO = noparts
+mw:zARmAsyI:TODO = noparts
+mw:zArija:TODO = 1	224937.2	zArija	zArija	NONE		NTD	init
+mw:zuduvadIna:TODO = noparts
+mw:saMrAjitf:TODO = 2	225850	saMrAjitf	saM-rAjitf	m:f:n		TODO	init:parent=saMrAj:VERB
+mw:saMvaraRanAtaka:TODO = 4	226369	saMvaraRanAtaka	saM~varaRa-nAtaka	n		TODO	init:parent=saMvaraRa
+mw:saMvahitf:TODO = 3	226130	saMvahitf	saM~vahitf	NONE		NTD	init
+mw:saMvAditf:TODO = 3	226064.1	saMvAditf	saM-vAditf	m:f:n		TODO	init:parent=saMvAda
+mw:saMvyAyita:TODO = 3	226518	saMvyAyita	saM~vyAyita	m:f:n		TODO	init:parent=saMvyAya
+mw:saMSranta:TODO = 1	226671	saMSranta	saM-Sranta	m:f:n		TODO	init
+mw:saMSravasaHsAma:TODO = 4	226715	saMSravasaHsAma	saM~Srava~saH sAma	n		TODO	init:parent=saMSravas
+mw:saMsmaraRIyaSaBa:TODO = 4	227327.1	saMsmaraRIyaSaBa	saM~smaraRIya-SaBa	m:f:n		TODO	init:parent=saMsmaraRIya
+mw:saMhatiSalin:TODO = 3	227405	saMhatiSalin	saMhati-Salin	m:f:n		TODO	init:parent=saMhati
+mw:sakfllU:TODO (hwnorm=sakflU) = 3	227834	sakfllU	sakfl-lU	NONE		NTD	init
+mw:saMkazwa:TODO (hwnorm=saNkazwa) = 1	227983	saMkazwa	saM-kazwa	NONE		NTD	init
+mw:saMkzayita:TODO (hwnorm=saNkzayita) = 3	228338	saMkzayita	saM~kzayita	m:f:n	saM+kzayita	DONE	pfx2:saM
+mw:saMGarzayitf:TODO (hwnorm=saNGarzayitf) = 3	228847	saMGarzayitf	saM~Garzayitf	m		TODO	init:parent=saMGarza
+mw:sajAtIyavisizwAntarAGawitatva:TODO = 3	229018	sajAtIyavisizwAntarAGawitatva	sa-jAtIya-visizwA@ntarA@Gawita-tva	n		TODO	init:parent=sajAtIya
+mw:saMcArayitrI:TODO (hwnorm=saYcArayitrI) = 4	229116.1	saMcArayitrI	saM~cArayitrI	f		TODO	init:parent=saMcArayitf
+mw:saMcAriMstva:TODO (hwnorm=saYcAriMstva) = 3	229140	saMcAriMstva	saM-cAriMstva	n		TODO	init:parent=saMcArin
+mw:saYcikA:TODO = noparts
+mw:saMCAdanI:TODO (hwnorm=saYCAdanI) = 2	229208	saMCAdanI	saM-CAdanI	f		TODO	init:parent=saMCad:VERB
+mw:saMjIvakI:TODO (hwnorm=saYjIvakI) = 3B	229343	saMjIvakI	saM~jIvakI	f		TODO	init
+mw:sadri:TODO = noparts
+mw:saMdegDf:TODO (hwnorm=sandegDf) = 2	231490	saMdegDf	saM-degDf	m:f:n		TODO	init:parent=saMdih:VERB
+mw:sannaharsha:TODO = 3	230631.1	sannaharsha	sanna-harsha	m:f:n		TODO	init:parent=sanna
+mw:saptagrahI:TODO = 3	232455	saptagrahI	sapta-grahI	f		TODO	init:parent=sapta
+mw:saptaBaNgan:TODO = 3	232549	saptaBaNgan	sapta-BaNgan	m		TODO	init:parent=sapta
+mw:saBAraRyavitaNkavat:TODO = 3	232941	saBAraRyavitaNkavat	saBA@~raRya-vitaNka-vat	m:f:n		TODO	init:parent=saBA
+mw:samalepanI:TODO = 3	233155	samalepanI	sama-lepanI	f		TODO	init:parent=sama
+mw:samuditf:TODO = 2	235413	samuditf	sam-uditf	m:f:n		TODO	init:parent=samudi:VERB
+mw:samuhitf:TODO = 1	235771	samuhitf	samuhitf	NONE		NTD	init
+mw:sampipAdayizita:TODO = 3	236058	sampipAdayizita	sam~pipAdayizita	m:f:n		TODO	init:parent=sampipAdayizA
+mw:samprativeDikI:TODO = 1	236372.1	samprativeDikI	sam-prati-veDikI	f		TODO	init
+mw:samyakkArin:TODO = 3	237326	samyakkArin	samyak-kArin	NONE		NTD	init
+mw:saraq:TODO = noparts
+mw:sarasi:TODO = 2	237557	sarasi	sarasi	NONE		NTD	init
+mw:sarjanI:TODO = noparts
+mw:sarjayitavya:TODO = noparts
+mw:sarpirmisra:TODO = 3	238084.1	sarpirmisra	sarpir-misra	m:f:n		TODO	init:parent=sarpir
+mw:sarpya:TODO = 2	243214	sarpya	sarpya	NONE		NTD	init
+mw:sarvajYArDaSarIriRI:TODO = 4	238295	sarvajYArDaSarIriRI	sarva~jYA@rDa-SarIriRI	f		TODO	init:parent=sarvajYa
+mw:sarvatomuKodgatftva:TODO = 4	239233.64	sarvatomuKodgatftva	sarvato-mu~Ko@dgatf-tva	n		TODO	init:parent=sarvatomuKa
+mw:sarvamaMsAda:TODO = 3	238573	sarvamaMsAda	sarva-maMsA@da	m:f:n		TODO	init:parent=sarva
+mw:sarvalokakrit:TODO = 4	238656	sarvalokakrit	sarva-loka-krit	m		TODO	init:parent=sarvaloka
+mw:sarvalokaBayAstamBitatvavidDvaMsanakara:TODO = 4	238663	sarvalokaBayAstamBitatvavidDvaMsanakara	sarva-loka-BayA@stamBita-tva-vidDvaMsana-kara	m		TODO	init:parent=sarvaloka
+mw:sarvAvaTam:TODO = 3	239103	sarvAvaTam	sarvA@vaTam	ind		TODO	init:parent=sarva
+mw:sarzapakI:TODO = noparts
+mw:savyazwfsAraTI:TODO = 4	239691	savyazwfsAraTI	savya-zwf-sAraTI	NONE		NTD	init
+mw:sazkila:TODO = noparts
+mw:sasrIvfkza:TODO = 3	239777	sasrIvfkza	sa-srI-vfkza	m:f:n		TODO	init:parent=sa
+mw:sahat:TODO = noparts
+mw:sahadIkzitin:TODO = 3	240209	sahadIkzitin	saha-dIkzitin	m:f:n		TODO	init:parent=saha
+mw:sahoBiH:TODO (hwnorm=sahoBi) = noparts
+mw:sahra:TODO = noparts
+mw:sAMvatsarI:TODO = noparts
+mw:sAkalikA:TODO = noparts
+mw:sAMkftyAyanI:TODO (hwnorm=sANkftyAyanI) = noparts
+mw:sAMKyayogavadin:TODO (hwnorm=sANKyayogavadin) = 4	241255	sAMKyayogavadin	sAMKya-yoga-vadin	m		TODO	init:parent=sAMKyayoga
+mw:sADayitf:TODO = noparts
+mw:sADAraRAsADAraRAnupasaMhAriviroDagranTa:TODO = 3	241845	sADAraRAsADAraRAnupasaMhAriviroDagranTa	sADAraRA@sADAraRA@nupasaMhAri-viroDa-granTa	m		TODO	init:parent=sADAraRa
+mw:sADAraRAsADAraRAnupasaMhAriviroDin:TODO = 3	241846	sADAraRAsADAraRAnupasaMhAriviroDin	sADAraRA@sADAraRA@nupasaMhAri-vi~roDin	n		TODO	init:parent=sADAraRa
+mw:sAnasI:TODO = 1	241900	sAnasI	sAnasI	NONE		NTD	init
+mw:sAntvita:TODO = noparts
+mw:sAMDivelI:TODO (hwnorm=sAnDivelI) = noparts
+mw:sAmvfttika:TODO (hwnorm=sAmvftika) = 1	240918.1	sAmvfttika	sAmvfttika	NONE		NTD	init
+mw:sArakzetramAhatmya:TODO = 3	242837	sArakzetramAhatmya	sAra-kzetra-mAhatmya	n		TODO	init:parent=sAra
+mw:sArasvatI:TODO = noparts
+mw:sArtra:TODO = noparts
+mw:sArvaBOmAsarvasverAmasUkta:TODO = 4	243265	sArvaBOmAsarvasverAmasUkta	sArva-BOmA-sarvasve rAma-sU@kta	n		TODO	init:parent=sArvaBOma
+mw:sAleyI:TODO = noparts
+mw:sAvaisirole:TODO = 1	243366	sAvaisirole	sAvaisirole	NONE		NTD	init
+mw:sAzWI:TODO = noparts
+mw:sAhasEkAntarasAnuvartin:TODO = 3	243629	sAhasEkAntarasAnuvartin	sAhasE@kA@nta-rasA@nuvartin	m:f:n		TODO	init:parent=sAhasa
+mw:sAhuqIpAla:TODO = 1	243708.1	sAhuqIpAla	sAhuqI-pAla	m		TODO	init
+mw:siMhavyAGralakzaRI:TODO = 4	243906.44	siMhavyAGralakzaRI	siMha-vyAGra-lakzaRI	f		TODO	init:parent=siMhavyAGra
+mw:siMhila:TODO = noparts
+mw:sikatopopta:TODO = 3	244020.1	sikatopopta	sikato@po@pta	m:f:n		TODO	init:parent=sikatA
+mw:sigruqI:TODO = noparts
+mw:siNgABawwIya:TODO = 3	244028.1	siNgABawwIya	siNgA-BawwIya	n		TODO	init:parent=siNgABawwa
+mw:siNGARikA:TODO = noparts
+mw:sidguRqa:TODO = noparts
+mw:sidDIkfta:TODO = 2	244742	sidDIkfta	sidDI-kfta	m:f:n		TODO	init:parent=siD:VERB
+mw:sinDi:TODO = noparts
+mw:simbatikA:TODO = noparts
+mw:silhakI:TODO = noparts
+mw:sItormile:TODO = 3	245092	sItormile	sIto@rmile	INFLECTID=f1d,STEM=sItormilA		TODO	init:parent=sItA
+mw:sIlanDra:TODO = noparts
+mw:suKayaSorTavfdDikara:TODO = 3	245742	suKayaSorTavfdDikara	suKa-yaSo-'rTa-vfdDi-kara	m:f:n		TODO	init:parent=suKa
+mw:sugfhItABiDa:TODO = 4	246118	sugfhItABiDa	su-gfhI~tA@BiDa	m:f:n		TODO	init:parent=sugfhIta
+mw:suduzKita:TODO = 3	246716	suduzKita	su-duz~Kita	NONE		NTD	init
+mw:suduzpraBa:TODO = 3	246719	suduzpraBa	su-duzpraBa	m		TODO	init:parent=su
+mw:supanTAs:TODO = 3	247360	supanTAs	su-panTAs	NONE		NTD	init
+mw:suPAhila:TODO = 1	248167.2	suPAhila	suPAhila	NONE		NTD	init
+mw:subDa:TODO = noparts
+mw:sumAninitA:TODO = 4	248344.1	sumAninitA	su-mAnini-tA	f		TODO	init:parent=sumAnin
+mw:suraDanurleKAya:TODO = 4	249328	suraDanurleKAya	sura-Da~nur-leKAya	NONE		NTD	init
+mw:surusura:TODO = noparts
+mw:sulakkaRa:TODO = 3	248773	sulakkaRa	su-lakkaRa	m		TODO	init:parent=su
+mw:sulalika:TODO = 3	248808	sulalika	su-lalika	m		TODO	init:parent=su
+mw:suzupsa:TODO = noparts
+mw:suzWutaram:TODO = 3	250325	suzWutaram	suzWu-taram	ind	suzWu-tara	DONE	wsfx:tara:w1242:+m
+mw:sustanI:TODO = 3	250546	sustanI	su-sta~nI	f		TODO	init:parent=su
+mw:susnayu:TODO = noparts
+mw:suhalana:TODO = 3	250643	suhalana	su-halana	m		TODO	init:parent=su
+mw:sUdI:TODO = noparts
+mw:sUnAtawi:TODO = 3	251363	sUnAtawi	sUnA-tawi	f		TODO	init:parent=sUnA
+mw:sUryAcandramasO:TODO = 3	251721	sUryAcandramasO	sUryA-candrama~sO	INFLECTID=m1d,STEM=sUryAcandramas		TODO	init:parent=sUrya
+mw:sUryABinimlukta:TODO = 3	251740	sUryABinimlukta	sUryA@Binimlukta	m:f:n		TODO	init:parent=sUrya
+mw:sfkTA:TODO = noparts
+mw:sfYjayI:TODO = noparts
+mw:sfztArTa:TODO = 3	251952.1	sfztArTa	sfztA@rTa	m:f:n		TODO	init:parent=sfzwa
+mw:secita:TODO = noparts
+mw:selisa:TODO = noparts
+mw:sevyasevakO:TODO = 3	252350	sevyasevakO	sevya-sevakO	INFLECTID=m1d,STEM=sevyasevaka		TODO	init:parent=sevya
+mw:sehana:TODO = noparts
+mw:sEnDavI:TODO = noparts
+mw:sEriBI:TODO = noparts
+mw:soni:TODO = noparts
+mw:somapIvin:TODO = 3	252887	somapIvin	soma-pIvin	m		TODO	init:parent=soma
+mw:somArDAya:TODO = 3	253149	somArDAya	somA@rDAya	NONE		NTD	init
+mw:sominI:TODO = noparts
+mw:solika:TODO = noparts
+mw:sOtaMgama:TODO (hwnorm=sOtaNgama) = noparts
+mw:sOdarSanIya:TODO = noparts
+mw:sOparReyI:TODO = noparts
+mw:sOBAgyalakzmIkalpeSyAmalAmbAstotra:TODO = 3	253580	sOBAgyalakzmIkalpeSyAmalAmbAstotra	sOBAgya-lakzmI-kalpe SyAmalA@mbA-stotra	n		TODO	init:parent=sOBAgya
+mw:sOBAgyalakzmItantreSyAmalAmbAvarmaratna:TODO = 3	253581	sOBAgyalakzmItantreSyAmalAmbAvarmaratna	sOBAgya-lakzmI-tantre SyAmalA@mbA-varma-ratna	n		TODO	init:parent=sOBAgya
+mw:sOmanasAyanI:TODO = noparts
+mw:sOmanasI:TODO = noparts
+mw:sOmyI:TODO = noparts
+mw:sOraTI:TODO = noparts
+mw:sOrinDrI:TODO = noparts
+mw:sOvIrikA:TODO = noparts
+mw:sOSabda:TODO = noparts
+mw:skamBanI:TODO = 2	254253	skamBanI	skamBa~nI	NONE		NTD	init
+mw:stanutf:TODO = 1	254417	stanutf	stanutf	NONE		NTD	init
+mw:stabDameDra:TODO = 3	254487	stabDameDra	stabDa-meDra	m:f:n		TODO	init:parent=stabDa
+mw:startave:TODO = 2	254851	startave	startave	NONE		NTD	init
+mw:stire:TODO = 1	254620	stire	stire	NONE		NTD	init
+mw:stImita:TODO = noparts
+mw:stIrRi:TODO = noparts
+mw:stubDa:TODO = noparts
+mw:stoBita:TODO = noparts
+mw:sTava:TODO = noparts
+mw:sTirapsnu:TODO = 3	255777	sTirapsnu	sTira-psnu	m:f:n		TODO	init:parent=sTira
+mw:sTiritvA:TODO = noparts
+mw:sTURI:TODO = noparts
+mw:sTURya:TODO = noparts
+mw:sTUlAzwIva:TODO = 3	256165	sTUlAzwIva	sTUlA@zwIva	m		TODO	init:parent=sTUla
+mw:sTemnA:TODO = noparts
+mw:snIhA:TODO = noparts
+mw:snuGnikA:TODO = noparts
+mw:spUrDase:TODO = 2	256539	spUrDase	spUrDase	NONE		NTD	init
+mw:spfta:TODO = noparts
+mw:spfhayitf:TODO = noparts
+mw:sPavi:TODO = 1	256809	sPavi	sPavi	SEE		NTD	init
+mw:sPAwakI:TODO = noparts
+mw:sPivi:TODO = noparts
+mw:smaraRI:TODO = noparts
+mw:syanttavya:TODO = noparts
+mw:syAlikA:TODO = noparts
+mw:srucIyas:TODO = noparts
+mw:svacCikA:TODO (hwnorm=svaCikA) = noparts
+mw:svadayitf:TODO = noparts
+mw:svarRajIrI:TODO = 3	259315	svarRajIrI	svarRa-jIrI	f		TODO	init:parent=svarRa
+mw:svarRetf:TODO = 3	259123	svarRetf	svar-Retf	m:f:n		TODO	init:parent=svar
+mw:haMsANGrI:TODO = 3B	260181	haMsANGrI	haMsA@NGrI	f		TODO	init
+mw:haMsinI:TODO = noparts
+mw:hatru:TODO = noparts
+mw:haTiRAvagrAma:TODO = 1	260290	haTiRAvagrAma	haTiRA@vagrAma	m		TODO	init
+mw:hani:TODO = noparts
+mw:hanuza:TODO = noparts
+mw:hantrI:TODO = noparts
+mw:hamIpurya:TODO = 1	260549	hamIpurya	hamI-purya	m:f:n		TODO	init
+mw:hayakanTarikA:TODO = 3	260576	hayakanTarikA	haya-kanTa~rikA	NONE		NTD	init
+mw:hayuzA:TODO = noparts
+mw:hariRAkrIqita:TODO = 3	261352	hariRAkrIqita	hariRA@krI~qita	n		TODO	init:parent=hariRa
+mw:hariRInayaRA:TODO = 3	261378	hariRInayaRA	hariRI-nayaRA	f		TODO	init:parent=hariRI
+mw:harid:TODO = 2	261481	harid	harid	NONE		NTD	init
+mw:harinEgumezin:TODO = 3	260982	harinEgumezin	hari-nEgumezin	m		TODO	init:parent=hari
+mw:hartu:TODO = noparts
+mw:haryajvAyana:TODO = noparts
+mw:hastakohali:TODO = 3	262156	hastakohali	hasta-kohali	f		TODO	init:parent=hasta
+mw:hastatrayasammite:TODO = 3	262185	hastatrayasammite	hasta-traya-sammite	ind		TODO	init:parent=hasta
+mw:hAtkfta:TODO = 1	262651	hAtkfta	hAt-kfta	n		TODO	init
+mw:hAyanI:TODO = noparts
+mw:hAyISabda:TODO = 3	262681	hAyISabda	hAyI-Sabda	m		TODO	init:parent=hAyi
+mw:hAraBUrA:TODO = 3	260825	hAraBUrA	hAra-BUrA	f		TODO	init:parent=hAra
+mw:hArzRi:TODO = noparts
+mw:hiNgudI:TODO = noparts
+mw:hiRqi:TODO = noparts
+mw:hindolI:TODO = noparts
+mw:himavacCiras:TODO (hwnorm=himavaCiras) = 4	263036.25	himavacCiras	hima~vac-Ciras	n		TODO	init:parent=himavat
+mw:himodaki:TODO = 3	263119	himodaki	himo@~daki	m		TODO	init:parent=hima
+mw:hILa:TODO = noparts
+mw:hugalI:TODO = noparts
+mw:huguli:TODO = noparts
+mw:hugulI:TODO = noparts
+mw:huqum:TODO = 2	263525	huqum	huqum	NONE		NTD	init
+mw:humAuM:TODO = noparts
+mw:humPaqanta:TODO = 3	263547	humPaqanta	hum-Paq-anta	m		TODO	init:parent=hum
+mw:huriYjaka:TODO = noparts
+mw:huruzkara:TODO = noparts
+mw:huliNga:TODO = noparts
+mw:huzwuta:TODO = noparts
+mw:huss:TODO = noparts
+mw:hUMhUMkArapAra:TODO (hwnorm=hUMhUNkArapAra) = 2	263606	hUMhUMkArapAra	hUMhUMkAra-pAra	m		TODO	init:parent=hUMkAra
+mw:hUrCitf:TODO = noparts
+mw:hUrRi:TODO = noparts
+mw:hfRAya:TODO = 2	263655	hfRAya	hfRAya	NONE		NTD	init
+mw:hfRAyati:TODO = 2	263656	hfRAyati	hfRA~yati	NONE		NTD	init
+mw:hfn:TODO = 2	263903	hfn	hfn	NONE		NTD	init
+mw:heLa:TODO = noparts
+mw:heLana:TODO = 2	263982	heLana	heLana	NONE		NTD	init
+mw:hetri:TODO = noparts
+mw:hemakuRqya:TODO = 3	264150	hemakuRqya	hema-kuRqya	NONE		NTD	init
+mw:helaYci:TODO = noparts
+mw:hEmaprAkftaDuRqikA:TODO = 3	264334	hEmaprAkftaDuRqikA	hEma-prAkfta-DuRqikA	f		TODO	init:parent=hEma
+mw:hotApotArO:TODO = 2	264498	hotApotArO	hotA-potArO	INFLECTID=m1d,STEM=hotApotf		TODO	init:parent=hotf
+mw:hoturantevasin:TODO = 2	264500	hoturantevasin	hotur-antevasin	m		TODO	init:parent=hotf
+mw:hominI:TODO = noparts
+mw:hmAla:TODO = 2	264652	hmAla	hmAla	NONE		NTD	init
+mw:hyastanI:TODO = noparts
+mw:hradI:TODO = noparts
+mw:hrasIyasI:TODO = noparts
+mw:hrasta:TODO = 2	264688	hrasta	hrasta	NONE		NTD	init
+mw:hrasvopaDa:TODO = 3	264737	hrasvopaDa	hrasvo@paDa	m:f:n		TODO	init:parent=hrasva
+mw:hrum:TODO = noparts
+mw:hrUqru:TODO = 2	264811	hrUqru	hrUqru	NONE		NTD	init

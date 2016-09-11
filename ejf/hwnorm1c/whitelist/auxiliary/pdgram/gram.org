@@ -1,0 +1,2288 @@
+* TODO Case 0001:? aMh [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0030a][page 1-0030a]]
+;  <P>.{#aMh#}^2¦ (am3h-) I. A. [{#ahi gatO#} Dha1tu1Pa1. 1. 666; {#aMhi#} SaraKan2t2ha1 (Gr.)
+;  <>ii. 1. 157; {#ahiN gate#} KaviKaDru. 344; Dha1tuVr2. records the forms {#aMhate,
+;  <>AnaMhe, aMhitA, aYjihizate, aMhayati, AYjihat#} and the noun {#aMhas;#} used
+;  <>mostly in Dha1tuka1vyas] to go, to procede {#AnaMhire'driM prati citrakUwam#}
+;  <>Bhat2t2i. 3. 46; 3. 25; 4. 4; 14. 51; 22. 17; {#naBoviharaRIM labDiM prApya tO sutapo-
+;  <>DanO.A(? AM)hizAtAM jaganmAnyAM jinatIrTABipUjitAm#} PadmP.(Ra.) 39. 175;
+;  <>(causal) {#tamAYjihanmETilayajYaBUmim#} Bhat2t2i. 2. 40; {#yudDonmattaM ca mattaM ca rAjA
+;  <>rakzArTamAYjihat#} Bhat2t2i. 15. 75.
+
+* TODO Case 0002:? akaTA [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0036b][page 1-0036b]]
+;  <P>.{#akaTA#}¦ (a-katha1) {%f.%} {@1@} (Gr.) not mentioned, not defined as or in-
+;  <>cluded in any other {%ka1raka%} (case-relation) {#akArakaM hyakaTitatvAt kArakaM cettu
+;  <>nAkaTA#} Va1r. {%on%} P. i. 4. 51; {@2@} no mention, no question, let alone, beyond
+;  <>the power of expression {#kAlakramaM pratyakaTEva tAvat#} Subha1s2i. 1272; {@3@} an
+;  <>improper or secular story {#miTyAdfzwinA ajYAninA liNgasTena vA gfhiRA kaTya-
+;  <>mAnA kaTA akaTA#} Abhidha1naRa1j. 1. 124.
+
+* TODO Case 0003: aki [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0094a][page 1-0094a]]
+;  <P>.{#aki#}^1¦ (a4ki) (Gr.) the technical form in which the root {%an3k-%} is given
+;  <>in Dha1tuPa1. 1. 87; Dha1tuVr2. 1. 88; Ks2i1raTa. 1. 87; Nya1s. 3. 978 ({%on%} viii.
+;  <>2. 22); SaraKan2t2ha1.(Gr.) ii. 3. 51; PadMan5. {%on%} Ka1s4iVr2. {%on%} P. viii. 2. 22.
+
+* TODO Case 0004: aki [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0094a][page 1-0094a]]
+;  <P>.{#aki#}^2¦ (a-ki) (Gr.) a suffix which is other than a vocative suffix
+;  <>{#na KaM mfdantasyAkO#} JaineVya1. v. 3. 30.
+
+* TODO Case 0005: aki [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0094a][page 1-0094a]]
+;  <P>.{#aki#}^3¦ (aki) (Gr.) a secondary suffix used with the verbal root
+;  <>{%vr2dh-%} to form the noun {%vardhaki%} ‘carpenter’ {#varDerakiH#} SaraKan2t2ha1.(Gr.)
+;  <>ii. 1. 174 (Na1ra1yan2a {#varDayaterakiH pratyayo Bavati.varDayatIti varDakistakzA#})
+
+* TODO Case 0006:? akiMvftta [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0094a][page 1-0094a]]
+;  <P>.{#akiMvftta#}¦ (a-kim3vr2tta) {%adj.%} (Gr.) (an {%upapada%}) which does not con-
+;  <>tain an interrogative pronoun or its derivative {#anavakxptyamarzayorakiMvftte'pi#} P.
+;  <>iii. 3. 145; {#kiMvfttasyAnaDikArAduttaratrAkiMvfttagrahaRAnarTakyam#} Va1r. I {%on%} P. iii. 3. 145;
+;  <>{#kiMvfttasyAnaDikArAduttaratrAkiMvfttagrahaRamanarTakam.nivfttaM kiMvftta iti tasminnivftte'-
+;  <>viSezeRa kiMvftte cAkiMvftte ca Bavizyati#} Maha1Bh. ii. 164. 3 ({%on%} iii. 3. 145);
+;  <>{#akiMvfttaSabdena kiMvfttAdanyatpadaM paryudAsASrayeRa gfhyate#} Pradi1. iii. 246B ({%on%} P. iii.
+;  <>3. 145); {#akiMvfttagrahaRaM kiMvfttADikAranivfttyarTam#} PadMan5. {%on%} Ka1s4iVr2. {%on%} P. iii.
+;  <>3. 145; {#kiMvftte'kiMvftte'pi liNxwO staH#} PrakriKau. ii. 455. 2; LaS4abdeS4e. ii.
+;  <>66. 11.
+
+* TODO Case 0007: akit [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0097b][page 1-0097b]]
+;  <P>.{#akit#}¦ (a-kit) (Gr.) an affix, or a reduplicated syllable, not having
+;  <>{%k%} as the indicatory sound and hence allowing {%Gun2a%} or {%Vr2ddhi%} in the [Page1-098a+ 64]
+;  <>preceding syllable {#sfjidfSorJalyamakiti#} P. vi. 1. 58; {#dIrGo'kitaH#} P. vii. 4. 83;
+;  <>{#tadvadatideSe'kidviDiprasaNgaH#} Va1r. 4 {%on%} P. i. 2. 1; {#na vA sewtvasyAkidASrayatvAdaniwi
+;  <>vA kittvam#} Va1r. 2. {%on%} P. i. 2. 22; {#tadvadatideSe'kidviDirapi prApnoti#} Maha1Bh. i.
+;  <>192. 2 ({%on%} P. i. 2. 1); {#akidASrayaM sewtvam#} Maha1Bh. i. 201. 10 ({%on%} P. i.
+;  <>2. 22); {#Jalyakiti sfjdfSo'm#} JaineVya1. iv. 3. 51; {#dIrakitaH#} JaineVya1. v. 2. 181;
+;  <>{#aH sfjidfSo'kiti#} SiddhaHe. iv. 4. 111; {#vardro'kijJase dfSasfjostu nityam#}
+;  <>MugdhaBo. 8. 77 (91. 7); {#upadeSe'nudAtto ya fdupaDastasya amAgamo vA syAt
+;  <>JalAdAvakiti pare#} PrakriKau. ii. 99. 5; {#anayoramAgamaH syAjJalAdAvakiti#}
+;   [and 3 more lines]
+
+* TODO Case 0008:? aku [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0100a][page 1-0100a]]
+;  <P>.{#aku#}^1¦ (a-ku) {%adj.%} (Gr.) non-velar (sounds), (sounds or letters) other
+;  <>than {%k, kh, g, gh%} and {%n3%} {#eti saMjYAyAmakoH#} Ca1ndraVya1. vi. 4. 85.
+
+* TODO Case 0009: akKin [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0138b][page 1-0138b]]
+;  <P>.{#akKin#}¦ (akkhin) (Gr.) marked by the elision of the final or penulti-
+;  <>mate {%a, i, u, r2, l2%} (= {#aglopin#} of P.) {#RO kacyuqaH pro'SAsvakKyfditaH#} Jaine-
+;  <>Vya1. v. 2. 115 (comm. {#akaH Kam akKam, akKamasyAtIti akKi) rAjAnama-
+;  <>tyAKyat atyararAjat.…yatra kevalasyAcaH KaM(= lopaH)tatra ‘pare'caH pUrvaviDO’
+;  <>iti sTAnivadBAvaH.halacoScAyamAdeSaH.tadarTamakiKapratizeDaH#} JaineVya1. 376. 13
+;  <>({%on%} v. 2. 115)
+
+* TODO Case 0010: akta [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0138b][page 1-0138b]]
+;  <P>.{#akta#}^1¦ (a-kta) (Gr.) a suffix other than {%kta%} and {%ktavatu%} {#veH skando'ktayoH#}
+;  <>S4a1kat2a1Vya1. iv. 2. 232 = SiddhaHe. ii. 3. 51.
+
+* TODO Case 0011:? akzadyUtAdi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0169b][page 1-0169b]]
+;  <P>.{#akzadyUtAdi#}¦ (aks2adyu1ta1di) {%m.%} (Gr.) a {%gan2a%}, the class of words
+;  <>beginning with {%aks2a-dyu1ta%} {#nirvftte'kzadyUtAdiByaH#} P. iv. 4. 19; JaineVya1. iii.
+;  <>3. 142 (213. 1); Ca1ndraVya1. iii. 4. 18; S4a1kat2a1Vya1. iii. 2. 18; SiddhaHe. vi.
+;  <>4. 20; {#anye'pi Dvanayo lakzyA akzadyUtAdinAmani#} Gan2aRa. 6. 481 (497)
+
+* TODO Case 0012: aKi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0254a][page 1-0254a]]
+;  <P>.{#aKi#}¦ (a-khi) (Gr.) other than the first (portion) of the reduplicated
+;  <>syllable of a verbal root {#rvy anactayIko DorGo'kurcCuro'KeH#} MugdhaBo. 3. 151
+;  <>(35. 7); {#satsvaYjozWayAM nAKeH#} MugdhaBo. 8. 107 (96. 12)
+
+* TODO Case 0013:? agati [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0285b][page 1-0285b]]
+;  <P>.{#agati#}^2¦ (a-gati) {%f.%} a word other than a {%gati%} (Gr.) {#canacidivagotrAdita-
+;  <>dDitAmreqitezvagateH#} P. viii. 1. 57; Va1r. 1 ({%on%} P. viii. 1. 57); {#kutsane ca supyagotrA-
+;  <>dAvagatirapIti#} Maha1Bh. iii. 380. 10 ({%on%} P. viii. 1. 68); {#ezu zawsu parezu agate-
+;  <>ruttaraM tiNantaM nAnudAttam#} Prasa1. ii. 788. 25.
+
+* TODO Case 0014:? agatitva [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0286a][page 1-0286a]]
+;  <P>.{#agatitva#}^2¦ (agati-tva) {%n.%} state of being different from {%gati%} (Gr.)
+;  <>{#Cando'rTamiti cennAgatitvAt#} Va1r. 2 {%on%} P. viii. 1. 70; Siddha1Kau. 33B. 16;
+;  <>159B. 4; {#kriyAyogABAvAdagatitvam#} LaS4abdeS4e. ii. 58. 4.
+
+* TODO Case 0015:? agatyarTa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0286a][page 1-0286a]]
+;  <P>.{#agatyarTa#}¦ (a-gatyartha) {%adj.%} not having the sense of {%gati%} (Gr.) {#prAdi-
+;  <>grahaRasyehAgatyarTatvAtkarmapravacanIyAnAM pratizeDaH#} Pradi1. ii. 435B. 17 ({%on%} ii. 2. 18); ii.
+;  <>436A. 30 ({%on%} ii. 2. 18)
+
+* TODO Case 0016: agi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0310a][page 1-0310a]]
+;  <P>.{#agi#}¦ (a-gi) (Gr.) not preceded by a verbal prefix or preposition
+;  <>{#vAgeH#} JaineVya1. i. 2. 39 (comm. {#ageH kramo vA do Bavati.…ageriti kim
+;  <>saMkrAmati#}); i. 2. 71; ii. 1. 111; ii. 1. 116; ii. 3. 24; ii. 3. 62; ii. 3. 64; v. 1. 48;
+;  <>{#agerQyAm.ageriRorGaH syAt kiti QyAm.ageH kim.anviyAt#} MugdhaBo.
+;  <>9. 15 (105. 4); 18. 23 (125. 19); 23. 34 (138. 17); 23. 58 (141. 1); 24. 7
+;  <>(142. 13); 26. 15 (150. 3); 26. 35 (152. 23); 26. 116 (163. 9)
+
+* TODO Case 0017: agit [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0310a][page 1-0310a]]
+;  <P>.{#agit#}^1¦ (a-git) (Gr.) other than {%git%} {#virAme'gidanAN cAdyaRvAnunAsikaH#}
+;  <>S4a1kata1Vya1. i. 1. 68.
+
+* TODO Case 0018: agit [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0310a][page 1-0310a]]
+;  <P>.{#agit#}^2¦ (ag-it) (Gr.) having an indicatory {%ak%} {#Reraglope'pi saMbanDastva-
+;  <>gitAmapi sidDaye#} Siddha1Kau. 366B. 7.
+
+* TODO Case 0019: agila [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0310a][page 1-0310a]]
+;  <P>.{#agila#}¦ (a-gila) (Gr.) other than the word {%gila%} {#agilasya gile (mum)#}
+;  <>Ca1ndrVya1. v. 2. 81; {#gilagilagilayoraco'gilasya#} S4a1kat2a1Vya1. ii. 2. 77; Ka1tan.
+;  <>iv. 1. 24; SiddhaHe. iii. 2. 115.
+
+* TODO Case 0020:? agOrAdi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0328b][page 1-0328b]]
+;  <P>.{#agOrAdi#}¦ (a-gaura1di) {%adj.%} (Gr.) (words) other than {%gaura%} etc.
+;  <>{#upAddvyajajinamagOrAdayaH#} P. vi. 2. 194.
+
+* TODO Case 0021:? agni [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0340a][page 1-0340a]]
+;  <P>.{#agni#}^2¦ (ag-ni) {%m.%} (Gr.) a technical term for nouns ending in -{%i%} and
+;  <>{%u%} {#idudagniH#} Ka1tan. ii. 1. 8; {#agneramo'kAraH#} Ka1tan. ii. 1. 50; ii. 2. 1.
+
+* TODO Case 0022: aGni [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0503a][page 1-0503a]]
+;  <P>.{#aGni#}¦ (a-ghni) (Gr.) abbreviated form of the word {%aghniya1%} {#aratim…
+;  <>aGni#} (v. l. {#aGniya#}) TaiPra1ti. 11. 17 (comm. {#aratim…aGni ityetezu grahaRezu
+;  <>akAra ekArapUrva aokArapUrvo vA na Kalu lopamApadyate.…GnItyapadagrahaRamanekapadArTa-
+;  <>grahaRArTam#})
+
+* TODO Case 0023: aGya [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0503b][page 1-0503b]]
+;  <P>.{#aGya#}¦ (a-ghya) (Gr.) other than the suffix {%ghya(n2)%} (= P. {#Ryat#})
+;  <>{#kzeraGye#} S4a1kat2a1Vya1. iv. 1. 252 (comm. {#GyaRpratyayasyArTo BAvakarmaRI tato'nyatra;#}
+;  <>cf. iv. 3. 60)
+
+* TODO Case 0024: aGyac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0503b][page 1-0503b]]
+;  <P>.{#aGyac#}¦ (aghy-ac) (Gr.) the vowel except (in the beginning of) the
+;  <>first five case suffixes (viz. {%su, au, jas, am%}, and {%au%}) {#aGyactAcyep piH#}
+;  <>MugdhaBo. 3. 23 (12. 22)
+
+* TODO Case 0025: aN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0504a][page 1-0504a]]
+;  <P>.{#aN#}^1¦ (a-n3) (Gr.) aorist marker {%a%} with the indicatory letter {%n3%} added
+;  <>to it {#asyativaktiKyAtiByo'N#} P. iii. 1. 52; vi. 4. 34; vii. 4. 16; JaineVya1. ii.
+;  <>1. 45; iv. 4. 34; v. 2. 128; Ca1ndraVya1. i. 1. 70; S4a1kat2a1Vya1. iv. 1. 240; iv.
+;  <>2. 7; iv. 3. 9; iv. 4. 82; SaraKan2t2ha1(Gr.) i. 3. 87; SiddhaHe. iii. 4. 60; iv.
+;  <>3. 7; iv. 3. 102; iv. 4. 118; v. 3. 107; DaivaVya1. 179; {#aglucat….aNyasyApi
+;  <>kecidanunAsikalopABAvamicCanti agluYcaditi#} Dha1tuPra. 1. 198 (22. 11); {#aNA
+;  <>sAhacaryAdAsa upaveSana ityasyAgrahaRAt#} PariVr2.(Si1.) 74. 11; Sya1dva1Man5.
+;  <>28 (41); {#eByaH parasya cleraNAdeSaH#} PrakriKau. ii. 114. 7; Siddha1Kau. 406A. 12.
+
+* TODO Case 0026: aN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0504a][page 1-0504a]]
+;  <P>.{#aN#}^2¦ (a-n3) (Gr.) benedictive marker (Vedic) {%a%} with the indicatory
+;  <>letter {%n3%} added to it {#liNyASizyaN#} P. iii. 1. 86; S4iva1rkaMaDi1. ii. 364. 10
+;  <>({%on%} iii. 3. 44)
+
+* TODO Case 0027: aN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0504a][page 1-0504a]]
+;  <P>.{#aN#}^2¦ (a-n3) (Gr.) {%kr2t%} suffix {%a%} with the indicatory letter {%n3%} (forming
+;  <>action nouns ending in {%a1%}) {#zidBidAdiByo'N#} P. iii. 3. 104; {#antaSabdasyAN-
+;  <>kiviDisamAsaRatvezUpasaMKyAnam#} Va1r. {%on%} P. i. 4. 65; {#zAnubanDaBidAdiByastvaN#}
+;  <>Ka1tan. iv. 5. 82; JaineVya1. ii. 3. 86; Ca1ndraVya1. i. 3. 86; SaraKan2t2ha1-
+;  <>(Gr.) ii. 4. 139; {#aNsTAcCatrAderaY#} SiddhaHe. vi. 4. 60 (comm. {#aNantAt sTaH…
+;  <>tadasya SIlamiti vizaye'Y syAt.AsTaH#}); {#aNaH ktinbADakatvAt#} Nya1ySu.(Ja.)
+;  <>514B. 3 ({%on%} iii. 2. 16); {#yadfcCayABijYa iti pAWAntaram.tatra yadfcCayA tatpUrvaka-
+;  <>prAptyA aBijYAyate smAryate sa ityarTaH.a(? A)taSceti karmaRyaN#} Ba1lamBha. ii.
+;  <>82. 4 ({%on%} 2. 68); {#avasA iti avapUrvAtsyaterBAve'Ni rUpam#} Bha1sk. i. 186. 15
+;  <>({%on%} i. 4. 7)
+
+* TODO Case 0028: aN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0504a][page 1-0504a]]
+;  <P>.{#aN#}^4¦ (a-n3) (Gr.) (verbal-root) not having the indicatory letter {%n3%}
+;  <>{#taNvato halAderaNaH#} Ca1ndraVya1. i. 2. 98.
+
+* TODO Case 0029: aN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0504a][page 1-0504a]]
+;  <P>.{#aN#}^5¦ (a-n3) (Gr.) substitute {%a%} (for the final long vowel {%u1%} of the
+;  <>first part of the reduplicated root {%bhu1-%}) {#Buvo'N WyAM QaBAve tu vA#} Mugdha-
+;  <>Bo. 8. 33 (83. 10); 18. 2 (123. 8)
+
+* TODO Case 0030: aN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0504a][page 1-0504a]]
+;  <P>.{#aN#}^6¦ (a-n3) (Gr.) aorist marker {%a%} with indicatory {%n3%} (= {%can3%} of
+;  <>P.) {#Gurdviz WyaNi#} MugdhaBo. 8. 31 (83. 5); 8. 86 (92. 17); 18. 2 (123. 8)
+
+* TODO Case 0031: aNa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0504a][page 1-0504a]]
+;  <P>.{#aNa#}¦ (a-n3a) (Gr.) {@i@} other than the aorist marker {%n3a%} (= {%can3%} of P.)
+;  <>{#stamBo'NpratistabDanistabDe#} S4a1kat2a1Vya1. iv. 2. 222; iv. 1. 71; SiddhaHe. ii.
+;  <>3. 41; iv. 1. 34; iv. 2. 35; {@ii@} other than the aorist marker {%n3a%} (i. e. {%an3%}
+;  <>of P.) {#hanagamajanaKanaGasAmuNlopo'Ne'cyaRO#} MugdhaBo. 3. 153 (35. 24)
+
+* TODO Case 0032: aNi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0504a][page 1-0504a]]
+;  <P>.{#aNi#}¦ (a-n3i) (Gr.) (meaning) other than ({%bha1va%} and {%karman%}) ex-
+;  <>pressed by {%n3i%} {#ye'NO#} JaineVya1. iv. 4. 159.
+
+* TODO Case 0033: aNI [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0504b][page 1-0504b]]
+;  <P>.{#aNI#}¦ (a-n3i1) (Gr.) (a nominal stem) not ending in the {%feminine%} suffix
+;  <>{%i1%} with the indicatory letter n3 {#iko hrasvo'Nyo gAlavasya#} P. vi. 3. 61; {#kaSca
+;  <>SezaH.aNI ca yA nadI, NyantaM ca yadekAc#} Maha1Bh. iii. 159. 2 ({%on%} vi. 3. 43)
+
+* TODO Case 0034: aNki [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0515b][page 1-0515b]]
+;  <P>.{#aNki#}¦ (an3k-i) (Gr.) root {%an3k-%} {#mandivASimaTicaticaNkyaNkiBya urac#} Un2a1.
+;  <>1. 39; SaraKan2t2ha1.(Gr.) ii. 1. 223.
+
+* TODO Case 0035: aNku [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0517a][page 1-0517a]]
+;  <P>.{#aNku#}^2¦ (an3ku) (Gr.) a grammatical suffix to explain {#SalaNkuH, SaleraNkuH#}
+;  <>Sarakan2t2ha1.(Gr.) ii. 1. 43 (TSS. Ed.)
+
+* TODO Case 0036: aNgac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0538b][page 1-0538b]]
+;  <P>.{#aNgac#}¦ (an3gac) (Gr.) suffix {%an3ga%}, Un2a1. 1. 118; {#patitamitflUByo'Ngac#}
+;  <>SaraKan2t2ha1.(Gr.) ii. 2. 59; {#patx gatO.pateraNgacpratyayaH.pataNgaH#} Dha1tuPra.
+;  <>1. 848. (61. 13)
+
+* TODO Case 0037:? aNgarUpa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0570b][page 1-0570b]]
+;  <P>.{#aNgarUpa#}¦ (an3ga-ru1pa) {%n.%} {@1@} (Gr.) form of {%an3ga%} {#sidDaM tvaNgarUpagraha-
+;  <>RAdyasyANgasyeyuvO tatpratizeDAt#} Va1r. 5. {%on%} P. i. 4. 3; {#aNgarUpaM gfhyate#} Maha1Bh.
+;  <>i. 314. 14 ({%on%} i. 4. 3); {@2@} beauty of the body {#nEkastrIniyato madaH.tenEkasyAM na
+;  <>hIcCuH syAt aNgarUpAdyapIti cet#} Prama1Va1r. 2. 154.
+
+* TODO Case 0038:? aNgarUpa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0570b][page 1-0570b]]
+;  <P>.{#aNgarUpa#}¦ (an3ga-ru1pa) {%adj.%} [{%f.%} -a1] {@1@} (Gr.) having the form of {%an3ga%}
+;  <>{#atra tAtaNGiBAvayoryugapadekasTAnisaMbanDasyANgarUpanimittAnantaryasya vA na samBava iti
+;  <>BAzye spazwam#} LaS4abdeS4e. i. 156. 7; {@2@} having the form of a part, limb,
+;  <>constituent or accessory {#(manaH) aNginAmaNgarUpaM ca prerakaM sarvakarmaRAm#} Brahm-
+;  <>VaiP. ii. 25. 21; {#dravyARyetAni pUjAyAScANgarUpARi sundari#} BrahmaVaiP. iii.
+;  <>4. 26; {#na tAdAtmyamalaMkArARAM DvaneSca yAvatsvAmiBftyavadaNgirUpANgarUpayorviroDAdityarTaH#}
+;  <>Loc. 46. 12 ({%on%} 1. 16); {#codakaprAptANgarUpA hiMsA#} YuktiSneha. 31. 23 ({%on%} i.
+;  <>1. 2); {#etABireva saptaprakftiBiraNgarUpABiryuktaM rAjyaM saptANgamucyate#} Vi1raMi. 375. 8
+;  <>({%on%} 1. 353)
+
+* TODO Case 0039:? aNgasaMjYa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0580a][page 1-0580a]]
+;  <P>.{#aNgasaMjYa#}^3¦ (an3ga-san5jn5a) {%adj.%} having the technical name {%an3ga%} (Gr.)
+;  <>{#yasmAtpratyayo viDIyate DAtorvA prAtipadikAdvA tadAdi SabdarUpaM pratyaye parato'NgasaMjYaM
+;  <>Bavati#} Ka1s4iVr2. {%on%} P. i. 4. 13; PrakriKau. i. 219. 6; Siddha1Kau. 45B. 4;
+;  <>LaS4abdeS4e. i. 252. 4.
+
+* TODO Case 0040:? aNgApekza [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0592a][page 1-0592a]]
+;  <P>.{#aNgApekza#}¦ (an3ga1peks2a) {%adj.%} {@i@} (Gr.) with reference to the base (called
+;  <>{%an3ga%}) {#tatra sico'NgApekzaM paratvam.parasmEpadAnAM tu sijapekzam#} Nya1s. iii. 688. 3
+;  <>({%on%} vii. 2. 1); Prasa1. ii. 79. 14; {@ii@} (Philo.) requiring or expectant of the
+;  <>subsidiary {#nanu vEdikasyANgApekzasyAnyatra nibadDamapi vEdikamevANgajAtaM grAhyaM na tvani- [Page1-592b+ 64]
+;  <>badDamapyavEdikam#} S4iva1rkaMaDi1. i. 510. 9 ({%on%} i. 4. 1)
+
+* TODO Case 0041:? aNgApekzatva [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0592b][page 1-0592b]]
+;  <P>.{#aNgApekzatva#}¦ (an3ga1peks2a-tva) {%n.%} (Gr.) expectancy of the base {#valA-
+;  <>dyArDaDAtukApekzaRAdaNgApekzatvAcca bahiraNga iqAgamaH#} Pradi1. iii. 279A. 25 ({%on%} P. iii.
+;  <>4. 79); {#pratyayasyotpattAvaNgApekzatve'pi jYAne tadapekzatvABAvena SAstre tadAkzepe mAnA-
+;  <>BAvaH#} LaS4abdeS4e. i. 186. 8.
+
+* TODO Case 0042:? aNgApekzitva [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0592b][page 1-0592b]]
+;  <P>.{#aNgApekzitva#}¦ (an3ga1peks2i-tva) {%n.%} {@i@} (Gr.) expectancy of the base
+;  <>{#vfdDiraNgApekzitvAt pratyayaviSezApekzatvAcca bahiraNgA#} Pradi1. vi. 93. 12 ({%on%} P. vii.
+;  <>2. 1); {@ii@} (Philo.) expectancy of the subsidiary {#PalavAkye sahitAnAM PalA
+;  <>nvaye'pi yaTA pratyekamevANgApekzitvaM taTA ekAdaSe upapAdayizyAmaH#} Mayu1Ma1li.
+;  <>216. 21 ({%on%} iii. 2. 6)
+
+* TODO Case 0043:? aNgAvayavatva [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0603b][page 1-0603b]]
+;  <P>.{#aNgAvayavatva#}¦ (an3ga1vayava-tva) {%n.%} (Gr.) the state of being a part
+;  <>of a base or stem {#akArasyANgAvayavatvAt#} Nya1s. ii. 503. 1 ({%on%} vi. 4. 10)
+
+* TODO Case 0044:? aNgAvayavAkAra [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0603b][page 1-0603b]]
+;  <P>.{#aNgAvayavAkAra#}¦ (an3ga1vayava1ka1ra) {%m.%} (Gr.) form of part of a [Page1-604a+ 64]
+;  <>base or a stem {#halaH parasyANgAvayavAkArasyetyarTena sidDe AdigrahaRaM spazwArTam#}
+;  <>LaS4abdeS4e. ii. 490. 9.
+
+* TODO Case 0045:? aNgAvayavOzWya [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0604a][page 1-0604a]]
+;  <P>.{#aNgAvayavOzWya#}¦ (an3ga1vayavaus2t2hya) {%n.%} (Gr.) labial (consonant) form-
+;  <>ing part of a stem {#aNgAvayavOzWyapUrvo ya ft tadantasyANgasya ut syAt#} Siddha1-
+;  <>Kau. 400A. 13; LaS4abdeS4e. ii. 579. 12.
+
+* TODO Case 0046:? aNgASraya [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0604b][page 1-0604b]]
+;  <P>.{#aNgASraya#}¦ (an3ga1s4raya) {%adj.%} {@1@} (Gr.) relating to the base or stem
+;  <>(before the addition of a suffix) {#aNgASraye cEkaSezavacanam#} Va1r. 7 ({%on%} P. i. 2. 64);
+;  <>{#aNgASraye ca kArya ekaSezo vaktavyaH#} Maha1Bh. i. 235. 9 ({%on%} i. 2. 64); {#kimaH
+;  <>kAdeSo kfte'NgASrayA inadIrGatvEsBAvA Bavanti#} Ka1s4iVr2. {%on%} P. i. 1. 56; {#yasmAdbahi-
+;  <>raNgAvEcO.tadDitASrayatvAdaNgASrayatvAcca#} Nya1s. i. 106. 9 ({%on%} i. 1. 57); {#smAyAdikaM
+;  <>tAvadaNgASrayam#} PadMan5. {%on%} Ka1s4iVr2. {%on%} P. i. 1. 28; {@2@} relating to the sub-
+;  <>sidiary (rite) {#aNgASrayo hi niyamo Bavitumarhati#} S4a1baBh. 1295. 9 ({%on%} v. 1. 12);
+;  <>{@3@} related to the accessory part (like {%Udgi1tha%} etc.) {#‘ya evaM vidvAnsAma
+;  <>gAyati’ iti ca aNgASrayameva vijYAnamupasaMharati#} BrahmSu1Bh.(S4an3.) 782. 2 ({%on%}
+;  <>iv. 1. 6); {#na ca godohanAdivadaNgASrayatvena yajamAnakartfkatvAsaMBavaH#} BrahmSu1Bh.
+;   [and 2 more lines]
+
+* TODO Case 0047:? aNgu [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0619a][page 1-0619a]]
+;  <P>.{#aNgu#}¦ (an3gu) {%m.%} {@1@} (Gr.) base of the word {#aNguzWa, ambAmbagoBUmi-
+;  <>savyApadvitrikuSekuSaNkvaNguBaYcipuYjiparamebarhirdivyagniByaH sTaH#} P. viii. 3. 97; Ca1ndra-
+;  <>Vya1. vi. 4. 84; JaineVya1. v. 4. 71; S4a1kat2a1Vya1. ii. 2. 145; {@2@} bird {#pataMgaH
+;  <>patagaH plAvI patatryaMgupatatrayaH#} Vaija. 26. 1; {@3@} hand [APTE]
+
+* TODO Case 0048:? aNgulyAdigaRa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0635b][page 1-0635b]]
+;  <P>.{#aNgulyAdigaRa#}¦ (an3gulya1di-gan2a) {%m.%} (Gr.) word-class beginning with
+;  <>{%an3guli%} {#aNgulyAdezWaRityanenANgulyAdigaRAdivArTe WaR Bavati#} Gan2Ra. 3. 192 (235)
+
+* TODO Case 0049: aNGi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0648a][page 1-0648a]]
+;  <P>.{#aNGi#}¦ (an3ghi) (Gr.) the root {%an3gh-%} {#aNki vaNki maNkyaNGisadyaSUByo riH#}
+;  <>SaraKan2t2ha1.(Gr.) ii. 1. 223.
+
+* TODO Case 0050:? aNviDi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0652b][page 1-0652b]]
+;  <P>.{#aNviDi#}¦ (an3-vidhi) {%m.%} (Gr.) rule enjoining the suffix {%an3.%} (of the
+;  <>aorist formation, a substitute for {%cli%}) {#UzmAntAn parasmEpadinaH parisamApya
+;  <>aNviDO saMkalitA dyutAdayaH Atmanepadina upadiSyante#} Dha1tuPra. I. 743 (52. 9);
+;  <>{#aNviDO dEvAdikasya grahaRAnnAN#} Siddha1Kau. 372B. 8; 457A. 15; {#paYcazazwirime
+;  <>jYeyAH puzAdyA aNviDO buDEH#} Prasa1. ii. 122. 11.
+
+* TODO Case 0051: ac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0652b][page 1-0652b]]
+;  <P>.{#ac#}¦ (a-c) (Gr.) except {%c%} {#praTamottamAH pAdAntIyA acYO#} Va1jaPra1ti. i. 85
+;  <>(Anantabhat2t2a {#vargapraTamottamAH pAdAntIyasaMjYA syuH cakAraYkArO varjayitvA#})
+
+* TODO Case 0052: ac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0652b][page 1-0652b]]
+;  <P>.{#ac#}¦ (ac) (Gr.) an accented {%a4%} as a {%kr2t%} suffix expressing agent with
+;  <>roots ending in consonants and action with roots ending in -{%i%} (Pa1n2ini)
+;  <>and also in -{%u%} (Jainendra, S4a1kat2a1yana) {#nandigrahipacAdiByo lyuRinyacaH#} P. iii.
+;  <>1. 134; {#kartari Rvul tfjacaH#} Ca1ndraVya1. i. 1. 139; {#nandigrahipaciByo lyuRinyacaH#}
+;  <>JaineVya1. ii. 1. 107; {#Rvutraj lihAdiByaSca#} S4a1kat2a1Vya1. iv. 3. 85; {#ac#} Siddha-
+;  <>He. v. 1. 49; {#kartari RvultfjacaSca#} SaraKan2t2ha1.(Gr.) i. 3. 187; {#harateranudyamane'c#}
+;  <>P. iii. 2. 9 (upto 15); {#erac#} P. iii. 3. 56; {#yvFgrahavfdfgamo'c#} JaineVya1. ii. 3. 52;
+;  <>S4a1kat2a1Vya1. iv. 4. 14; SaraKan2t2ha1.(Gr.) ii. 4. 75; (feminine) {@P@}. iv. 1. 4;
+;  <>(accent) P. vi. 2. 144; vi. 2. 157; JaineVya1. i. 4. 128; S4a1kat2a1Vya1. iv. 2. 130;
+;  <>JaineVya1. i. 4. 111; S4a1kat2a1Vya1. iv. 4. 7; SiddhaHe. iv. 4. 17; S4a1kat2a1Vya1.
+;   [and 1 more lines]
+
+* TODO Case 0053: ac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0652b][page 1-0652b]]
+;  <P>.{#ac#}¦ (ac) (Gr.) {%taddhita%} suffix {%a4%} meaning ‘possessing’ [set up to
+;  <>explain the adjectival meaning of a word, originally an {%a4%} suffix after
+;  <>words ending in -{%as.%} cf. DEBRU. p. 136; {#yatrABinnarUpeRa Sabdena tadvato'BiDAnaM
+;  <>tatsarvamiha drazwavyam#} Ca1ndraVr2. iv. 2. 147 = Ka1s4iVr2. {%on%} P. v. 2. 127] {#arSaAdi-
+;  <>Byo'c#} P. v. 2. 127=Ca1ndraVya1. iv. 2. 147; {#a#} JaineVya1. iv. 1. 50; S4a1kat2a1-
+;  <>Vya1. iii. 3. 142; SiddhaHe. vii. 2. 46; {#matvarTIyo'c#} ManvaMu. 297. 4 ({%on%}
+;  <>8. 45); SetuBa. 17. 20; Ba1lamBha. 56. 7 ({%on%} 1. 14)
+
+* TODO Case 0054: ac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0652b][page 1-0652b]]
+;  <P>.{#ac#}¦ (ac) (Gr.) [IE. o4 AltGr. II. 1. 108-121] {%sama1sa1nta%} a4 suffix
+;  <>mostly after nouns ending in {%-i, -an, -as%} etc. in Bahuvri1hi, Tatpurus2a
+;  <>and Dvandva {#ac pratyanvavapUrvAtsAmalomnaH#} P. v. 4. 75 (upto 87); {#ajnAsikAyAH
+;  <>saMjYAyAM nasaM cAsTUlAt#} P. v. 4. 118-121; {#samAsAnte'ci kfte cittvAdevAntodAttatvaM
+;  <>sidDam#} PariVr2.(Si1.) 118. 2.
+
+* TODO Case 0055: ac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0652b][page 1-0652b]]
+;  <P>.{#ac#}¦ (ac) (Gr.) [a technical term (Pratya1ha1ra) standing for the
+;  <>vowels of Sanskrit, collectively or individually, based on the first four
+;  <>S4ivasu1tras formed according to P. i. 1. 71] {%m.%} vowel {#UkAlo'jJrasvadIrGaplutaH#}
+;  <>P. i. 2. 27; {#upadeSe'janunAsika it#} P. i. 3. 2; {#plutapragfhyA aci nityam#} P. vi.
+;  <>1. 125; {#so'cilope cetpAdapUraRam#} P. vi. 1. 134; {#tadDitezvacAmAdeH#} P. vii. 2. 117;
+;  <>{#aco rahAByAM dve#} P. viii. 4. 46; {#dIrGAstu saMhitAkAle aco vyaYjanapUrvakAH.padakAle [Page1-653a+ 64]
+;  <>prapadyante hrasvatAm#} LaR2kTanSam3. 1; 78; {#svarAddvitvamavApnoti vyaYjanaM vyaYjane pare.
+;  <>harO na yadyacaH pUrvO nimittaM vyaYjanasya ca#} Ma1dhyaS4i. 1. 2; {#plutasyANgavivfdDiM ca
+;  <>samAhAramacostaTA#} Va1kyaPa. 2. 104; {#hftyacAmAdeH#} JaineVya1. v. 2. 5; {#aco rahAd
+;  <>dve#} JaineVya1. v. 4. 126; {#AdyAdacaH#} Ca1ndraVya1. v. 1. 3; {#kiti cApatyAdAvacAmAdeH#}
+;   [and 22 more lines]
+
+* TODO Case 0056: acak [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0653a][page 1-0653a]]
+;  <P>.{#acak#}¦ (acak) (Gr.) [DEBRU. p. 151] suffix set up to derive the word
+;  <>{%kavaca%} from the root {%kav-%} {#kaveracac(? k)#} SaraKan2t2ha1.(Gr.) ii. 2. 75 ({#kavera-
+;  <>cak pratyayo Bavati.kavacaH sannAhaH#})
+
+* TODO Case 0057: acaN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0654b][page 1-0654b]]
+;  <P>.{#acaN#}¦ (a-can3) (Gr.) other than {%can3%} {#heracaNi#} {@P@}. vii. 3. 56=
+;  <>Ca1ndraVya1. vi. 1. 87; {#dvitvahetAvacaNi parato hinoteH kutvaM Bavati.…acaNIti
+;  <>kim.prAjIhayat#} Ca1ndraVr2. {%on%} vi. 1. 87; PariVr2.(Si1.) 151. 20; PrakriKau.
+;  <>ii. 255. 7.
+
+* TODO Case 0058: aciR [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0670b][page 1-0670b]]
+;  <P>.{#aciR#}¦ (a-cin2) (Gr.) other than the aorist marker {%cin2(i)%} {#hanasto'-
+;  <>ciRRaloH#} P. vii. 3. 32 = Ca1ndryVya1. vi. 1. 40 = SaraKan2t2ha1.(Gr.) vii. 1. 51.
+
+* TODO Case 0059: acvi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=1-0719a][page 1-0719a]]
+;  <P>.{#acvi#}¦ (a-cvi) (Gr.) (suffix) other than {%cvi%} {#BfSAdiByo BuvyacverlopaSca
+;  <>halaH#} P. iii. 1. 12; {#AQyasuBagasTUlapalitanagnAnDapriyezu cvyarTezvacvO kfYaH karaRe
+;  <>Kyun#} P. iii. 2. 56; Ca1ndraVya1. i. 2. 46; JaineVya1. ii. 2. 54; S4a1kat2a1Vya1. vi.
+;  <>3. 156; SiddhaHe. v. 1. 128; SaraKan2t2ha1.(Gr.) i. 4. 88.
+
+* TODO Case 0060: aja [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0724a][page 2-0724a]]
+;  <P>.{#aja#}^4¦ (a-ja) (Gr.) not denoting the sense of {%apa1da1na ka1raka%} (the
+;  <>meaning of Abl.) {#divyancaSyo'jigIzAjAsparSe na tastayoH#} MugdaBo. 26. 90
+;  <>(160. 2) cf. MugdhaBo. 5. 20. [Page2-0724b+ 64]
+
+* TODO Case 0061: ajas [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0745b][page 2-0745b]]
+;  <P>.{#ajas#}¦ (a-jas) (Gr.) the verbal root {%jas-%} with the negative {%a%}
+;  <>(preceding) {#namikampismyajaskamahiMsadIpo raH#} JaineVya1. ii. 2. 148 {#namkamya-
+;  <>jaskampasmihiMsadIpo raH#} S4a1kat2a1Vya1. iv. 3. 263.
+
+* TODO Case 0062: ajasa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0745b][page 2-0745b]]
+;  <P>.{#ajasa#}¦ (a-jasa) (Gr.) the verbal root {%jas-%} with the negative {%a%}
+;  <>(preceding) {#namikampismyajasakamahiMsadIpo raH#} P. iii. 2. 167; {#smyajasahiMsadIpanamaka-
+;  <>makampo raH#} Ca1ndraVya1. i. 2. 116; {#smyajasahiMsadIpakampakamanamo raH#} SiddhaHe. v.
+;  <>2. 79; {#hinsadIpakampAjasasmiNkamanamo raH#} MugdhaBo. 26. 158 (167. 23)
+
+* TODO Case 0063: ajasi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0746a][page 2-0746a]]
+;  <P>.{#ajasi#}¦ (a-jasi) (Gr.) other than {%jas%} (Nom. pl. suffix) {#rAtreScAjasO#}
+;  <>P. iv. 1. 31.
+
+* TODO Case 0064: ajahAti [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0750b][page 2-0750b]]
+;  <P>.{#ajahAti#}¦ (a-jaha1ti) (Gr.) other than the root {%ha1%} {#ajahAterahAH#}
+;  <>CaturA.(S4au.) 2. 46.
+
+* TODO Case 0065:? ajAdi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0760a][page 2-0760a]]
+;  <P>.{#ajAdi#}^1¦ (aj-a1di) {%adj.%} (Gr.) beginning with a vowel ({%ac%}) {#ajAdyadantam#}
+;  <>P. ii. 2. 33; {#ajAdI guRavacanAdeva#} P. v. 3. 58; v. 3. 83; vi. 1. 2; vi. 4. 72;
+;  <>{#ihAnye vEyAkaraRA mfjerajAdO saMkrame viBAzA vfdDimAraBante.parimfjanti parimArjanti#}
+;  <>Maha1Bh. i. 48. 9 ({%on%} i. 1. 3); {#prAderajAdyadantAd yujerayajYapAtrezu#} Ca1ndraVya1.
+;  <>i. 4. 117; {#halAdO ityevAjAdinivfttyarTaM vaktavyamiti BAvaH#} Pradi1. v. 247A. 14 ({%on%}
+;  <>vi. 3. 59); {#ajAdeH#} SiddhaHe. ii. 4. 16; {#arTavatyajAdO pratyaye viDIyamAnAnAM
+;  <>yaRiyaquvaNAmaprAptO#} Pa1n2iTaVa1NaMa1. 62. 10; {#ajAderDAtordvitIyasyAvayavasyEkAco
+;  <>dve staH#} PrakriKau. ii. 219. 8; {#luptanakArAnnaYa uttarapadasyAjAdernuqAgamaH syAt#}
+;  <>Siddha1Kau. 180A. 7.
+
+* TODO Case 0066:? ajAdi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0760a][page 2-0760a]]
+;  <P>.{#ajAdi#}^2¦ (aja1di) {%adj.%} (Gr.) a group of words ({%gan2a%}) beginning with
+;  <>the word {%aja1%} {#ajAdyatazwAp#} P. iv. 1. 4; {#ityajAdiH#} Gan2Ra. 6. 361 (394);
+;  <>JaineVya1. iii. 1. 4; {#ajAdyataH#} Ca1ndraVya1. ii. 3. 15; {#ajAdiByo DenoH#} S4a1kat2a1-
+;  <>Vya1. ii. 4. 24 = SiddhaHe. vi. 1. 34; {#ajAdInAmakArAntasya ca vAcyaM yat strItvam#}
+;  <>Siddha1Kau. 109B. 8.
+
+* TODO Case 0067:? ajAdi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0760a][page 2-0760a]]
+;  <P>.{#ajAdi#}^3¦ (aj-a1di) {%adj.%} (Gr.) the root {%aj-%} and others {#iRajAdiByaH#}
+;  <>Va1r. 6 ({%on%} P. iii. 3. 108)
+
+* TODO Case 0068: aji [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0767a][page 2-0767a]]
+;  <P>.{#aji#}^1¦ (aji) (Gr.) verbal root {%aj%} {#ajervyaGaYapoH#} P. ii. 4. 56; PrakriKau.
+;  <>ii. 479. 10; {#ajervI#} Ka1tan. iii. 4. 91; {#ajervyayuGaYapkyezu#} Ca1ndraVya1. v. 4. 84;
+;  <>{#ajivrajyoSca#} P. vii. 3. 60; {#ajivrajoH#} Ca1ndraVya1. vi. 1. 91; {#akzo'jeraYcateruta#}
+;  <>AhirbuS. 59. 10; {#vAtaSarDayorajijahAtiByAm#} SaraKan2t2ha1.(Gr.) i. 4. 46; {#aji-
+;  <>vfrIByo nit#} SaraKan2t2ha1.(Gr.) ii. 1. 56; {#aGaYkyabalacyajervI#} SiddhaHe. iv.
+;  <>4. 2; {#tadDi rUpamajervIBAveneti#} PariVr2(Si1.) 190. 6; {%f.%} going, motion [APTE];
+;  <>throwing etc. [APTE]; {%adj.%} going, moving (as in {#padAji#}, walking on
+;  <>foot) [APTE]
+
+* TODO Case 0069: aji [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0767a][page 2-0767a]]
+;  <P>.{#aji#}^2¦ (aji) (Gr.) grammatical suffix ({%= aj%}) {#pArerajiH#} SaraKan2t2ha1.
+;  <>(Gr.) ii. 1. 248 (Vr2tti: {#pArerajipratyayo Bavati.pArak prAkAraH SAkaviSezaSca#})
+
+* TODO Case 0070:? ajJal [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0785b][page 2-0785b]]
+;  <P>.{#ajJal#}¦ (aj-jhal) {%n.%} (Gr.) vowels and consonants {#ajJaliti samAhAra-
+;  <>dvandvaM kftvA Apadena dvandve tu#} LaS4abdeS4e. i. 37. 7.
+
+* TODO Case 0071:? ajJalAdeSa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0785b][page 2-0785b]]
+;  <P>.{#ajJalAdeSa#}¦ (ajjhala1des4a) {%m.%} (Gr.) substitute for a vowel and a
+;  <>consonant {#ajJalAdeSasyApyajAdeSavyapadeSaH#} PariVr2.(Si1.) 155. 1.
+
+* TODO Case 0072:? ajJaltva [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0785b][page 2-0785b]]
+;  <P>.{#ajJaltva#}¦ (ajjhal-tva) {%n.%} (Gr.) the state of being a vowel and a
+;  <>consonant {#ajJaloH pratizeDe SakArapratizeDo'jJaltvAt#} Va1r. 1. {%on%} P. i. 1. 10;
+;  <>{#AkArahakArayorajJaltvAt…mUrDanyo nAsti#} PariVr2.(Si1.) 35. 16.
+
+* TODO Case 0073:? ajJi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0786a][page 2-0786a]]
+;  <P>.{#ajJi#}¦ (aj-jhi) {%adj.%} (Gr.) (stem) after which the suffix {%jhi%} under-
+;  <>goes the change {%at%} (i. e. is reduplicated) {#nAjJeH SatuH#} Ca1ndraVya1. v.
+;  <>4. 32; {#ajJeSSatuH#} S4a1kat2a1Vya1. i. 2. 14; i. 4. 107; iv. 2. 47.
+
+* TODO Case 0074: aJaw [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0830b][page 2-0830b]]
+;  <P>.{#aJaw#}¦ (a-jhat2) (Gr.) (roots) not beginning with the sounds in the
+;  <>Pratya1ha1ra {%jhat2%} (i. e. aspirated voiced and voiceless stops) {#trapPaliBajatra- [Page2-0831a+ 64]
+;  <>JawkvaJvAdidadiSasikftasyAto'ntarhaloH#} S4a1kat2a1Vya1. iv. 1. 63, cf. P. vi. 4. 126.
+
+* TODO Case 0075: aJal [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0831a][page 2-0831a]]
+;  <P>.{#aJal#}¦ (a-jhal) (Gr.) not included in the Pratya1ha1ra {%jhal%} {#aJalaH paraH
+;  <>sijiti#} Nya1s. i. 31. 20; {#aJalyapyanusvAraH#} PrakriKau. ii. 354. 3.
+
+* TODO Case 0076: aJi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0831a][page 2-0831a]]
+;  <P>.{#aJi#}¦ (a-jhi) (Gr.) which is not an indeclinable {#KityaJeH#} JaineVya1.
+;  <>iv. 3. 176, cf. P. vi. 3. 65.
+
+* TODO Case 0077: aY [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0831a][page 2-0831a]]
+;  <P>.{#aY#}¦ (an5) (Gr.) {%taddhita%} suffix, {%a%} unaccented, causing the leng-
+;  <>thened grade of the first syllable, with acute on it and with fem. in-i1
+;  <>(n3i1p and n3i1n); used in various meanings as (patronymic) {#utsAdiByI'Y#}
+;  <>P. iv. 1. 86; JaineVya1. iii. 1. 71; S4a1kat2a1Vya1. ii. 4. 10; SiddhaHe. vi. 1. 19;
+;  <>{#anfzyAnantarye bidAdiByo'Y#} P. iv. 1. 104 ({#bEdaH#}); JaineVya1. iii. 1. 93; Ca1ndra-
+;  <>Vya1. ii. 4. 22; {#janapadaSabdAt kzattriyAdaY#} P. iv. 1. 168 ({#vEdehaH#}); JaineVya1. iii.
+;  <>1. 150; S4a1kat2a1Vya1. ii. 4. 98; SiddhaHe. vi. 1. 114; (coloured with) {#haridrA-
+;  <>mahArajanAByAmaY vaktavyaH#} Va1r. 4 {%on%} P. iv. 2. 2; (covered with) {#dvEpavEyAGrAdaY#}
+;  <>P. iv. 2. 12; (collection) {#anudAttAderaY#} P. iv. 2. 44 ({#kApota, mAyUra#}); (ca1turar-
+;  <>thika) {#oraY#} P. iv. 2. 71 ({#pAraSavaH#}); P. iv. 2. 72 ({#EzukAvataH#}); (when speak-
+;   [and 19 more lines]
+
+* TODO Case 0078: aYI [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0831b][page 2-0831b]]
+;  <P>.{#aYI#}¦ (a-n5i1) (Gr.) not having the causal suffix, non-causal verb (cf. P.
+;  <>{#aRi#}); {#Go'YO YeH SabdASanagatijYArTAQagrahadfSaSroraKAdanIkrandAyaSabdAyahvAdAsUta-
+;  <>GavahAhiMsABakzo hfkfmABivAdidfSastu vA#} MugdhaBo. 5. 5 (46. 1) {#(aYyantAnAM
+;  <>SabdArTAdInAM yo GaH sa YyantAnAM QaM syAt#}); {#YerQe'YO Ge#} MugdhaBo. 23. 38
+;  <>(139. 1); {#(aYyante yaqQaM Yyante yadi Go Bavati tasmAj YyantAd DAtorGe maM syAda-
+;  <>smftO#}); MugdhaBo. 8. 47 (86. 7); 22. 2 (135. 1)
+
+* TODO Case 0079:? aYcac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0832a][page 2-0832a]]
+;  <P>.{#aYcac#}¦ (an5cac) {%m.%} [{%w. r.%} for {#qaYcac#}] a {%kr2t%} suffix SaraKan2t2ha1.(Gr.)
+;  <>ii. 2. 82.
+
+* TODO Case 0080: aYcU [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0838a][page 2-0838a]]
+;  <P>.{#aYcU#}¦ (an5c-u1) (Gr.) verbal root {%an5c-%} (to go) {#aYcU gatO ca#} Dha1tu-
+;  <>Pa1.(S4a1k.) i. 337; {#aYcU iti paWan SAkawAyanaH#} Dha1tuVr2. i. 852; Dha1tuPa1.
+;  <>(H.) 1. 105; {#aYcuY#} (v. l. {#aYcU#}) {#gate#} KaviKaDru. 100.
+
+* TODO Case 0081: aYcUg [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0838a][page 2-0838a]]
+;  <P>.{#aYcUg#}¦ (an5c-u1g) (Gr.) the verbal root {%an5c-%} (to go) ({%g%} indicates
+;  <>the use of both P. A1.) {#aYcUg gatO ca#} Dha1tuPa1.(H.) i. 890.
+
+* TODO Case 0082: aYjas [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0854b][page 2-0854b]]
+;  <P>.{#aYjas#}¦ (a4n5j-as) (Gr.) the word {%an5jas%} {#sPigapUtavIRAYjo'DvakukzisIranAma-
+;  <>nAma ca#} P. vi. 2. 187 (Nya1s. {#aYjU ityetasmAd asun.tenAYja AdyudAttaH#});
+;  <>{#aYjasa upasaMKyAnam#} Va1r. 1 {%on%} vi. 3. 3; JaineVya1. iv. 3. 122 (301. 24);
+;  <>Ca1ndraVya1. v. 2. 5; S4a1kat2a1Vya1. ii. 2. 4; SiddhaHe. iii. 2. 12.
+
+* TODO Case 0083: aYji [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0856b][page 2-0856b]]
+;  <P>.{#aYji#}¦ (an5j-i) (Gr.) the root {%an5j-%} {#aYjeH sici#} P. vii. 2. 71; {#aYjeScopa-
+;  <>saMKyAnaM saMjYAyAm#} Va1r. 2({%on%} iii. 1. 109); {#aYjirAjivAniti#} Maha1Bh. i. 200. 10
+;  <>({%on%} i. 2. 18); Ka1tan. iii. 7. 8; JaineVya1. v. 1. 130; Ca1ndraVya1. v. 4. 168;
+;  <>{#yat hi karaRagocaraM tat vyaktam ucyate, aYjeH DAtoH tatkarmakatvAt#} Gi1ta1Bh.(S4an3.)
+;  <>340. 7 ({%on%} 12. 1); SaraKan2t2ha1.(Gr.) ii. 1. 78; ii. 1. 153; SiddhaHe. iv. 4. 84.
+
+* TODO Case 0084: aYRit [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0857b][page 2-0857b]]
+;  <P>.{#aYRit#}¦ (a-n5n2it) (Gr.) ({%pratyaya%}) other than those marked by
+;  <>the indicatory letters {%n5%} and {%n2%} {#gANkuwAdiByo'YRit Nit#} P. i. 2. 1; JaineVya1.
+;  <>i. 1. 75; {#kuwAdInAmaYRiti#} Ca1ndraVya1. vi. 2. 13; S4a1kat2a1Vya1. iv. 1. 144;
+;  <>SiddhaHe. iv. 3. 17; PrakriKau. ii. 213. 5; Siddha1Kau. 395A. 2.
+
+* TODO Case 0085: aw [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0858a][page 2-0858a]]
+;  <P>.{#aw#}¦ (at2) (Gr.) Pratya1ha1ra which includes the vowels, {%h%} and the
+;  <>semivowels {%y, v%} and {%r%}, P. viii. 3. 3; viii. 3. 9; viii. 4. 2; viii. 4. 63; {#aR
+;  <>eN aw…iti pratyAhArAH#} AgniP. 348. 3.
+
+* TODO Case 0086: aw [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0858a][page 2-0858a]]
+;  <P>.{#aw#}¦ (at2) (Gr.) {@i@} the augment {%a4-%} prefixed in the past tenses cf. {@{#a^4,#}@}
+;  <>P. vi. 4. 71;  JaineVya1. iv. 4. 70; S4a1kat2a1Vya1. iv. 2. 131; SiddhaHe. iv.
+;  <>4. 29; {@ii@} the subjunctive marker {%a%} (called an {%a1gama%}) P. iii. 4. 94;
+;  <>PrakriKau. ii. 709. 12; {@iii@} a1gama {%a%} in the imperfect forms of some roots
+;  <>like {%rud-%} optionally used {#aw gArgyagAlavayoH#} P. vii. 3. 99; S4a1kat2a1Vya1. iv.
+;  <>2. 29; SiddhaHe. iv. 4. 90; {@iv@} {%sama1sa1nta a%} (= P. {#ac#}), S4a1kat2a1Vya1. ii.
+;  <>1. 162; ii. 3. 75; SiddhaHe. vii. 3. 99; {@v@} {%a1gama%} (infix) {%a%} to be inserted
+;  <>before {%n3it%} case-suffixes after feminine bases ending in {%i1%} or {%u1%} {#aR moH#}
+;  <>JaineVya1. v. 2. 107 (comm. {#mvantAdgoH parasya Nito'qAgamo Bavati.…kumAryE#}) =
+;  <>{#(Aw#} P. vii. 3. 112)
+
+* TODO Case 0087: awa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0858a][page 2-0858a]]
+;  <P>.{#awa#}¦ (at2a) (Gr.) formans found in words like {%avat2a, s4akat2a%} and personal
+;  <>names in Kashmir like {%mammat2a, rudrat2a%} [DEBRU. p. 157] [Page2-0858b+ 64]
+
+* TODO Case 0088: awi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0863a][page 2-0863a]]
+;  <P>.{#awi#}¦ (at2i) (Gr.) root {%at2-%} {#samajAsanisadanipatiSINsuvidyawicarimaniBfYiRAM
+;  <>saMjYAyAm#} Ka1tan. iv. 5. 76; Ka1tanVr2. {%on%} iii. 5. 45; SiddhaHe. iii. 4. 10; v.
+;  <>3. 97; {#awyartisUtrimUtrisUcyaSUrRuByaH#} SaraKan2t2ha1.(Gr.) i. 3. 33; ii. 1. 211; ii.
+;  <>1. 253; PrakriKau. ii. 348. 5. [Page2-0863b+ 64]
+
+* TODO Case 0089: awi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0863b][page 2-0863b]]
+;  <P>.{#awi#}¦ (at2i) (Gr.) formant in words like {%avat2i%} [DEBRU. p. 158
+
+* TODO Case 0090: awi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0863b][page 2-0863b]]
+;  <P>.{#awi#}¦ (at2i) (Gr.) suffix {%at2%} {#sarterawiH#} Un2a1. 1. 133; {#saraw syAdvAtameGayoH.
+;  <>vedaBAzye{??}tu yABiH kfSAnumiti mantre saraqByo maDumakzikABya iti vyAKyAtam#} Siddha1-
+;  <>Kau. 526A. 4 {#(laNGernalopaSca#} Un2a1. 1. 134; {#laGaw vAyuH#} Siddha1Kau. 526A. 4)
+
+* TODO Case 0091: awu [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0863b][page 2-0863b]]
+;  <P>.{#awu#}¦ (at2u) (Gr.) formant in words like {%avat2u, karat2u, sarat2u%}
+;  <>[DEBRU. p. 158]
+
+* TODO Case 0092: awuc [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0863b][page 2-0863b]]
+;  <P>.{#awuc#}¦ (at2uc) (Gr.) suffix {%at2u%} {#artyaviByAmawuc#} SaraKan2t2ha1.(Gr.) ii.
+;  <>1. 49 (comm. {#arawuH vfkzaviSezaH.avawuH kfkAwikA#})
+
+* TODO Case 0093: awwati [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0864b][page 2-0864b]]
+;  <P>.{#awwati#}¦ (at2t2ati) (Gr.) root {%at2t2-%} {#awwatiH syAdatikrame#} Kos4aKaTa. 2. 1042.
+
+* TODO Case 0094: awwi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0867b][page 2-0867b]]
+;  <P>.{#awwi#}¦ (at2t2i) (Gr.) the root {%at2t2-%} {#hiMsAtikramayorawweH.awwate'nAdare'wwayet#}
+;  <>DaivaVya1. 72.
+
+* TODO Case 0095: aWac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0868a][page 2-0868a]]
+;  <P>.{#aWac#}¦ (at2hac) (Gr.) the suffix {%at2ha%} {#karmaRi Gawo'Wac (karmaRi Gawate
+;  <>karmaWaH puruzaH)#} P. v. 2. 35; Ca1ndraVya1. iv. 2. 36; SaraKa1n2t2ha1.(Gr.) ii. 2. 114;
+;  <>v. 2. 52; {#yaTA karmaRi Gawo'Wac.ityaWajaNgasya nimittam, na Wa iti karmaWa ityatre-
+;  <>kAdeSo na Bavati#} Pradi1. iv. 199A. 30 ({%on%} iv. 3. 15); LaS4abdeS4e. ii. 224. 8.
+
+* TODO Case 0096: aWi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0868a][page 2-0868a]]
+;  <P>.{#aWi#}¦ (at2hi) (Gr.) the root {%an2t2h-%} {#aWi gatO#} Dha1tuPa1. 1. 280.
+
+* TODO Case 0097: aWyac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0868a][page 2-0868a]]
+;  <P>.{#aWyac#}¦ (a-t2hyac) (Gr.) a vowel not belonging to the perfect
+;  <>endings {#nuR raDo mucAM naSamasjo raBalaBo'nawImacy e ktasya araWyaci#}
+;  <>MugdhaBo. 11. 4 (114. 7) (Vr2tti {#raBalaBoraWIvarje'ci nuR syAt.aranDat.
+;  <>raDitA#})
+
+* TODO Case 0098: aq [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0868a][page 2-0868a]]
+;  <P>.{#aq#}¦ (ad2-) (Gr.) an artificial term meaning ‘in the middle of a
+;  <>metrical foot’ pa1damardhi1ya (? pa1damadhyi1ya) {#GAnno'qi visarjanIyaM yavohizu#}
+;  <>R2TPra1ti. 112 (comm. {#dIrGAtparo nakAraH pAdamarDIye pratyaye visarjanIyamApadyate
+;  <>yavohizu pratyayezu#}); {#aqi#} R2TPra1ti. 143. (comm. {#pAdamarDIye visarjanIyaH [Page2-0868b+ 64]
+;  <>sakAramApadyate#}); {#awpAdAdrarAyAH#} Sa1matantra. i. 10. 1.
+
+* TODO Case 0099: aq [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0868b][page 2-0868b]]
+;  <P>.{#aq#}¦ (ad2) (Gr.) a primary suffix {%-a%} applied to roots ending in {%a1%}
+;  <>{#Ato'hvAvAmo'q#} S4a1kata1Vya1. iv. 3. 113 (comm. {#karmaRaH parAd hvAvAmAvarjitAdA-
+;  <>kArAntAdanupasargAdDAtoraq qidakAraH pratyayo Bavati = ka#} P. iii. 2. 3 {#(godaH);
+;  <>AKya iti AN{??}rvasya KyAteraqi sidDiH#} Sya1dva1Man5. 29 (45); a secondary
+;  <>suffix {%-a%} {#putre'rhe mAtuH kaco'q#} S4a1kat2a1Vya1. i. 2. 126 = {#mAtac#} Va1r. {%on%} P. vi.
+;  <>1. 14; {#aDikamasmin Satasahasre tatsaMKyaM SatiSaddaSAntadaq#} S4a1kat2a1Vya1. iii. 3. 75 =
+;  <>{#qa#} P. v. 2. 45.
+
+* TODO Case 0100: aqa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0868b][page 2-0868b]]
+;  <P>.{#aqa#}¦ (ad2a) (Gr.) a secondary suffix {#aqavU vopAdeH#} JaineVya1. iv. 1. 136;
+;  <>{#anukampita upendradanta upaqaH#} JaineVya1. 263. 13 ({%on%} iv. 1. 136) = {#aqac#} P. v.
+;  <>3. 80; {#vopAderaqAkO ca#} SiddhaHe. vii. 3. 36.
+
+* TODO Case 0101: aqac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0868b][page 2-0868b]]
+;  <P>.{#aqac#}¦ (ad2ac) (Gr.) a secondary suffix {%ad2a4%} {#prAcAmupAderaqajvucO ca#} P.
+;  <>v. 3. 80 {#(upaqaH); aqac vuc Gan ilac Wac ka ete pratyayAH#} Prasa1. i. 931. 12.
+
+* TODO Case 0102: aqi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0869a][page 2-0869a]]
+;  <P>.{#aqi#}¦ (ad2i) (Gr.) {@1@} suffix {%at2%} {#sartteraqiH.saraw uzwrajAtiH#} SaraKan2t2ha1.
+;  <>(Gr.) ii. 1. 254; {@2@} root {%ad2-%} {#aqerupaguccopaDAyAH#} SaraKan2t2ha1.(Gr.) ii.
+;  <>2. 215 (comm. {#aqerupakpratyaya upaDAyAScokArAdeSo Bavati.uqupaM plavaH#})
+
+* TODO Case 0103: aR [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0870b][page 2-0870b]]
+;  <P>.{#aR#}^4¦ (an2) (Gr.) {@1@} a technical term (Pratya1ha1ra) of Grammar
+;  <>standing for the vowels {%a, i%} and {%u%} (based on S4ivSu1.(Gr.) {@1@} and formed
+;  <>according to P. i. 1. 71) {#uraR raparaH#} P. i. 1. 51; {#fko'Ro ralO#} Ca1ndraVya1. i.
+;  <>1. 15 = SaraKan2t2ha1.(Gr.) i. 2. 37; {#Qralope pUrvasya dIrGo'RaH#} P. vi. 3. 111;
+;  <>JaineVya1. iv. 3. 216; {#Qralope'RaH#} Ca1ndraVya1. v. 2. 137; {#QralucyaRaH#} S4a1kat2a1-
+;  <>Vya1. i. 1. 80; {#acaScetyevaM sidDayorhrasvadIrGayoryadaRgrahaRaM karoti tasyEtatprayojanamana-
+;  <>co'pyaRe dIrGahrasvO yaTA syAtAm#} PariVr2.(Si1.) 2. 7; PrakriKau. i. 900. 4;
+;  <>{#ke'RaH#} P. vii. 4. 13; Ca1ndraVya1. vi. 2. 70; {#ke pare'Ro hrasvaH syAt#} PrakriKau.
+;  <>i. 935. 4; ii. 408. 4; {#aRo'pragfhyasyAnunAsikaH#} P. viii. 4. 57; {#aRo'nunAsikaH#}
+;  <>Ca1ndraVya1. vi. 4. 150; {#virAme'gidanANcAdyaR vAnunAsikaH#} S4a1kat2a1Vya1.
+;   [and 8 more lines]
+
+* TODO Case 0104: aR [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0870b][page 2-0870b]]
+;  <P>.{#aR#}^5¦ (an2) (Gr.) {%kr2t%} suffix {%a%} causing {%vr2ddhi%} (P. vii. 2. 115), with
+;  <>accent on the initial syllable of the first member of the compound in certain
+;  <>cases (P. vi. 2. 75-78) and feminine suffix {%i1%} ({%n3i1p%}) (P. iv. 1. 15) expressing:
+;  <>{@A@} agent (when the first member of the compound expresses the [Page2-0871a+ 64]
+;  <>object of the action) {#karmaRyaR#} P. iii. 2. 1 = Ka1tan. iv. 3. 1 = JaineVya1. ii. 2. 1
+;  <>= SaraKan2t2ha1.(Gr.) i. 4. 1; P. iv. 1. 15; vi. 2. 75; {#karmaRo'R#} S4a1kat2a1Vya1. iv.
+;  <>3. 100 = SiddhaHe. v. 1. 72 {#(kumBakAraH); kzemapriyamadre'R ca#} P. iii. 2. 44;
+;  <>Ka1tan. iv. 3. 42; JaineVya1. ii. 2. 42; SaraKan2t2ha1.(Gr.) i. 4. 57; {#aRi syuH
+;  <>kumBakArAdyAH#} AgniP. 358. 8; ManvaMu. 138. 8 (3. 264); {@B@} agent (when
+;  <>the first member of the compound expresses the object of a future action
+;   [and 4 more lines]
+
+* TODO Case 0105: aR [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0871a][page 2-0871a]]
+;  <P>.{#aR#}^6¦ (an2) (Gr.) {@A@} {%taddhita%} suffix {%a%} causing lengthened grade of the
+;  <>first syllable ({%ac%}) and with fem. ending in -i1 ({%n3i1p%}), used in various mean-
+;  <>ings as (patronymic) {#SivAdiByo'R#} P. iv. 1. 112 = JaineVya1. iii. 1. 101 =
+;  <>Ca1ndraVya1. ii. 4. 41; S4a1kat2a1Vya1. ii. 4. 46 {#(SEvaH); dvyaYmagaDakaliNgasUrama-
+;  <>sAdaR#} P. iv. 1. 170; JaineVya1. iii. 1. 152; Ca1ndraVya1. ii. 4. 100; S4a1kat2a1-
+;  <>Vya1. ii. 4. 100; SiddhaHe. vi. 1. 116 {#(ANgaH); vARapatye#} Ka1tan. ii. 6. 1
+;  <>({#OpagavaH#}); (coloured with) {#rAgAt…evamAderaRizyate#} Ka1tan. ii. 6. 7 (cf. P.
+;  <>iv. 2. 51) ({#kAzAyam#}); (season connected with) {#nakzatrayogAcca#} Ka1tan. ii. 6. 7
+;  <>(cf. P. iv. 2. 3) ({#pOzaH#}); (seen by) {#qidvAR#} SiddhaHe. vi. 2. 136 (cf. P.
+;  <>iv. 2. 7); (belonging to the deity) {#mahendrAd GARO ca#} P. iv. 2. 29; JaineVya1.
+;   [and 51 more lines]
+
+* TODO Case 0106: aR [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0871b][page 2-0871b]]
+;  <P>.{#aR#}^7¦ (an2) (Gr.) {%a1gama%} (infix) {%a%} to be inserted after the final vowel
+;  <>of the stems {%anad2uh%} and {%catur%} before the vocative singular suffix ({%am%} of
+;  <>P. vii. 1. 99) {#anaquccaturo'RARO DiDyoH#} MugdhaBo. 3. 104 (26. 14)
+
+* TODO Case 0107: aR [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0871b][page 2-0871b]]
+;  <P>.{#aR#}^8¦ (an2) (Gr.) aorist marker {%a%} {#aR asuvaciKyAtilipisicihvaH#}
+;  <>Ka1tan. iii. 2. 27; iii. 6. 11; iii. 6. 94 = {#aN#} P. iii. 1. 52.
+
+* TODO Case 0108: aRa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0871b][page 2-0871b]]
+;  <P>.{#aRa#}¦ (-an2a) (Gr.) suffix set up to derive a few words like {%ogan2a,
+;  <>lavan2a, ambhran2a%} [DEBRU. p. 158]
+
+* TODO Case 0109: aRak [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0871b][page 2-0871b]]
+;  <P>.{#aRak#}¦ (an2ak) (Gr.) suffix {%an2a%} (= ana) {#aNgitaNgikaNkimaNkikfpivfziByo'-
+;  <>Rak#} SaraKan2t2ha1.(Gr.) ii. 2. 124 cf. {@{#aRac#}@}
+
+* TODO Case 0110: aRac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0871b][page 2-0871b]]
+;  <P>.{#aRac#}¦ (an2ac) (Gr.) suffix {%an2a%} (=ana) {#aNgitaNgikaNkimaNkikfpivfziByo'-
+;  <>Rak#} (v. l. {#aRac#} TSS. Ed.) SaraKan2t2ha1.(Gr.) ii. 2. 124.
+
+* TODO Case 0111: aRap [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0872a][page 2-0872a]]
+;  <P>.{#aRap#}¦ (a-n2ap) (Gr.) other than the 1st and 3rd per. sg. end-
+;  <>ing {%n2ap%} of the pf. {#jAgro'RabvIRNiti kvasukAne tu vA#} MugdhaBo. 9. 30
+;  <>(107. 12); 18. 25 (126. 3) = P. {#Ral#}.
+
+* TODO Case 0112: aRal [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0872b][page 2-0872b]]
+;  <P>.{#aRal#}¦ (a-n2al) (Gr.) other than suffix {%n2al%} (pf. 1st and 3rd per. sg.)
+;  <>{#Ato yugaRali#} Ca1ndraVya1. vi. 1. 41.
+
+* TODO Case 0113: aRAdi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0873a][page 2-0873a]]
+;  <P>.{#aRAdi#}¦ (an2-a1di) (Gr.) suffix {%an2%} etc. {#yacyaRAdO.yakArAdAvajAdO
+;  <>cARAdO parataH striyAM vartamAnaM puMvadBavati#} Ca1ndraVya1. v. 2. 32; {#no'RAdO.
+;  <>aRAdO yatri parato nakArAntAyAH prakfterantyAjAdilopo Bavati#} Ca1ndraVya1. v.
+;  <>3. 139; v. 3. 155; {#tadDito'RAdiH#} SiddhaHe. vi. 1. 1; {#prAgjitIyARAdayaH tadDitAH#}
+;  <>SaraKan2t2ha1.(Gr.) i. 1. 15; {#aRAdayastu BfgorapatyaM BArgavaH#} Ka1vyKaVr2. 30. 3
+;  <>(2. 1); {#samarTAdapatye'rTe yaTAyaTamaRAdayaH syuH#} PrakriKau. i. 695. 8; {#praTamo-
+;  <>ccAritAtprAtipadikAdaRAdaya ityarTaH#} LaS4abdeS4e. ii. 193. 7; ii. 270. 1.
+
+* TODO Case 0114: aRAdiluk [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0873a][page 2-0873a]]
+;  <P>.{#aRAdiluk#}¦ (an2a1di-luk) (Gr.) disappearance of the suffix {%an2%} etc.
+;  <>(by the term {%luk%}) {#lugaRAdilukyagoRyAdInAm#} Ca1ndraVya1. ii. 2. 87.
+
+* TODO Case 0115: aRi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0873b][page 2-0873b]]
+;  <P>.{#aRi#}^2¦ (a-n2i) (Gr.) non-causative {#ReraRO yatkarma RO cetsa kartAnADyAne#}
+;  <>P. i. 3. 62; {#aRAvakarmakAccittavatkartfkAt#} P. i. 3. 88; {#aRO DeH prARikartfkAt#}
+;  <>JaineVya1. i. 2. 85; i. 2. 122; {#aRO cittavatkartfkARReH#} Ca1ndraVya1. i. 4. 138;
+;  <>{#na svidisvadisahyaRistoH#} S4akat2a1Vya1. iv. 1. 75; {#laBergatyarTatvARRicyaRO kartuH
+;  <>karmatvAkarmatve#} Ka1vya1lan3Su1. v. 2. 9; {#aRO yO YittvasAPalyAt prIRayet#} Daiva-
+;  <>Vya1. 20; {#gatyarTAdInAmaRO yaH kartA sa RyantAnAM karmasaMjYaH syAt#} PrakriKau.
+;  <>i. 392. 4 Siddha1Kau. 135B. 2; Alan3ka1Kau.(Vi.) 262. 3.
+
+* TODO Case 0116: aRi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0873b][page 2-0873b]]
+;  <P>.{#aRi#}^3¦ (an2-i) (Gr.) the root {%an2-%} {#ali…aRipaRiBya iR#} SaraKan2t2ha1.
+;  <>(Gr.) ii. 1. 168; {#kfsfBfvf…tamyami#} (v. l. {#aRi#}) {#…sallyaliByo vun#} Sara-
+;  <>Kan2t2ha1.(Gr.) ii. 2. 7; {#aReraRati SabdArTe#} DaivaVya1. 92.
+
+* TODO Case 0117: aRu [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0879b][page 2-0879b]]
+;  <P>.{#aRu#}¦ (a-n2u) (Gr.) which does not cause {%gan2a(n2u)%} {#hanagamajanaKanaGasA-
+;  <>muNlopo'Ne'cyaRO#} MugdhaBo. 3. 153 (35. 24); {#hasuNno lopo'RO#} MugdhaBo.
+;  <>8. 40 (85. 5); 9. 12 (104. 21); 10. 2 (111. 12); 14. 1 (119. 2); 19. 12 (128. 2)
+
+* TODO Case 0118: aRqa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0890a][page 2-0890a]]
+;  <P>.{#aRqa#}¦ (-an2d2a) (Gr.) a grammatical primary suffix {#taTAanuktAByo'pi
+;  <>prakftiByastyA Bavanti.aRqaH.jFkfsfvfNH jaraRqaH.karaRqaH.saraRqaH.varaRqaH#}
+;  <>JaineVya1. ii. 2. 167 (119. 3); {#kfsfBfvftFByo'RqaH#} SaraKan2t2ha1.(Gr.) ii. 2. 116;
+;  <>a formant in words like {%eran2d2a%} etc. [DEBRU. p. 159]
+
+* TODO Case 0119: aRya [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0897a][page 2-0897a]]
+;  <P>.{#aRya#}¦ (a-n2ya) (Gr.) absence of the (meaning of) {%n2ya%} (Potential
+;  <>Pass. Part.) {#te'Rye#} JaineVya1. iv. 4. 59 = P. {#Ryat#} iii. 1. 124.
+
+* TODO Case 0120: at [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0898b][page 2-0898b]]
+;  <P>.{#at#}^1¦ (at) (Gr.) {@i@} the short vowel {%a%} (according to P. i. 1. 70)
+;  <>{#adeNguRaH#} P. i. 1. 2; {#adeNguRaH#} SaraKAn2t2ha1.(Gr) i. 1. 81; {#ato guRe#} P. vi.
+;  <>1. 97; {#eNaH padAntAdati#} P. vi. 1. 109; {#eNo'ti padAntAt#} JaineVya1. iv. 3. 96;
+;  <>{#dvyaco'tastiNaH#} P. vi. 3. 135; {#atorlAntasya#} P. vii. 2. 2; {#ata upaDAyAH#} P. vii.
+;  <>2. 116; {#ato dIrGo yaYi#} P. vii. 3. 101; {#ata AdeH#} P. vii. 4. 70; {#epyato'pade#}
+;  <>JaineVya1. iv. 3. 84; {#ata Ata it#} Ca1ndraVya1. i. 4. 2; {#iwo't#} Ca1ndraVya1. i.
+;  <>4. 38; {#eNo'ti padAdO#} Ca1ndraVya1. v. 1. 115; {#Buvo't#} Ca1ndraVya1. vi. 2. 126;
+;  <>{#padAnte'tyeNaH#} S4a1kat2a1Vya1. i. 1. 94; {#lugataH#} S4a1kat2a1Vya1. i. 3. 78; {#Bruvo'cca
+;  <>kuwikuMse#} S4a1kat2a1Vya1. ii. 2. 81; {#vAtyasanDiH#} SiddhaHe. i. 2. 31; {#ato'ti roruH#}
+;  <>SiddhaHe. i. 3. 20; {#ata AH syAdO jas-ByAm-ye#} SiddhaHe. i. 4. 1; {#eNo'taH#}
+;   [and 11 more lines]
+
+* TODO Case 0121: at [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0898b][page 2-0898b]]
+;  <P>.{#at#}^2¦ (at) (Gr.) {@i@} the syllable substituted for the technical {%jh%} in the
+;  <>personal terminations of the third person pl. both primary and secondary,
+;  <>active and medical (where the sound {%a%} comes from the sonant nasal)
+;  <>{#adaByastAt#} P. vii. 1. 4; {#dviruktAdat#} Ca1ndraVya1. i. 4. 4; {@ii@} the syllable {%at%}
+;  <>which is lost before {%iti%} in some imitative words like {%pat2iti, jhat2iti%}
+;  <>(coming from {#pawaditi, Jawaditi#}); {#avyaktAnukaraRasyAta itO#} P. vi. 1. 98;
+;  <>Ca1ndraVya1. v. 1. 102; S4a1kat2a1Vya1. i. 1. 127.
+
+* TODO Case 0122: at [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0898b][page 2-0898b]]
+;  <P>.{#at#}^3¦ (at) (Gr.) {%a%} as the substitute for the base of the pronoun
+;  <>{%idam%} {#ad vyaYjane'nak#} Ka1tan. ii. 3. 35 (comm. {#idamo'mbarjito'd Bavati vyaYja-
+;  <>nAdO viBaktO#})
+
+* TODO Case 0123: at [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0898b][page 2-0898b]]
+;  <P>.{#at#}^4¦ (at) (Gr.) a {%taddhita%} suffix in the function of a case found in
+;  <>the adverb {%kva%} {#kimo't#} P. v. 3. 12; {#at kva ca#} Ka1tan. ii. 6. 32.
+
+* TODO Case 0124: at [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0898b][page 2-0898b]]
+;  <P>.{#at#}^5¦ (at) (Gr.) the ending {%a%} of the lst sg. medial of Potential
+;  <>{#iwo't#} P. iii. 4. 106.
+
+* TODO Case 0125: at [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0898b][page 2-0898b]]
+;  <P>.{#at#}^7¦ (at) (Gr.) a case suffix found in personal pronouns in Abl. sg.
+;  <>and plural in the forms {%asmat, yus2mat%} {#paYcamyA at#} P. vii. 1. 31; Ka1tan.
+;  <>ii. 3. 14; JaineVya1. v. 1. 27; Ca1ndraVya1. ii. 1. 30.
+
+* TODO Case 0126: at [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0898b][page 2-0898b]]
+;  <P>.{#at#}^8¦ (at) (Gr.) the {%sama1sa1nta%} suffix {%a%} (= {#a#} P. v. 4. 74) {#fkpUH-
+;  <>paTyapo't#} S4a1kat2a1Vya1. ii. 1. 139; SiddhaHe. vii. 3. 76.
+
+* TODO Case 0127: at [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0898b][page 2-0898b]]
+;  <P>.{#at#}^9¦ (a-t) (Gr.) {%adj.%} not having the sound {%t%} {#eNhrasvAtsaMbudDAvataH#}
+;  <>Ca1ndraVya1. v. 1. 68 (comm. {#atakArasya lopaH#})
+
+* TODO Case 0128: ata [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0899a][page 2-0899a]]
+;  <P>.{#ata#}^2¦ (a-ta) (Gr.) other than a {%taddhita%} suffix {#SvayuvamaGonAmurvo'te pO#}
+;  <>MugdhaBo. 3. 117 (28. 9)
+
+* TODO Case 0129: ataN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0900b][page 2-0900b]]
+;  <P>.{#ataN#}¦ (a-tan3) (Gr.) active (i. e. exclusive of the Pratya1ha1ra {%tan3%}
+;  <>i. e. {%ta%} to {%mahin3%}) personal endings {#dADAgAtisTABUpo'taNi luk#} Ca1ndrVya1.
+;  <>i. 1. 62; i. 4. 11; {#kramo'taNAne#} Ca1ndrVya1. vi. 1. 104; vi. 2. 99; {#mANlawaSSApe'-
+;  <>taNtaNvacCatrAnaSO#} S4a1kat2a1Vya1. i. 4. 78; iv. 2. 171; {#mowayedataNstrayaH#} Daiva-
+;  <>Vya1. 72.
+
+* TODO Case 0130: atac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0900b][page 2-0900b]]
+;  <P>.{#atac#}¦ (atac) (Gr.) the suffix {%ata%} {#BfdfSivaliyajAdiByo'tac#} SaraKan2t2ha1.
+;  <>(Gr.) ii. 2. 135.
+
+* TODO Case 0131: atatavat [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0901b][page 2-0901b]]
+;  <P>.{#atatavat#}¦ (a-tatavat) (Gr.) suffixes other than {%(k) ta%} and {%(k) tavat%}
+;  <>{#veH skando'tatavatoH#} Ca1ndraVya1. vi. 4. 62.
+
+* TODO Case 0132: atadDitaluk [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0913a][page 2-0913a]]
+;  <P>.{#atadDitaluk#}¦ (a-taddhitaluk) (Gr.) non-elision of a secondary
+;  <>suffix {#gAratadDitaluki#} P. v. 4. 92 = SaraKan2t2ha1.(Gr.) v. 4. 108; {#‘dvigorlugana-
+;  <>patye’ ityatra vetyanuvftteratra tadDitasya na luk.atadDitalukItyeva.paYcaBirnOBiH [Page2-0913b+ 64]
+;  <>krItaH paYcanOH#} PrakriKau. i. 558. 2; LaS4abdeS4e. ii. 73. 6.
+
+* TODO Case 0133: atasuc [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0931b][page 2-0931b]]
+;  <P>.{#atasuc#}¦ (atasuc) (Gr.) the secondary suffix {%ata4s%} {#dakziRottarAByAmata-
+;  <>suc#} P. v. 3. 28; {#dakziRottarAByAmatasujiti sUtreRa cAstAtyapavAdakaH atasucpratyayo
+;  <>vihitaH#} LaCandr. 599. 33; GuruCandr. iii. 63. 3.
+
+* TODO Case 0134:? atAcCIlika [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0931b][page 2-0931b]]
+;  <P>.{#atAcCIlika#}¦ (a-ta1cchi1lika) {%adj.%} (Gr.) (a suffix) not denoting a
+;  <>particular disposition or habit or custom (of the agent of the action) {#tadevaM
+;  <>tAcCIlikAnAmatAcCIlikErevAsarUpaviDirnAstIti jYApitam#} PariVr2.(Si1.) 88. 19.
+
+* TODO Case 0135:? atAcCIlya [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0931b][page 2-0931b]]
+;  <P>.{#atAcCIlya#}¦ (a-ta1cchi1lya) {%n.%} {@A@} (Gr.) absence of the state of (an
+;  <>agent's) having a particular disposition or custom or habit {#sADukAriRya-
+;  <>tAcCIlye'pi RinirBavati#} Nya1s. i. 623. 3 ({%on%} P. iii. 2. 78); PadMan5. {%on%}
+;  <>Ka1s4iVr2. {%on%} P. iii. 2. 135; {@B@} habitual non-observance of that (religious
+;  <>impiety) {#DarmaSIle mahIpAle yAnti tacCIlatAM prajAH.atAcCIlyamatacCIle#}
+;  <>Maha1P. 41. 97.
+
+* TODO Case 0136:? atAcCIlyArTa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0931b][page 2-0931b]]
+;  <P>.{#atAcCIlyArTa#}¦ (a-ta1cchi1lya1rtha) {%adj.%} (Gr.) (a rule) intended for
+;  <>(enjoining the suffix in a sense) other than (an agent's) having a parti-
+;  <>cular disposition or custom or habit {#atAcCIlyArTa AramBaH.jAtyarTo vA#}
+;  <>Ka1s4iVr2. {%on%} P. iii. 2. 79 = Nya1s. i. 623. 11 ({%on%} iii. 2. 79); Nya1s. i. 622. 25
+;  <>({%on%} iii. 2. 78); i. 651. 19 ({%on%} iii. 2. 135); {#atAcCIlyArTamidam#} Pradi1. iii.
+;  <>174A. 30 ({%on%} iii. 2. 78) = iii. 206B. 16 ({%on%} iii. 2. 135); {#‘supyajAtO…’ iti
+;  <>sidDe'tAcCIlyArTamidaM vacanam#} PadMan5. {%on%} Ka1s4iVr2. {%on%} iii. 2. 51; {%on%} iii. 2. 78;
+;  <>{#‘sADukAriRi’.atAcCIlyArTaM jAtyarTaM vAsarUpanivfttyarTaM ca#} Prasa1. ii. 541. 8;
+;  <>ii. 541. 9; Siddha1Kau. 499A. 4.
+
+* TODO Case 0137:? atArTa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0935b][page 2-0935b]]
+;  <P>.{#atArTa#}¦ (a-ta1rtha) {%m.%} (Gr.) absence of the sense of {%taddhita%} suffix
+;  <>{#goratArTe#} MugdhaBo. 6. 47 (59. 5)
+
+* TODO Case 0138: ati [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0936b][page 2-0936b]]
+;  <P>.{#ati#}^3¦ (ati) (Gr.) the root {%ant-%} {#ati adi banDane#} Dha1tuPa1. 1. 62;
+;  <>SetuBa. 190. 22.
+
+* TODO Case 0139: atik [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-0936b][page 2-0936b]]
+;  <P>.{#atik#}¦ (a-tik) (Gr.) absence of the {%kr2t%} suffix {%tik%} (= {%ti%}) {#vanatanAdya-
+;  <>nimAM Yamlopo JasyapyatikyaRO#} MugdhaBo. 9. 7 (104. 2); 26. 74 (158. 2)
+
+* TODO Case 0140:? atipratyaya [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1038a][page 2-1038a]]
+;  <P>.{#atipratyaya#}¦ (ati-pratyaya) {%m.%} (Gr.) the suffix {%ati%} {#mahi vfdDO.maMhate.
+;  <>mahAn.vartamAne pfzadvfhanmahaditi#} (Un2a1. 2. 22) {#atipratyayaH#} Dha1tuPra. 1. 635
+;  <>(47. 12); {#atipratyayAntA iti SezaH#} LaS4abdeS4e. i. 344. 8.
+
+* TODO Case 0141: atIR [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1192a][page 2-1192a]]
+;  <P>.{#atIR#}¦ (ati1n2) (Gr.) the root {%ati + i-%} {#SyAdvyaDAsrusaMsrvatIRavasAvahfli-
+;  <>haSilazaSvasaSca (RaH)#} P. iii. 1. 141; {#SAdvyaDAsrusaMsrulihaSilazaSvasatIRaH#} Jaine-
+;  <>Vya1. ii. 1. 114.
+
+* TODO Case 0142: atu [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1215a][page 2-1215a]]
+;  <P>.{#atu#}^1¦ (a-tu) (Gr.) other than the suffix {%tu%} (Un2a1di. {#tun#} and {#tu#}) {#tAdO
+;  <>ca niti kftyatO#} P. vi. 2. 50.
+
+* TODO Case 0143: atu [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1215a][page 2-1215a]]
+;  <P>.{#atu#}^2¦ (atu) (Gr.) word ending in {%atu(=at)%} {#atvasantasya cADAtoH#} P. vi.
+;  <>4. 14; {#atvasantasya dIrGatve pita upasaMKyAnam#} Va1r. 1 ({%on%} vi. 4. 14); Maha1Bh.
+;  <>iii. 183. 21 ({%on%} vi. 4. 14); {#atvaso'DoH#} JaineVya1. iv. 4. 12; {#sAvatoSca#} S4a1kat2a1-
+;  <>Vya1. i. 2. 137; iii. 2. 128; {#aBvAderatvasaH sO#} SiddhaHe. i. 4. 90; vi. 4. 132;
+;  <>{#idaMkimo'turiyakiy cAsya#} SiddhaHe. vii. 1. 148; vii. 1. 161; vii. 2. 155;
+;  <>{#atvaso'DoH sO rDo'DO#} MugdhaBo. 3. 108 (26. 23); 3. 24 (13. 1); 7. 42 (71. 8);
+;  <>{#atu, iti luptazazWIkaM pfTak padam#} LaS4abdeS4e. i1. 344. 12.
+
+* TODO Case 0144: atuc [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1215a][page 2-1215a]]
+;  <P>.{#atuc#}¦ (atuc) (Gr.) the suffix {%atuc(atu)%} {#eDivahoratuc#} SaraKan2t2ha1.
+;  <>(Gr.) ii. 1. 65.
+
+* TODO Case 0145: atus [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1222b][page 2-1222b]]
+;  <P>.{#atus#}¦ (atus) (Gr.) Perf. 3rd du. active ending {#parasmEpadAnAM Rala-
+;  <>tususTalaTusaRalvamAH#} P. iii. 4. 82; {#atuH uriti vacanameva SrUyeta#} Maha1Bh. ii.
+;  <>45. 20 ({%on%} iii. 1. 36); {#mAnAM RalvamaTATusaRalatususaH#} JaineVya1. ii. 4. 68;
+;  <>{#ataNAM RalatususTalaTusaRalvamAH#} Ca1ndraVya1. i. 4. 11; {#ataNARRaSatususTATusuSRa-
+;  <>SvamAH#} S4a1kat2a1Vya1. i. 4. 101; {#Rap atus us…e vahe mahe…syAmahi
+;  <>etAni…DoH parARi prayujyante#} MugdhaBo. 8. 1 (79. 4); {#f atusiti
+;  <>sTite…sTAnivadBAvAd#} PariVr2.(Si1.) 157. 14; {#saMyogAtparasya liwo'kittvAdatusAdO
+;  <>na saMprasAraRam.baBarjatuH.baBrajjatuH.baBarje.baBrajje.BarzwA.BfjyAt#}
+;  <>PrakriKau. ii. 259. 6; {#atusi prApte saMprasAraRa iyaM viBAzA#} Prasa1. i. 69. 20.
+
+* TODO Case 0146: atf [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1223a][page 2-1223a]]
+;  <P>.{#atf#}¦ (atr2) (Gr.) the affix {%at%} (in the past sense) {#jfzo'tf#} JaineVya1. ii.
+;  <>2. 87; S4a1kat2a1. iv. 3. 201 = SiddhaHe. v. 1. 173; {#avarRAdaSno'nto vAturINyoH#}
+;  <>SidddhaHe. ii. 1. 115.
+
+* TODO Case 0147: atfn [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1223b][page 2-1223b]]
+;  <P>.{#atfn#}¦ (atr2n) (Gr.) the Kr2t suffix {%at%} {#jIryateratfn#} P. iii. 2. 104; Sara-
+;  <>Kan2t2ha1.(Gr.) i. 4. 141.
+
+* TODO Case 0148: atfS [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1224b][page 2-1224b]]
+;  <P>.{#atfS#}¦ (atr2s4) (Gr.) {@1@} the suffix {%at%} indicating an easy performance
+;  <>{#tfnnudantAvyayakvasAnAtfSSatfNiRakacKalarTasya#} SiddhaHe. ii. 2. 90; iii. 1. 85; {#DArI-
+;  <>No'kfcCre'tfS#} SiddhaHe. v. 2. 25; {@2@} ending in {%atr2s4%} {#dvizo vAtfSaH#} Siddha-
+;  <>He. ii. 2. 84.
+
+* TODO Case 0149: atnic [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1227b][page 2-1227b]]
+;  <P>.{#atnic#}¦ (atnic) (Gr.) the suffix {%atni%} {#arteratnic#} SaraKan2t2ha1.(Gr.)
+;  <>ii. 1. 216.
+
+* TODO Case 0150:? atyantagati [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1235b][page 2-1235b]]
+;  <P>.{#atyantagati#}¦ (atyanta-gati) {%f.%} (Gr.) {@A@} contact covering the whole,
+;  <>complete contact {#anatyantagatO ktAt#} P. v. 4. 4; {#atyantagatiraSezeRa saMbanDaH
+;  <>tadaBAvo'natyantagatiH…BinnakaH.CinnakaH#} Ka1s4iVr2. {%on%} P. v. 4. 4; {@B@} utmost
+;  <>speed, motion or velocity {#ye tvete'tyantagatiyuktAstatra kaTam.DAvataH patitaH#}
+;  <>Maha1Bh. i. 327. 17 ({%on%} i. 4. 24)
+
+* TODO Case 0151: atra [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1314b][page 2-1314b]]
+;  <P>.{#atra#}^7¦ (a-tra) (Gr.) except the suffix {%tra%} {#valAderiqatra vazuRAdeH#} S4a1kat2a1-
+;  <>Vya1. iv. 2. 134; {#stAdyaSito'troRAderiw#} SiddhaHe. iv. 4. 32.
+
+* TODO Case 0152: atra [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1314b][page 2-1314b]]
+;  <P>.{#atra#}^8¦ (-atra) (Gr.) formans forming both substantives and adjectives
+;  <>[DEBRU. p. 170], cf. {@{#atran, katran#}@}.
+
+* TODO Case 0153: atran [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1315b][page 2-1315b]]
+;  <P>.{#atran#}¦ (atran) (Gr.) Un2a1di suffix forming substantives and adjectives,
+;  <>Un2a1. 3. 105-107.
+
+* TODO Case 0154: aTa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1325a][page 2-1325a]]
+;  <P>.{#aTa#}^1¦ (-atha) (Gr.) [DEBRU. p. 171] secondary suffix to form
+;  <>action nouns with paroxytone and oxytone with prefixes {#TATaGaYktAjabitra-
+;  <>kARAm#} P. vi. 2. 144; {#SINSapirugamivaMcijIviprARiByo'TaH#} Un2a1. 3. 113 {#(eByaH
+;  <>saptaDAtuByo'TaH syAt); SINSapiSamigamivandibanDijIviprARyupasfzwavasiByo'TaH#}
+;  <>SaraKan2t2tha1.(Gr.) ii. 2. 158.
+
+* TODO Case 0155: aTin [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1336a][page 2-1336a]]
+;  <P>.{#aTin#}¦ (athin) (Gr.) suffix {%athi%} (to form {#sAraTiH#}) [DEBRU. p. 303]
+;  <>{#sAreraTin#} SaraKan2t2ha1.(Gr.) ii. 1. 201 cf. {@{#GaTin#}@} Un2a1. 4. 89.
+
+* TODO Case 0156: aTu [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1336a][page 2-1336a]]
+;  <P>.{#aTu#}¦ (athu) (Gr.) a {%kr2t%} suffix (to form words like {%vepathu%}) {#wvanu-
+;  <>banDAdaTuH#} Ka1tan. iv. 5. 67; {#wvanubanDAdDAtoraTurBavati BAva eva.wuvepf.vepaTuH#}
+;  <>Ka1tanVr2. {%on%} iv. 5. 67; {#wvito'TuH#} JaineVya1. ii. 3. 71.
+
+* TODO Case 0157: aTuk [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1336a][page 2-1336a]]
+;  <P>.{#aTuk#}¦ (athuk) (Gr.) the suffix {%athu%} [DEBRU. p. 174] {#wuqvito'TuktrI#}
+;  <>S4a1kat2a1Vya1. iv. 4. 57; SiddhaHe. v. 3. 83; MugdhaBo. 26. 178 (170. 6)
+;  <>cf. {@{#aTuc#}@}.
+
+* TODO Case 0158: aTuc [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1336a][page 2-1336a]]
+;  <P>.{#aTuc#}¦ (athuc) (Gr.) a {%kr2t%} suffix (to form words like {%vepathu%})
+;  <>[DEBRU. p. 174] {#wvito'Tuc#} P. iii. 3. 89; Ca1ndraVya1. i. 3. 69; {#wu it yasya tato
+;  <>DAtoraTuc syAd BAvAdO#} PrakriKau. ii. 662. 8; KalpaK. 468. 68.
+
+* TODO Case 0159: aTus [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1336a][page 2-1336a]]
+;  <P>.{#aTus#}¦ (athus) (Gr.) personal termination of (pf. 2nd per. du. act.
+;  <>P.) {#parasmEpadAnAM RalatususTalaTusaRalvamAH#} P. iii. 4. 82; Ca1ndraVya1. i. 4. 11; {#mAnAM
+;  <>Ral…aTus…usaH#} JaineVya1. ii. 4. 68; S4a1kat2a1Vya1. i. 4. 101; {#parokzA…
+;  <>Tab aTus a#} SiddhaHe. iii. 3. 12; MugdhaBo. 79. 4 (8. 1)
+
+* TODO Case 0160: aTyak [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1337a][page 2-1337a]]
+;  <P>.{#aTyak#}¦ (athyak) (Gr.) a kind of suffix {#vaceraTyak taSca#} SaraKan2t2ha1.
+;  <>ii. 3. 17.
+
+* TODO Case 0161: ad [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1338a][page 2-1338a]]
+;  <P>.{#ad#}^1¦ (ad-) (Gr.) the root {%ad-%} {#ado jagDirlyapti kiti#} P. ii. 4. 36;
+;  <>{#ado'nanne#} P. iii. 2. 68; iii. 2. 160; iii. 3. 59; vii. 3. 100; {#ado'w#} Ka1tan. iii.
+;  <>6. 92; iv. 1. 82; iv. 3. 71; {#adaH parayoH…aq Bavati.Adat.AdaH#}
+;  <>Ka1tanVr2 ({%on%} iii. 6. 92); JaineVya1. i. 4. 110; {#sfGasyadaH kmaraH#} JaineVya1.
+;  <>ii. 2. 143; {#vopadeSe…avyAdaH#} JaineVya1. v. 1. 108; {#avyAda iti kim.…
+;  <>attA AdiTa#} JaineVya1. 349. 30 ({%on%} v. 1. 108); {#ti kityado jagDaH#} Ca1ndraVya1.
+;  <>v. 4. 85; {#tIti kim.adyate.ktIti kim.attA#} Ca1ndraVr2. {%on%} v. 4. 85;
+;  <>S4a1kat2a1Vya1. i. 4. 65; iv. 2. 29; SiddhaHe. iv. 3. 26; iv. 4. 16; SaraKan2t2ha1.
+;  <>(Gr.) i. 4. 101; MugdhaBo. 9. 1 (103. 7); 9. 3 (103. 11); PrakriKau. ii.
+;  <>116. 5; ii. 179. 2.
+
+* TODO Case 0162: ad [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1338a][page 2-1338a]]
+;  <P>.{#ad#}^4¦ (ad) (Gr.) formans {%ad%} (in words {%asmad%} and {%yus2mad%}) {#ada
+;  <>ityasyAzwerlopo Bavati#} Prasa1. i. 245. 19.
+
+* TODO Case 0163: adA [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1359b][page 2-1359b]]
+;  <P>.{#adA#}¦ (a-da1) (Gr.) other than the root {%da1%} {#uBayezAmIkAro vyaYjanAdAvadaH#}
+;  <>Ka1tan. iii. 4. 44 (comm. {#dAvarjitAnAm#}); {#ezAmIrvyaYjane'daH#} SiddhaHe. iv.
+;  <>2. 97; {#SnAdvyorA lopyo'RO hase tvyadaH#} MugdhaBo. 9. 32 (107. 18) [Page2-1360a+ 64]
+
+* TODO Case 0164: adAdi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1360b][page 2-1360b]]
+;  <P>.{#adAdi#}¦ (ada1di) (Gr.) (roots) beginning with {%ad-%} (i. e. roots of the
+;  <>second conjugation) {#adAderlug vikaraRasya#} Ka1tan. iii. 4. 92; {#Sapo'dAdiByaH#}
+;  <>JaineVya1. i. 4. 143; {#adAdiByo luk#} Ca1ndraVya1. i. 1. 83 = Sarakan2t2ha1.(Gr.)
+;  <>i. 3. 109; {#hvAdAdeSSlubluk#} S4a1kat2a1Vya1. iv. 3. 21; {#aTAdAdaya ucyante#} Dha1tu-
+;  <>Pra. 2. 1 (76. 1); {#adAdeH parasyApo luk syAt#} MugdhaBo. 9. 2 (103. 8);
+;  <>PrakriKau. ii. 178. 4 ({%on%} ii. 4. 72); {#yattvASIrliNi liwi cAdAdizu juhotyAdizu
+;  <>ca SabAdyaBAvAttatpratItirna syAt#} Vaiya1Bhu1. 24. 22 ({%on%} 3); {#taTA cAdAdigaRe ‘hana
+;  <>hiMsAgatyoH’ asya prakriyAyAM svayameva vakzyate#} Prasa1. i. 227. 12.
+
+* TODO Case 0165: adADA [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1361a][page 2-1361a]]
+;  <P>.{#adADA#}¦ (a-da1dha1) (Gr.) other than (the roots) {%da1-%} and {%dha1-%} {#I hali
+;  <>tiNyadADaH#} Ca1ndraVya1. v. 3. 106.
+
+* TODO Case 0166: adAp [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1362a][page 2-1362a]]
+;  <P>.{#adAp#}¦ (a-da1p) (Gr.) other than the verbal base {%da1p%} {#dADA DvadAp#}
+;  <>P. i. 1. 20; {#adAb dADO dA#} Ka1tan. iii. 1. 8 (comm. {#dApdEpo varjayitvA dADA-
+;  <>vityetO dAsaMjYakO BavataH#}); {#adAbiti yatkftaM tallakzaRapariBAzAyA aBAve hetuH#} Pari-
+;  <>Vr2.(Si1.) 86. 11; 91. 13.
+
+* TODO Case 0167: adi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1365a][page 2-1365a]]
+;  <P>.{#adi#}^1¦ (adi) (Gr.) {@i@} root {%ad-%} {#adipraBftiByaH SapaH#} P. ii. 4. 72; {#sarvatrA-
+;  <>dyarTakAryamadernezyate#} JaineVya1. 33. 6 ({%on%} i. 2. 84); 124. 17 ({%on%} ii. 3. 53); {#ade-
+;  <>rarTo'ByavahAraH#} JaineVya1. 33. 4 ({%on%} i. 2. 84); {#aditudinudiº…ºKiderdAt#}
+;  <>Ka1tan. iii. 7. 21; Ca1ndraVya1. ii. 1. 47; S4a1kat2a1Vya1. i. 3. 118; Ba1laKri1.
+;  <>i. 115. 16 ({%on%} 1. 155); AgniP. 358. 7; {#na nIKAdyAdihvAyaSabdAyakrandAm#} Sara-
+;  <>Kan2t2ha1.(Gr.) i. 1. 45; SiddhaHe. ii. 2. 5; PrakriKau. ii. 78. 5; {@ii@} mean-
+;  <>ing of the root {%ad-%} {#Bujo'dO#} S4a1kat2a1Vya1. iv. 1. 178 (comm. {#Buja adyarTe
+;  <>aByavahAre#})
+
+* TODO Case 0168: adi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1365a][page 2-1365a]]
+;  <P>.{#adi#}^2¦ (adi) (Gr.) Un2a1di suffix {%-ad%} {#SFdFBaso'diH#} Un2a1. 1. 129-132
+;  <>cf. {@{#ad#}@}
+
+* TODO Case 0169: adiS [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1369a][page 2-1369a]]
+;  <P>.{#adiS#}¦ (a-dis4) (Gr.) (sense) other than direction, not denoting
+;  <>direction {#viBAzAYceradikstriyAm#} P. v. 4. 8; {#vAYceradikstriyAm#} JaineVya1. iv.
+;  <>2. 17 (269. 15); {#adiSyaYco vA#} Ca1ndraVya1. iv. 2. 23; {%f.%} [Loc.] {@Ai@} not in
+;  <>the direction (of) (i. e. not within the scope of) {#adiSyupamAnAnAm…
+;  <>lakzmyA mahattve sTitam…harzamadrAkzIt#} Hars2aC. 113. 7; {@Aii@} not in a (specific)
+;  <>direction (i. e. in any direction) {#vrIhikzetravicitritApyadiSi yajYArhANGripEraNkitA.
+;  <>…BadrA sA parigIyate vasumatI#} S4ilpaRa. i. 3. 7; {@B@} wrong direction, not a
+;  <>proper direction {#adigezA tato rAjapuravartmani gamyate#} Samara1Sam3. 7. 269.
+
+* TODO Case 0170: adIDu [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1369b][page 2-1369b]]
+;  <P>.{#adIDu#}¦ (a-di1dhu) (Gr.) (words) which are not {#dI#} ({%f.%} nouns ending
+;  <>in {#I#} and {#U#} (except {#strI#})) and {#Du#} ({#strI#} and {#BrU#}) {#yUto'mSasormnAv adIDoH#}
+;  <>MugdhaBo. 3. 57 (17. 24)
+
+* TODO Case 0171: adu [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1373a][page 2-1373a]]
+;  <P>.{#adu#}¦ (a-du) (Gr.) other than a word beginning with the vowel {%a1,
+;  <>ai%} or {%au%} called {%du%}, cf. JaineVya1. i. 1. 68 = P. {%vr2ddha%} {#nadImAnuzIByo'duBya-
+;  <>stadAKyAByaH#} JaineVya1. iii. 1. 102; {#PiradoH#} JaineVya1. iii. 1. 147; iii. 2. 103;
+;  <>{#nadImAnuzInAmno'doH#} S4a1kat2a1Vya1. ii. 4. 52; ii. 4. 89; {#adornadImAnuzInAmnaH#}
+;  <>SiddhaHe. vi. 1. 67; vi. 1. 113.
+
+* TODO Case 0172: aduk [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1374a][page 2-1374a]]
+;  <P>.{#aduk#}¦ (ad-uk) (Gr.) augement {%ad%} added at the end of {%eka%} {#ekA-
+;  <>diScEkasya cAduk#} P. vi. 3. 76; Siddha1Kau. 187B. 1 ({%on%} vi. 3. 76)
+
+* TODO Case 0173: adur [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1374a][page 2-1374a]]
+;  <P>.{#adur#}¦ (a-dur) (Gr.) except or other than the prefix {%dur%} {#prAdyantaro'-
+;  <>duro RaH#} Ca1ndraVya1. vi. 4. 114; {#hinumInAniRo'duro'ntaraSca RaH#} S4a1kat2a1Vya1.
+;  <>iv. 2. 238.
+
+* TODO Case 0174: adus [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1378a][page 2-1378a]]
+;  <P>.{#adus#}¦ (a-dus) (Gr.) other than the prefix {%dus%} {#adurupasargAntarohiRanumI-
+;  <>nAneH#} SiddhaHe. ii. 3. 77.
+
+* TODO Case 0175: adeN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1417a][page 2-1417a]]
+;  <P>.{#adeN#}¦ (ad-en3) (Gr.) vowels {%a, e%} and {%o%} called Gun2a (used by
+;  <>Ca1ndraVya1. in place of Gun2a) {#ato'deNi#} Ca1ndraVya1. v. 1. 101; v. 3. 125;
+;  <>vi. 2. 1; Ca1ndraVr2. {%on%} i. 1. 68; cf. P. i. 1. 2.
+
+* TODO Case 0176: adq [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1425a][page 2-1425a]]
+;  <P>.{#adq#}¦ (add2) (Gr.) substitute {%ad%} for Nom. and Acc. sg. case-suffix
+;  <>{#ad(q)qatarAdiByaH paYcaByaH#} P. vii. 1. 25 cf. {#adqqatarAdiBya iti#} Maha1Bh.
+;  <>iii. 250. 5 ({%on%} vii. 1. 25); [Ka1tan. ii. 2. 8 ({#tuH#}); Ca1ndraVya1. ii. 1. 25 ({#t#});
+;  <>JaineVya1. v. 1. 22 ({#duk#}); S4a1kat2a1Vya1. ({#dak#}); SiddhaHe. i. 4. 58 ({#daH#})];
+;  <>{#eByaH klIbeByaH svamoradqAdeSaH syAt#} PrakriKau. i. 197. 2; Siddha1Kau.
+;  <>75B. 2; {#adqAdeSenEva napuMsakatvABivyaktO#} LaS4abdeS4e. i. 188. 10; i. 299. 21. [Page2-1425b+ 64]
+
+* TODO Case 0177: admaS [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1440a][page 2-1440a]]
+;  <P>.{#admaS#}¦ (a-dmas4) (Gr.) (a letter) other than {%m%} coming in the
+;  <>place of {%d%} and other than (a substitute) {%as4%} (coming in the place of
+;  <>{%idam%}) {#Es Biso'dmaSaH#} S4a1kat2a1Vya1. i. 2. 164.
+
+* TODO Case 0178:? adyatanI [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1442b][page 2-1442b]]
+;  <P>.{#adyatanI#}¦ (adya-tani1) {%f.%} (Gr.) aorist tense {#adyatanyAM ceti vaktavyam#}
+;  <>Va1r. 2 ({%on%} ii. 4. 3); Va1r. 6 ({%on%} iii. 2. 102); Va1r. 3 ({%on%} vi. 4. 114);
+;  <>{#mAyoge'dyatanI, mA kArzIt#} Ka1tanVr2. iii. 1. 22; iii. 1. 28; iii. 1. 14; iii. 2. 51; iii.
+;  <>4. 62; iii. 5. 29; {#BUte'dyatanyAM maDyamasyEkavacanam#} APra1ti. 78; {#adyatanyAmiti kim#}
+;  <>Ka1s4iVr2. {%on%} P. ii. 4. 3; {%on%} P. vi. 4. 114; {#caraRasyasTeRo'dyatanyAmanuvAde#} Siddha- [Page2-1443a+ 64]
+;  <>He. iii. 1. 138; iii. 3. 11; iii. 3. 42; iv. 3. 76; iv. 4. 22; {#BUtABiDAnapawumadyatanI-
+;  <>mavApya BImodBave BavatiBAvamivAstiDAtuH#} Nais2C. 11. 117.
+
+* TODO Case 0179: adri [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1450a][page 2-1450a]]
+;  <P>.{#adri#}^2¦ (adri) (Gr.) morpheme used as a substitute for the final
+;  <>syllable of certain words followed by {%an5c%} in a compound {#vizvagdevayoSca
+;  <>weradryaYcatO vapratyaye#} P. vi. 3. 92; Ka1tan. iv. 6. 70; {#adaso'dreH pfTaN mutvaM kecidi-
+;  <>cCanti latvavat#} Maha1Bh. iii. 414. 18 ({%on%} vii. 2. 80) = PariVr2.(Si1.) 179. 5;
+;  <>JaineVya1. iv. 3. 198; {#vAdrO#} Ca1ndraVya1. vi. 3. 113 = SiddhaHe. ii. 1. 46;
+;  <>S4a1kat2a1Vya1. i. 2. 45; SaraKan2t2ha1.(Gr.) vii. 3. 129; {#Srivizvagdevasya weradryaYcO
+;  <>kvO#} MugdhaBo. 26. 79 (158. 14)
+
+* TODO Case 0180:? adryAdeSa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1458b][page 2-1458b]]
+;  <P>.{#adryAdeSa#}¦ (adry-a1des4a) {%m.%} (Gr.) the substitute {%adri%} {#weradryAdeSaH syAdva-
+;  <>pratyayAnte'YcatO pare#} PrakriKau. i. 663. 2; {#adaso'dryAdeSasya adaso'seriti muBAva
+;  <>ityeke#} PrakriKau. i. 663. 4; Prasa1. i. 265. 8, 10; {#adryAdeSasaDryAdeSAvantodAttO
+;  <>nipAtanAditi spazwaM BAzye#} LaS4abdeS4e. i. 339. 16.
+
+* TODO Case 0181: advyAdi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=2-1477b][page 2-1477b]]
+;  <P>.{#advyAdi#}¦ (a-dvya1di) (Gr.) {%adj.%} other than the word-class starting
+;  <>with {%dvi%} {#kiMsarvanAmabahuByo'dvyAdiByaH#} P. v. 3. 2; {#kiMsarvanAmabahuByo'dvyAdiByaH
+;  <>pratyayotpattiH#} Maha1Bh. i. 263. 5 ({%on%} i. 3. 4); Ka1tan. ii. 6. 24; Ca1ndraVya1. iv.
+;  <>3. 7; JaineVya1. iv. 1. 68 (254. 26); S4a1kat2a1Vya1. iii. 4. 12; iv. 1. 210; Siddha-
+;  <>He. vii. 2. 89; MugdhaBo. 7. 99 (77. 4)
+
+* TODO Case 0182: aD [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1479a][page 3-1479a]]
+;  <P>.{#aD#}¦ (adh) (Gr.) [AltGr. III. 500] substitute for {#aDara#} before the
+;  <>derivative suffixes as and {%asta1t%} P. v. 3. 39-40.
+
+* TODO Case 0183: aDa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1479b][page 3-1479b]]
+;  <P>.{#aDa#}^3¦ (adha) (Gr.) [read {#aqa#} in S4a1kat2a1Vya1. iii. 4. 89, cf. P. v. 3. 80;
+;  <>Jaine Vya1. iv. 1. 136; SiddhaHe. v. 3. 36]
+
+* TODO Case 0184: aDa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1479b][page 3-1479b]]
+;  <P>.{#aDa#}^4¦ (adha) (Gr.) (suffix) other than {%dha%} (i. e. {%sarvana1mastha1na%})
+;  <>{#svAdAvaDe#} JaineVya1. i. 2. 106.
+
+* TODO Case 0185: aDa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1479b][page 3-1479b]]
+;  <P>.{#aDa#}^5¦ (adha) (Gr.) substitute for {%adhara%} before {%sta1t%} and {%as%} {#pUrvA-
+;  <>DarAvarAH purADAvAH stAdasoH#} MugdhaBo. 7. 108 (77. 23) cf. {@{#aD#}@}.
+
+* TODO Case 0186: aDak [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1483b][page 3-1483b]]
+;  <P>.{#aDak#}¦ (adhak) (Gr.) the suffix {%adha%} added to the root {%so-%} when
+;  <>preposed by {%ni%} {#nO syateraDak#} SaraKan2t2ha1.(Gr.) ii. 2. 175 (comm. {#nizaDo
+;  <>janapadaH#})
+
+* TODO Case 0187: aDA [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1529b][page 3-1529b]]
+;  <P>.{#aDA#}¦ (a-dha1) (Gr.) other than the root {%dha1-%} {#JazastaTorTo'DaH#} P. viii.
+;  <>2. 40; {#GaQaDaBeByastaTorDo'DaH#} Ka1tan. iii. 8. 3; (Ka1tanVr2. {#aDa iti kim.
+;  <>DattaH.DatTaH#}); iv. 1. 80; {#aDaH#} S4a1kat2a1Vya1. i. 2. 80; {#aDaScaturTAttaTorDaH.#}
+;  <>SiddhaHe. ii. 1. 79 (comm. {#aDa iti kim.DattaH.DatTaH#}); {#svarAdupasargAddasti
+;  <>kityaDaH#} SiddhaHe. iv. 4. 9 (comm. {#aDa iti kim.niDItaH#}); {#dad do'DaH#}
+;  <>MugdhaBo. 26. 124 (164. 3)
+
+* TODO Case 0188:? aDAtu [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1529b][page 3-1529b]]
+;  <P>.{#aDAtu#}¦ (a-dha1tu) {%m.%} {@1@} (Gr.) not a root, other than a verbal base
+;  <>{#arTavadaDAturapratyayaH prAtipadikam#} P. i. 2. 45 = SaraKan2t2ha1.(Gr.) i. 1. 5; {#arTa-
+;  <>vaditi.aDAturityAdiH paryudAso lAGavAt#} LaS4abdeS4e. i. 159. 2; {#atvasantasya
+;  <>cADAtoH#} P. vi. 4. 14; {#antvasantasya cADAtoH sO#} Ka1tan. ii. 2. 20; (Ka1t2anVr2. [Page3-1530a+ 64]
+;  <>{#antasyADAtoH SrutasyAtaH sAvasaMbudDO dIrGo Bavati.BavAn.gomAn#}); {#atu as
+;  <>ityevamantasya aDAtorupaDAyAH sAvasaMbudDO parato dIrGo Bavati.…gomAn.…
+;  <>aDAtoriti kim.piRqaM grasata iti piRqagraH#} Ka1s4iVr2. {%on%} vi. 4. 14; Prasa1. i.
+;  <>214. 13; LaS4abdeS4e. i. 242. 3; i. 344. 13; i. 349. 7; {#ugidacAM sarvanAmasTAne'-
+;  <>DAtoH#} P. vii. 1. 70; {#aDAtoriti kim.aDAtuBUtapUrvasya yaTA syAt.gomanta-
+;  <>micCati gomatyati.gomatyaterapratyayaH.gomAn#} Ka1s4iVr2. {%on%} vii. 1. 70; Prakri-
+;   [and 16 more lines]
+
+* TODO Case 0189: aDAtutyayaka [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1530a][page 3-1530a]]
+;  <P>.{#aDAtutyayaka#}¦ (adha1tutya-yaka) (Gr.) {%ya%} and {%ka%} not pertaining to a
+;  <>root or the suffix {%tya%} {#svajYAjaBastrADAtutyayakAt#} SiddhaHe. ii. 4. 108.
+
+* TODO Case 0190: aDi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1534a][page 3-1534a]]
+;  <P>.{#aDi#}¦ (a-dhi) (Gr.) {@1@} not intransitive, transitive (cf. JaineVya1.
+;  <>i. 2. 2) {#uccaro'DeH#} JaineVya1. i. 2. 49 (comm. {#aDeriti kim.DUma uccarati#});
+;  <>{@2@} excluding the vocative (cf. MugdhaBo. 3. 4 (11. 3)); {#krozwostunastfnnaDO
+;  <>GO striyAM ca#} MugdhaBo. 3. 62 (19. 1); 3. 41 (15. 16); 3. 50 (16. 22)
+
+* TODO Case 0191: aDikaraRalyuw [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1555a][page 3-1555a]]
+;  <P>.{#aDikaraRalyuw#}¦ (adhikaran2a-lyut2) (Gr.) the suffix {%lyut2%} (14 ana)
+;  <>denoting the substratum or locus {#DmA SabdAgnisaMyogayoH…udDmAnakam.
+;  <>aDikaraRalyuqantAtkaH#} Dha1tuPra. 1. 931 (67. 21)
+
+* TODO Case 0192: aDin [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1628a][page 3-1628a]]
+;  <P>.{#aDin#}¦ (adhin) (Gr.) suffix {%adhi%} {#uzeraDin#} SaraKan2t2ha1.(Gr.) ii. 1. 204
+;  <>(Trivandrum Ed.) (comm. {#uzeraDin pratyayo Bavati.ozaDiH udBidviSezaH#})
+
+* TODO Case 0193: aDIk [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1696a][page 3-1696a]]
+;  <P>.{#aDIk#}¦ (adhi1k) (Gr.) verbal base {%i-%} with {%adhi%} (to remember,
+;  <>to long for) {#aDIgarTadayeSAM karmaRi#} P. ii. 3. 52; Nya1s. i. 426. 25 ({%on%} ii. 3. 52)
+
+* TODO Case 0194: aDu [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1710b][page 3-1710b]]
+;  <P>.{#aDu#}¦ (a-dhu) (Gr.) other than a verbal base {#aDu mft#} JaineVya1.
+;  <>i. 1. 5 (comm. {#DuvarjitamarTavacCabdarUpaM mftsaMjYaM Bavati#}); {#atvaso'DoH#} JaineVya1.
+;  <>iv. 4. 12; v. 1. 49; v. 2. 51; {#nasabmahando'DorGo'DO GO#} MugdhaBo. 3. 87
+;  <>(23. 17); 3. 108 (26. 23); 4. 7 (40. 23)
+
+* TODO Case 0195: aDuw [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1710b][page 3-1710b]]
+;  <P>.{#aDuw#}¦ (a-dhut2) (Gr.) (consonant) other than {%dhut2%} (i. e. other
+;  <>than the nasals and the semi-vowels) {#praTamAdaDuwi SaSCaH#} SiddhaHe.
+;  <>i. 3. 4.
+
+* TODO Case 0196: aDUjalasTA [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1714a][page 3-1714a]]
+;  <P>.{#aDUjalasTA#}¦ (a-dhu1jalastha1) (Gr.) (the letters) other than {%dhu1,
+;  <>ja, la%} and {%stha1%} {#DUmrajAnumuYjakeSakAlavAlasTAlIpAkAnAmaDUjalasTAnAm#} Phit2Su1. 72.
+
+* TODO Case 0197: aDyAKyA [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1782a][page 3-1782a]]
+;  <P>.{#aDyAKyA#}¦ (a-dhya1khya1) (Gr.) (verbal bases) other than {%dhya1-%}
+;  <>and {%khya1-%} {#sPAderAto DoryaRvato'DyAKyaH#} JaineVya1. v. 3. 60 (Vr2tti {#aDyAKya
+;  <>iti kim ? DyAtaH.KyAtaH#}); {#halo yaYa Ato'DyAKyaH#} S4a1kat2a1Vya1. iv. 1. 247
+;  <>(comm. {#DyAKyAvarjitasya DAtoH#})
+
+* TODO Case 0198: aDyAdi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1793b][page 3-1793b]]
+;  <P>.{#aDyAdi#}¦ (adhy-a1di) (Gr.) {@i@} (the list of adnominals) beginning
+;  <>with {%adhi%} {#dvitve'DyAdiBiH (dvitIyA syAt)#} Ca1ndraVya1. ii. 1. 51; {#aDyAdi-
+;  <>Biryoge…dvitIyA syAt#} Ca1ndraVr2. {%on%} ii. 1. 51; {@ii@} (compound) begi-
+;  <>nning with {%adhi%} {#kaSca sADanamAtrArTAnaDyAdIn parikalpayet#} Va1kyaP. 2. 221.
+
+* TODO Case 0199: aDyAhftatiN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1830b][page 3-1830b]]
+;  <P>.{#aDyAhftatiN#}¦ (adhya1hr2ta-tin3) (Gr.) supplied finite verb {#aDyAhfta-
+;  <>tiNAmiDAnAnna dvitIyA#} LaS4abdeS4e. i. 452. 25.
+
+* TODO Case 0200: aDyetraR [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1838a][page 3-1838a]]
+;  <P>.{#aDyetraR#}¦ (adhyetr-an2) (Gr.) [P. iv. 2. 59] (suffix) {%an2 (=a)%} in
+;  <>the sense of ‘one who learns by heart’ {#ApiSalinA proktamaDIte ApiSalA
+;  <>brAhmaRI ityatra tu na NIp proktARaH striyAmavartanAt.aDyetraR tu luptaH#} LaS4abdeS4e.
+;  <>i. 381. 1; {#aDyetraRaH proktAlluk#} LaS4abdeS4e. i. 410. 3.
+
+* TODO Case 0201: aDyE [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1839b][page 3-1839b]]
+;  <P>.{#aDyE#}¦ (adhyai) (Gr.) [restricted to the Veda, suffix initially
+;  <>accented, P. iii. 1. 3] primary suffix forming an infinitive {#tumarTe sesenase-
+;  <>asenksekasenaDyEaDyEnkaDyEkaDyEnSaDyESaDyEntavEtaveNtavenaH#} P. iii. 4. 9; {#CandasItyeva.
+;  <>tumuno'rTastumarTaH.tatra Candasi vizaye DAtoH sayAdayaH pratyayA Bavanti.tumarTo BAvaH.
+;  <>…aDyE aDyEn-karmaRyupAcaraDyE#} Ka1s4iVr2. {%on%} iii. 4. 9; {#SezASCandasi caturviMSati- [Page3-1840a+ 64]
+;  <>rBavanti tadyaTA -- eS, ken…aDyE….tezu…tumarTe…aDyE aDyEn -- kAmamupAca-
+;  <>raDyE#} S4r2n3ga1Pra. i. 19. 10; i. 19. 17; {#DAtorete pratyayAH syuH Candasi tumuno'Ta.…
+;  <>aDyE aDyEn…AcaraDyE#} PrakriKau. ii. 713. 7; {#aDyE aDyEn ja\WaraM/ pf\RaDyE/#}
+;  <>Siddha1Kau. 593B. 3 ({%on%} iii. 4. 9); {#gamerDAto‘stumarTe sese’tyAdisUtreRa tumunpra-
+;  <>tyayArTe aDyE iti pratyayaH#} S4iva1rkaMaDi1. ii. 335. 4 ({%on%} iii. 3. 30)
+
+* TODO Case 0202: aDyEn [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1840a][page 3-1840a]]
+;  <P>.{#aDyEn#}¦ (adhyain) (Gr.) [restricted to the Veda, causing the base
+;  <>to be initially accented, P. vi. 1. 197 indicated by {#n#} as {%it%}] cf. {@{#aDyE#}@}.
+
+* TODO Case 0203: an [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1868a][page 3-1868a]]
+;  <P>.{#an#}^1¦ (-an) (Gr.) conjugational sign for the 1st class ({%s4ap%} of
+;  <>P. iii. 1. 68) and for the 6th class ({%s4a%} of P. iii. 1. 77) {#ana vikaraRaH
+;  <>kartari#} Ka1tan. iii. 2. 32; iii. 4. 73; {#ani ca vikaraRe#} Ka1tan. iii. 5. 3;
+;  <>{#tudAderani#} Ka1tan. iii. 5. 25; iii. 6. 4; iii. 6. 67; cf. {@{#a^7#}@}.
+
+* TODO Case 0204: an [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1868a][page 3-1868a]]
+;  <P>.{#an#}^2¦ (-an) (Gr.) primary suffix {%kanin%} (={%an%}) forming agent-
+;  <>nouns, Un2a1. 1. 156; prohibiting {%gun2a%}, causing the base to be
+;  <>initially accented, e. g. {%ra14jan%}, and rarely forming action - nouns,
+;  <>{@WHITNBY@}, 1160, {%maha4n, ga4mbhan%} etc.
+
+* TODO Case 0205: an [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1868a][page 3-1868a]]
+;  <P>.{#an#}^3¦ (an-) (Gr.) [fr. IE. n{??}~ne, POK. 757; called {%nan5%}, P. vi.
+;  <>3. 73-74; {%a%} before a vowel, accented initially in {%Nan5%}Tp., P. vi. 2. 2,
+;  <>and accented finally in {%Nan5%}Bv., P. vi. 2. 172; the negative particle
+;  <>has two different connotations viz. {%paryuda1sa%} and {%prasajyapratis2edha;
+;  <>paryuda1sa%} is nominal negation connected with the immediately follow-
+;  <>ing member in the Cpd. meaning ‘other than’ ‘excluding’ and
+;  <>‘different from but similar to’, cf. {#naYivayuktamanyasadfSADikaraRe taTA hyarTa-
+;  <>gatiH.…abrAhmaRamAnayetyukte brAhmaRasadfSa AnIyate nAsO lozwamAnIya kftI Bavati#}
+;  <>Maha1Bh. ii. 22. 13 ({%on%} iii. 1. 12); {#prasajyapratizeDo'yaM paryudAso'yamatra tu.idaM
+;  <>gORamidaM muKyaM vyApIdaM gurulaDvidam#} Va1kyaP. 2. 84; it has a positive
+;   [and 13 more lines]
+
+* TODO Case 0206: an [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1868a][page 3-1868a]]
+;  <P>.{#an#}^4¦ (-an) (Gr.) secondary {%sama1sa1nta%} suffix -{%an%} after a Bv.
+;  <>base (same as {%anic%} of P. v. 4. 124, causing a final accent) {#DarmAt
+;  <>kevalAdan#} JaineVya1. iv. 2. 125; {#DarmAdan dvipadAt#} S4a1kat2a1Vya1. ii. 1. 199;
+;  <>SiddhaHe. vii. 3. 141; {#DarmAdan#} MugdhaBo. 6. 28 (56. 22) [Page3-1868b+ 64]
+
+* TODO Case 0207: an [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1868b][page 3-1868b]]
+;  <P>.{#an#}^5¦ (-an) (Gr.) secondary suffix {%-a%}, added to the suffix {%-ti1ya%},
+;  <>for denoting ‘part’ (e. g. {#dvitIyo BAgaH, tftIyo BAgaH#}) causing a base
+;  <>to be initially accented {#pUraRAd BAge tIyAdan#} P. v. 3. 48.
+
+* TODO Case 0208: an [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1868b][page 3-1868b]]
+;  <P>.{#an#}^6¦ (-an) (Gr.) secondary suffix {%-a%} added to the word {%ni1li1%}
+;  <>denoting ‘dyed in’, ‘coloured with’ {#nIlyA an vaktavyaH#} Va1r. 1 ({%on%}
+;  <>iv. 2. 2); {#nIlapItAdankanO#} Ca1ndraVya1. iii. 1. 4.
+
+* TODO Case 0209: an [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1868b][page 3-1868b]]
+;  <P>.{#an#}^7¦ (-an) (Gr.) primary suffix {%-a%} ({%ac%} of P. iii. 1. 134) forming
+;  <>agent-nouns with accent on the final syllable {#grahanandipacAder Rin
+;  <>anAn Ge#} MugdhaBo. 26. 29 (152. 5) (comm. {#pacAderan syAd Ge#})
+
+* TODO Case 0210: an [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1868b][page 3-1868b]]
+;  <P>.{#an#}^8¦ (-an) (Gr.) impf. and aor., third person pl. ending in the
+;  <>active voice ({#Ji = anti#} becoming {#an#}, P. iii. 4. 78) {#hyastanI diva
+;  <>tAm an#} SiddhaHe. iii. 3. 9; {#adyatanI di tAm an#} SiddhaHe. iii. 3. 11
+;  <>MugdhaBo. 8. 1 (79. 1); 8. 1 (79. 3); {#an us sidDeraBuvaH#} MugdhaBo
+;  <>8. 36 (84. 14); {#dvizavidAto'n us vA#} MugdhaBo. 9. 6 (103. 20)
+
+* TODO Case 0211: an [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1868b][page 3-1868b]]
+;  <P>.{#an#}^9¦ (an-) (Gr.) substitute for {%etad%} before the secondary {%vibhakti%}
+;  <>affixes (i. e. {%tra%} and {%tas%}) {#etado'n#} P. v. 3. 5; {#BAzye tu ‘etado'n’ iti
+;  <>nakArAnta AdeSa iti sTitam.sa cAnekAltvAt sarvAdeSaH, tataH sTAnivadBAvAt
+;  <>prAtipadikatve sati nalopaH -- ataH, atra#} PadMan5. {%on%} Ka1s4iVr2. {%on%} P. v. 3. 5.
+
+* TODO Case 0212: an [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1868b][page 3-1868b]]
+;  <P>.{#an#}^10¦ (-an) (Gr.) substitute for the final sound of the words
+;  <>{%asthi, dadhi, sakthi%} and {%aks2i%} before the Inst. etc. beginning with a
+;  <>vowel (= {%anan3%} of P. vii. 1. 75) {#asTidaDisakTyakzRAmannantazwAdO#} Ka1tan. ii.
+;  <>2. 13; SiddhaHe. i. 4. 63.
+
+* TODO Case 0213: an [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1868b][page 3-1868b]]
+;  <P>.{#an#}^11¦ (-an) (Gr.) substitute for the final sound of the words
+;  <>{%us4anas, purudam3s4as, anehas%} and {%sakhi%} before nom. sg. (= {%anan3%} of P.
+;  <>vii. 1. 93, 94) {#uSanaHpurudaMSo'nehasAM sAvanantaH#} Ka1tan. ii. 2. 22; Ka1tanVr2. {%on%}
+;  <>ii. 2. 22; {#saKyuranto'n Bavati#} Ka1tanVr2. {%on%} ii. 2. 23.
+
+* TODO Case 0214: an [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1868b][page 3-1868b]]
+;  <P>.{#an#}^12¦ (-an) (Gr.) {%adj.%} ending in the sound {%an%} {#ano bahuvrIheH#} P. iv.
+;  <>1. 12; iv. 1. 28; v. 4. 108; {#allopo'naH#} P. vi. 4. 134; vi. 4. 167; viii. 2. 16;
+;  <>JaineVya1. iii. 1. 10; iv. 2. 110; iv. 4. 122; iv. 4. 158; Ca1ndraVya1. ii.
+;  <>2. 79; ii. 3. 8; iv. 4. 91; v. 3. 168; S4a1kat2a1Vya1. i. 2. 111; i. 2. 140; i.
+;  <>3. 12; ii. 1. 162; ii. 3. 61; SaraKan2t2ha1.(Gr.) ii. 1. 247; v. 4. 125;
+;  <>SiddhaHe. ii. 1. 108; ii. 4. 11; vii. 3. 88; vii. 3. 99; vii. 4. 51; Mugdha-
+;  <>Bo. 3. 40 (15. 13); 4. 4 (40. 14); 6. 54 (60. 10); 6. 66 (62. 5); 7. 10
+;  <>(66. 22)
+
+* TODO Case 0215: an [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1868b][page 3-1868b]]
+;  <P>.{#an#}^13¦ (a-n) (Gr.) {%adj.%} {@i@} not ending in {%n%} {#sanoteranaH#} P. viii. 3. 108;
+;  <>{#sanoteranakArAntasya sakArasya mUrdDanyAdeSo Bavati.gozAH.nfzAH.ana iti kim.
+;  <>gosaniM vAcamudIrayan#} Ka1s4iVr2. {%on%} P. viii. 3. 108; {@ii@} not containing {%n%} (in the
+;  <>prefinal position) {#pratyayalukAM cAnAm#} Ka1tan. iv. 1. 4; {@iii@} [Loc.] not being
+;  <>in the environment of {%n%} (i. e. when {%n%} is not added subsequently) {#fto
+;  <>raH svare'ni#} SiddhaHe. ii. 1. 2 (comm. {#tisfcatasfsTasya ftaH svarAdO syAdO
+;  <>pare raH syat.ani navizayAdanyatra.tisraH.…anIti kim.tisfRAm#})
+
+* TODO Case 0216: ana [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1868b][page 3-1868b]]
+;  <P>.{#ana#}^1¦ (-ana) (Gr.) {@A@} primary suffix forming agent- and action-
+;  <>nouns (registered in various ways as {%khyun, nut2, n5yut2, yu, yuc, lyu%} [Page3-1869a+ 64]
+;  <>and {%lyut2%} in P.) {#yuvoranAkO#} P. vii. 1. 1; vi. 2. 150; Ka1tan. iv. 6. 54;
+;  <>Ca1ndraVya1. v. 4. 1; JaineVya1. v. 1. 1; Ka1s4iVr2. {%on%} ii. 4. 54; S4a1kat2a1Vya1.
+;  <>iv. 3. 86; iv. 3. 235; iv. 4. 60; iv. 4. 75; SiddhaHe. v. 1. 52; v. 2. 42; v.
+;  <>3. 90; v. 3. 111; MugdhaBo. 26. 29 (152. 5); 26. 194 (172. 3); 26. 198
+;  <>(172. 15); for details see under each suffix; {@B@} part of the secondary
+;  <>suffix -{%tana%} (analysed by P. as {%t-ana, -ana%} being a substitute for {%t2yu%}
+;  <>and {%t2yul%}) P. iv. 3. 23; vii. 1. 1; {@C@} secondary possessive suffix {#lakzmyA
+;  <>anaH#} SiddhaHe. vii. 2. 32 (comm. {#matvarTe anaH syAt.lakzmaRaH, lakzmIvAn#})
+
+* TODO Case 0217: ana [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1869a][page 3-1869a]]
+;  <P>.{#ana#}^2¦ (ana-) (Gr.) substitute for {%idam%} in Inst. sg., Gen. and Loc.
+;  <>du. in all the genders (but {%an%} for Siddha1Kau.) {#anApyakaH#} P. vii. 2. 112 =
+;  <>JaineVya1. v. 1. 170; Ka1s4iVr2. {%on%} vii. 2. 112; {#wOsoran#} (v. l. {#anaH#}) Ka1tan.
+;  <>ii. 3. 36 = SaraKan2t2ha1.(Gr.) vi. 4. 79; {#wOsyako'naH#} Ca1ndraVya1. v. 4. 74;
+;  <>{#wOsyanaH#} S4a1kat2a1Vya1. i. 2. 207 = SiddhaHe. ii. 1. 37; {#wOsIdamo'nako'naH#}
+;  <>MugdhaBo. 3. 128 (29. 21); cf. WHITNEY 501; AltGr. III. 526-528.
+
+* TODO Case 0218: ana [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1869a][page 3-1869a]]
+;  <P>.{#ana#}^3¦ (-ana) (Gr.) negative particle (rarely used for {%an-%}) {#ana-
+;  <>Sabdo'pi naYrTo'stItyuktaM SfNgAraprakASikAyAM BojarAjena#} comm. {%on%} Ya1dava1.
+;  <>9. 96; cf. {@{#anAparADin#}@}.
+
+* TODO Case 0219: anakKa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1870b][page 3-1870b]]
+;  <P>.{#anakKa#}¦ (an-akkha) (Gr.) {%adj.%} not being the cause of deletion of
+;  <>{%ak%} (i. e. {%a, i, u, r2, l2%}, short or long) {#GOM kacyanakKe sanvat#} JaineVya1. v.
+;  <>2. 190 (Vr2tti {#kacpare DisaMjYake varRe yaScastasya sanIva kAryaM Bavati anakKe.…akaH Kam [Page3-1871a+ 64]
+;  <>akKam.…ak KaM yasminnimittaBUte so'yamakKo na akKo anakKaH tasmin.
+;  <>paryudAsavfttyA anakKanimitte RO maDyagate sankdBAvaH#}); cf. {@{#anaglopa#}@}.
+
+* TODO Case 0220: anaN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1883b][page 3-1883b]]
+;  <P>.{#anaN#}^1¦ (anan3) (Gr.) substitute {%-anan3 (= -an)%} for the final sounds of
+;  <>various noun-stems in different environments {#UDaso'naN.DanuzaSca#} P. v.
+;  <>4. 131-132; JaineVya1. iv. 2. 132-133; S4a1kat2a1Vya1. ii. 1. 225; {#asTidaDi-
+;  <>sakTyakzRAmanaNudAttaH#} P. vii. 1. 75; JaineVya1. v. 1. 54; Ca1ndraVya1. v.
+;  <>4. 31; S4a1kat2a1Vya1. i. 2. 9; MugdhaBo. 3. 95 (24. 21); {#anaN sO#} P. vii.
+;  <>1. 93; vii. 1. 94; JaineVya1. v. 1. 70; Ca1ndraVya1. v. 4. 45; PrakriKau. i.
+;  <>168. 9; i. 283. 4; {#ke punA rIriviDayaH.akaNlopAnaNanaNrINrINAdeSAH#} Maha1Bh.
+;  <>i. 126. 24 ({%on%} i. 1. 51); {#saMjYAyAM hyanaN vikalpitaH#} Ka1vya1lan3Su1. v. 2. 66;
+;  <>{#viSravaso'naNravaRO#} S4a1kat2a1Vya1. ii. 4. 50; {#(tadDitaM vakzye)anaNi syAcca kuRqoDnI
+;  <>puzpaDanvasuDanvanO#} AgniP. 355. 13; {#samAsAnto viDiranityaH.tena…DanuzaSca
+;   [and 7 more lines]
+
+* TODO Case 0221: anaN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1883b][page 3-1883b]]
+;  <P>.{#anaN#}^2¦ (an-an3) (Gr.) other than (the aorist-marker) {%an3
+;  <>(=a)%} {#gamahanajanaKanaGasAM lopaH kNityanaNi#} P. vi. 4. 98; JaineVya1. iv. 4. 93;
+;  <>S4a1kat2a1Vya1. iv. 1. 220; SiddhaHe. iv. 2. 44.
+
+* TODO Case 0222: anaN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1883b][page 3-1883b]]
+;  <P>.{#anaN#}^3¦ (an-an3) (Gr.) other than (the aorist-marker) {%an3%} causing
+;  <>reduplication ({%= can3 = a%}, P. iii. 1. 48; vii. 3. 56); {#heH KeranaNi GiH#}
+;  <>MugdhaBo. 12. 4 (116. 8)
+
+* TODO Case 0223:? anaNgakAryatva [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1886a][page 3-1886a]]
+;  <P>.{#anaNgakAryatva#}¦ (anan3gaka1rya-tva) {%n.%} (Gr.) the state of not being
+;  <>the grammatical operation prescribed in the section {%an3gasya%}
+;  <>(P. vi. 4. 1) {#tvatkapitfko matkapitfka ityatra…yuzmadasmadoH sarvanAmatvAdanaNga-
+;  <>kAryatvenAkac syAt#} PrakriKau. i. 142. 3; {#anaNgakAryatvAnna lumateti dvitvAnizeDaH#}
+;  <>PrakriKau. ii. 360. 1.
+
+* TODO Case 0224: anaNstanBa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1905b][page 3-1905b]]
+;  <P>.{#anaNstanBa#}¦ (anan3-stanbha) (Gr.) verbal base {%stanbh-%} not follow-
+;  <>ed by the aor. suffix {%-an3%} ({%= a%}, i. e. {%can3%} of P. viii. 3. 116) {#gIkaH…
+;  <>sTAº…ºanaNstanBaº…ºsahAm…dveSca#} MugdhaBo. 8. 45 (85. 21)
+
+* TODO Case 0225: anac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1905b][page 3-1905b]]
+;  <P>.{#anac#}^1¦ (an-ac) (Gr.) {@i@} other than a vowel, a consonant {#anaci ca#}
+;  <>P. viii. 4. 47; JaineVya1. v. 4. 127; {#DAtorvoranacIko dIrGaH#} Ca1ndraVya1.
+;  <>vi. 3. 108; {#vyatIhAre cviH pUrvo rGo'nacyA vA#} MugdhaBo. 6. 33 (57. 11);
+;  <>3. 151 (35. 7); {#anaco'pi rePasya yaddIrGatvamuktam, tanna#} PariVr2.(Si1.) 2. 16; 2. 7;
+;  <>{#acaH parasya yaro'naci pare dve staH#} PrakriKau. i. 45. 5; i. 597. 5; {@ii@} [Loc.]
+;  <>not before a vowel (without requiring the presence of a following
+;  <>consonant) {#anaci#} JaineVya1. v. 4. 127; Ca1ndraVya1. vi. 4. 142; {#avasAne
+;  <>dvitvasidDaye'nacIti prasajyapratizeDaH#} LaS4abdeS4e. i. 67. 14.
+
+* TODO Case 0226: anac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1905b][page 3-1905b]]
+;  <P>.{#anac#}^2¦ (an-ac) (Gr.) (suffix) other than the primary suffix {%-ac%}
+;  <>({%=a%}, P. iii. 1. 134) {#aByAsasyAnaci#} Va1r. 1 ({%on%} vii. 4. 58); {#aByAsasya
+;  <>kAryamanacIti vaktavyamiti halAdiSezABAvaH#} PrakriKau. ii. 499. 4.
+
+* TODO Case 0227: anajJal [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1906b][page 3-1906b]]
+;  <P>.{#anajJal#}¦ (anaj-jhal) (Gr.) consonant without a vowel {#anajJa
+;  <>liva so'JalByAM DarmArTAByAM yuto janaH.nirIkzyate'tra nizpApaM cezwayan hitakAmyayA#}
+;  <>Dvya1s4raKa1. 1. 42 (comm. {#anac svararahito hal vyaYjanam#})
+
+* TODO Case 0228: anaY [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1906b][page 3-1906b]]
+;  <P>.{#anaY#}¦ (a-nan5) (Gr.) {@i@} not containing the negtive particle
+;  <>{%nan5%} {#ktena naYviSizwenAnaY#} P. ii. 1. 60 = SaraKan2t2ha1.(Gr.) iii. 2. 94;
+;  <>{@ii@} other than the negative particle {%nan5%} {#BAvinyanaYaH ktvo yap#} Ka1tan.
+;  <>iv. 6. 55; {#naYo'nyadanaY#} Ka1s4iVr2. {%on%} vii. 1. 37; Nya1s. iii. 644. 10
+;  <>({%on%} vii. 1. 37); iii. 646. 14 ({%on%} vii. 1. 37); {#kto'naYaH pyaH#} S4a1kat2a1Vya1.
+;  <>ii. 2. 171; SiddhaHe. iii. 2. 154; {#vyAd anaYaH ktvo yap se#} MugdhaBo.
+;  <>26. 212 (174. 9); {%adj.%} not preceded by the negative particle {%nan5%}
+;  <>{#arvaRastrasAvanaYaH#} P. vi. 4. 127; Ka1tan. ii. 3. 22; {#visamAptO kto'naY#} Jaine-
+;  <>Vya1. i. 3. 55; {#mUlAdanaYaH#} S4a1kat2a1Vya1. i. 3. 69; SiddhaHe. ii. 4. 58; {#Denora-
+;  <>naYaH#} S4a1kat2a1Vya1. ii. 4. 133 = SiddhaHe. vi. 2. 15; {#arvaRo'naYastuN tye'sO
+;   [and 2 more lines]
+
+* TODO Case 0229: anaYci [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1907a][page 3-1907a]]
+;  <P>.{#anaYci#}¦ (an-an5ci) (Gr.) (stem) other than the one derived from
+;  <>the verbal base {%an5c-%} {#dvitIyA cEnenAnaYceH#} S4a1kat2a1Vya1. i. 3. 190; {#dvitIyA-
+;  <>zazWyAvenenAnaYceH#} SiddhaHe. ii. 2. 117.
+
+* TODO Case 0230: anaYpUrva [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1907b][page 3-1907b]]
+;  <P>.{#anaYpUrva#}¦ (anan5-pu1rva) (Gr.) (gerundial Cpd.) of which the first
+;  <>member is other than the negative particle {%nan5%} {#samAse'naYpUrve ktvo lyapM#}
+;  <>P. vii. 1. 37; {#anaY pUrvo yasya so'naYpUrvaH#} Nya1s. iii. 644. 10 ({%on%} vii. 1. 37);
+;  <>{#anaYpUrve samAse sati ktvo lyabAdeSaH syAt#} PrakriKau. ii. 684. 5; {#anaYpUrva-
+;  <>samAse ktvo lyap ktvApi syAcCandasi.…udDftya juhoti#} Prasa1. ii. 728. 20.
+
+* TODO Case 0231: anaYsa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1907b][page 3-1907b]]
+;  <P>.{#anaYsa#}¦ (a-nan5sa) (Gr.) [Loc.] not in a Cpd. formed with the
+;  <>negative particle {%nan5%} {#halyetattado'ranaYse'koH suKam#} JaineVya1. iv. 3. 109;
+;  <>{#etattadorakakArayorhali parataH suKaM BavatyanaYse.eza dadAti.sa dadAti.…anaYsa iti
+;  <>kim ? anezo dadAti#} JaineVya1. 299. 9 ({%on%} iv. 3. 109)
+
+* TODO Case 0232: anaw [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1907b][page 3-1907b]]
+;  <P>.{#anaw#}¦ (anat2) (Gr.) primary suffix {%anat2%} ({%= ana, lyut2%} of P. iii.
+;  <>3. 115) {#zWivasivo'nawi vA#} SiddhaHe. iv. 2. 112; iv. 3. 77; {#anaw.klIbe
+;  <>BAve'rTe DAtoranaw syAt.gamanam#} SiddhaHe. v. 3. 124; {#GaYalanawo'Ge#}
+;  <>MugdhaBo. 26. 170 (169. 3)
+
+* TODO Case 0233: anaWImac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1907b][page 3-1907b]]
+;  <P>.{#anaWImac#}¦ (anat2hi1m-ac) (Gr.) (a vowel) other than the augment
+;  <>{%im%} ({%= it2%}, P. vii. 2. 35) not occurring before of the pf. endings
+;  <>(cf. P. vii. 1. 62) {#nuR raDo mucAM naSamasjo raBalaBo'naWImac e kasy araWyaci#}
+;  <>MugdhaBo. 11. 4 (114. 7)
+
+* TODO Case 0234: anaqGaY [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1907b][page 3-1907b]]
+;  <P>.{#anaqGaY#}¦ (anad2-ghan5) (Gr.) [Loc.] when followed by the primary
+;  <>suffix {%anat2%} ({%=ana%}, P. iii. 3. 115) and {%ghan5%} ({%=a%}, P. iii. 3. 18) {#mAMsasyA-
+;  <>naqa(? q)GaYi paci na vA (anaqa(? q)GaYnte pacAvuttarapade mAMsasya lugvA syAt.
+;  <>mAMspacanam mAMsapacanam#} SiddhaHe. iii. 2. 141.
+
+* TODO Case 0235: anaR [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1910b][page 3-1910b]]
+;  <P>.{#anaR#}^1¦ (an-an2) (Gr.) other than the aorist-marker {%an2%} ({%= an3%},
+;  <>P. vi. 4. 98) {#gamahanajanaKanaGasAmupaDAyAH svarAdAvanaRyaguRe (lopo Bavati)#}
+;  <>Ka1tan. iii. 6. 43.
+
+* TODO Case 0236: anaR [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1910b][page 3-1910b]]
+;  <P>.{#anaR#}^2¦ (an-an2) (Gr.) other than {%an2%} (technical term standing for
+;  <>vowels, semi-vowels and {%h%}) {#guRAnAM BedakatayAnaRi…‘vfdDirAdEc’ ityAdAvA-
+;  <>kArAMSe sAvakASenAnena ‘ato Bisa’ ityAdO paratvena ‘aRudit’sUtrabADaH#} La-
+;  <>S4abdeS4e. i. 41. 15; i. 316. 9.
+
+* TODO Case 0237: anaRi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1910b][page 3-1910b]]
+;  <P>.{#anaRi#}¦ (an-an2i) (Gr.) [P. i. 3. 67] other than the non-causative,
+;  <>causative {#karmaRyaRAvapyanaRO prayAte kartftvamADyAnavivarjite'pi.spfhAmahaM saMvidaDatpa-
+;  <>rasmE padAya na syAM kaTamatra hAsyaH#} Alan3ka1Kau.(Vi.) 262. 3; 262. 8.
+
+* TODO Case 0238: anat [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1912a][page 3-1912a]]
+;  <P>.{#anat#}^1¦ (an-at) (Gr.) {@i@} (stem or formative element) not ending in
+;  <>{%a%} {#AtmanepadezvanataH#} P. vii. 1. 5; {#Atmanepadezu yo JakArastasyAnakArAntAdaNgAduttara-
+;  <>syAdityayamAdeSo Bavati.…acinvata.…alunata#} Ka1s4iVr2. {%on%} vii. 1. 5; {#taNyanataH#}
+;  <>Ca1ndraVya1. i. 4. 6; {#de'nataH#} JaineVya1. v. 1. 5; {#taNo'nataH#} S4a1kat2a1Vya1. i.
+;  <>4. 90; {#mAnto'd anataH#} MugdhaBo. 8. 28 (82. 21); {#anato'nto'dAtmane#}
+;  <>SiddhaHe. iv. 2. 114; {@ii@} (Cpd. stem) not having short {%a%} in the
+;  <>initial syllable (of the second member) {#parimARasyAnato'rDAd vA pUrvasya#}
+;  <>JaineVya1. v. 2. 32; {#parimARasyArDAduttarasya anataH sTAne Eb Bavati…arDadroRaM
+;  <>pacati ArDadrORikaH.…anata iti kim ? ArDaprasTikaH#} JaineVya1. 364. 4 ({%on%}
+;  <>v. 2. 32); {#parimARasyAnato'rDAd vAdeH#} S4a1kat2a1Vya1. ii. 3. 101; {#arDAtparimARa-
+;   [and 5 more lines]
+
+* TODO Case 0239: anat [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1912a][page 3-1912a]]
+;  <P>.{#anat#}^2¦ (an-at) (Gr.) (numeral stem) not ending in {%at%} {#nuw.
+;  <>saMKyAyA anataH#} Ca1ndraVya1. ii. 1. 33; {#acCabdAntavarjitAyAH saMKyAyAH parasyAmo
+;  <>nuw Bavati.caturRAm.…zaRRAm.anata iti kim ? triMSatAm.tAvatAm#}
+;  <>Ca1ndraVr2. {%on%} ii. 1. 33.
+
+* TODO Case 0240: anati [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1912b][page 3-1912b]]
+;  <P>.{#anati#}¦ (an-ati) (Gr.) not having {%ati%} (as the first-member) {#pUrvottara-
+;  <>mfgAccAnateH sakTnaH#} MugdhaBo. 6. 43 (58. 20) (comm. {#eByaH pUrvoktAccAti-
+;  <>varjAt sakTnaH zaH syAt yAdO.pUrvasakTam.PalakasakTam#})
+
+* TODO Case 0241: anatya [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1925a][page 3-1925a]]
+;  <P>.{#anatya#}¦ (ana-tya) (Gr.) [P. ii. 4. 56; ii. 4. 57] primary suffix -{%ana%}
+;  <>(= {%lyut2%} of P. iii. 3. 115) {#ajater are vI syAt.anatye vase ca vA syAt#}
+;  <>MugdhaBo. 8. 59 (88. 11)
+
+* TODO Case 0242: anatyanta [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1925b][page 3-1925b]]
+;  <P>.{#anatyanta#}¦ (an-atyanta) (Gr.) (action) not reaching to its end
+;  <>(i. e. non-completion of an action) {#ktAdanatyante#} JaineVya1. iv. 2. 12;
+;  <>{#anatyantamakArtsnyam.anatyante vartamAnAt ktAntAnmfdaH ko Bavati.anatyante BinnaM
+;  <>Binnakam.Cinnakam#} JaineVya1. 268. 31 ({%on%} iv. 2. 12); {#anatyante#} S4a1kat2a1Vya1.
+;  <>iii. 4. 80; SiddhaHe. vii. 3. 14; {#ktAttamabAdeScAnatyante#} SiddhaHe. vii. 3. 56;
+;  <>cf. {@{#anatyantagati#}@}.
+
+* TODO Case 0243:? anatyantagati [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1925b][page 3-1925b]]
+;  <P>.{#anatyantagati#}¦ (an-atyantagati) {%f.%} (Gr.) {@i@} non-completion or
+;  <>non-fulfilment (of an action) to the very end, incomplete action
+;  <>{#anatyantagatO ktAt#} P. v. 4. 4; {#anatyantagatO ktAntAt tamAdayo Bavanti pUrva-
+;  <>vipratizeDena.anatyantagatO ktAntAt kan BavatItyasyAvakASaH.anatyantagatervacanaM
+;  <>prakarzasyAvacanam#} Maha1Bh. ii. 430. 10 ({%on%} v. 4. 4); {@ii@} absence of
+;  <>complete contact or pervasion {#atyantagatiraSezeRa saMbanDaH, tadaBAvo'natyanta-
+;  <>gatiH.anatyantagatO gamyamAnAyAM ktAntAt kanpratyayo Bavati#} Ka1s4iVr2. {%on%} v. 4. 4;
+;  <>Pradi1. iv. 406B. 19 ({%on%} v. 4. 4); Siddha1Kau. 320A. 5 ({%on%} v. 4. 5);
+;  <>{#anatyantagatiraSezataH saMbanDABAvaH#} LaS4abdeS4e. ii. 386. 5; ii. 386. 9; Prasa1.
+;  <>i. 940. 5; [the sense of ‘not-exceedingly’, sense of diminutive words,
+;   [and 1 more lines]
+
+* TODO Case 0244: anad [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1926b][page 3-1926b]]
+;  <P>.{#anad#}¦ (an-ad-) (Gr.) other than the {%ad-%} class (of roots) {#kartaryanadByaH
+;  <>Sav#} SiddhaHe. iii. 4. 71.
+
+* TODO Case 0245: anadanta [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1927a][page 3-1927a]]
+;  <P>.{#anadanta#}¦ (an-adanta) (Gr.) not ending in the vowel {%a%} {#tatrAnadantAd
+;  <>gfherBUvAdeH Sapi garhate#} DaivaVya1. 194.
+
+* TODO Case 0246: anan [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1947a][page 3-1947a]]
+;  <P>.{#anan#}¦ (an-an) (Gr.) [Loc.] (suffix) before which a conjugational
+;  <>sign (or {%vikaran2a%}) is not added (i. e. {%a1rdhadha1tuka%} of P. vi. 4. 49)
+;  <>{#yasyAnani#} Ka1tan. iii. 6. 48; {#vyaYjanAtparasya DAtoryasyAnani pratyaye pare lopo Bavati#}
+;  <>Ka1tanVr2. {%on%} iii. 6. 48.
+
+* TODO Case 0247: ananujYA [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=3-1950a][page 3-1950a]]
+;  <P>.{#ananujYA#}¦ (ananu-jn5a1) (Gr.) verbal base {%jn5a1-%} not preceded by the
+;  <>preverb {%anu%} {#smfdfSananujYAnApratiSroH sanaH#} MugdhaBo. 23. 57 (140. 22)
+
+* TODO Case 0248: anantar [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-1991a][page 4-1991a]]
+;  <P>.{#anantar#}¦ (an-antar) (Gr.) when not occuring in (the word) {%antar%}
+;  <>{#samAse sakAraH kapayoranantaH#} APia1ti. 201 (comm. {#anantastasyApavAdaH -- a\ntaH-
+;  <>ko\Sami/vAntaHpA\tre reri/hatIM sadyaHkrIH SreyaH/ketaH\CandaH/pakze pa\raHpa/ra\ iti#}); {#samAse sakAraH
+;  <>kapayoranantaHsadyaHSreyaSCandasAm#} CaturA.(S4au.) 2. 62.
+
+* TODO Case 0249: anantaragotrayuvan [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-1994a][page 4-1994a]]
+;  <P>.{#anantaragotrayuvan#}¦ (anantara-gotra-yuvan) (Gr.) (words standing
+;  <>for the descendant in) the next generation (e. g. {#gArgi#}), second gene-
+;  <>ration (e. g. {#gArgya#}) and third generation etc. (e. g. {#gArgyAyaRa#}) {#gargAdere-
+;  <>vApatyapratyayaH kAryo na tvanantaragotrayuvaBya ityarTaH#} Pradi1. iv. 111A. 30 ({%on%}
+;  <>iv. 1. 89)
+
+* TODO Case 0250: anantaraWak [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-1994b][page 4-1994b]]
+;  <P>.{#anantaraWak#}¦ (anantara-t2hak) (Gr.) secondary suffix {%-t2hak(= -ika)%}
+;  <>(mentioned) in the immediately preceding rule (P. v. 3. 108) {#pakze
+;  <>Wagiti -- anyatarasyANgrahaRamanantaraWakaH samuccayArTam iti BAvaH#} LaS4abdeS4e.
+;  <>ii. 383. 14.
+
+* TODO Case 0251:? anantya [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2028a][page 4-2028a]]
+;  <P>.{#anantya#}¦ (an-antya) {%adj.%} {@1@} (Gr.) {@1A@} not the final (nasal sound)
+;  <>(i. e. the first four consonants of the class-series) {#anantyAH praTamA varRA
+;  <>Goza(? Uzma)saMjYe pare sTite.varRA dvitIyAnucyante(? yA ucyante)#} S4ais4iS4i. 102;
+;  <>{#anantyaSca Bavet pUrvo'ntyaSca parato yadi.tatra maDye yamastizWet#} Na1raS4i. ii. 2. 8;
+;  <>GautS4i. 1. 2 (450); {@1B@} other than the final (in recitation) {#anto'nantyaM
+;  <>na vE indrastasyAprati na maDyagam#} Bha1rS4i. 65; {@1C@} other than the final
+;  <>sound, sound not occurring in the final position {#liNgaH salopo'nantyasya#}
+;  <>P. vii. 2. 79; Ca1ndraVya1. i. 4. 36; Ka1s4iVr2. {%on%} vii. 2. 79; SaraKan2t2ha1.
+;  <>(Gr.) iii. 1. 34; PrakriKau. ii. 19. 6 = Siddha1Kau. 342B. 1 ({%on%} vii.
+;  <>2. 79); {#tadoH saH sAvanantyayoH#} P. vii. 2. 106; Ka1s4iVr2. {%on%} vii. 2. 106;
+;   [and 20 more lines]
+
+* TODO Case 0252: anantyasaKa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2028b][page 4-2028b]]
+;  <P>.{#anantyasaKa#}¦ (anantyasa-kha) (Gr.) [P. vii. 2. 79] deletion of non-
+;  <>final sound {%s%} (in the potential mood) {#liNo'nantyasaKam#} JaineVya1. v. l.
+;  <>138 (Vr2tti {#liNo'nantyasya sasya KaM Bavati ge.kuryAtAm.kuryuH.kurvIta#})
+
+* TODO Case 0253: anantyAc [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2029a][page 4-2029a]]
+;  <P>.{#anantyAc#}¦ (anantya1c) (Gr.) non-final vowel {#ajgrahaRasAmarTyAta
+;  <>‘newi’ iti nizeDAccAnantyAco grahaRe sidDe halantagrahaRaM vyarTamiti cenna#} LaS4abdeS4e.
+;  <>ii. 486. 2.
+
+* TODO Case 0254:? ananyatva [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2035b][page 4-2035b]]
+;  <P>.{#ananyatva#}¦ (ananya-tva) {%n.%} {@1@} (Gr.) the state of not being treated
+;  <>as a different one (from the original) {#ekadeSavikftasyAnanyatvAt plutyAdayaH#}
+;  <>Va1r. 4 {%on%} S4ivSu1.(Gr.) 2; {#ekadeSavikftasyAnanyatvAt sidDam#} Va1r. 10 {%on%} P.
+;  <>i. 1. 56; Va1r. 8 {%on%} P. i. 1. 69; Va1r. 10 {%on%} P. ii. 4. 85; {#na vAvayavasyAnanya-
+;  <>tvAt#} Va1r. 4 {%on%} P. viii. 3. 65; Va1r. {%on%} P. viii. 3. 85; {#‘cCvoH SUqanunAsike
+;  <>ca’ ityUWi kfte ekadeSavikftasyAnanyatvAt divSabda evAyamityUkArasyOtvaM prApnoti
+;  <>tanna Bavati#} Prasa1. i. 216. 7; {#tadantAdyaN.pAPAlyate.pAPAlItIti.kaTamatra
+;  <>syAt.ekadeSavikftasyAnanyatvAt#} Prasa1. ii. 356. 15; {#rUparAtriraTantarezu rutvaM
+;  <>vAcyam.ahorUpam.gatamaho rAtrirezA.ekadeSavikftasyAnanyatvAt -- ahorAtraH.
+;  <>ahoraTantaram#} Siddha1Kau. 37B. 9 ({%on%} viii. 2. 69); {#ekadeSavikftasyAnanyatvAdra
+;   [and 91 more lines]
+
+* TODO Case 0255: anap [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2066a][page 4-2066a]]
+;  <P>.{#anap#}^1¦ (a-nap) (Gr.) {@i@} non-neuter stem {#suqanapaH#} JaineVya1. i. 1. 32;
+;  <>{#aDvaryukraturanap#} JaineVya1. i. 4. 80 (Vr2tti {#tezAmaDvaryukratUnAmanapuMsakaliNgAnAM dvandva
+;  <>ekavad Bavati#}); {#ro'napo'cyuH#} S4a1kat2a1Vya1. i. 2. 222 (comm. {#tisf, catasf, itye-
+;  <>tayoH fkArasyAnapuMsakasya tatsaMbanDinyanyasaMbanDini vA ajAdO supi pare rePo Bavati.
+;  <>tisraH.catasraH.…anapa iti kim ? priyatisFRi.priyacatasFRi#}); {@ii@} non-neuter
+;  <>case-ending {#Syanapsuwyan#} S4a1kat2a1Vya1. i. 2. 109 (comm. {#paTyAdInAM nakA- [Page4-2066b+ 64]
+;  <>rAntAnAM SO anapuMsakavizaye…antyAjAderannityayamAdeSo Bavati#})
+
+* TODO Case 0256: anap [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2066b][page 4-2066b]]
+;  <P>.{#anap#}^2¦ (an-ap) (Gr.) verbal base not having the conjugational
+;  <>sign {%ap%} (= P.’s {%s4ap%}, iii. 1. 68) (i. e. verbal base other than that of the
+;  <>Ist conjugation) {#BAvAdiQe voduNo'bvataH.…anapastu kzuDitam#} MugdhaBo.
+;  <>26. 105 (162. 2)
+
+* TODO Case 0257:? anaBihitADikAra [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2119a][page 4-2119a]]
+;  <P>.{#anaBihitADikAra#}¦ (anabhihita1dhika1ra) {%m.%} (Gr.) section-heading
+;  <>or governing rule {%anabhihite%} (P. ii. 3. 1) (when the case-relation is
+;  <>not already expressed, {#kiM punarihAkartavyo'naBihitADikAraH kriyata Aho-
+;  <>svidanyatra kartavyo na kriyate#} Maha1Bh. i. 440. 1 ({%on%} ii. 3. 1); {#karmAdiviSizwA
+;  <>ekatvAdayo viBaktyarTAH itaraTA yezu kezucid bahuvacanaM prApnoti.anaBihitADikAraSca
+;  <>na kartavyaH syAt#} TantrVa1. 958. 19 ({%on%} iii. 4. 13); 973. 6 ({%on%} iii. 4. 13);
+;  <>{#kaTaM nAmAnaBihitADikAreRa lakAraprayoge tayoH (kartfkarmaRoH) aBihitatvASrayaRAt
+;  <>paryudAsaH syAt#} TantrVa1. 977. 4 ({%on%} iii. 4. 13); {#tezAM (karmAdInAM) hi
+;  <>viBaktyarTatve tiNkfttadDitasamAsEstezUktezu gatArTatvAddvitIyAdInAM prasaNga eva nAsti
+;  <>kimanaBihitADikAreRa#} Pradi1. ii. 235B. 39 ({%on%} i. 4. 21); ii. 485B. 32 ({%on%} ii.
+;   [and 7 more lines]
+
+* TODO Case 0258:? anaByAsa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2123b][page 4-2123b]]
+;  <P>.{#anaByAsa#}¦ (an-abhya1sa) {%adj.%} {@1@} (Gr.) having no reduplicative
+;  <>syllable (i. e. not reduplicated) {#liwi DAtoranaByAsasya#} P. vi. 1. 8;
+;  <>{#anaByAsasyeti kim.kfzRo nonAva vfzaBo yadIdam#} Maha1Bh. iii. 12. 17 ({%on%} vi.
+;  <>1. 8); {#dvirvacanamanaByAsasyEkasvarasyAdyasya#} Ka1tan. iii. 3. 1; {#liwi parato'naByAsasya
+;  <>DAtoravayavasya praTamasyEkAco dvitIyasya vA yaTAyogaM dve BavataH#} Ka1s4iVr2. {%on%} vi. 1. 8;
+;  <>{#liwi pare'naByAsasya DAtvavayavasyEkAco dve staH#} PrakriKau. ii. 36. 2; ii. 129. 6;
+;  <>ii. 225. 5; {#vaDAdeSasya dvitvaM tu na Bavati, sTAnivattvenAnaByAsasyeti nizeDAt#}
+;  <>Siddha1Kau. 441A. 6 ({%on%} vii. 3. 94); {@2@} not in close proximity
+;  <>{#kimasya…evamaByarTyate.yasyAsmAsu…anaByAsaM sOhArdam#} NalaCam. 5. 2 (20)
+;  <>(comm {#aByAsaH sAmIpyam#})
+
+* TODO Case 0259:? anaraRa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2135a][page 4-2135a]]
+;  <P>.{#anaraRa#}^1¦ (an-aran2a) {%m., n.%} (Gr.) [Loc.] when a word other than
+;  <>{%aran2a%} follows {#svaHpadamanaraRe#} Va1jaPra1ti. 1. 166 (Uvat2a {#svarityetatpadaM riPita-
+;  <>saMjYaM Bavati, araRaSabdo yadi paro na Bavati#})
+
+* TODO Case 0260: anard [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2167a][page 4-2167a]]
+;  <P>.{#anard#}¦ (a-nard) (Gr.) excluding the verbal base {%nard%} {#DAto-
+;  <>rAderRasya naH syAt.RopadeSAstvanard-nAwi-nAT-nAD-nand-nakka-nF-nftaH#}
+;  <>Siddha1Kau. 356A. 3 ({%on%} vi. 1. 65)
+
+* TODO Case 0261: anal [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2170a][page 4-2170a]]
+;  <P>.{#anal#}¦ (an-al) (Gr.) other than a single (specific) sound
+;  <>{#viSizwaM hyezo'nalamASrayata iwaM nAma#} Maha1Bh. i. 134. 23 ({%on%} i. 1. 56); {#anala
+;  <>iti saMbanDasAmAnye zazWI kriyatAm, ata evAlASrayo viDirvyUQoraskenetyatra sakArasya
+;  <>sTAnivattve RatvaprAptiH#} PariVr2.(Si1.) 174. 4; {#ityetatpratipAdakasyAnala ityeva sidDe
+;  <>kftasya viDigrahaRasya vEyarTyaM syAt#} LaS4abdeS4e. i. 78. 16; cf. {@{#analviDi#}@}.
+
+* TODO Case 0262:? analASraya [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2185a][page 4-2185a]]
+;  <P>.{#analASraya#}^2¦ (an-ala1s4raya) {%adj.%} (Gr.) {@i@} excluding (the grammati-
+;  <>cal operations) depending upon the specific single sound or many
+;  <>sounds {#sTAnivadAdeSo Bavati sTAnyASrayezu kAryezvanalASrayezu#} Ka1s4iVr2. {%on%} i. 1. 56;
+;  <>{@ii@} excluding (the grammatical operation) depending upon the
+;  <>specific single sound {#sTAnIvAnalASraye#} S4a1kat2a1Vya1. i. 1. 50.
+
+* TODO Case 0263:? analviDi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2193a][page 4-2193a]]
+;  <P>.{#analviDi#}¦ (an-alvidhi) {%m.%} (Gr.) {@i@} other than the grammatical
+;  <>operation conditioned by (single or many specific) speech sounds
+;  <>{#sTAnivadAdeSo'nalviDO#} P. i. 1. 56; {#na alviDiranalviDirityarTaH#} Ka1s4iVr2.
+;  <>(Sanskrit Academy Series 17, Hyderabad, 1969) {%on%} i. 1. 56; {@ii@} other
+;  <>than the grammatical operation conditioned by a (single specific)
+;  <>speech sound {#analviDAviti pratizeDaM vakzyAmIti#} Maha1Bh. i. 134. 6 ({%on%} i. 1.
+;  <>56); i. 163. 12 ({%on%} i. 1. 62); {#analviDO sTAnivadBAvo'lviDiScAyam#} Maha1Bh.
+;  <>iii. 34. 21 ({%on%} vi. 1. 45); iii. 427. 7 ({%on%} viii. 3. 17); {#sTAnIvAdeSo'nalviDO#}
+;  <>JaineVya1. i. 1. 56; {#analviDAvityukteralASritatvena sTAnivattvABAvAd halNyAbiti
+;  <>sulopo na#} PrakriKau. i. 216. 1; {#anubanDakArye tvanalviDAviti nizeDo na#}
+;   [and 1 more lines]
+
+* TODO Case 0264:? anavyaya [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2249a][page 4-2249a]]
+;  <P>.{#anavyaya#}¦ (an-avyaya) {%n.%} (Gr.) other than an indeclinable (i. e.
+;  <>word declinable in case, gender and number) {#Kityanavyayasya#} P. vi. 3. 66;
+;  <>Ka1tan. iv. 1. 20; S4a1kat2a1Vya1. ii. 2. 78; SiddhaHe. iii. 2. 111; Prakri-
+;  <>Kau. ii. 542. 6; {#ataH kfkamikaMsakumBapAtrakuSAkarRIzvanavyayasya#} P. viii. 3. 46; [Page4-2249b+ 64]
+;  <>S4a1kat2a1Vya1. i. 1. 175; SiddhaHe. ii. 3. 5; {#anavyayamavyayaM BavatItyavyayIBAvaH#}
+;  <>Maha1Bh. i. 378. 17 ({%on%} ii. 1. 5); Nya1s. i. 340. 11 ({%on%} ii. 1. 5); Pad-
+;  <>Man5. {%on%} Ka1s4iVr2. {%on%} P. ii. 1. 5; LaS4ubdeS4e. i. 527. 8; {#cvO cAsyAnavya-
+;  <>yasyeH#} S4a1kat2a1Vya1. ii. 3. 40; {#anavyayAdamaH kyajvA#} SaraKan2t2ha1.(Gr) i. 3. 11;
+;  <>{#vedUto'navyayayvfdIcNIyuvaH pade#} SiddhaHe. ii. 4. 98; iv. 3. 111; {#na cedivAdyavyaya-
+;  <>manavyayamalaMkArAntaraM vA kiMcit#} VyaktiVi. 90. 9; {#anavyayAnAmezAM mAntatvameda-
+;   [and 6 more lines]
+
+* TODO Case 0265: anas [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2257b][page 4-2257b]]
+;  <P>.{#anas#}^2¦ (an-as) (Gr.) other than the Un2a1di suffix {%as%} {#vyaceH kuwA-
+;  <>ditvamanasyaYRiti saMprasAraRArTam#} Va1r. 4. {%on%} P. vi. 1. 17; {#anasIti kimarTam.
+;  <>urutryacAH kaRwakaH#} Maha1Bh. iii. 27. 7 ({%on%} vi. 1. 17); Ca1ndraVya1. v. 1. 19;
+;  <>SiddhaHe. iv. 1. 82; SaraKan2t2ha1.(Gr.) vi. 1. 26; PrakriKau. ii. 268. 7.
+
+* TODO Case 0266: anasa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2257b][page 4-2257b]]
+;  <P>.{#anasa#}^1¦ (anasa) (Gr.) a form of {%anas%} {@i@} (at the end of an adver-
+;  <>bial Cpd., cf. {%s4arada1digan2a on%} P. v. 4. 107); {@ii@} (at the end of Ttp.
+;  <>Cpd., cf. P. v. 4. 94) {#anasU, aSman…ityevamantAttatpuruzAwwac pratyayo Bavati
+;  <>jAtO saMjYAyAM ca vizaye.upAnasamiti jAtiH.mahAnasamiti saMjYA#} Ka1s4iVr2. {%on%} v.
+;  <>4. 94; Siddha1Kau. 185B. 8 ({%on%} v. 4. 94)
+
+* TODO Case 0267: anasti [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2261b][page 4-2261b]]
+;  <P>.{#anasti#}¦ (an-asti) (Gr.) a verbal base other than {%as-%} ‘to be’
+;  <>{#tipyanasteH#} P. viii. 2. 73.
+
+* TODO Case 0268: anaham [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2264a][page 4-2264a]]
+;  <P>.{#anaham#}¦ (an-aham) (Gr.) [Nom. sg., according to P. vii. 2. 94
+;  <>the lemma would be {%anasmad%}, cf. {@{#atiyuzmad#}@}] non-I, other than ‘I’
+;  <>{#namAmyanamAmyahamanahaM nfsiMhAnuzwuBEva bubuDire#} Nr2sim3hoTa1U. 6; {#anahamahaM saMpadyate
+;  <>madBavati…anahamahaM saMpadyase madBavasi#} S4r2n3ga1Pra. 159. 9; {#na hyAtmanyahamanahaM veti
+;  <>kaScit saMdigDe, nEvAhamiti vA viparyasyati#} TattvPradi1.(Ci.) 22. 4; {#cvipratyayArTa-
+;  <>garBatvAt anahami ahaMbudDigarBO imO ahaMBAvAhaMkAraSabdO#} S4rutaPra. iA. 173. 16;
+;  <>{#ahaMkArAdInapyacidupADiBedAnanahamaH.ahaMtA yasyEkA kavalayati…mamAsmin viSrA-
+;  <>myatvahamiti matirviSvavapuzi#} S4atDu1. 121. 23; {#atvaM Bavasi anahaM BavAmItyAdO puruza-
+;  <>vacanAdivyavasTA nopapadyate#} Vaiya1Bhu1. 516. 2 ({%on%} 40)
+
+* TODO Case 0269: anAka [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2264b][page 4-2264b]]
+;  <P>.{#anAka#}¦ (an-a1ka) (Gr.) excluding the primary suffixes {%a%} and {%aka%}
+;  <>restricted to the feminine gender (cf. S4a1kat2a1Vya1. iv. 4. 80; iv. 4. 87)
+;  <>{#vAnAkasya ktaDyabdviprAptiH kartari#} S4a1kat2a1Vya1. i. 3. 168 (comm. {#anAkasyeti kim.
+;  <>cikIrzA kawasya devadattasya#})
+
+* TODO Case 0270: anAN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2288a][page 4-2288a]]
+;  <P>.{#anAN#}¦ (an-a1n3) (Gr.) other than the particle {%a1%} marked with the
+;  <>indicatory sound {%n3%} {#(pragfhyam) nipAta ekAjanAN#} P. i. 1. 14; {#anANiti
+;  <>kimarTam.A udakAntAt odakAntAt#} Maha1Bh. i. 71. 3 ({%on%} i. 1. 14);
+;  <>Ka1s4iVr2. {%on%} i. 1. 14; {#nirekAjanAN#} JaineVya1. i. 1. 22; {#Sruvo'nANprateH#} Ca1ndra-
+;  <>Vya1. i. 4. 114=SiddhaHe. iii. 3. 71 = SaraKan2t2ha1.(Gr.) iii. 1. 108;
+;  <>{#ajanAN#} Ca1ndraVya1. v. 1. 127; {#supAnANmayena#} Ca1ndraVya1. vi. 4. 133;
+;  <>{#atadDitaparAnANA padena#} SaraKan2t2ha1.(Gr.) vii. 4. 146; {#virAme'gidanAN cAdyaR
+;  <>vAnunAsikaH#} S4a1kat2a1Vya1. i. 1. 68; {#cAderaco'nANaH#} S4a1kat2a1Vya1. i. 1. 101;
+;  <>{#pade'nANyatadDite#} S4a1kat2a1Vya1. i. 2. 53; SiddhaHe. ii. 3. 93; {#nipAtaH
+;  <>kevalAjanAN#} SaraKan2tha1.(Gr.) i. 1. 107; {#cAdiH svaro'nAN#} SiddhaHe.
+;   [and 3 more lines]
+
+* TODO Case 0271: anANga [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2288a][page 4-2288a]]
+;  <P>.{#anANga#}¦ (an-a1n3ga) (Gr.) (grammatical operation) other than that
+;  <>mentioned in the section {%an3gasya%} (P. vi. 4. 1) {#evaM tarhi striyAmANga-
+;  <>SAstrAtideSAsaMBavAdanANgasyApyatideSaH#} Pradi1. vi. 86. 16 ({%on%} vii. 1. 95-96);
+;  <>{#lumatA lupte pratyaye yadaNgaM tasyANgamanANgaM ca sarvaM pratiziDyate#} PadMan5. {%on%} Ka1s4iVr2.
+;  <>{%on%} P. i. 1. 63; {#taduddeSyakaM yat kAryamANgamanANgaM vA#} LaS4abdeS4e. i. 251. 2; {%adj.%}
+;  <>not consisting of parts or pieces {#vfkzajaM dozanirmuktaM lohajaM Ganamizyate.GanaM
+;  <>vANgamanANgaM vA lohena sakalaM matam#} MayaMa. 33. 154 (better read {#anaNga#})
+
+* TODO Case 0272:? anANgirasa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2288a][page 4-2288a]]
+;  <P>.{#anANgirasa#}¦ (an-a1n3girasa) {%adj.%} [{%f.%} -i1] (Gr.) [Loc.] when the
+;  <>reference is to one not belonging to the {%a1n3girasa%} clan (i. e. when
+;  <>the reference is not to the second generation offspring of the sage
+;  <>An3giras) {#anANgirase tu gargAdiSivAdipAWAt vAtaRqyaH vAtARqaH#} Ca1ndraVr2. {%on%}
+;  <>ii. 4. 29); {#anANgirasyAM tu vAtaRqI vAtaRqyAyanI#} Ca1ndraVr2. {%on%} ii. 4. 30;
+;  <>{#anANgirase tUBayatra pAWasAmarTyAt pratyayadvayamapi Bavati#} Ka1s4iVr2. {%on%} iv. 1. 108=
+;  <>comm. {%on%} SaraKan2t2ha1.(Gr.) iv. 1. 58; {#yaTAnANgirase samAveSo Bavati, evamANgi-
+;  <>rase'pi syAt#} PadMan5. {%on%} Ka1s4iVr2. {%on%} P. iv. 1. 108; Prasa1. i. 710. 6;
+;  <>{#anANgirase tu gargAdO SivAdO ca pAWAd yaYaRO#} Siddha1Kau. 230B. 13 ({%on%} iv.
+;  <>1. 108); {#tatra pUrvasUtre ANgirasa ityuktyA anANgirase yaYaBAvavadatrApi tadaBAva
+;   [and 1 more lines]
+
+* TODO Case 0273: anAcami [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2288a][page 4-2288a]]
+;  <P>.{#anAcami#}¦ (an-a1cami) (Gr.) other than the verbal base {%cam-%} with
+;  <>the preverb {#nodAttopadeSasya mAntasyAnAcameH#} P. vii. 3. 34; {#anAcameriti
+;  <>kim.AcAmakaH#} Ka1s4iVr2. {%on%} vii. 3. 34; {#camestAvadanAcameriti sUtra evopAdAnAt
+;  <>pratizeDo na Bavati#} Nya1s. ii. 790. 27 ({%on%} vii. 3. 34)
+
+* TODO Case 0274: anAcamikamivami [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2288a][page 4-2288a]]
+;  <P>.{#anAcamikamivami#}¦ (an-a1camikamivami) (Gr.) other than the
+;  <>verbal bases {%cam-%} with the preverb {%a1, kam-%} and {%vam-%} {#anAcamikamiva-
+;  <>mInAm#} Va1r. {%on%} P. vii. 3. 34 (Maha1Bh. RSGM. No. 30, 1938); {#anAcamikamika-
+;  <>mivamInAmiti vaktavyam#} Ka1s4iVr2. {%on%} vii. 3. 34; Nya1s. ii. 79. 25 ({%on%} vii. 3. 34);
+;  <>PadMan5. {%on%} Ka1s4iVr2. {%on%} P. vii. 3. 34. [Page4-2288b+ 64]
+
+* TODO Case 0275: anAcCAdana [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2290b][page 4-2290b]]
+;  <P>.{#anAcCAdana#}¦ (an-a1ccha1dana) (Gr.) {@i@} other than (the word) de-
+;  <>noting the sense of covering {#jAtikulasuKAdiByo'nAcCAdanAt kto'kftamita-
+;  <>pratipannAH#} P. vi. 2. 170; {#anAcCAdanAjjAteH pUrvapadAt ktAdajAtakftamitapratipannAt#}
+;  <>S4a1kat2a1Vya1. i. 3. 24; {@ii@} [Loc.] not in the sense of covering {#jAnapadakuRqaº
+;  <>…ºvarRAnAcCAdanAyovikAramETunecCAkeSavezezu#} P. iv. 1. 42; {#anAcCAdane iti
+;  <>nIlavarRavatI SAwItyarTe ‘nIlI’ iti vAraRAya caritArTam#} LaS4abdeS4e. i. 396. 19;
+;  <>{@iii@} other than covering (i. e. not denoting the sense of covering)
+;  <>{#nIlI Bavati anAcCAdanaM cet.nIlAnyA#} Ka1s4iVr2. {%on%} iv. 1. 42; PrakriKau.
+;  <>i. 356. 18 (FN.); Prasa1. i. 355. 21; Siddha1Kau. 123B. 7 ({%on%} iv. 1. 42);
+;  <>{%n.%} absence or abandonment of clothing (i. e. nudity as a religious
+;   [and 3 more lines]
+
+* TODO Case 0276: anAq [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2292a][page 4-2292a]]
+;  <P>.{#anAq#}¦ (an-a1d2) (Gr.) other than the feminine suffix {%a1%} marked
+;  <>with the indicatory sound {%d2%} {#Ato'nAqaH Sluk#} S4a1kat2a1Vya1. i. 2. 151
+;  <>(Vr2tti {#apadasyAkArasya gyasuwCiRyAdO supi pare Slug Bavati.AqantaM varjayitvA.…
+;  <>anAqa kim SAlAH#}); cf. {%t2a1p%}, P. iv. 1. 4. [Page4-2292b+ 64]
+
+* TODO Case 0277: anAt [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2292b][page 4-2292b]]
+;  <P>.{#anAt#}¦ (an-a1t) (Gr.) {@i@} not having {%a1%} (in the syllable preceding the
+;  <>past passive participle suffix{%-ta%}) {#nizWA ca dvyajanAt#} P. vi. 1. 205; {#nizWAntaM ca
+;  <>dvyac saMjYAyAM vizaye AdyudAttaM Bavati sa cedAdirAkAro na Bavati.…anAditi kim.
+;  <>trAtaH.AptaH#} Ka1s4iVr2. {%on%} vi. 1. 205; {@ii@} (secondary suffix) which does
+;  <>not begin with {%a1%} {#Apatyasya ca tadDite'nAti#} P. vi. 4. 151; {#ApatyasyAnAtyaRAdO#}
+;  <>Ca1ndraVya1. v. 3. 155; {#apatyayakArasya hala uttarasya tadDite anAkArAdO yalopo
+;  <>Bavati.gargARAM samUho gArgakam.…anAtIti kim.gArgyAyaRaH#} Ka1s4iVr. {%on%} vi.
+;  <>4. 151; {#tadDitayasvare'nAti#} SiddhaHe. ii. 4. 92; {#kyaNyacvO cAnAty apatyazRyasya#}
+;  <>MugdhaBo. 4. 11 (41. 13); {@iii@} other than {%a1%} (i. e. verbal base not
+;  <>beginning with {%a1%}) {#anAtonaScAntafdAdyaSO saMyogasya#} SiddhaHe. iv. 1. 69
+;   [and 2 more lines]
+
+* TODO Case 0278: anAtmane [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2298b][page 4-2298b]]
+;  <P>.{#anAtmane#}¦ (an-a1tmane) (Gr.) (when the fruit does) not (accrue)
+;  <>to oneself (as the agent) (i. e. not in the middle voice) {#gamo'nAtmane#}
+;  <>SiddhaHe. iv. 4. 51 (Vr2tti {#gamaH parasya stAdyaSitaH sAderiw syAt natvAtmanepade.
+;  <>gamizyati.…anAtmane iti kim.saMgaMsIzwa#})
+
+* TODO Case 0279: anAdyac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2342b][page 4-2342b]]
+;  <P>.{#anAdyac#}¦ (ana1dy-ac) (Gr.) non-initial vowel {#vacana tvanAdyajarTa
+;  <>vijYAyamAnaM pUrvapadasyApi vfdDiM vidaDyAt#} Pradi1. vi. 192. 15 ({%on%} vii. 3. 10)
+
+* TODO Case 0280:? anAp [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2353a][page 4-2353a]]
+;  <P>.{#anAp#}¦ (an-a1p) {%adj.%} (Gr.) other than the feminine suffix {%-a1p%}
+;  <>(= {%a1%}) {#Ato'nApaH#} Va1r. 1 {%on%} P. vi. 4. 140 (Maha1Bh. {#anApa iti [Page4-2353b+ 64]
+;  <>kimarTam.KawvAyAm mAlAyAm); iha tarhi yAH paSya Ato DAtoH iti lopaH
+;  <>prasajyeta.nEza dozaH.anApa ityevaM saH#} Maha1Bh. i. 253. 20 ({%on%} i. 3. 1);
+;  <>{#AbanAporekAdeSa Apa AdivadBavati#} Maha1Bh. iii. 63. 20 ({%on%} vi. 1. 85);
+;  <>{#lugAto'nApaH#} SiddhaHe. ii. 1. 107.
+
+* TODO Case 0281: anApAka [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2355a][page 4-2355a]]
+;  <P>.{#anApAka#}¦ (an-a1pa1ka) (Gr.) not after {%a1pa1ka%} (when it is used in
+;  <>Loc. sg.) {#parameByo'nApAke#} CaturA.(S4an3.) 2. 94.
+
+* TODO Case 0282: anAm [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2363a][page 4-2363a]]
+;  <P>.{#anAm#}^1¦ (a-na1m) (Gr.) other than the Genitive plural ending
+;  <>{%na1m%} {#na padAntAwworanAm#} P. viii. 4. 42; {#anAmiti kim.zaRRAM Bavati kASyapaH.
+;  <>atyalpamidamucyate'nAmiti.anAmnavatinagarIRAM ceti vaktavyam.zaRRAm zaRRavatiH
+;  <>zaRRagarI#} Maha1Bh. iii. 463. 18 ({%on%} viii. 4. 42); {#woH padAnte'nAmnagarInavateH#}
+;  <>S4a1kat2a1Vya1. i. 1. 140; {#nuRiko'cyanAmi#} MugdhaBo. 3. 92 (24. 12); {#anAmiti
+;  <>luptazazWIkaM padam.padAntAwwavargAtparasyAnAmaH stoH zwurna syAt#} Siddha1Kau. 28A. 4
+;  <>({%on%} viii. 4. 42)
+
+* TODO Case 0283: anAm [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2363a][page 4-2363a]]
+;  <P>.{#anAm#}^2¦ (an-a1m) (Gr.) other than the suffix {%a1m%} which forms the
+;  <>periphrastic perfect {#kAritasyAnAmiqvikaraRe#} Ka1tan. iii. 6. 44; {#anAmiqvikaraRa
+;  <>iti kim.kArayAmAsa.kArayitA#} Ka1tanVr2. {%on%} iii. 6. 44; {#anAmlAdeSAH
+;  <>parasmEpadAni#} SaraKan2t2ha1.(Gr.) i. 1. 23.
+
+* TODO Case 0284: anAmnagarInavati [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2371a][page 4-2371a]]
+;  <P>.{#anAmnagarInavati#}¦ (a-na1mnagari1navati) (Gr.) other than the
+;  <>Genitive plural termination {%na1m%} and (the words) {%nagari1%} and {%navati%}
+;  <>{#padAntAwwavargAdanAmnagarInavateH#} SiddhaHe. i. 3. 63 (comm. {#padAntasTAwwavargAt
+;  <>parasya nAmnagarInavativarjasya tavargasya sasya ca wavargazO na syAtAm.zaRnayam.
+;  <>zaRnayAH.zawsu.anAmnagarInavateriti kim.zaRRAm.zaRRagarI.zaRRavatiH#})
+
+* TODO Case 0285: anAmnavatinagarI [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2371a][page 4-2371a]]
+;  <P>.{#anAmnavatinagarI#}¦ (a-na1mnavatinagari1) (Gr.) other than the
+;  <>Genitive plural termination {%na1m%} and (the words) {%navati%} and {%nagari1%}
+;  <>{#anAmnavatinagarIRAM ceti vaktavyam#} Va1r. {%on%} P. viii. 4. 42 (RSGM. 30,
+;  <>1938); {#(na padAntAwworanAm) anAmiti kim.zaRRAM Bavati kaSyapaH.…anAmna-
+;  <>vatinagarIRAM ceti vaktavyam.zaRRAm zaRRAM vatiH zaRRagarI#} Maha1Bh. iii. 463. 18
+;  <>({%on%} viii. 4. 42); Ka1s4iVr2. {%on%} viii. 4. 42; Siddha1Kau. 28A. 7 ({%on%} viii.
+;  <>4. 42)
+
+* TODO Case 0286: anArAt [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2388a][page 4-2388a]]
+;  <P>.{#anArAt#}¦ (an-a1ra1t) (Gr.) (indeclinable) other than {%a1ra1t%} {#vyawerlo-
+;  <>zo'nArAcCaSvato'cye'yO#} MugdhaBo. 7. 16 (67. 24)
+
+* TODO Case 0287: anAlu [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2400b][page 4-2400b]]
+;  <P>.{#anAlu#}¦ (an-a1lu) (Gr.) other than (the suffix) {%a1lu%} {#Yer lopo'nAlvi-
+;  <>zRvAyyAntetnvAmimSiti#} MugdhaBo. 8. 114 (97. 11)
+
+* TODO Case 0288: anASIraka [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2418b][page 4-2418b]]
+;  <P>.{#anASIraka#}¦ (ana1s4i1r-aka) (Gr.) suffix {%aka%} not denoting the sense
+;  <>of blessing {#kApyanASIrake'id ayat tat kzipAdeH#} MugdhaBo. 4. 6 (40. 19);
+;  <>(comm. {#ASIrarTAkavarje kApi pare'kAra ikAraH syAt.…sarvikA.kArikA.[Page4-2419a+ 64]
+;  <>ASIrake tu jIvakA#})
+
+* TODO Case 0289: ani [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2442a][page 4-2442a]]
+;  <P>.{#ani#}^1¦ (-ani) (Gr.) {@i@} primary suffix {%-ani%} (indicating the sense of
+;  <>cursing when the verbal base is preceded by the negative particle
+;  <>{%nan5%} and forming a feminine action noun) [cf. DEBRU. 207 ff.] {#AkroSe
+;  <>naYyaniH#} P. iii. 3. 112 = JaineVya1. ii. 3. 93; Ka1tan. iv. 5. 91; {#AkroSe
+;  <>naYo'niH#} Ca1ndrVya1. i. 3. 94; {#AkroSe gamyamAne naYyupapade DAtoraniH pratyayo
+;  <>Bavati#} Ka1s4iVr2. {%on%} iii. 3. 112; (cf. {@{#akaraRi#}@}); {#naYo'niSSApe#} S4a1kat2a1Vya1.
+;  <>iv. 4. 88 (comm. {#naYaH parAd DAtorakartari striyAM SApe anirBavati#}) = Siddha-
+;  <>He. v. 3. 117; {#naYo'nyAkroSe strI#} MugdhaBo. 26. 196 (172. 9); {#naYi upapade
+;  <>DAtoraniH syAdAkroSe striyAM BAvAdO#} PrakriKau. ii. 672. 8; {#‘AkroSe naYyaniH’
+;  <>iti janeraniH#} LaS4abdeS4e. i. 399. 10; {@ii@} {%un2a1di%} suffix {%-ani%} prescribed
+;   [and 2 more lines]
+
+* TODO Case 0290: ani [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2442a][page 4-2442a]]
+;  <P>.{#ani#}^2¦ (an-i) (Gr.) verbal base {%an-%} with the suffix {%-i%} (indicat-
+;  <>ing citing of a verbal base) {#salikalyaniº…ºBUBya ilac#} Un2a1. 1. 55;
+;  <>{#kFvFjFzidrupanyanisvapiByo nit#} Un2a1. 3. 10; {#anihfziByAM kicca#} Un2a1.
+;  <>4. 17; {#gopAdizvanerasiH#} SaraKan2t2ha1.(Gr.) ii. 1. 238; {#fcyaliº…ºaniByaH
+;  <>kIkan#} SaraKan2t2ha1.(Gr.) ii. 2. 19; {#anerqit#} SaraKan2t2ha1.(Gr.) ii.
+;  <>2. 35; {#kFvFtFsyaniByo nit#} SaraKan2t2ha1.(Gr.) ii. 2. 182.
+
+* TODO Case 0291: ani [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2442a][page 4-2442a]]
+;  <P>.{#ani#}^3¦ (an-i) (Gr.) nominal stem {%an%} with the addition of {%i%} (for
+;  <>easy pronunciation) {#anikAByAM tarac#} SaraKan2t2ha1.(Gr.) ii. 3. 66.
+
+* TODO Case 0292: ani [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2442a][page 4-2442a]]
+;  <P>.{#ani#}^4¦ (an-i) (Gr.) not (beginning with) the vowel {%i%} {#padasyAnO vA#}
+;  <>S4a1kat2a1Vya1. ii. 3. 93 (comm. {#SvAdeH padaSabdAntasya anikArAdO YRiti#})
+
+* TODO Case 0293: anik [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2442a][page 4-2442a]]
+;  <P>.{#anik#}¦ (an-ik) (Gr.) {@i@} other than the vowles {%i, u, r2%}, and {%l2%} {#seko
+;  <>yaTA syAdaniko mA BUditi.kasya punaranikaH prApnoti.akArasya#} Maha1Bh.
+;  <>i. 48. 16 ({%on%} i. 1. 3); {#aniko nivartyante.sidDA hyatra hrasvA ikaScAnikaSca
+;  <>tatrAnenAniko nivartyante#} Maha1Bh. i. 117. 15 ({%on%} i. 1. 48); {@ii@} other than
+;  <>the vowels {%i, u%} and {%r2%} {#upasargAdAto'nik#} S4a1kat2a1Vya1. iv. 3. 95.
+
+* TODO Case 0294: aniNgami [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2445b][page 4-2445b]]
+;  <P>.{#aniNgami#}¦ (anin3-gami) (Gr.) the verbal base {%gam-%} which is
+;  <>not a substitute for the verbal base {%i-%} marked with the indicatory
+;  <>sound {%n3%} {#aniNgameriw#} Ca1ndraVya1. v. 4. 121 (Vr2tti. {#aniNAdeSAd gameH parasya
+;  <>sakArAderiq Bavati.gamizyati jigamizati jigamizitA saYjigamizitA.aniNgameriti
+;  <>kim ? aDijigAMsitA#}); SaraKan2t2ha1.(Gr.) vi. 4. 127.
+
+* TODO Case 0295: anic [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=4-2446b][page 4-2446b]]
+;  <P>.{#anic#}¦ (anic) (Gr.) secondary suffix {%an%} occurring at the end of
+;  <>a cpd. marked with the indicatory sound {%c%} along with {%i%} (for easy
+;  <>pronunciation) {#DarmAdanic kevalAt#} P. v. 4. 124; Ca1ndraVya1. iv. 4. 113
+;  <>(Vr2tti {#kevalAtpUrvapadAtparo yo DarmaSabdastadantAdanij vA Bavati#}); SaraKan2t2ha1.
+;  <>(Gr.) v. 4. 149; {#kevalAd yo DarmaSabdastadantAdbahuvrIheranicpratyayo Bavati samAsAntaH.
+;  <>kalyARo Darmo'sya kalyARaDarmA#} Ka1s4iVr2. {%on%} v. 4. 124.
+
+* TODO Case 0296: aniR [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2452a][page 5-2452a]]
+;  <P>.{#aniR#}^1¦ (an-in2) (Gr.) sounds other than {%in2%} [{%in2%} = vowels (except
+;  <>{%a%} or {%a1%}) and consonants {%y, r, l, v%} and {%h%}] {#upasargAt zatve nisa upasaMKyAna-
+;  <>maniRantatvAt#} Va1r. 1 {%on%} P. viii. 3. 65; {#aSvasanigrahaRamaniRo'pi zatvamastoti
+;  <>jYApanArTam#} Prasa1. ii. 735. 2.
+
+* TODO Case 0297: aniR [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2452a][page 5-2452a]]
+;  <P>.{#aniR#}^2¦ (an-in2) (Gr.) other than (the second conjugation verbal
+;  <>base) {%i-%} with the indicatory sound {%-n2%} {#taTAniReDyeNyeN#} S4a1kat2a1Vya1.
+;  <>i. 1. 93; {#upasargasyAniReDedoti#} SiddhaHe. i. 2. 19.
+
+* TODO Case 0298: anit [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2452b][page 5-2452b]]
+;  <P>.{#anit#}^1¦ (a-nit) (Gr.) not having {%n%} as an indicatory sound
+;  <>{#iccApuMso'nitkyAqyasupaH#} S4a1kat2a1Vya1. i. 3. 86 (comm. {#anitaH anakArAnubanDa-
+;  <>kasya#}); SiddhaHe. ii. 4. 107.
+
+* TODO Case 0299: anit [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2452b][page 5-2452b]]
+;  <P>.{#anit#}^2¦ (an-it) (Gr.) other than the vowel {%i%} {#padasyAniti vA#}
+;  <>SiddhaHe. vii. 4. 12; {#Ricyanit#} SaraKan2t2ha1.(Gr.) i. 2. 51.
+
+* TODO Case 0300: aniti [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2453b][page 5-2453b]]
+;  <P>.{#aniti#}^3¦ (an-iti) (Gr.) verbal base {%an-%} {#aniteH#} P. viii. 4. 19;
+;  <>{#Ro'niteH#} JaineVya1. v. 4. 104; {#pareraniteH#} S4a1kat2a1Vya1. iv. 2. 242; {#dvitve'pya-
+;  <>nte'pyaniteH parestu vA#} SiddhaHe. ii. 3. 81; PrakriKau. ii. 329. 3; ii.
+;  <>537. 8; Siddha1Kau. 397B. 13 ({%on%} viii. 4. 19); 497B. 17 ({%on%} viii. 4. 20);
+;  <>{#taparakaraRaM kim.aniteH kvipi AnaH ityAdO lopABAvAya#} LaS4abdeS4e. i.
+;  <>231. 9.
+
+* TODO Case 0301: anitk [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2453b][page 5-2453b]]
+;  <P>.{#anitk#}¦ (anit-k) (Gr.) the sound {%‘k’%} which is a part of the
+;  <>suffix that does not have {%‘n’%} as the indicatory sound {#iccApuMso'-
+;  <>nitkyAppare#} SiddhaHe. ii. 4. 107 (comm. {#anitaH pratyayasyAvayave ke pare#})
+
+* TODO Case 0302: aninicaw [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2475b][page 5-2475b]]
+;  <P>.{#aninicaw#}¦ (an-inicat2) (Gr.) excluding the causative suffix {%-i%},
+;  <>aor. pass. suffix {%-i%}, and I and III per. sg. pf. suffixes marked with
+;  <>the indicatory sound {%n, c%} and {%t2%} respectively {#kuwAderaninicawsu#} Ka1tan.
+;  <>iii. 5. 27 (Vr2tti {#kuwAdergaRasya in-ic-awo varjayitvAnyezu pratyayezu guRo na…
+;  <>aninicawsviti kim.utkowayati.udakowi.uccukowa)#}
+
+* TODO Case 0303: anim [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2485a][page 5-2485a]]
+;  <P>.{#anim#}¦ (an-im) (Gr.) {@i@} (verbal base) which does not allow the
+;  <>augment {%im%} (i. e. {%-i-%}) {#vrajavadaralajanimo'YiSvijAgurvriH sO pe#} MugdhaBo. 8. 47
+;  <>(86. 7); {#haSazo'nimijuNo'dfSaH sakwyAM SlizaH#} MugdhaBo. 8. 78 (91. 10);
+;  <>{#vanatanAdyanimAM Yamlopo ka(sya)pyatikyaRO#} MugdhaBo. 9. 7 (104. 2); {#naSjo'-
+;  <>nimaH#} MugdhaBo. 26. 207 (173. 17); 26. 213 (174. 14); {@ii@} (suffix) not
+;  <>containing the augment {%im%} (i. e. {%-i-%}) {#iguNurmaQIsyanimkidgamastu vA#} Mug-
+;  <>dhaBo. 8. 132 (101. 5); {#RurnAnimi#} MugdhaBo. 19. 2 (126. 14); cf. {@{#aniw#}@}.
+
+* TODO Case 0304: animsan [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2496a][page 5-2496a]]
+;  <P>.{#animsan#}¦ (anim-san) (Gr.) desiderative suffix {%-san%} not pre-
+;  <>fixed by the augment {%-i-%} {#mimImAdAraBalaBaSakapatapadahiMsArTarADo'co'nimsa-
+;  <>nIsKilopaSca.ezAmaca is syAt KilopaScAnimi sani.syAdeH so lopaH.pitsati#} [Page5-2496b+ 64]
+;  <>MugdhaBo. 19. 9 (127. 14)
+
+* TODO Case 0305: anI [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2612b][page 5-2612b]]
+;  <P>.{#anI#}^1¦ (ani1) (Gr.) the linguistic element {%ani1%} {#rupUrvo maya#} (v. l. {#ºyA#}
+;  <>WHITNEY'S Ed.) {#nyanI.mayAni, anI, ityetayorgrahaRayo rupUrvaH nakAraH RakAra-
+;  <>mApadyate.yaTA -- dArumayARi pAtrARi.tve vasUni pUrvaRIka.rupUrva iti kim.
+;  <>agnaye'nIkavate puroqASam#} TaiPra1ti. 7. 12.
+
+* TODO Case 0306: anIt [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2618b][page 5-2618b]]
+;  <P>.{#anIt#}¦ (an-i1t) (Gr.) not (ending in the feminine suffix) {%i1%} {#anIcca
+;  <>yA nadIdanta ca yadekAc#} Maha1Bh. iii. 159. 4 ({%on%} vi. 3. 43)
+
+* TODO Case 0307: anIna [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2620a][page 5-2620a]]
+;  <P>.{#anIna#}¦ (an-i1na) (Gr.) other than the {%taddhita-%}suffix {%i1na%}
+;  <>{#ahno'hno'nIne#} MugdhaBo. 7. 18 (68. 6)
+
+* TODO Case 0308: anInAdaw [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2620a][page 5-2620a]]
+;  <P>.{#anInAdaw#}¦ (an-i1na1dat2) (Gr.) other than the {%taddhita-%}suffixes {%i1na,
+;  <>at%} and {%at2%} {#anInAdawyahno'taH#} SiddhaHe. vii. 4. 66.
+
+* TODO Case 0309:? anIpsita [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2620b][page 5-2620b]]
+;  <P>.{#anIpsita#}¦ (an-i1psita) {%adj.%} [{%f.%} -a1] (Gr.) {@Ai@} (grammatical object)
+;  <>not directly reached (by the agent's action) {#karturIpsitatamaM karma.taTAyuktaM
+;  <>cAnIpsitam#} P. i. 4. 50; {@Aii@} (grammatical object) not desired {#ihepsi-
+;  <>tasyApi karmasaMjYAraByate'nIpsitasyApi.yadidAnIM nEvepsitaM nApyanIpsitaM tatra kaTaM
+;  <>Bavitavyam#} Maha1Bh. i. 333. 19 ({%on%} i. 4. 50); {#anIpsitamiti nAyaM prasajya-
+;  <>pratizeDa IpsitaM neti#} Maha1Bh. i. 333. 21 ({%on%} i. 4. 50); {@Aiii@} (grammatical
+;  <>object) other than that what is desired by the agent (i. e. {%dves2ya%} or
+;  <>{%uda1si1na%}), other than what is desired {#paryudAso'yaM yadanyadIpsitAt tadanIpsi-
+;  <>tamiti#} Maha1Bh. i. 333. 22 ({%on%} i. 4. 50); {#anyaccEtadIpsitAd yannEvepsitaM
+;  <>nApyanIpsitamiti#} Maha1Bh. i. 333. 23 ({%on%} i. 4. 50); {#ApyatvasAmAnyaM
+;   [and 31 more lines]
+
+* TODO Case 0310: anIya [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2621b][page 5-2621b]]
+;  <P>.{#anIya#}¦ (ani1ya) (Gr.) [AltGr. II. 1. 188; II. 1. 216; DEBRU. 208;
+;  <>209] {@i@} {%kr2tya-%}suffix {%-ani1ya%} added to verbal bases to form potential
+;  <>participles in the passive sense or impersonal action {#tavyAnIyO#}
+;  <>Ka1tan. iv. 2. 9=JaineVya1. ii. 1. 83; {#prabrUpasTo'nIyaH#} S4a1kat2a1Vya1. iv. 3. 50;
+;  <>AgniP. 358. 4; {#tavyAnIyayA QaBAve#} MugdhaBo. 26. 3 (147. 22); (147. 22); {@ii@} {%kr2tya-%}
+;  <>suffix {%ani1ya%} forming potential participles denoting the sense of agent
+;  <>{#kftaH…BAve karmaRi kartari.taTA tavyo hyanIyaSca#} AgniP. 358. 4; {#karma kriyAM prokta-
+;  <>vantaH karmapravacanIyAH.bAhulakAt kartari BUte anIyaH#} LaS4abdeS4e. i. 470. 7; cf.
+;  <>P. iii. 4. 68.
+
+* TODO Case 0311: anIyar [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2621b][page 5-2621b]]
+;  <P>.{#anIyar#}¦ (ani1yar) (Gr.) {@i@} {%kr2tya-%} suffix {%-ani1ya%} with the indica-
+;  <>tory sound {%r%} giving the acute accent on the prefinal vowel and form-
+;  <>ing a potential participle in the sense of passive or impersonal
+;  <>action {#tavyattavyAnIyaraH#} P. iii. 1. 96=SaraKan2t2ha1.(Gr.) i. 3. 129; {#tavyA-
+;  <>nIyarkelimaraH#} Ca1ndraVya1. i. 1. 105; {#smAraRIyakamiti….‘kftyalyuwo vahulam’
+;  <>iti kartaryanIyar.tataH saMjYAyAM kan#} JayaMa. 121. 17 ({%on%} 2. 4); {#(Qralope) nAyaM
+;  <>tatpuruzo'nIyari ‘cacAra’ ityAdO ca dozApatteH#} LaS4abdeS4e. i. 152. 13; {@ii@}
+;  <>{%kr2tya%} suffix {%-ani1ya%} denoting the sense {%karan2a%}, the most effective
+;  <>means {#prayanti prAraBante'neneti prAyaRIyaH.bAhulakAt karaRe'nIyarpratyayaH#} Mayu1-
+;  <>Ma1li. 532. 18 ({%on%} vii. 3. 2); {#(patanIyakfte)patanIye karaRe'nIyar#} Ba1lamBha.
+;   [and 3 more lines]
+
+* TODO Case 0312: anISNIyuvyaY [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2624b][page 5-2624b]]
+;  <P>.{#anISNIyuvyaY#}¦ (an-i1s4n3i1yuvyan5) (Gr.) excluding the substitute
+;  <>{%i1s4%} (i. e. {%i1%}), feminine suffix {%n3i1(i1)%} and verbal bases which take {%iy,
+;  <>uv, y%} and {%v%} (included in the pratya1ha1ra {%yan5%}) {#veko'nISaNIyuvyaYaH…
+;  <>anISNIyuvyaYa iti kim.banDO vyaSyeditIS.kOmudaganDIbanDuH.NI gArgIputraH.
+;  <>iyuv SrIkulam BrUkulam.yaY indrahUputraH#} S4a1kat2a1Vya1. ii. 2. 82.
+
+* TODO Case 0313: anu [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2634a][page 5-2634a]]
+;  <P>.{#anu#}^2¦ (anu) (Gr.) [DEBRU. 210] the {%un2a1di-%} suffix {%anu%} marked
+;  <>with the indicatory sound {%n3%} {#anuN nadeSca#} Un2a1. 3. 52.
+
+* TODO Case 0314: anuKaqga [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2677b][page 5-2677b]]
+;  <P>.{#anuKaqga#}¦ (anukhad2ga) (Gr.) listed in the {%parimukha1digan2a%},
+;  <>Ka1s4iVr2. {%on%} iv. 3. 59.
+
+* TODO Case 0315: anugaRa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2680a][page 5-2680a]]
+;  <P>.{#anugaRa#}¦ (anu-gan2a) (Gr.) listed in the {%uktha1digan2a%}, JaineVya1.
+;  <>iii. 2. 52.
+
+* TODO Case 0316: anugaRita [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2680a][page 5-2680a]]
+;  <P>.{#anugaRita#}¦ (anu-gan2ita) (Gr.) listed in the {%is2t2a1digan2a%}, Gan2Pa1.
+;  <>22. 30; Ca1ndraVr2. {%on%} iv. 2. 94; JaineVya1. 248. 22 ({%on%} iv. 1. 22); Gan2Ra.
+;  <>7. 411 (436)
+
+* TODO Case 0317: anugAdin [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2697a][page 5-2697a]]
+;  <P>.{#anugAdin#}¦ (anuga1d-in) (Gr.) [DEBRU. 312] the word {%anuga1din%} (in
+;  <>the sense who repeats other's words) {#anugAdinazWak#} P. v. 4. 13; {#(vinayA-
+;  <>dezWaR) anugAdiSabdo'pIha paWanIyaH#} JaineVya1. 272. 12 ({%on%} iv. 2. 40); {#vinayA-
+;  <>diByaH svArTe Wag vA Bavati.…anugAdin#} Ca1ndraVr2. {%on%} iv. 4. 17; {#vinayasamayaº [Page5-2697b+ 64]
+;  <>…ºanugAdiByazWak#} SaraKan2t2ha1.(Gr.) v. 4. 36; {#vinayaviSezasamUhAH…aka-
+;  <>smAdanugAdisaMgrAmAH#} Gan2Ra. 3. 193 (236); LaS4abdeS4e. ii. 778. 17; {%adj.%}
+;  <>who repeats other's words {#anugadatItyanugAdI.anugAdinSabdAt svArTe Wak
+;  <>pratyayo Bavati#} Ka1s4iVr2. {%on%} v. 4. 13; S4a1kat2a1Vya1. iii. 4. 118; Prasa1. i. 941. 8;
+;  <>Siddha1Kau. 321A. 6 ({%on%} v. 4. 13)
+
+* TODO Case 0318: anugu [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2699b][page 5-2699b]]
+;  <P>.{#anugu#}¦ (anugu) (Gr.) the word {%anugu%} {#anugvalaMgAmI#} P. v. 2. 15;
+;  <>JaineVya1. iii. 4. 138; {%adv.%} {@i@} behind or after the cow {#AyAmyaBiDA-
+;  <>nAdanyatra Bavati.gavAM paScAdanugu#} JaineVya1. 279. 13 ({%on%} iv. 2. 86); Ca1ndra-
+;  <>Vr2. {%on%} iv. 4. 69; Ka1s4iVr2. {%on%} v. 2. 15; {%on%} v. 4. 83; Ka1tanVr2. {%on%} ii. 6. 31;
+;  <>Prasa1. i. 652. 12; Siddha1Kau. 295A. 2 ({%on%} v. 2. 15); {#anugvalam#} Ca1ndra-
+;  <>Vya1. iv. 2. 18; S4a1kat2a1Vya1. iii. 3. 56; SaraKan2t2ha1.(Gr.) v. 2. 18;
+;  <>SiddhaHe. vii. 1. 102; {@ii@} near the cow {#gavAM paScAt samIpaM vA anugu#}
+;  <>Prasa1. i. 652. 12.
+
+* TODO Case 0319: anugfhRAti [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2703b][page 5-2703b]]
+;  <P>.{#anugfhRAti#}¦ (anu-gr2hn2a1ti) (Gr.) [Va1r. 2. {%on%} P. iii. 3. 108] verbal
+;  <>base {%grah-%} belonging to IX conjugation preceded by the preverb
+;  <>{%anu-%} {#evamihApyanugfhRAtiH kftArTIBavanopasarjane kftArTIBAvane vartate#} S4iva1rkaMaDi1.
+;  <>i. 110. 3 ({%on%} i. 1. 2)
+
+* TODO Case 0320: anuY [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2751a][page 5-2751a]]
+;  <P>.{#anuY#}¦ (an-un5) (Gr.) excluding the particle {%u%} accompanied by [Page5-2751b+ 64]
+;  <>the indicatory sound {%n5%} {#yo'ci vAnuYi#} Ca1ndraVya1. vi. 4. 26 (comm.
+;  <>{#avarRAtparasya roracyuvarjite yakAro vA Bavati.kayAste, ka Aste.anuYIti kim ?
+;  <>sa u AgataH#}); {#vAnuYyAt#} S4a1kat2a1Vya1. i. 1. 155; {#aspazwAvavarRAttvanuYi vA#}
+;  <>SiddhaHe. i. 3. 25.
+
+* TODO Case 0321: anutila [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2754b][page 5-2754b]]
+;  <P>.{#anutila#}¦ (anu-tila) (Gr.) listed in the {%parimukha1digan2a%} Jaine-
+;  <>Vya1. 198. 9 ({%on%} iii. 3. 34); Ka1s4iVr2. {%on%} iv. 3. 59; Prasa1. i. 773. 13
+;  <>[{%adj.%} following {%tile%} (as a field), APTE]
+
+* TODO Case 0322: anud [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2776b][page 5-2776b]]
+;  <P>.{#anud#}¦ (an-ud) (Gr.) not accompanied by the preverb {%ud%} {#hastAde-
+;  <>ye'steye'nudaSceH#} S4a1kat2a1Vya1. iv. 4. 45.
+
+* TODO Case 0323: anudaha [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2779a][page 5-2779a]]
+;  <P>.{#anudaha#}¦ (anudaha) (Gr.) the speech-sound {%anudaha%} (an example
+;  <>of the {%na1da%} which arises when nasal sound is followed by a voiced
+;  <>sound) {#AnunAsikAstu ye varRA GozAstu pratyayA yadi.nAdaM tatra vijAnIyAdanudaheti
+;  <>nidarSanam#} LomS4i. 5. 5.
+
+* TODO Case 0324: anudAttasi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2782a][page 5-2782a]]
+;  <P>.{#anudAttasi#}¦ (anuda1tta-si) (Gr.) IInd per. sg. finite verb-ending
+;  <>{%‘si’%} which has a lax tone produced in the lower part of the arti-
+;  <>culatory organs {#apidgrahaRAt pittvenAnudAttaseH sTAne jAyamAnaherAntaratamyAt
+;  <>prAptamapyanudAttatvaM na#} LaS4abdeS4e. ii. 447. 3.
+
+* TODO Case 0325:? anunAsikapradeSa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2811b][page 5-2811b]]
+;  <P>.{#anunAsikapradeSa#}¦ (anuna1sika-prades4a) {%m.%} (Gr.) region of the
+;  <>use of nasal sounds {#anunAsikapradeSAH#} Ka1s4iVr2. {%on%} i. 1. 8 = Ka1tanVr2. {%on%}
+;  <>i. 1. 13; {#anunAsikapradeSAH ‘ANo'nunAsikaSCandasi’ ityevamAdayaH#} Prasa1.
+;  <>i. 24. 18.
+
+* TODO Case 0326: anup [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2820b][page 5-2820b]]
+;  <P>.{#anup#}¦ (an-up) (Gr.) absence of elision {#vfdDe'cyanup#} JaineVya1. iii.
+;  <>1. 73; iv. 3. 120; v. 4. 67; {#vAstozpatyaH.(ityatra)pulliNgatvaM tAyA anup zatvaM
+;  <>ca nipAtanAt#} JaineVya1. 178. 14 ({%on%} iii. 2. 27); {#prAgvataH saMKyApUrvapadAnAM tadanta-
+;  <>grahaRamanupi#} JainePari. 58.
+
+* TODO Case 0327:? anupapada [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2842b][page 5-2842b]]
+;  <P>.{#anupapada#}¦ (an-upapada) {%n.%} (Gr.) other than an {%upapada%} (word
+;  <>standing near, a subordinate word indicated by Loc.) {#anupAdAne hyanupa-
+;  <>pade pratyayaprasaNgaH#} Va1r. 4 {%on%} P. iii. 1. 92; {#akriyamARe hi nimittopAdAne'nupapade'pi
+;  <>prasajyeta#} Maha1Bh. ii. 76. 18 ({%on%} iii. 1. 92); {%adj.%} what is not an {%upapada%}
+;  <>{#akArAdanupapadAt karmopapado vipratizeDena#} Va1r. 6 {%on%} P. iii. 2. 1 = LaS4abdeS4e.
+;  <>ii. 765. 13; PadMan5. {%on%} Ka1s4iVr2. {%on%} P. i. 4. 3; {#anupapadasyAvakASaH pacatIti
+;  <>pacaH#} Maha1Bh. ii. 94. 18 ({%on%} iii. 2. 1); {#akArAdanupapadAt sopapado Bavati
+;  <>vipratizeDeneti vacanAcca#} PariVr2.(Si1.) 83. 9.
+
+* TODO Case 0328:? anupasarjanADikAra [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=5-2881a][page 5-2881a]]
+;  <P>.{#anupasarjanADikAra#}¦ (anupasarjana1dhika1ra) {%m.%} (Gr.) governing
+;  <>rule about {%anupasarjana%} (other than subordinate) {#anupasarjanADikAre
+;  <>vAterNIzviDAne suparRyA upasaMKyAnam#} Va1r. 6 {%on%} P. iv. 1. 14; {#viBaktyudAttArTaM
+;  <>tadvacanamiti cet kiM gOrAdizu pAWena prayojanam.anupasarjanADikArAccAtimahatItyatra
+;  <>gIMrAdiNIzaBAvAdugillakzaRo NIp kartavyaH#} Pradi1. iv. 32B. 14 ({%on%} iv. 1. 1); v. [Page5-2881b+ 64]
+;  <>161B. 13 ({%on%} vi. 1. 173); {#gOrAdiNIzo'pyanupasarjanADikArAt#} Pradi1. v. 297B. 23
+;  <>({%on%} vi. 4. 22); {#ajAdiBya iti vyAKyAne'mahatpUrvagrahaRenAnupasarjanADikAreRa ca…
+;  <>tadantaviDisaMBavaH#} LaS4abdeS4e. i. 367. 9; i. 399. 11.
+
+* TODO Case 0329:? anupUrvakagfRAti [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=6-2907a][page 6-2907a]]
+;  <P>.{#anupUrvakagfRAti#}¦ (anupu1rvaka-gr2n2a1ti) {%m.%} (Gr.) [Va1r. 1 {%on%} P.
+;  <>iii. 3. 108] (verb) {%gr2n2a1ti%} (i. e. verbal root {%gr21-%}) preceded by the prefix
+;  <>{%anu%} {#‘anupratigfRaSca’ pratyanupUrvakagfRAteH samaBivyAhAre pUrvaSaMsanAdikarturhotuH saMpradA-
+;  <>natvam.aDvaryurhotre'nugfRAti#} Bha1t2t2Cin. i. 101. 16 ({%on%} i. 1. 4)
+
+* TODO Case 0330:? anupradAna [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=6-2913b][page 6-2913b]]
+;  <P>.{#anupradAna#}¦ (anu-prada1na) {%n.%} {@1@} (Gr.) external effort in the
+;  <>production or articulation of sound ({%lit.%} emission of breath or
+;  <>resonance) {#nAdAnupradAnakaraRO ca dvisTAnam#} GopBr. i. 1. 27 (19. 4); {#ko DAtuH [Page6-2914a+ 64]
+;  <>kiM prAtipadikam…kaH pratyayaH kaH svaraH…kiM sTAnAnupradAnakaraRam#} Pran2U.^2
+;  <>34. 8; {#vAyuH prARaH kozWyamanupradAnaM kaRWasya Ke vivfte saMvfte vA#} R2Pra1ti. 13. 1;
+;  <>{#nAdo'nupradAnaM svaraGozavatsu#} TaiPra1ti. 2. 8; 23. 2; {#vargARAM praTamadvitIyAH…
+;  <>SvAsAnupradAnA aGozAH#} A1piS4i. 4. 2; Maha1Bh. i. 61. 17 ({%on%} i. 1. 9); Nya1s. i.
+;  <>57. 22 ({%on%} i. 1. 9); PadMan5. {%on%} Ka1s4iVr2. {%on%} P. i. 1. 9 (98. 14); {#anupradAnamiti
+;  <>[kecid] Acakzate.[varRanizpatteranu paScAt pradIyata ityanupradAnam] anye tu bruvate--
+;  <>anupradAnamanusvAno GaRwAnirhrAdavat#} A1piS4i. 8. 12; Nya1s. i. 57. 9 ({%on%} i. 1. 9);
+;   [and 21 more lines]
+
+* TODO Case 0331:? anupravacanAdi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=6-2917b][page 6-2917b]]
+;  <P>.{#anupravacanAdi#}¦ (anupravacana1di) {%adj.%} (Gr.) ({%gan2a%}) beginning
+;  <>with the word {%anupravacana%} {#anupravacanAdiByaSCaH#} P. v. 1. 111; {#Co'nu-
+;  <>pravacanAdeH#} JaineVya1. iii. 4. 104.
+
+* TODO Case 0332: anumAza [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=6-3046b][page 6-3046b]]
+;  <P>.{#anumAza#}¦ (anuma1s2a) (Gr.) [listed in the {%parimukha1digan2a%} {#parimuKe
+;  <>Bavam, pArimuKyam.parimuKa…anumAza anuyava#} JaineVya1. 198. 9 ({%on%} iii.
+;  <>3. 34); Ka1s4iVr2. {%on%} iv. 3. 59] [Page6-3047a+ 64]
+
+* TODO Case 0333:? anumAzam [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=6-3047a][page 6-3047a]]
+;  <P>.{#anumAzam#}¦ (anuma1s2am) {%adv.%} [SaraKan2t2ha1.(Gr.) iv. 3. 160] like
+;  <>a kidney-bean or in a kidneybean {#parimuKaM BavaH parimuKyaH.parimuKam…
+;  <>anumAzam#} Ca1ndraVr2. {%on%} iii. 3. 23.
+
+* TODO Case 0334: anuyUTa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=6-3080b][page 6-3080b]]
+;  <P>.{#anuyUTa#}¦ (anu-yu1tha) (Gr.) [cf. P. iv. 3. 59] enumerated in
+;  <>the {%parimukha1digan2a%}, JaineVya1. 198. 10 ({%on%} iii. 3. 34)
+
+* TODO Case 0335: anuyUpa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=6-3080b][page 6-3080b]]
+;  <P>.{#anuyUpa#}¦ (anu-yu1pa) (Gr.) enumerated in the {%parimukha1digan2a%},
+;  <>Ka1s4iVr2. {%on%} iv. 3. 59; Gan2Ra. 5. 342 (379) (v. l.); Prasa1. i. 773. 13.
+
+* TODO Case 0336:? anuveSanIya [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=6-3196a][page 6-3196a]]
+;  <P>.{#anuveSanIya#}¦ (anu-ves4ani1ya) {%adj.%} [P. v. 1. 111; SaraKan2t2ha1.(Gr.) v.
+;  <>1. 122] pertaining to the (act of) entering after or following {#anuveSanIyam#}
+;  <>Gan2Ra. 6. 366 (397)
+
+* TODO Case 0337:? anekasaMjYAkaraRa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=7-3441b][page 7-3441b]]
+;  <P>.{#anekasaMjYAkaraRa#}¦ (anekasan5jn5a1-karan2a) {%n.%} (Gr.) {@i@} act of making, i. e.
+;  <>coining of various (technical) terms {#anekasaMjYAkaraRamanarTakaM syAt#} Nya1s. i. 118.
+;  <>19 ({%on%} i. 1. 61); {#anekasaMjYAkaraRAt…tadBAvitasaMjYASrayaRam#} LaS4abdeS4e.
+;  <>i. 245. 9; {@ii@} act of making, i. e. coining of more than one technical term {#na
+;  <>cehEkasyAnekasaMjYAkaraRe Binnaprayojanamasti#} Nya1s. i. 165. 1 ({%on%} i. 2. 27); PadMan5.
+;  <>{%on%} Ka1s4iVr2. {%on%} P. i. 2. 27 (302. 9); {#yadyapyekEkasya trikasyAnekasaMjYAkaraRe prayojanABAvaH
+;  <>taTApi kasyacittrikasya kAcitsaMjYetyetAvallaByeta na tu yaTABimatavizayaviBAgalABaH#}
+;  <>Pradi1. ii. 299A. 20 ({%on%} i. 4. 100)
+
+* TODO Case 0338:? anekActva [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=7-3450b][page 7-3450b]]
+;  <P>.{#anekActva#}¦ (aneka1c-tva) {%n.%} (Gr.) {@A@} the state of being more than one
+;  <>vowel {#ekAjanekAjgrahaRezu cAvftteH saMKyAnAdanekActvaM Bavizyati#} Maha1Bh. i.
+;  <>17. 23 ({%on%} S4ivSu1(Gr.) 1); {@B@} the state of (verbal root or affix) having more
+;  <>than one vowel {#(nipAtanam) dvirvacane kfte'nekActvAnna prApnoti#} Maha1Bh. ii.
+;  <>116. 14 ({%on%} iii. 2. 109); {#subantasyANgasyAnekActvAtsIyuqAderiqAgamo Bavati#} Pradi1.
+;  <>iii. 81A. 30 ({%on%} iii. 1. 34); iii. 185A. 23 ({%on%} iii. 2. 109); {#anekActvAdiw.
+;  <>daridritaH#} PrakriKau. ii. 563. 4; {#acIcakAsaditi.…anekActvAdvA sanvadBAvo
+;  <>dIrGaSceti kecit#} Prasa1. ii. 304. 12; ii. 576. 22; {#vaDerhantyupadeSe ekAco'pi na
+;  <>nizeDaH AdeSopadeSe'nekActvAt#} Siddha1Kau. 348A. 7 ({%on%} vii. 2. 10)
+
+* TODO Case 0339:? antac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=7-3542a][page 7-3542a]]
+;  <P>.{#antac#}¦ (antac) {%Gr.%} suffix {%anta%} {#jFº…ºnandiByo'ntac#} SaraKan2t2ha1.(Gr.)
+;  <>ii. 2. 138.
+
+* TODO Case 0340:? antaraNgatva [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=7-3571b][page 7-3571b]]
+;  <P>.{#antaraNgatva#}¦ (antaran3ga-tva) {%n.%} {@1@} (Gr.) {@A@} the state of being a rule or
+;  <>operation whose causes lie in the combination of a verbal root and a
+;  <>preposition {@B@} the state of being a rule or operation whose causes are fewer
+;  <>(than those of {%bahiran3ga%}-one) {@C@} the state of being a rule or operation whose
+;  <>causes lie within or inside (than those of {%bahiran3ga-%} one) {@D@} the state of
+;  <>being a rule or operation whose causes occur earlier or before (than those
+;  <>of {%bahiran3ga%}-one) {@2@} the state of being an immediate or direct cause or
+;  <>means {@3@} the state of being immediate or urgent duty etc. {@4A@} the state of
+;  <>being the inner nature or intrinsic property etc. {@B@} the state of being inner
+;  <>or internal part of a ritual or rite etc. {@5A@} the state of being intimately or
+;   [and 114 more lines]
+
+* TODO Case 0341: antarBAvitaRyarTapaci [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=7-3674b][page 7-3674b]]
+;  <P>.{#antarBAvitaRyarTapaci#}¦ (antarbha1vitan2yartha-paci) (Gr.) root {%‘pac’%} (to
+;  <>cook) in which the sense of causative affix {%n2ic%} is caused to be included,
+;  <>i. e. implied {#antarBAvitaRyarTapacerGaYi pAkapadena tasyApyaBiDAnasaMBavaH#} LaS4abdeS4e.
+;  <>ii. 792. 2.
+
+* TODO Case 0342: antarBUtacaN [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=7-3677b][page 7-3677b]]
+;  <P>.{#antarBUtacaN#}¦ (antarbhu1ta-can3) (Gr.) aorist affix {%can3%} which is included
+;  <>inside {#antaraNgAviyaNuvaNO antarBUtacaNapekzatvAt, bahiraNgo guRo bahirBUtatibapekzatvAt#}
+;  <>PadMan5. {%on%} Ka1s4iVr2. {%on%} P. iii. 1. 48 (436. 17); {#adudruvadityAdAvantarBUtacaNapekzatvA-
+;  <>diyaNuvaNAvantaraNgO…guRaM bADete#} LaCandr. 723. 16.
+
+* TODO Case 0343: antarBUtasic [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=7-3678a][page 7-3678a]]
+;  <P>.{#antarBUtasic#}¦ (antarbhu1ta-sic) (Gr.) aorist affix {%sic%} (substitute of {%cli%}
+;  <>which is included inside {#antaraNgo'llopaH, antarBUtasijapekzatvAt asidDaM
+;  <>bahiraNgamantaraNge#} PadMan5. {%on%} Ka1s4iVr2. {%on%} P. i. 2. 14 (287. 13); {%on%} P. vii. 2. 1 (651. 12)
+
+* TODO Case 0344: antyAc [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=7-3767b][page 7-3767b]]
+;  <P>.{#antyAc#}¦ (antya1c) (Gr.) last vowel {#Ramito'ntyAco'nte'ntyasyAdO#} Mug-
+;  <>dhaBo. 1. 15 (3. 5); {#antyAcpraBftiSabdazwisaMjYaH syAt#} PrakriKau. i. 70. 8.
+
+* TODO Case 0345: antyec [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=7-3770b][page 7-3770b]]
+;  <P>.{#antyec#}¦ (antyec) (Gr.) final vowels excluding {%a%} {#YRityantyejuNtoH#}
+;  <>MugdhaBo. 8. 50 (86. 17)
+
+* TODO Case 0346:? andan [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=7-3774b][page 7-3774b]]
+;  <P>.{#andan#}¦ (andan) Gr. suffix {%andan%} {#kakimakiByAmandan#} SaraKan2t2ha1.(Gr.) ii.
+;  <>2. 167.
+
+* TODO Case 0347: anDakAR [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=7-3786a][page 7-3786a]]
+;  <P>.{#anDakAR#}¦ (andhaka1n2) (Gr.) affix {%an2%} coming after nominal stem denoting
+;  <>the people who are descendents of the king Andhaka {#anDakARo'vakASaH
+;  <>SvAPalkaH#} Nya1s. i. 905. 6 ({%on%} iv. 1. 114; PadMan5. {%on%} Ka1s4iVr2. {%on%} P. iv. 1.
+;  <>114 (457. 12)
+
+* TODO Case 0348: anDac [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=7-3798b][page 7-3798b]]
+;  <P>.{#anDac#}¦ (andhac) (Gr.) the affix {%andha%} {#kuvo'nDac#} SaraKan2t2ha1.(Gr.) ii. 2.
+;  <>174 (Na1ra1yan2adan2d2ana1tha {#kavateranDacpratyayo Bavati.kavanDaH CinnamUrDA dehaH#})
+
+* TODO Case 0349: anDi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=7-3809b][page 7-3809b]]
+;  <P>.{#anDi#}¦ (andhi) (Gr.) verbal root {%andh-%} (X. U.) (to become blind) {#pawi…
+;  <>bidyanDibanDiByaH#} SaraKan2t2ha1.(Gr.) ii. 1. 10.
+
+* TODO Case 0350: anna [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=7-3821b][page 7-3821b]]
+;  <P>.{#anna#}¦ (anna) (Gr.) substitute for negative {%na%} (after {%eka%} when followed
+;  <>by a numeral) {#ekAdannAdanO saMKyAyAm#} Ca1ndraVya1. v. 2. 94; S4a1kat2a1Vya1. ii.
+;  <>2. 62 (comm. {#ekaSabdAtparasya naYa uttarapade anna, adna ityAdeSO BavataH#}) [Page7-3822-a+ 62]
+
+* TODO Case 0351:? anyat [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=8-3906b][page 8-3906b]]
+;  <P>.{#anyat#}¦ (anyat) {%gr.%} particular kind of suffix {#arteranyat#} SaraKan2t2ha1.(Gr.)
+;  <>ii. 3. 19.
+
+* TODO Case 0352:? anyatra [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=8-3941a][page 8-3941a]]
+;  <P>.{#anyatra#}¦ (anya4-tra) {%adv.%} [SaraKan2t2ha1.(Gr.) i. 1. 122; enumerated in the
+;  <>{%oma1digan2a%}, Gan2Ra. 1. 8 (19)] {@1Ai@} to or into any other place or world
+;  <>{@ii@} to or into another place {@Bi@} in or at another place, elsewhere {@ii@} in or at any
+;  <>other place {@C@} in one place {@D@} on the other, i. e. right side {@E@} elsewhere, i. e.
+;  <>behind {@2Ai@} to another person {@ii@} to any other person {@Bi@} on or at another [Page8-3941-b+ 62]
+;  <>person {@ii@} on any other person {@C@} with other person {@Di@} in another person {@ii@}
+;  <>in any other person {@Ei@} in another family {@ii@} in any other family {@F@} in one
+;  <>person {@3A@} except, apart from, other than {@B@} without {@C@} outside {@4@} towards
+;  <>another direction {@5@} on different basis, out of different source {@6Ai@} in any
+;  <>other case or event {@ii@} in another case or event {@B@} in the case of another, i. e.
+;   [and 575 more lines]
+
+* TODO Case 0353:? anyayogA [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=8-4025a][page 8-4025a]]
+;  <P>.{#anyayogA#}¦ (anya-yoga1) {%adj. (f.)%} (Gr.) (genitive case) connected (in
+;  <>its sense) with the other (than the phrase ‘in place of’ ({%stha1ne%})) {#SAstre yA
+;  <>zazWI aniyatayogA SrUyate sA sTAneyogEva Bavati, na anyayogA#} Ka1s4iVr2.
+;  <>{%on%} i. 1. 49
+
+* TODO Case 0354:? anyAdi [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=8-4063b][page 8-4063b]]
+;  <P>.{#anyAdi#}^2¦ (a-nya1di) {%adj.%} (Gr.) (elements which are) other than the
+;  <>augment {%ni1%} etc. {#AguRAvanyAdeH (nyAdyAgamavarjasya)#} SiddhaHe. iv. 1. 48.
+
+* TODO Case 0355:? anyonyasya [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=8-4142b][page 8-4142b]]
+;  <P>.{#anyo'nyasya#}¦ (anyo'nyasya) {%adv.%} [SaraKan2t2ha1.(Gr.) i. 1. 124; Gan2Ra. 1. 6
+;  <>(13); 1. 6 (15); 1. 9 (25)] mutually, reciprocally, to each other {#anta evAnye
+;  <>paSavo'nyo'nyasya skandanti#} JaimiBr. 1. 250; {#anyo'nyasyABisaMkrudDAvanyo'nyaM jaGnatuH
+;  <>SarEH#} Maha1Bha1. iii. 17. 24; {#tO tu pakzaprahArAByAmanyo'nyasyoruvikramO.praharantO
+;  <>BayaM tIvraM prajAnAM cakratustadA#} Ma1rkP. 9. 14; {#vEdyaputrO…prattAnAmanukAmAnAmanyo'nyasya
+;  <>praBakziRO#} Brahma1n2d2P. ii. 59. 8. [Page8-4143-a+ 62]
+
+* TODO Case 0356:? anvft [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=pd&page=8-4259a][page 8-4259a]]
+;  <P>.{#anvft#}¦ (anv-r2t-) I. U. [P. iii. 1. 29; Ca1ndraVya1. i. 1. 48; SaraKan2t2ha1.(Gr.)
+;  <>i. 3. 66; Dha1tuPa1.(S4a1k.) 292] {@1@} to go after, to follow {#i\daM tadrUpaM yadava/sta\ yozA/
+;  <>jA\yAM ji/jYAse\ mana/sA\ cara/ntIm.tAmanva/rtizye\ saKi/Bi\rnava/rgveH\#} AV. xiv. 1. 56;
+;  <>{@2@} to hate or shun each other, to censure each other {#vA/caM£ vA/ eta/dga/vA
+;  <>ni/zkrIRA/tIti te\'bruvanna/nvftIyAmahA i/ti tA/ma/nvA/rtIyanta ta/da/nftasya ja/nma#} MaiS.
+;  <>iii. 7. 3 (iii. 78. 1); {#ye vAcA vyakrezmahIti te'nvArtIyantAsmAkaM somo'smAkaM
+;  <>somakrayaRIti#} Ka1t2hS. 24. 1 (ii. 90. 9); KapiKaS. 37. 2 (195. 19)
+
