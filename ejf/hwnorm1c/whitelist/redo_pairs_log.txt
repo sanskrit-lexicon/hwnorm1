@@ -1,0 +1,8 @@
+187992 records from output/all/whitelist0.txt
+185 lines from output/all/whitelist0.txt written to output/all/wil_yat.txt
+187992 records from output/all/whitelist0.txt
+310 lines from output/all/whitelist0.txt written to output/all/skd_vcp.txt
+187992 records from output/all/whitelist0.txt
+2752 lines from output/all/whitelist0.txt written to output/all/pw_pwg.txt
+187992 records from output/all/whitelist0.txt
+2417 lines from output/all/whitelist0.txt written to output/all/mw72_mw.txt
