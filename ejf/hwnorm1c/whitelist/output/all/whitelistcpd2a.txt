@@ -585,7 +585,6 @@ atikrAntADyAyadvaya:atikrAntADyAyadvaya:PD@ = atikrAntA-DyAyan-dvaya @
 atikrAntAnatikrAntaviSeza:atikrAntAnatikrAntaviSeza:PD@ = atikrAntA-nati-krAnta-viSeza @
 atikrAntAyuktakaSata:atikrAntAyuktakaSata:PD@ = atikrAntA-yuktaka-Sata @
 atikrAmita:atikrAmita:PD@ = ati-krA-mita @
-atikleSABAva:atikleSABAva:PD@ = ati-kleSA-BAva @
 atigrAhyAyatana:atigrAhyAyatana:PD@ = ati-grAhyA-yatana @
 atiGanAnakaDvani:atiGanAnakaDvani:PD@ = ati-GanA-naka-Dvani @
 atiGanAvfti:atiGanAvfti:PD@ = ati-GanA-vfti @

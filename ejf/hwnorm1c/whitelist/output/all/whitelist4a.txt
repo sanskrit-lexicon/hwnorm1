@@ -969,7 +969,6 @@ kroqA:kroqA:MW@ fem. from kroqa @kroqa:kroqa:BEN,BOP,BUR,CAE,CCS,IEG,MD,MW,MW72,
 klamA:klamA:PUI@ fem. from klama @klama:klama:BEN,BOP,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SHS,SKD,STC,VCP,WIL,YAT;klamaH:AP,AP90,SKD
 klinnA:klinnA:MW@ fem. from klinna @klinna:klinna:AP,AP90,BOP,BUR,CAE,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT;klinnaM:SKD
 klIbA:klIbA:PUI@ fem. from klIba @klIba:klIba:AP,AP90,BEN,CAE,CCS,MD,MW,MW72,PW,PWG,SCH,STC,VCP,WIL
-kleSA:kleSA:SKD@ fem. from kleSa @kleSa:kleSa:BEN,BHS,BOP,BUR,CAE,CCS,KRM,MD,MW,MW72,PW,PWG,SHS,SKD,STC,VCP,WIL,YAT;kleSaH:AP,AP90
 kzaRA:kzaRA:BHS@ fem. from kzaRa @kzaRa:kzaRa:BEN,BHS,BOP,BUR,CAE,CCS,INM,MD,MW,MW72,PUI,PW,PWG,SCH,SHS,SKD,STC,VCP,WIL,YAT;kzaRaH:AP,AP90,SKD
 kzapaRA:kzapaRA:MW@ fem. from kzapaRa @kzapaRa:kzapaRa:BEN,BHS,BUR,CAE,CCS,MD,MW,MW72,PUI,PW,PWG,SHS,STC,VCP,WIL,YAT;kzapaRaH:AP,AP90,SKD
 kzayA:kzayA:MW@ fem. from kzaya @kzaya:kzaya:AP,AP90,BEN,BHS,BOP,BUR,CAE,CCS,GRA,INM,MD,MW,MW72,PUI,PW,PWG,SHS,STC,VCP,WIL,YAT;kzayaH:AP,AP90,SKD

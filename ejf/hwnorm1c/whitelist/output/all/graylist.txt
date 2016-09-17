@@ -1293,6 +1293,7 @@ ataddvayIjitvara:ataddvayIjitvara:PD
 atadDetu:atadDetu:PD
 atadvIryakovidA:atadvIryakovidA:PD
 atadvyAvftiDI:atadvyAvfttiDI:PD
+atanukleSA:atanukleSA:PD
 atanupARqimA:atanupARqimA:PD
 atanulajjAparikarA:atanulajjAparikarA:PD
 atanusalilagarBA:atanusalilagarBA:PD
@@ -9428,7 +9429,6 @@ koSopagatavastiguhya:koSopagatavastiguhya:BHS
 kozaRI:kozaRI:MW
 kozwu:kozwu:PUI
 kozWakI:kozWakI:PW
-kosa:kosa:VEI
 kohalinI:kohalinI:SCH
 kohlI:kohlI:IEG
 kOkuhaka:kOkuhaka:PE
@@ -21606,6 +21606,7 @@ hiMsat:hiMsat:MW72
 hiMsitvA:hiMsitvA:MW72
 hikamatprakASa:hikamatprakASa:ACC
 hikkASvasin:hikkASvasin:PW
+hiNkfRvat:hiNkfRvat:GRA
 hiNgudI:hiNgudI:MW
 hiNgupacI:hiNgupacI:WIL
 hiNguparRo:hiNguparRo:VCP

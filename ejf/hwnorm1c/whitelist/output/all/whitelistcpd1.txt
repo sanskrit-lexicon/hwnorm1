@@ -12020,7 +12020,6 @@ atanukAraRa:atanukAraRa:PD@ = atanu-kAraRa @
 atanukUrma:atanukUrma:PD@ = atanu-kUrma @
 atanukUrmapfzWa:atanukUrmapfzWa:PD@ = atanu-kUrmapfzWa @
 atanuklama:atanuklama:PD@ = atanu-klama @
-atanukleSA:atanukleSA:PD@ = atanu-kleSA @
 atanukzaya:atanukzaya:PD@ = atanu-kzaya @
 atanuKeda:atanuKeda:PD@ = atanu-Keda @
 atanuKyAti:atanuKyAti:PD@ = atanu-KyAti @

@@ -2792,6 +2792,7 @@ atikrAntopavarRita:atikrAntopavarRita:PD@ = atikrAnta+upavarRita @
 atikrAntopAlamBa:atikrAntopAlamBa:PD@ = atikrAnta+upAlamBa @
 atikroDAnDA:atikroDAnDA:PD@ = atikroDa+anDA @
 atikleSAnuzaNga:atikleSAnuzaNga:PD@ = atikleSa+anuzaNga @
+atikleSABAva:atikleSABAva:PD@ = atikleSa+aBAva @
 atikzayAdi:atikzayAdi:PD@ = atikzaya+adi @
 atiganDAdi:atiganDAdi:PD@ = atiganDa+adi @
 atigArDya:atigArDya:SCH@ = atiga+arDya @
