@@ -1,23 +1,23 @@
-197056 headwords occur in 01 dictionaries
- 52247 headwords occur in 02 dictionaries
- 37924 headwords occur in 03 dictionaries
- 24887 headwords occur in 04 dictionaries
- 16195 headwords occur in 05 dictionaries
- 10189 headwords occur in 06 dictionaries
-  8240 headwords occur in 07 dictionaries
-  8670 headwords occur in 08 dictionaries
-  5507 headwords occur in 09 dictionaries
-  4394 headwords occur in 10 dictionaries
-  3645 headwords occur in 11 dictionaries
-  3136 headwords occur in 12 dictionaries
-  2248 headwords occur in 13 dictionaries
-  1826 headwords occur in 14 dictionaries
-  1685 headwords occur in 15 dictionaries
-  1486 headwords occur in 16 dictionaries
-  1347 headwords occur in 17 dictionaries
-  1168 headwords occur in 18 dictionaries
-   904 headwords occur in 19 dictionaries
-   757 headwords occur in 20 dictionaries
+197058 headwords occur in 01 dictionaries
+ 52246 headwords occur in 02 dictionaries
+ 37926 headwords occur in 03 dictionaries
+ 24879 headwords occur in 04 dictionaries
+ 16206 headwords occur in 05 dictionaries
+ 10178 headwords occur in 06 dictionaries
+  8244 headwords occur in 07 dictionaries
+  8672 headwords occur in 08 dictionaries
+  5506 headwords occur in 09 dictionaries
+  4389 headwords occur in 10 dictionaries
+  3668 headwords occur in 11 dictionaries
+  3138 headwords occur in 12 dictionaries
+  2252 headwords occur in 13 dictionaries
+  1821 headwords occur in 14 dictionaries
+  1689 headwords occur in 15 dictionaries
+  1485 headwords occur in 16 dictionaries
+  1350 headwords occur in 17 dictionaries
+  1171 headwords occur in 18 dictionaries
+   903 headwords occur in 19 dictionaries
+   758 headwords occur in 20 dictionaries
    519 headwords occur in 21 dictionaries
    370 headwords occur in 22 dictionaries
    270 headwords occur in 23 dictionaries
@@ -27,4 +27,4 @@
     30 headwords occur in 27 dictionaries
     12 headwords occur in 28 dictionaries
      1 headwords occur in 30 dictionaries
-385078 headwords in total
+385106 headwords in total
