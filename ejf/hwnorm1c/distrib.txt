@@ -1,30 +1,30 @@
 196487 headwords occur in 01 dictionaries
- 52221 headwords occur in 02 dictionaries
- 37906 headwords occur in 03 dictionaries
- 24865 headwords occur in 04 dictionaries
- 16211 headwords occur in 05 dictionaries
- 10171 headwords occur in 06 dictionaries
+ 52206 headwords occur in 02 dictionaries
+ 37900 headwords occur in 03 dictionaries
+ 24860 headwords occur in 04 dictionaries
+ 16218 headwords occur in 05 dictionaries
+ 10163 headwords occur in 06 dictionaries
   8253 headwords occur in 07 dictionaries
-  8673 headwords occur in 08 dictionaries
-  5495 headwords occur in 09 dictionaries
-  4391 headwords occur in 10 dictionaries
-  3681 headwords occur in 11 dictionaries
+  8670 headwords occur in 08 dictionaries
+  5493 headwords occur in 09 dictionaries
+  4392 headwords occur in 10 dictionaries
+  3682 headwords occur in 11 dictionaries
   3151 headwords occur in 12 dictionaries
-  2244 headwords occur in 13 dictionaries
-  1830 headwords occur in 14 dictionaries
-  1697 headwords occur in 15 dictionaries
-  1486 headwords occur in 16 dictionaries
+  2246 headwords occur in 13 dictionaries
+  1833 headwords occur in 14 dictionaries
+  1696 headwords occur in 15 dictionaries
+  1488 headwords occur in 16 dictionaries
   1346 headwords occur in 17 dictionaries
-  1179 headwords occur in 18 dictionaries
-   909 headwords occur in 19 dictionaries
-   760 headwords occur in 20 dictionaries
-   518 headwords occur in 21 dictionaries
+  1178 headwords occur in 18 dictionaries
+   911 headwords occur in 19 dictionaries
+   762 headwords occur in 20 dictionaries
+   517 headwords occur in 21 dictionaries
    371 headwords occur in 22 dictionaries
-   271 headwords occur in 23 dictionaries
+   272 headwords occur in 23 dictionaries
    181 headwords occur in 24 dictionaries
    121 headwords occur in 25 dictionaries
     65 headwords occur in 26 dictionaries
     31 headwords occur in 27 dictionaries
     12 headwords occur in 28 dictionaries
      1 headwords occur in 30 dictionaries
-384527 headwords in total
+384506 headwords in total
