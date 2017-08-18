@@ -7,3 +7,4 @@
 ejf/hwnorm1c/whitelist/output/2016*/*
 ejf/hwnorm1c/whitelist/output/cae-ccs/*
 ejf/hwnorm1c/whitelist/old/*
+*.pyc
