@@ -34,7 +34,7 @@ def slp_cmp1_helper1(m):
  nasal = slp1_cmp1_helper_data[c]
  return (nasal+c)
 def normalize_key(a):
- #1. normalize so that M is used rather than homorganic nasal
+ #1. normalize so that homorganic nasal is used rather than anusvara.
  a = re.sub(r'(M)([kKgGNcCjJYwWqQRtTdDnpPbBm])',slp_cmp1_helper1,a)
  #2. normalize so that 'rxx' is 'rx' (similarly, fxx is fx)
  a = re.sub(r'([rf])(.)\2',r'\1\2',a)
