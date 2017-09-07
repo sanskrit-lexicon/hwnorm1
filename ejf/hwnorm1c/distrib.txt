@@ -1,5 +1,5 @@
-197018 headwords occur in 01 dictionaries
- 52268 headwords occur in 02 dictionaries
+197016 headwords occur in 01 dictionaries
+ 52269 headwords occur in 02 dictionaries
  37868 headwords occur in 03 dictionaries
  24885 headwords occur in 04 dictionaries
  16257 headwords occur in 05 dictionaries
@@ -27,4 +27,4 @@
     32 headwords occur in 27 dictionaries
     12 headwords occur in 28 dictionaries
      1 headwords occur in 30 dictionaries
-385228 headwords in total
+385227 headwords in total
