@@ -11,6 +11,10 @@
    Oct 12, 2017. Remove 'fxx' -> 'fx'.  
     There is no sandhi rule for this. It's inclusion was an error.
     ref: https://github.com/sanskrit-lexicon/alternateheadwords/issues/23
+   Oct 12, 2017. Add rule 'rxX' -> 'rX', where x is a non-aspirated
+     consonant and X is the aspirated form of x.  For instace
+     ardDa -> arDa.   Both forms are equivalent, we choose the rX form as
+     the normalized form.
 """
 import re
 def init(filename):
@@ -31,16 +35,36 @@ slp1_cmp1_helper_data = {
  't':'n','T':'n','d':'n','D':'n','n':'n',
  'p':'m','P':'m','b':'m','B':'m','m':'m'
 }
+
 def slp_cmp1_helper1(m):
  #n = m.group(1) # always M
  c = m.group(2)
  nasal = slp1_cmp1_helper_data[c]
  return (nasal+c)
+rxX_helper_data = {
+ 'k':'K','g':'G',
+ 'c':'C','j':'J',
+ 'w':'W','q':'Q',
+ 't':'T','d':'D',
+ 'p':'P','b':'B'
+}
+def rxX_helper(m):
+ # m.group(0) == rxX
+ x = m.group(1)
+ X = m.group(2)
+ if (x in rxX_helper_data) and (X == rxX_helper_data[x]):
+  return 'r'+X
+ else:
+  # no change
+  return 'r'+x+X
+   
 def normalize_key(a):
  #1. normalize so that homorganic nasal is used rather than anusvara.
  a = re.sub(r'(M)([kKgGNcCjJYwWqQRtTdDnpPbBm])',slp_cmp1_helper1,a)
  #2. normalize so that 'rxx' is 'rx'
  a = re.sub(r'([r])(.)\2',r'\1\2',a)
+ #2-asp. normalize so that 'rxX' -> 'rX', where X is aspirated form of x
+ a = re.sub(r'r(.)(.)',rxX_helper,a)
  #2a. normalize so that 'fxx' is 'fx'   
  # Removed 10-12-2017.
  #a = re.sub(r'([f])(.)\2',r'\1\2',a)
