@@ -8,6 +8,9 @@
    Revised hwnorm1_v1b.py so that 
    records with the same normalized spelling are put on 
    the same line of output.
+   Oct 12, 2017. Remove 'fxx' -> 'fx'.  
+    There is no sandhi rule for this. It's inclusion was an error.
+    ref: https://github.com/sanskrit-lexicon/alternateheadwords/issues/23
 """
 import re
 def init(filename):
@@ -36,8 +39,11 @@ def slp_cmp1_helper1(m):
 def normalize_key(a):
  #1. normalize so that homorganic nasal is used rather than anusvara.
  a = re.sub(r'(M)([kKgGNcCjJYwWqQRtTdDnpPbBm])',slp_cmp1_helper1,a)
- #2. normalize so that 'rxx' is 'rx' (similarly, fxx is fx)
- a = re.sub(r'([rf])(.)\2',r'\1\2',a)
+ #2. normalize so that 'rxx' is 'rx'
+ a = re.sub(r'([r])(.)\2',r'\1\2',a)
+ #2a. normalize so that 'fxx' is 'fx'   
+ # Removed 10-12-2017.
+ #a = re.sub(r'([f])(.)\2',r'\1\2',a)
  #3. ending 'aM' is 'a' (Apte)
  a = re.sub(r'aM$','a',a)
  #4. ending 'aH' is 'a' (Apte)
