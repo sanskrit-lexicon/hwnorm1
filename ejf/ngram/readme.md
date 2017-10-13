@@ -60,3 +60,6 @@ the consonant-vowel-grams would be 'vi' and 'zRu'. For 'rAma', these cv-grams
 would be 'rA', 'ma'.  I'm not sure how words (a) beginning with vowels, or
 (b) ending in consonants would handle the 'grams' at the two ends.
 
+#### Revised 10-12-2017
+hwnorm1.py was revised to use the `normalize_key` function from
+../hwnorm1c/hwnorm1c.py
