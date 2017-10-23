@@ -15,6 +15,7 @@
      consonant and X is the aspirated form of x.  For instace
      ardDa -> arDa.   Both forms are equivalent, we choose the rX form as
      the normalized form.
+   Oct 18, 2017. Revised the 'cC -> C' normalization.
 """
 import re
 def init(filename):
@@ -57,7 +58,14 @@ def rxX_helper(m):
  else:
   # no change
   return 'r'+x+X
-   
+
+def normalize_key_C(a):
+ # X + C -> XcC  (X a vowel)
+ a1 = re.sub(r'([aAiIuUfFxXeEoO])C',r'\1cC',a)
+ # X + cC -> XC  (X a consonant)
+ a2 = re.sub(r'([kKgGNcCjJYwWqQRtTdDnpPbBmyrlvhzSsHM])cC',r'\1C',a1)
+ return a2
+
 def normalize_key(a):
  #1. normalize so that homorganic nasal is used rather than anusvara.
  a = re.sub(r'(M)([kKgGNcCjJYwWqQRtTdDnpPbBm])',slp_cmp1_helper1,a)
@@ -81,7 +89,9 @@ def normalize_key(a):
  #6. ending 'ant' is 'at'
  a = re.sub(r'ant$','at',a)
  #7. 'cC' is 'C'
- a = re.sub(r'cC','C',a)
+ #a = re.sub(r'cC','C',a)
+ if 'C' in a:
+  a = normalize_key_C(a)
  return a
 
 def query(sanhwd_norm):
