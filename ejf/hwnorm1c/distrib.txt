@@ -1,30 +1,30 @@
-196763 headwords occur in 01 dictionaries
- 52227 headwords occur in 02 dictionaries
- 37771 headwords occur in 03 dictionaries
- 24822 headwords occur in 04 dictionaries
+196770 headwords occur in 01 dictionaries
+ 52229 headwords occur in 02 dictionaries
+ 37773 headwords occur in 03 dictionaries
+ 24824 headwords occur in 04 dictionaries
  16208 headwords occur in 05 dictionaries
- 10177 headwords occur in 06 dictionaries
-  8273 headwords occur in 07 dictionaries
-  8763 headwords occur in 08 dictionaries
-  5469 headwords occur in 09 dictionaries
-  4417 headwords occur in 10 dictionaries
-  3701 headwords occur in 11 dictionaries
-  3163 headwords occur in 12 dictionaries
-  2261 headwords occur in 13 dictionaries
-  1857 headwords occur in 14 dictionaries
+ 10178 headwords occur in 06 dictionaries
+  8272 headwords occur in 07 dictionaries
+  8764 headwords occur in 08 dictionaries
+  5468 headwords occur in 09 dictionaries
+  4419 headwords occur in 10 dictionaries
+  3700 headwords occur in 11 dictionaries
+  3162 headwords occur in 12 dictionaries
+  2264 headwords occur in 13 dictionaries
+  1855 headwords occur in 14 dictionaries
   1696 headwords occur in 15 dictionaries
-  1498 headwords occur in 16 dictionaries
-  1351 headwords occur in 17 dictionaries
+  1500 headwords occur in 16 dictionaries
+  1350 headwords occur in 17 dictionaries
   1195 headwords occur in 18 dictionaries
-   917 headwords occur in 19 dictionaries
+   918 headwords occur in 19 dictionaries
    769 headwords occur in 20 dictionaries
-   513 headwords occur in 21 dictionaries
+   511 headwords occur in 21 dictionaries
    376 headwords occur in 22 dictionaries
-   271 headwords occur in 23 dictionaries
-   182 headwords occur in 24 dictionaries
-   122 headwords occur in 25 dictionaries
-    65 headwords occur in 26 dictionaries
+   272 headwords occur in 23 dictionaries
+   183 headwords occur in 24 dictionaries
+   121 headwords occur in 25 dictionaries
+    66 headwords occur in 26 dictionaries
     32 headwords occur in 27 dictionaries
     12 headwords occur in 28 dictionaries
      1 headwords occur in 30 dictionaries
-384872 headwords in total
+384888 headwords in total
