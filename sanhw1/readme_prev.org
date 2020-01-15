@@ -1,0 +1,41 @@
+This was previously on Cologne server in scans/awork/sanhw1 directory.
+
+
+* Oct 26, 2014 sanhw1.py
+python26 sanhw1.py sanhw1.txt
+* Nov 29, 2014 change sort order.
+The sorting order was changed, so that
+ M+varga -> (homorganic nasal)+varga.
+For example, aMga now appears in the
+last as if it were spelled aNga.
+
+* Apr 13, 2015 add specialized dictionaries
+* Nov 2, 2015.  sanhw2
+Includes first L-number 
+sh redo2.sh
+* Dec 2, 2015  Update of sanhw1/2.txt
+ sh redo_update.sh
+NOTE1: After this is done, need to update this repository:
+  https://github.com/sanskrit-lexicon/CORRECTIONS
+via:
+sh redo_sanhw12.sh
+NOTE2: 
+
+* Jul 17, 2017  hwnorm1c
+ hwnorm1c.py : ref = https://github.com/sanskrit-lexicon/hwnorm1/tree/master/ejf/hwnorm1c
+python hwnorm1c.py sanhw1.txt hwnorm1c.txt
+python make_hwnorm1c_sql_input.py hwnorm1c.txt hwnorm1c_sql_input.txt
+sqlite3 hwnorm1c.sqlite < hwnorm1c.sql
+rm hwnorm1c_sql_input.txt
+
+# Note: hwnorm1c.py is currently (08-17-2017) the same as
+#  awork/hwnorm/hwnorm1/hwnorm_v1c.py
+#   https://github.com/sanskrit-lexicon/Cologne/issues/171
+* redo_hwnorm1c.sh
+This script recomputes the hwnorm1c.sqlite database, as described above.
+* Oct 12, 2017 Revise hwnorm1c.py
+  This now agrees with 
+  https://github.com/sanskrit-lexicon/hwnorm1/blob/master/ejf/hwnorm1c/hwnorm1c.py
+* Nov 9, 2019. Copy sqlite file to simple-search
+
+* THE END
