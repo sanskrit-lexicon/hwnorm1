@@ -1,197 +1,198 @@
-ACC is being handled
+ACC is being handled by 'anu'
 1558 words with anusvAra+consonant pattern.
 9021 words with m+consonant pattern.
 77 words with anusvAra+nasal pattern.
 421 words with m+nasal pattern.
 
-CAE is being handled
+CAE is being handled by 'anu'
 887 words with anusvAra+consonant pattern.
 4659 words with m+consonant pattern.
 122 words with anusvAra+nasal pattern.
 434 words with m+nasal pattern.
 
-AP90 is being handled
+AP90 is being handled by 'anu'
 3988 words with anusvAra+consonant pattern.
 2 words with m+consonant pattern.
 107 words with anusvAra+nasal pattern.
 277 words with m+nasal pattern.
 
-AP is being handled
+AP is being handled by 'anu'
 839 words with anusvAra+consonant pattern.
 3776 words with m+consonant pattern.
 137 words with anusvAra+nasal pattern.
 340 words with m+nasal pattern.
 
-BEN is being handled
+BEN is being handled by 'anu'
 336 words with anusvAra+consonant pattern.
 2247 words with m+consonant pattern.
 40 words with anusvAra+nasal pattern.
 107 words with m+nasal pattern.
 
-BHS is being handled
+BHS is being handled by 'anu'
 745 words with anusvAra+consonant pattern.
 2618 words with m+consonant pattern.
 63 words with anusvAra+nasal pattern.
 162 words with m+nasal pattern.
 
-BOP is being handled
+BOP is being handled by 'anu'
 0 words with anusvAra+consonant pattern.
 1012 words with m+consonant pattern.
 0 words with anusvAra+nasal pattern.
 87 words with m+nasal pattern.
 
-BUR is being handled
+BUR is being handled by 'anu'
 4 words with anusvAra+consonant pattern.
 2314 words with m+consonant pattern.
 2 words with anusvAra+nasal pattern.
 232 words with m+nasal pattern.
 
-CCS is being handled
+CCS is being handled by 'anu'
 541 words with anusvAra+consonant pattern.
 3425 words with m+consonant pattern.
 74 words with anusvAra+nasal pattern.
 254 words with m+nasal pattern.
 
-GRA is being handled
+GRA is being handled by 'anu'
 73 words with anusvAra+consonant pattern.
 567 words with m+consonant pattern.
 1 words with anusvAra+nasal pattern.
 87 words with m+nasal pattern.
 
-GST is being handled
+GST is being handled by 'anu'
 1 words with anusvAra+consonant pattern.
 1202 words with m+consonant pattern.
 0 words with anusvAra+nasal pattern.
 149 words with m+nasal pattern.
 
-IEG is being handled
+IEG is being handled by 'anu'
 23 words with anusvAra+consonant pattern.
 1244 words with m+consonant pattern.
 4 words with anusvAra+nasal pattern.
 134 words with m+nasal pattern.
 
-INM is being handled
+INM is being handled by 'anu'
 58 words with anusvAra+consonant pattern.
 1586 words with m+consonant pattern.
 7 words with anusvAra+nasal pattern.
 85 words with m+nasal pattern.
 
-KRM is being handled
+KRM is being handled by 'anu'
 0 words with anusvAra+consonant pattern.
 59 words with m+consonant pattern.
 0 words with anusvAra+nasal pattern.
 2 words with m+nasal pattern.
 
-MCI is being handled
+MCI is being handled by 'anu'
 33 words with anusvAra+consonant pattern.
 431 words with m+consonant pattern.
 3 words with anusvAra+nasal pattern.
 6 words with m+nasal pattern.
 
-MD is being handled
+MD is being handled by 'anu'
 294 words with anusvAra+consonant pattern.
 2144 words with m+consonant pattern.
 25 words with anusvAra+nasal pattern.
 178 words with m+nasal pattern.
 
-MW72 is being handled
+MW72 is being handled by 'anu'
 5 words with anusvAra+consonant pattern.
 6776 words with m+consonant pattern.
 4 words with anusvAra+nasal pattern.
 684 words with m+nasal pattern.
 
-MW is being handled
+MW is being handled by 'anu'
 4344 words with anusvAra+consonant pattern.
 29258 words with m+consonant pattern.
 384 words with anusvAra+nasal pattern.
 2476 words with m+nasal pattern.
 
-PD is being handled
+PD is being handled by 'anu'
 3344 words with anusvAra+consonant pattern.
 25799 words with m+consonant pattern.
 292 words with anusvAra+nasal pattern.
 2839 words with m+nasal pattern.
 
-PE is being handled
+PE is being handled by 'anu'
 31 words with anusvAra+consonant pattern.
 1143 words with m+consonant pattern.
 0 words with anusvAra+nasal pattern.
 46 words with m+nasal pattern.
 
-PGN is being handled
+PGN is being handled by 'anu'
 5 words with anusvAra+consonant pattern.
 83 words with m+consonant pattern.
 0 words with anusvAra+nasal pattern.
 23 words with m+nasal pattern.
 
-PUI is being handled
+PUI is being handled by 'anu'
 274 words with anusvAra+consonant pattern.
 1708 words with m+consonant pattern.
 2 words with anusvAra+nasal pattern.
 79 words with m+nasal pattern.
 
-PWG is being handled
+PWG is being handled by 'anu'
 2440 words with anusvAra+consonant pattern.
 15959 words with m+consonant pattern.
 277 words with anusvAra+nasal pattern.
 950 words with m+nasal pattern.
 
-PW is being handled
+PW is being handled by 'anu'
 3267 words with anusvAra+consonant pattern.
 20303 words with m+consonant pattern.
 362 words with anusvAra+nasal pattern.
 1306 words with m+nasal pattern.
 
-SCH is being handled
+SCH is being handled by 'anu'
 666 words with anusvAra+consonant pattern.
 4672 words with m+consonant pattern.
 59 words with anusvAra+nasal pattern.
 315 words with m+nasal pattern.
 
-SHS is being handled
+SHS is being handled by 'anu'
 69 words with anusvAra+consonant pattern.
 6941 words with m+consonant pattern.
 10 words with anusvAra+nasal pattern.
 1045 words with m+nasal pattern.
 
-SKD is being handled
+SKD is being handled by 'anu'
 66 words with anusvAra+consonant pattern.
 6727 words with m+consonant pattern.
 7 words with anusvAra+nasal pattern.
 756 words with m+nasal pattern.
 
-SNP is being handled
+SNP is being handled by 'anu'
 0 words with anusvAra+consonant pattern.
 90 words with m+consonant pattern.
 0 words with anusvAra+nasal pattern.
 1 words with m+nasal pattern.
 
-STC is being handled
+STC is being handled by 'anu'
 780 words with anusvAra+consonant pattern.
 2390 words with m+consonant pattern.
 138 words with anusvAra+nasal pattern.
 201 words with m+nasal pattern.
 
-VCP is being handled
+VCP is being handled by 'anu'
 85 words with anusvAra+consonant pattern.
 7799 words with m+consonant pattern.
 15 words with anusvAra+nasal pattern.
 1128 words with m+nasal pattern.
 
-VEI is being handled
+VEI is being handled by 'anu'
 35 words with anusvAra+consonant pattern.
 450 words with m+consonant pattern.
 3 words with anusvAra+nasal pattern.
 13 words with m+nasal pattern.
 
-WIL is being handled
+WIL is being handled by 'anu'
 45 words with anusvAra+consonant pattern.
 6559 words with m+consonant pattern.
 2 words with anusvAra+nasal pattern.
 1108 words with m+nasal pattern.
 
-YAT is being handled
+YAT is being handled by 'anu'
 114 words with anusvAra+consonant pattern.
 6686 words with m+consonant pattern.
 5 words with anusvAra+nasal pattern.
 1123 words with m+nasal pattern.
+

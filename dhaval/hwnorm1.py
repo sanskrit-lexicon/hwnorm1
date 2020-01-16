@@ -60,17 +60,17 @@ log.write(str(timestamp())+"\n")
 anu = [(1,["AP90"]),(2,["AP","BEN","BOP","BUR","CAE","CCS","MD","MW","MW72","PW","PWG","SCH","SHS","STC","VCP","WIL","YAT"]),(3,["SKD","AP90","BHS","WIL","PW","PWG","VCP"]),(4,["YAT"]),(5,["AP","AP90","CAE","CCS","MD","MW","PW","PWG","STC"]),(6,["BUR","MW72","SHS","VCP","WIL","YAT","SKD"])]
 """
 
-def anu(headwithdicts,dictionary,convention):
+def anu(headwithdicts,dictionary,convention,log,conv1dir):
  if convention == 1:
   anuwords = []
   nasalwords = []
   anun = [] # anusvAra+nasal consecutively
   mn = [] # m+nasal consecutively
-  anufile = codecs.open("conv1/"+dictionary+"_anuwords.txt","w","utf-8")
-  nasalfile = codecs.open("conv1/"+dictionary+"_nasalwords.txt","w","utf-8")
-  anunfile = codecs.open("conv1/"+dictionary+"_anunwords.txt","w","utf-8")
-  mnfile = codecs.open("conv1/"+dictionary+"_mnwords.txt","w","utf-8")
-  log = codecs.open("conv1/log.txt","a","utf-8")
+  anufile = codecs.open(conv1dir + '/'+dictionary+"_anuwords.txt","w","utf-8")
+  nasalfile = codecs.open(conv1dir + '/'+dictionary+"_nasalwords.txt","w","utf-8")
+  anunfile = codecs.open(conv1dir + '/'+dictionary+"_anunwords.txt","w","utf-8")
+  mnfile = codecs.open(conv1dir + '/'+dictionary+"_mnwords.txt","w","utf-8")
+  #log = codecs.open("conv1/log.txt","a","utf-8")
   for (word,dicts) in headwithdicts:
    #if dictionary in dicts and re.search('M[kKgGcCjJwWqQtTdDpPbB]',word) and not re.search('s[aA]M[kKgGcCjJwWqQtTdDpPbB]',word):
    if dictionary in dicts and re.search('M[kKgGcCjJwWqQtTdDpPbB]',word):
@@ -90,7 +90,7 @@ def anu(headwithdicts,dictionary,convention):
   print(len(nasalwords), "words with m+consonant pattern.")
   print(len(anun), "words with anusvAra+nasal pattern.")
   print(len(mn), "words with m+nasal pattern.")
-  log.write(dict+":"+str(len(anuwords))+":"+str(len(nasalwords))+":"+str(len(anun))+":"+str(len(mn))+"\n")
+  log.write(dictionary+":"+str(len(anuwords))+":"+str(len(nasalwords))+":"+str(len(anun))+":"+str(len(mn))+"\n")
 
 """ ejf move to main
 alldicts = ["ACC","CAE","AP90","AP","BEN","BHS","BOP","BUR","CCS","GRA","GST","IEG","INM","KRM","MCI","MD","MW72","MW","PD","PE","PGN","PUI","PWG","PW","SCH","SHS","SKD","SNP","STC","VCP","VEI","WIL","YAT"]
@@ -400,13 +400,14 @@ def difflister():
 #difflister()
 """
 def anu_main(headwithdicts,hw1,conv1dir,alldicts):
- log = codecs.open("conv1/log.txt","a","utf-8")
+ logfile = "%s/log.txt"%conv1dir
+ log = codecs.open(logfile,"w","utf-8")
  log.write(str(timestamp())+"\n")
  #anu = [(1,["AP90"]),(2,["AP","BEN","BOP","BUR","CAE","CCS","MD","MW","MW72","PW","PWG","SCH","SHS","STC","VCP","WIL","YAT"]),(3,["SKD","AP90","BHS","WIL","PW","PWG","VCP"]),(4,["YAT"]),(5,["AP","AP90","CAE","CCS","MD","MW","PW","PWG","STC"]),(6,["BUR","MW72","SHS","VCP","WIL","YAT","SKD"])]
 
- for dict in alldicts:
-  print(dict, "is being handled by 'anu'")
-  anu(headwithdicts,dict,1)
+ for dictionary in alldicts:
+  print(dictionary, "is being handled by 'anu'")
+  anu(headwithdicts,dictionary,1,log,conv1dir)
   print()
  log.write("-------------------------\n")
  log.close()
