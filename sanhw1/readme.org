@@ -1,4 +1,8 @@
 This was previously on Cologne server in scans/awork/sanhw1 directory.
+* remake sanhw1.txt and hwnorm1c.txt
+python sanhw1.py sanhw1.txt
+python hwnorm1c.py sanhw1.txt hwnorm1c.txt
+* TODO remake hwnorm1c.sqlite and move to simple-search
 
 * 01-15-2020  python2/3 conversions 
 sanhw1.py and hwnorm1.py now work in either python2 or python3.
