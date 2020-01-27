@@ -61,39 +61,64 @@ def rxX_helper(m):
   return 'r'+x+X
 
 def normalize_key_C(a):
+ if 'C' not in a:
+  return a
  # X + C -> XcC  (X a vowel)
  a1 = re.sub(r'([aAiIuUfFxXeEoO])C',r'\1cC',a)
  # X + cC -> XC  (X a consonant)
  a2 = re.sub(r'([kKgGNcCjJYwWqQRtTdDnpPbBmyrlvhzSsHM])cC',r'\1C',a1)
  return a2
 
+def homorganic_nasal(a):
+ return re.sub(r'(M)([kKgGNcCjJYwWqQRtTdDnpPbBm])',slp_cmp1_helper1,a)
+
+def rxx_rx(a):
+ return re.sub(r'([r])(.)\2',r'\1\2',a)
+
+def rxX_rX(a):
+ return re.sub(r'r(.)(.)',rxX_helper,a)
+
+def aM(a):
+ return re.sub(r'aM$','a',a)
+
+def aH(a):
+ return re.sub(r'aH$','a',a)
+
+def uH(a):
+ return re.sub(r'uH$','u',a)
+
+def iH(a):
+ return re.sub(r'iH$','i',a)
+
+def ttr_tr(a):
+ return re.sub(r'ttr','tr',a)
+
+def ant_at(a):
+ return re.sub(r'ant$','at',a)
+
 def normalize_key(a):
- #1. normalize so that homorganic nasal is used rather than anusvara.
- a = re.sub(r'(M)([kKgGNcCjJYwWqQRtTdDnpPbBm])',slp_cmp1_helper1,a)
- #2. normalize so that 'rxx' is 'rx'
- a = re.sub(r'([r])(.)\2',r'\1\2',a)
- #2-asp. normalize so that 'rxX' -> 'rX', where X is aspirated form of x
- a = re.sub(r'r(.)(.)',rxX_helper,a)
- #2a. normalize so that 'fxx' is 'fx'   
- # Removed 10-12-2017.
- #a = re.sub(r'([f])(.)\2',r'\1\2',a)
- #3. ending 'aM' is 'a' (Apte)
- a = re.sub(r'aM$','a',a)
- #4. ending 'aH' is 'a' (Apte)
- a = re.sub(r'aH$','a',a)
- #4a. ending 'uH' is 'u' (Apte)
- a = re.sub(r'uH$','u',a)
- #4b. ending 'iH' is 'i' (Apte)
- a = re.sub(r'iH$','i',a)
- #5. 'ttr' is 'tr' (pattra v. patra)
- a = re.sub(r'ttr','tr',a)
- #6. ending 'ant' is 'at'
- a = re.sub(r'ant$','at',a)
- #7. 'cC' is 'C'
- #a = re.sub(r'cC','C',a)
- if 'C' in a:
-  a = normalize_key_C(a)
+ changes = []
+ rules = [
+  ('Mm',homorganic_nasal),
+  ('rxx',rxx_rx),
+  ('rxX',rxX_rX),
+  ('aM',aM),
+  ('aH',aH),
+  ('uH',uH),
+  ('iH',iH),
+  ('ttr',ttr_tr),
+  ('ant',ant_at),
+  ('cC',normalize_key_C),  
+
+ ]
+ for rule in rules:
+  code,f = rule
+  b = f(a)
+  change = (code,b)
+  changes.append(change)
+  a = b
  return a
+ #return changes
 
 def query(sanhwd_norm):
  while True:
@@ -125,8 +150,6 @@ def main():
  for line in f:
   n = n + 1
   line = line.rstrip('\r\n')
-  if line.startswith(':'):
-   continue # skip ':AP90
   (key,dictstr) = re.split(r':',line)
   normkey = normalize_key(key)
   if normkey in dnorm:
