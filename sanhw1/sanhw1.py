@@ -22,6 +22,7 @@
    This program is changed to parse both this (new) format, and the
    old formats
  Jan 15, 2020.  Use /2020/ instead of /2014
+ Jan 27, 2020. Use mwhw2.txt for MW, no longer use mwkeys/extract_keys_b.txt
 """
 from __future__ import print_function
 import sys,re
@@ -52,7 +53,7 @@ san_san_dicts = ["SKD","VCP"]
 san_spc_dicts = ["INM","VEI","PUI","ACC","KRM","IEG","SNP","PE","PGN","MCI"]
 sandicts = san_en_dicts + san_fr_dicts + san_de_dicts + san_lat_dicts +san_san_dicts + san_spc_dicts
 
-def extracthw_mw(filein):
+def unused_extracthw_mw(filein):
  try: 
   f = codecs.open(filein,"r","utf-8")
  except:
@@ -135,11 +136,12 @@ def addhw(code,d):
  dirmain = get_dirmain(code)
  # "../../"  due to relative location of this program file
  dirbase = dirin = "../../" + dirmain
- if code == 'MW': 
+ if False: # and (code == 'MW'):  test to use mwhw2 for mw
   # revised 2018-11-27
   #filein = dirbase + "mwaux/mwkeys/extract_keys_b.txt"
-  filein = dirbase + "pywork/mwkeys/extract_keys_b.txt"
-  hws = extracthw_mw(filein)
+  #filein = dirbase + "pywork/mwkeys/extract_keys_b.txt"
+  #hws = extracthw_mw(filein)
+  pass
  else:
   # hw2name = pwghw2.txt  for code = PWG
   hw2name = "%shw2.txt" % code.lower()
