@@ -3,7 +3,20 @@ This was previously on Cologne server in scans/awork/sanhw1 directory.
 python sanhw1.py sanhw1.txt
 python hwnorm1c.py sanhw1.txt hwnorm1c.txt
 * TODO remake hwnorm1c.sqlite and move to simple-search
+echo "2) hwnorm1c_sql_input.txt"
+python make_hwnorm1c_sql_input.py hwnorm1c.txt temp_hwnorm1c_sql_input.txt
+echo "3) hwnorm1c.sqlite"
+rm hwnorm1c.sqlite
+sqlite3 hwnorm1c.sqlite < hwnorm1c.sql
+echo "4) Removing intermediate files"
+rm temp_hwnorm1c_sql_input.txt
+* move  hwnorm1c.sqlite AND commit csl-apidev repository
+# in hwnorm1/sanhw1 directory
+mv hwnorm1c.sqlite ../../csl-apidev/simple-search/hwnorm1/
 
+* ------------------------------------------------
+* Notes from prior work
+* ------------------------------------------------
 * 01-15-2020  python2/3 conversions 
 sanhw1.py and hwnorm1.py now work in either python2 or python3.
 The Sanskrit sorting in sanhw1 is modified to use slp_cmp.py module.
