@@ -1,0 +1,18 @@
+$ python hwnorm1.py ../sanhw1/sanhw1.txt violation
+[compute time ~ 105 minutes!]
+
+2 records written to proberrors/11violation.txt
+28 records written to proberrors/12violation.txt
+216 records written to proberrors/13violation.txt
+13253 records written to conv2/21violation.txt
+11859 records written to conv2/rxx.txt
+771 records written to proberrors/41violation.txt
+32 records written to proberrors/61violation.txt
+19 records written to proberrors/62violation.txt
+4 records written to conv3/31violation.txt
+236 records written to conv3/32violation.txt
+
+There are no tests
+0 records written to proberrors/14violation.txt
+0 records written to conv3/33violation.txt
+0 records written to conv3/34violation.txt

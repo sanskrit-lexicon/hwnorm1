@@ -103,11 +103,15 @@ for dict in alldicts:
 log.write("-------------------------\n")
 log.close()
 """
-def notinarray(list,word):
- for member in list:
-  if re.search(member,word):
-   return False
-   break
+def notinarray(lst,word):
+ for member in lst:
+  try:
+   if re.search(member,word):
+    return False
+    break
+  except:
+   print('notinarray error. regex=',member)
+   exit(1)
  else:
   return True
 
@@ -115,17 +119,15 @@ def notinarray(list,word):
 consonants = ['k','K','g','G','N','c','C','j','J','Y','w','W','q','Q','R','t','T','d','D','n','p','P','b','B','m','y','r','l','v','S','z','s','h']
 """
 
-def normduplication(list,word):
- global consonants
+def normduplication(hwlist,word):
  for con in consonants:
   word = word.replace('r'+con+con,'r'+con)
- if word in list:
+ if word in hwlist:
   return True
  else:
   return False
 
-def duplicatedlist():
- global consonants
+def duplicatedlist(consonants):
  output = []
  for con in consonants:
   output.append("r"+con+con)
@@ -138,22 +140,20 @@ def normupasarga(list,word):
  for upas in upasarga:
   if re.sub("^"+upas,'',word) in list:
    return True
-   break
- else:
-  return False
+ return False
 
-def normanusvara(list,word):
+def normanusvara(hwlist,word):
  word = re.sub('M([kKgG])','N\g<1>',word)
  word = re.sub('M([cCjJ])','Y\g<1>',word)
  word = re.sub('M([wWqQ])','R\g<1>',word)
  word = re.sub('M([tTdD])','n\g<1>',word)
  word = re.sub('M([pPbB])','m\g<1>',word)
  word = re.sub('M$','m',word)
- if word in list:
+ if word in hwlist:
   return True
- elif normduplication(list,word):
+ elif normduplication(hwlist,word):
   return True
- elif normupasarga(list,word):
+ elif normupasarga(hwlist,word):
   return True
  else:
   return False
@@ -177,7 +177,8 @@ exclusionlist61 = ['kf$','^f$','^[gjdnBnvsh]f$']
 exclusionlist62 = ['[GcjJPtvs]ar$','kzar$','antar$','punar$','prAtar','ahar$','kmar$','vaDar$','uzar$','^UDar$','^janar$']
 """
 
-def conventionviolation(word,dict,hw1):
+
+def unused_conventionviolation(word,dict,hw1):
  #global hw1
  # ejf uncommmented begin"""
  if dict in ["AP90"] and re.search('[NYRnm][kKgGcCjJwWqQtTdDpPbB]',word):
@@ -299,10 +300,122 @@ def exam(test,control,step,outfile):
  examinableentries = sorted(examinableentries)
  return [ok,examinableentries]
 
-def countlen():
- global sanhw1
- global hw1
- global headwithdicts
+def sort_headwords(hw1):
+ ans = sorted(hw1)
+ return ans
+
+def all_headwords(hw1_in,fileout):
+ hw1 = sort_headwords(hw1_in)
+ with codecs.open(fileout,"w","utf-8") as f:
+  f.write("\n".join(hw1))
+ print("Total entries without normalization are", len(hw1),fileout)
+
+def get_normalize_nasal(hw1):
+ output = []
+ for word in hw1:
+  word = re.sub('N([kKgG])','M\g<1>',word)
+  word = re.sub('Y([cCjJ])','M\g<1>',word)
+  word = re.sub('R([wWqQ])','M\g<1>',word)
+  word = re.sub('n([tTdD])','M\g<1>',word)
+  word = re.sub('m([pPbB])','M\g<1>',word)
+  word = re.sub('m([Szs])','M\g<1>',word)
+  word = re.sub('M$','m',word)
+  output.append(word)
+ return output
+
+def get_normalize_rxx(hw2,consonants):
+ duplicates = duplicatedlist(consonants)
+ singles = ['r'+con for con in consonants]
+ output1 = []
+ for member in ['rK','rG','rC','rJ','rW','rQ','rT','rD','rP','rB']:
+  singles.append(member)
+ for word in hw2:
+  for i,duplicate in enumerate(duplicates):
+   single = singles[i]
+   word = word.replace(duplicate,single)
+  output1.append(word)
+ return output1
+def get_normalize_ant(hw3,pfx):
+ # pfx is 'ant' or 'aMt', depending on whether anusvara normalization 
+ # already present in hw3 words
+ if pfx not in ['ant','aMt']:
+  print('get_normalize_ant ERROR in pfx:',pfx)
+  exit(1)
+ output3 = []
+ regex = pfx + '$'
+ for word in hw3:
+  if re.search(regex,word): 
+   output3.append(re.sub(regex,'at',word))
+  else:
+   output3.append(word)
+ return output3
+
+def normalize_nasal(hw1,fileout):
+ output=get_normalize_nasal(hw1)
+ hw2 = list(set(output)) # remove duplicates
+ hw2 = sort_headwords(hw2)
+ with codecs.open(fileout,"w","utf-8") as f:
+  f.write("\n".join(hw2))
+ print("Total entries with anusvAra normalization are", len(hw2),fileout)
+
+def normalize_nasal_rxx(hw1,fileout,consonants):
+ hw2=get_normalize_nasal(hw1)  
+ output1 = get_normalize_rxx(hw2,consonants)
+ hw3 = list(set(output1))
+ hw3 = sorted(hw3)
+ with codecs.open(fileout,"w","utf-8") as f:
+  f.write("\n".join(hw3))
+ print("Total entries with duplication normalization are", len(hw3))
+
+def normalize_nasal_rxx_ant(hw1,fileout,consonants):
+ hw2=get_normalize_nasal(hw1)  
+ hw3 = get_normalize_rxx(hw2,consonants)
+ #  Because it was already converted from 'nt'->'Mt' in hw2
+ pfx = 'aMt' 
+ output3 = get_normalize_ant(hw3,pfx)
+ hw4 = list(set(output3))
+ hw4 = sorted(hw4)
+ with codecs.open(fileout,"w","utf-8") as f:
+  f.write("\n".join(hw4))
+ print("Total entries with nasal, rxx, ant normalization are", len(hw4))
+
+def get_normalize_infl(hw):
+ # Do inflection normalization
+ output4 = []
+ # the regex '$aDi.*\m'  causes error in some versions of python3
+ #  ref https://stackoverflow.com/questions/54330673/how-to-fix-error-bad-escape-u-at-position-0
+ # Running with python2 and '$aDi.*\m' gives same list as
+ # python3 and '$aDi.*m'
+ exclist = ['$aDi.*m','pUrvam$','pUrvakam$','^a[BD][iy].*m$','^aMta[rH]','naMtaram$','^anati','^an[vu].*m$','tum$','[aA]rTam$','^[ua]pa.*m$','^at[yi].*m$','aSaH$','^ni[rzH].*m$','^par[i].*m','^pr[aA].*m$','^up[aAo].*m','sa[nMm].*m$','^u[td].*m$','^v[iy].*m$','^y[aA]TA.*m$','^zw.*m$','^A.*am$','ataH$','AH$','agr[ae].*m$','ta[mr]am$','^an[AiIU].*m$','^ana[BD][iy].*m$','^ana[vp][ae].*m$','^apra.*m$','^av[aAio].*m$','^ayaTA.*m$','^bahi[rzH].*m$','^bahu.*m$','^catu[rHz].*m$','dv[iy].*m$','SiraH$','AyAm$','^s[aA].*m$','[DQ]um$','^kiM','^kiya[tc].*m','^maDye.*m','^nAti.*m$','^niSc.*m$','^pAre.*m$','dyuH$','^uccEH.*m$','^yAva[tcd].*m$','^yaT[Aeo].*m$','^yat.*m$']
+ for word in hw:
+  if not notinarray(exclist,word) or len(word) < 5:
+   output4.append(word)
+  else:
+   word1 = re.sub('([aAiIuU])H$','\g<1>',word)
+   word1 = re.sub('([aAiIuU])m$','\g<1>',word1)
+   output4.append(word1)
+ return output4
+
+def normalize_nasal_rxx_ant_infl(hw1,fileout,consonants):
+ hw2=get_normalize_nasal(hw1)  
+ hw3 = get_normalize_rxx(hw2,consonants)
+ #  Because it was already converted from 'nt'->'Mt' in hw2
+ pfx = 'aMt' 
+ output3 = get_normalize_ant(hw3,pfx)
+ # note: countlen uses hw3 instead of output3.
+ #  This looks to be an error.
+ output4 = get_normalize_infl(output3) 
+ hw5 = list(set(output4))
+ hw5 = sorted(hw5)
+ with codecs.open(fileout,"w","utf-8") as f:
+  f.write("\n".join(hw5))
+ print("Total entries with nasal, rxx, ant, infl normalization are", len(hw5))
+
+def unused_countlen():
+ # ejf refactored into several normalize_xxx functions
+ #global sanhw1
+ #global hw1
+ #global headwithdicts
  hw1file = codecs.open('normalization/hw1.txt','w','utf-8')
  hw1 = sorted(hw1)
  hw1file.write("\n".join(hw1))
@@ -324,6 +437,7 @@ def countlen():
  hw2file = codecs.open('normalization/hw2.txt','w','utf-8')
  hw2file.write("\n".join(hw2))
  hw2file.close()
+
  # Do duplication normalization
  duplicates = duplicatedlist()
  singles = ['r'+con for con in consonants]
@@ -399,6 +513,132 @@ def difflister():
 #countlen()
 #difflister()
 """
+
+exclusionlist12 = ['[sS][aA][M][kKgGcCjJwWqQtTdDpPbB]','k[iE][M][kKgGcCjJwWqQtTdDpPbB]','aMk[aA]r','BujaMg','yaMdin','aMtap','aMg','MDar','aMBA','Mpac','a[hl]aMk','ahaM','aMBav','h[iu]Mk','oMk','aMDam','annaMBaww','yaMd','aMkf','apAM','dv[Aa]Mdv','aMkaz','[aAiIuU]Mjaya','puraMDr','MGuz','Mdam','Mtud','alaM','Mgat','MBar','MpaSy','Mk[Aa]r','raTaMt','AMpati','AMkf','AsyaMDa','itTaM','idaM','idAnIM','AMd[aA]','^IMkf','ilIMDr','[aA]laMkr','DvaMjAnu','fRaMcaya','evaM','EdaM','kaM[jdD]','kawaMkaw','k[Aa]TaM','karaMDay','p[Aa]raMpar','kAMdiS','puM','k[Uu]laM','ASuMga','karRaM','kAM','kupyaMjara','koyaMpurI','kzudraM','MDa[my]','gAM','gomaRiMda','svayaMB','ciraM','cUMkfta','jIvaM','tadAnIM','timiM','naktaM','tUzRIM','tElaM','zaMDi','tv[aA]M','daM','dayyAM','puraMdar','dAnaM','dAMpaty','devAnAM','devIMDiyaka','dEnaM','dEyAM','dyAM','druhaMtara','D[Aa]naM','DiyaM','DarmaM','DuMDuM','DenuM','naraM','nikftiM','paRyaM','paraM','pAMkt','putraM','p[uO]raM','pfTivIM','prARaM','bAlaMBawwa','B[aA]gaM','makzuM','mahiM','mArtyuM','mitaM','mftyuM','sAyaM','yuDiM','rAtriM','rATaM','lakzmIM','lokaM','varzaM','v[iE]SvaM','vftaM','SataM','S[aA]truM','SayyaM','SarDaM','SAkaM','SunaM','SuBaM','SyEnaM','samaM','samitiM','sarvaM','sahasraM','sAkaM','sAtyaM','suKaM','sEr[ai]M','stanaM','sv[aA]yaM','svarRaM','hUM',]
+exclusionlist61 = ['kf$','^f$','^[gjdnBnvsh]f$']
+exclusionlist62 = ['[GcjJPtvs]ar$','kzar$','antar$','punar$','prAtar','ahar$','kmar$','vaDar$','uzar$','^UDar$','^janar$']
+
+def conventionviolation_list(word,dictionary,hw1):
+ violations = []
+ if dictionary in ["AP90"] and re.search('[NYRnm][kKgGcCjJwWqQtTdDpPbB]',word):
+  violations.append(11)
+
+ if dictionary in ["AP","BEN","BOP","BUR","CAE","CCS","MD","MW","MW72","PW","PWG","SCH","SHS","STC","VCP","WIL","YAT"] and\
+     re.search('M[kKgGcCjJwWqQtTdDpPbB]',word):
+  if dictionary in ["AP","AP90","CAE","CCS","IEG","MCI","MD","MW","PD","PW","PWG","SCH","SHS","STC","VEI","WIL"] and\
+      notinarray(exclusionlist12,word):
+   violations.append(12)
+
+ if dictionary in ["SKD","AP90","BHS","WIL","VCP"] and re.search('M$',word) and\
+     not normanusvara(hw1,word[:-1]):
+  violations.append(13)
+
+ # PD removed
+ if dictionary in ["SKD","VCP","SHS","WIL","YAT"] and\
+      re.search('r[kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh]',word) and\
+      not re.search('r[kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh][kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh]',word): 
+   violations.append(21)
+
+ if dictionary in ["SKD","VCP","SHS","WIL","YAT"] and\
+    re.search('r[kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh][kKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh]',word):
+   violations.append(22)
+
+ # Convention 3 is too tricky to enter. Leaving it as it is now.
+
+ if dictionary in ["AP","AP90","SKD","VCP"] and re.search('[MH]$',word): # and (notinarray(hw1,word[:-1]) ):
+  if word[0] == 'a' and (word[1:] in hw1 or normanusvara(hw1,word[1:]) ): # agardaBaH
+   #print(word, dict, "passed 0.1")
+   pass
+  elif word[0:2] == 'an' and (word[2:] in hw1 or normanusvara(hw1,word[2:]) ): # anekaH
+   #print(word, dict, "passed 0.2")
+   pass
+  elif word[:-1] not in hw1 and not normanusvara(hw1,word[:-1]):
+   if word[-2] in ["A"] and (word[:-2]+"a" in hw1 or normanusvara(hw1,word[:-2]+"a")): # unmanAH
+    #print(word, dict, "passed 1")
+    pass
+   elif word[-2:] in ["AH"] and (word[:-2]+"as" in hw1 or normanusvara(hw1,word[:-2]+"as")): # ukTaSAH
+    #print(word, dict, "passed 2")
+    pass
+   elif word[-2:] in ["aH"] and (word[:-2]+"as" in hw1 or normanusvara(hw1,word[:-2]+"as")): # akAmataH
+    #print(word, dict, "passed 3")
+    pass
+   elif word[-2:] in ["EH"] and (word[:-2]+"Es" in hw1 or normanusvara(hw1,word[:-2]+"Es")): # uccEH
+    #print(word, dict, "passed 4")
+    pass
+   else:
+    violations.append(41)
+
+ # """  begin ejf uncommented since there are output files for 61, 62, 31 and 32 
+ # Convention 5 would take much mind. Skipping for now.
+ if dictionary in ["CCS","PW","PWG","SCH",] and\
+     re.search('f$',word) and\
+     notinarray(exclusionlist61,word):
+  violations.append(61)
+
+ if dictionary in ["AP","AP90","BEN","BOP","BUR","CAE","GRA","MD","MW","MW72","STC"] and\
+     re.search('ar$',word) and\
+     notinarray(exclusionlist62,word):
+  violations.append(62)
+
+ if dictionary in ["SHS","WIL","GST","MW","MW72","PD","MD"] and\
+     re.search('ant$',word) and \
+     not re.search('^ant$',word):
+  violations.append(31)
+
+ if dictionary in ["BEN","CAE","CCS","STC","SCH","BHS","PW","PWG","SCH"] and\
+     re.search('at$',word) and\
+     len(word)>4 and\
+     not re.search('[AM]Sat$',word) and\
+     not (re.search('[mv]at$',word) and\
+          dictionary in ['PW','PWG']) and\
+          not (word.endswith('vat') and\
+          rchop(word,'vat') in hw1) and\
+     word not in ['pfzat','jagat','camat','avocat','jAgrat','viyat','pawat','mahat','sanat','sarat']:
+  violations.append(32)
+ # end ejf uncommented """
+
+ return violations
+
+def conventionviolation_main(headwithdicts,hw1):
+ conventionviolation_files = {
+  11:'proberrors/11violation.txt',
+  12:'proberrors/12violation.txt',
+  13:'proberrors/13violation.txt',
+  14:'proberrors/14violation.txt',
+  41:'proberrors/41violation.txt',
+  61:'proberrors/61violation.txt',
+  62:'proberrors/62violation.txt',
+  21:'conv2/21violation.txt', # or ? proberrors/21violation.txt
+  31:'conv3/31violation.txt',
+  32:'conv3/32violation.txt',
+  33:'conv3/33violation.txt',
+  34:'conv3/34violation.txt',
+  22:'conv2/rxx.txt',
+ }
+ all_violations = []
+ for idata,data in enumerate(headwithdicts):
+  word,dicts = data
+  for dictionary in dicts:
+   violation_codes = conventionviolation_list(word,dictionary,hw1)
+   violations = [(v,word,dictionary) for v in violation_codes]
+   all_violations = all_violations + violations
+   if len(violations) != 0:
+    print(idata,word,dictionary,violation_codes)
+  if idata > 1000:  #dbg
+   #print('early exit from conventionviolation_main loop',idata)
+   #break
+   pass
+ #write violations
+ for violation_code in conventionviolation_files.keys():
+  fileout = conventionviolation_files[violation_code]
+  nout = 0
+  with codecs.open(fileout,"w","utf-8") as f:
+   for v,word,dictionary in all_violations:
+    if v == violation_code:
+     f.write(dictionary.lower()+":"+word+":"+word+":n:\n")
+     nout = nout + 1
+  print(nout,"records written to",fileout)
+
 def anu_main(headwithdicts,hw1,conv1dir,alldicts):
  logfile = "%s/log.txt"%conv1dir
  log = codecs.open(logfile,"w","utf-8")
@@ -421,14 +661,34 @@ if __name__ == "__main__":
  if option == 'nasal':
   anu_main(headwithdicts,hw1,"conv1",alldicts)
   exit()
+ consonants = ['k','K','g','G','N','c','C','j','J','Y','w','W','q','Q','R','t','T','d','D','n','p','P','b','B','m','y','r','l','v','S','z','s','h']
+ if option == 'violation':
+  conventionviolation_main(headwithdicts,hw1)
+  exit()
+ if option == 'normalize_all':
+  fileout = sys.argv[3]
+  all_headwords(hw1,fileout)
+ if option == 'normalize_nasal':
+  fileout = sys.argv[3]
+  normalize_nasal(hw1,fileout)
+ if option == 'normalize_nasal_rxx':
+  fileout = sys.argv[3]
+  normalize_nasal_rxx(hw1,fileout,consonants)
+ if option == 'normalize_nasal_rxx_ant':
+  fileout = sys.argv[3]
+  normalize_nasal_rxx_ant(hw1,fileout,consonants)
+ if option == 'normalize_nasal_rxx_ant_infl':
+  fileout = sys.argv[3]
+  normalize_nasal_rxx_ant_infl(hw1,fileout,consonants)
+ exit()
  #print('exiting after step 1')
  #exit(1)
- consonants = ['k','K','g','G','N','c','C','j','J','Y','w','W','q','Q','R','t','T','d','D','n','p','P','b','B','m','y','r','l','v','S','z','s','h']
 
  #violation11 = codecs.open('proberrors/11violation.txt','w','utf-8')
  #violation12 = codecs.open('proberrors/12violation.txt','w','utf-8')
  #violation13 = codecs.open('proberrors/13violation.txt','w','utf-8')
  #violation14 = codecs.open('proberrors/14violation.txt','w','utf-8')
+
  #violation21 = codecs.open('conv2/21violation.txt','w','utf-8')
  #violation31 = codecs.open('conv3/31violation.txt','w','utf-8')
  #violation32 = codecs.open('conv3/32violation.txt','w','utf-8')
@@ -438,13 +698,10 @@ if __name__ == "__main__":
  violation41 = codecs.open('proberrors/41violation.txt','w','utf-8')
  #violation61 = codecs.open('proberrors/61violation.txt','w','utf-8')
  #violation62 = codecs.open('proberrors/62violation.txt','w','utf-8')
- exclusionlist12 = ['[sS][aA][M][kKgGcCjJwWqQtTdDpPbB]','k[iE][M][kKgGcCjJwWqQtTdDpPbB]','aMk[aA]r','BujaMg','yaMdin','aMtap','aMg','MDar','aMBA','Mpac','a[hl]aMk','ahaM','aMBav','h[iu]Mk','oMk','aMDam','annaMBaww','yaMd','aMkf','apAM','dv[Aa]Mdv','aMkaz','[aAiIuU]Mjaya','puraMDr','MGuz','Mdam','Mtud','alaM','Mgat','MBar','MpaSy','Mk[Aa]r','raTaMt','AMpati','AMkf','AsyaMDa','itTaM','idaM','idAnIM','AMd[aA]','^IMkf','ilIMDr','[aA]laMkr','DvaMjAnu','fRaMcaya','evaM','EdaM','kaM[jdD]','kawaMkaw','k[Aa]TaM','karaMDay','p[Aa]raMpar','kAMdiS','puM','k[Uu]laM','ASuMga','karRaM','kAM','kupyaMjara','koyaMpurI','kzudraM','MDa[my]','gAM','gomaRiMda','svayaMB','ciraM','cUMkfta','jIvaM','tadAnIM','timiM','naktaM','tUzRIM','tElaM','zaMDi','tv[aA]M','daM','dayyAM','puraMdar','dAnaM','dAMpaty','devAnAM','devIMDiyaka','dEnaM','dEyAM','dyAM','druhaMtara','D[Aa]naM','DiyaM','DarmaM','DuMDuM','DenuM','naraM','nikftiM','paRyaM','paraM','pAMkt','putraM','p[uO]raM','pfTivIM','prARaM','bAlaMBawwa','B[aA]gaM','makzuM','mahiM','mArtyuM','mitaM','mftyuM','sAyaM','yuDiM','rAtriM','rATaM','lakzmIM','lokaM','varzaM','v[iE]SvaM','vftaM','SataM','S[aA]truM','SayyaM','SarDaM','SAkaM','SunaM','SuBaM','SyEnaM','samaM','samitiM','sarvaM','sahasraM','sAkaM','sAtyaM','suKaM','sEr[ai]M','stanaM','sv[aA]yaM','svarRaM','hUM',]
- exclusionlist61 = ['kf$','^f$','^[gjdnBnvsh]f$']
- exclusionlist62 = ['[GcjJPtvs]ar$','kzar$','antar$','punar$','prAtar','ahar$','kmar$','vaDar$','uzar$','^UDar$','^janar$']
  
  for (word,dicts) in headwithdicts:
-  for dict in dicts:
-   conventionviolation(word,dict)
+  for dictionary in dicts:
+   conventionviolation(word,dictionary)
  #violation11.close()
  #violation12.close()
  #violation14.close()
