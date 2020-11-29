@@ -41,11 +41,12 @@ dictyear={"ACC":"2020" , "AE":"2020" , "AP":"2020" , "AP90":"2020",
        "MWE":"2020" , "PD":"2020" , "PE":"2020" , "PGN":"2020",
        "PUI":"2020" , "PWG":"2020" , "PW":"2020" , "SCH":"2020",
        "SHS":"2020" , "SKD":"2020" , "SNP":"2020" , "STC":"2020",
-       "VCP":"2020" , "VEI":"2020" , "WIL":"2020" , "YAT":"2020"}
+       "VCP":"2020" , "VEI":"2020" , "WIL":"2020" , "YAT":"2020",
+       "LAN":"2020"}
 # sandicts is list of dictionaries with Sanskrit Headwords
 # only the 'general' dictionaries are included.
 san_en_dicts = ["WIL","YAT","GST","BEN","MW72","AP90","CAE","MD",
-               "MW","SHS","BHS","AP","PD"]
+               "MW","SHS","BHS","AP","PD","LAN"]
 san_fr_dicts = ["BUR","STC"]
 san_de_dicts = ["PWG","GRA","PW","CCS","SCH"]
 san_lat_dicts = ["BOP"]
