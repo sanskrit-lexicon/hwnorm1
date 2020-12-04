@@ -1,7 +1,8 @@
 """distrib.py  Feb 54, 2016
-   count the number of dictionaries represented in the hwnorm1_v1c.txt 
+   count the number of dictionaries represented in the hwnorm1c.txt 
      headwords
  python distrib.py hwnorm1c.txt distrib.txt
+ see redo.sh for new location of hwnorm1c.txt
 """
 import collections
 import sys,re,codecs
