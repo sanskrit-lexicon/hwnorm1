@@ -63,3 +63,14 @@ would be 'rA', 'ma'.  I'm not sure how words (a) beginning with vowels, or
 #### Revised 10-12-2017
 hwnorm1.py was revised to use the `normalize_key` function from
 ../hwnorm1c/hwnorm1c.py
+
+#### 12-04-2020  addition
+About 1/4 of the headwords in hwnorm1c.txt are from Historical Dictionary alone.
+For purposes of simple-search, we want to skip the odd n-grams that result
+from these.
+
+ngram_skipd.py program does this
+
+The redo_skipd.sh script computes the ngrams, skipping that one dictionary.
+
+
