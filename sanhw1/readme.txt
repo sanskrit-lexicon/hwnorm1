@@ -1,4 +1,6 @@
 This was previously on Cologne server in scans/awork/sanhw1 directory.
+The redo.sh script does the following:
+Note: for a new dictionary, modify the 'dictyear' variable in sanhw1.py.
 * remake sanhw1.txt and hwnorm1c.txt
 python sanhw1.py sanhw1.txt
 python hwnorm1c.py sanhw1.txt hwnorm1c.txt
