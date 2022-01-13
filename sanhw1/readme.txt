@@ -1,5 +1,19 @@
+The sanhw1/redo.sh script remakes
+ sanhw1.txt and hwnorm1c.txt, which are tracked by git
+ hwnorm1c.sqlite, which is NOT tracked by git.
+ The redo.sh script ends with the comment:
+   If your are ready, move hwnorm1c.sqlite to csl-apidev by this command:
+     mv hwnorm1c.sqlite ../../csl-apidev/simple-search/hwnorm1/
+This 'mv' step is to be done.
+Then, two repositories need to be synced to Github:
+  this hwnorm1 repository
+  the csl-apidev repository.
+Finally, on the Cologne server, the hwnorm1 and csl-apidev repositories
+  need to be pulled.
+----------------------------------------------------------------------
+NOTES
+----------------------------------------------------------------------
 This was previously on Cologne server in scans/awork/sanhw1 directory.
-The redo.sh script does the following:
 Note: for a new dictionary, modify the 'dictyear' variable in sanhw1.py.
 * remake sanhw1.txt and hwnorm1c.txt
 python sanhw1.py sanhw1.txt
