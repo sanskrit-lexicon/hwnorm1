@@ -42,7 +42,8 @@ dictyear={"ACC":"2020" , "AE":"2020" , "AP":"2020" , "AP90":"2020",
        "PUI":"2020" , "PWG":"2020" , "PW":"2020" , "SCH":"2020",
        "SHS":"2020" , "SKD":"2020" , "SNP":"2020" , "STC":"2020",
        "VCP":"2020" , "VEI":"2020" , "WIL":"2020" , "YAT":"2020",
-       "LAN":"2020","ARMH":"2020","LRV":"2022","ABCH":"2023"}
+       "LAN":"2020","ARMH":"2020","LRV":"2022","ABCH":"2023",
+	"ACPH":"2023", "ACSJ":"2023"}
 # sandicts is list of dictionaries with Sanskrit Headwords
 # only the 'general' dictionaries are included.
 san_en_dicts = ["WIL","YAT","GST","BEN","MW72","AP90","CAE","MD",
@@ -50,7 +51,7 @@ san_en_dicts = ["WIL","YAT","GST","BEN","MW72","AP90","CAE","MD",
 san_fr_dicts = ["BUR","STC"]
 san_de_dicts = ["PWG","GRA","PW","CCS","SCH"]
 san_lat_dicts = ["BOP"]
-san_san_dicts = ["SKD","VCP","ARMH","ABCH"]
+san_san_dicts = ["SKD","VCP","ARMH","ABCH","ACPH","ACSJ"]
 san_spc_dicts = ["INM","VEI","PUI","ACC","KRM","IEG","SNP","PE","PGN","MCI"]
 sandicts = san_en_dicts + san_fr_dicts + san_de_dicts + san_lat_dicts +san_san_dicts + san_spc_dicts
 
