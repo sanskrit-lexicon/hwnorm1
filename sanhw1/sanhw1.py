@@ -152,6 +152,8 @@ def addhw(code,d):
  print("%s hws extracted from dict %s" %(len(hws),filein))
  # add these to 'd'
  for ihw0,hw0 in enumerate(hws):
+  if hw0 == '':  # should not happen 12-24-2023
+   continue
   # hw0 is a unicode string. Convert.
   #hw = hw0.encode('ascii','replace')
   # this may be un-needed in python3
