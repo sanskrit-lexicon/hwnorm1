@@ -23,6 +23,7 @@
    old formats
  Jan 15, 2020.  Use /2020/ instead of /2014
  Jan 27, 2020. Use mwhw2.txt for MW, no longer use mwkeys/extract_keys_b.txt
+ Feb 1,2025 FRI dictionary
 """
 from __future__ import print_function
 import sys,re
@@ -43,7 +44,7 @@ dictyear={"ACC":"2020" , "AE":"2020" , "AP":"2020" , "AP90":"2020",
        "SHS":"2020" , "SKD":"2020" , "SNP":"2020" , "STC":"2020",
        "VCP":"2020" , "VEI":"2020" , "WIL":"2020" , "YAT":"2020",
        "LAN":"2020","ARMH":"2020","LRV":"2022","ABCH":"2023",
-	  "ACPH":"2023", "ACSJ":"2023","PWKVN":"2020"}
+       "ACPH":"2023", "ACSJ":"2023","PWKVN":"2020", "FRI":"2025",}
 # sandicts is list of dictionaries with Sanskrit Headwords
 # only the 'general' dictionaries are included.
 san_en_dicts = ["WIL","YAT","GST","BEN","MW72","AP90","CAE","MD",
@@ -52,7 +53,7 @@ san_fr_dicts = ["BUR","STC"]
 san_de_dicts = ["PWG","GRA","PW","CCS","SCH","PWKVN"]
 san_lat_dicts = ["BOP"]
 san_san_dicts = ["SKD","VCP","ARMH","ABCH","ACPH","ACSJ"]
-san_spc_dicts = ["INM","VEI","PUI","ACC","KRM","IEG","SNP","PE","PGN","MCI"]
+san_spc_dicts = ["INM","VEI","PUI","ACC","KRM","IEG","SNP","PE","PGN","MCI","FRI"]
 sandicts = san_en_dicts + san_fr_dicts + san_de_dicts + san_lat_dicts +san_san_dicts + san_spc_dicts
 
 def unused_extracthw_mw(filein):
