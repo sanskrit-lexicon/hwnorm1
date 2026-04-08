@@ -16,7 +16,7 @@ def timestamp():
 	return datetime.datetime.now()
 
 def sanhw1():
-	fin = codecs.open('../CORRECTIONS/sanhw1/sanhw1.txt','r','utf-8');
+	fin = open('../CORRECTIONS/sanhw1/sanhw1.txt','r', encoding='utf-8');
 	lines = fin.readlines()
 	output = []
 	for line in lines:
@@ -44,7 +44,7 @@ def rchop(thestring, ending):
 		return thestring
  
 # See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/43#issuecomment-65781239
-log = codecs.open("conv1/log.txt","a","utf-8")
+log = open("conv1/log.txt","a", encoding="utf-8")
 log.write(str(timestamp())+"\n")
 anu = [(1,["AP90"]),(2,["AP","BEN","BOP","BUR","CAE","CCS","MD","MW","MW72","PW","PWG","SCH","SHS","STC","VCP","WIL","YAT"]),(3,["SKD","AP90","BHS","WIL","PW","PWG","VCP"]),(4,["YAT"]),(5,["AP","AP90","CAE","CCS","MD","MW","PW","PWG","STC"]),(6,["BUR","MW72","SHS","VCP","WIL","YAT","SKD"])]
 def anu(headwithdicts,dictionary,convention):
@@ -53,11 +53,11 @@ def anu(headwithdicts,dictionary,convention):
 		nasalwords = []
 		anun = [] # anusvAra+nasal consecutively
 		mn = [] # m+nasal consecutively
-		anufile = codecs.open("conv1/"+dictionary+"_anuwords.txt","w","utf-8")
-		nasalfile = codecs.open("conv1/"+dictionary+"_nasalwords.txt","w","utf-8")
-		anunfile = codecs.open("conv1/"+dictionary+"_anunwords.txt","w","utf-8")
-		mnfile = codecs.open("conv1/"+dictionary+"_mnwords.txt","w","utf-8")
-		log = codecs.open("conv1/log.txt","a","utf-8")
+		anufile = open("conv1/"+dictionary+"_anuwords.txt","w", encoding="utf-8")
+		nasalfile = open("conv1/"+dictionary+"_nasalwords.txt","w", encoding="utf-8")
+		anunfile = open("conv1/"+dictionary+"_anunwords.txt","w", encoding="utf-8")
+		mnfile = open("conv1/"+dictionary+"_mnwords.txt","w", encoding="utf-8")
+		log = open("conv1/log.txt","a", encoding="utf-8")
 		for (word,dicts) in headwithdicts:
 			#if dictionary in dicts and re.search('M[kKgGcCjJwWqQtTdDpPbB]',word) and not re.search('s[aA]M[kKgGcCjJwWqQtTdDpPbB]',word):
 			if dictionary in dicts and re.search('M[kKgGcCjJwWqQtTdDpPbB]',word):
@@ -145,7 +145,7 @@ def normanusvara(list,word):
 #violation33 = codecs.open('conv3/33violation.txt','w','utf-8')
 #violation34 = codecs.open('conv3/34violation.txt','w','utf-8')
 #rxx = codecs.open('conv2/rxx.txt','w','utf-8')
-violation41 = codecs.open('proberrors/41violation.txt','w','utf-8')
+violation41 = open('proberrors/41violation.txt','w', encoding='utf-8')
 #violation61 = codecs.open('proberrors/61violation.txt','w','utf-8')
 #violation62 = codecs.open('proberrors/62violation.txt','w','utf-8')
 exclusionlist12 = ['[sS][aA][M][kKgGcCjJwWqQtTdDpPbB]','k[iE][M][kKgGcCjJwWqQtTdDpPbB]','aMk[aA]r','BujaMg','yaMdin','aMtap','aMg','MDar','aMBA','Mpac','a[hl]aMk','ahaM','aMBav','h[iu]Mk','oMk','aMDam','annaMBaww','yaMd','aMkf','apAM','dv[Aa]Mdv','aMkaz','[aAiIuU]Mjaya','puraMDr','MGuz','Mdam','Mtud','alaM','Mgat','MBar','MpaSy','Mk[Aa]r','raTaMt','AMpati','AMkf','AsyaMDa','itTaM','idaM','idAnIM','AMd[aA]','^IMkf','ilIMDr','[aA]laMkr','DvaMjAnu','fRaMcaya','evaM','EdaM','kaM[jdD]','kawaMkaw','k[Aa]TaM','karaMDay','p[Aa]raMpar','kAMdiS','puM','k[Uu]laM','ASuMga','karRaM','kAM','kupyaMjara','koyaMpurI','kzudraM','MDa[my]','gAM','gomaRiMda','svayaMB','ciraM','cUMkfta','jIvaM','tadAnIM','timiM','naktaM','tUzRIM','tElaM','zaMDi','tv[aA]M','daM','dayyAM','puraMdar','dAnaM','dAMpaty','devAnAM','devIMDiyaka','dEnaM','dEyAM','dyAM','druhaMtara','D[Aa]naM','DiyaM','DarmaM','DuMDuM','DenuM','naraM','nikftiM','paRyaM','paraM','pAMkt','putraM','p[uO]raM','pfTivIM','prARaM','bAlaMBawwa','B[aA]gaM','makzuM','mahiM','mArtyuM','mitaM','mftyuM','sAyaM','yuDiM','rAtriM','rATaM','lakzmIM','lokaM','varzaM','v[iE]SvaM','vftaM','SataM','S[aA]truM','SayyaM','SarDaM','SAkaM','SunaM','SuBaM','SyEnaM','samaM','samitiM','sarvaM','sahasraM','sAkaM','sAtyaM','suKaM','sEr[ai]M','stanaM','sv[aA]yaM','svarRaM','hUM',]
@@ -231,7 +231,7 @@ def norminflection(list,word):
 	return output
 	
 def difflist(outputfile,list1,list2):
-	fout = codecs.open(outputfile,'w','utf-8')
+	fout = open(outputfile,'w', encoding='utf-8')
 	difflist = list(set(list1) - set(list2))
 	difflist = sorted(difflist);
 	fout.write("\n".join(difflist))
@@ -244,7 +244,7 @@ def triming(lst):
 	return output
 def exam(test,control,step,outfile):
 	examinableentries = []
-	fout = codecs.open(outfile,'w','utf-8')
+	fout = open(outfile,'w', encoding='utf-8')
 	ok = []
 	test = sorted(test)
 	print "Writing suspect entries to", outfile
@@ -274,7 +274,7 @@ def countlen():
 	global sanhw1
 	global hw1
 	global headwithdicts
-	hw1file = codecs.open('normalization/hw1.txt','w','utf-8')
+	hw1file = open('normalization/hw1.txt','w', encoding='utf-8')
 	hw1 = sorted(hw1)
 	hw1file.write("\n".join(hw1))
 	hw1file.close()
@@ -292,7 +292,7 @@ def countlen():
 	hw2 = list(set(output))
 	hw2 = sorted(hw2)
 	print "Total entries with anusvAra normalization are", len(hw2)
-	hw2file = codecs.open('normalization/hw2.txt','w','utf-8')
+	hw2file = open('normalization/hw2.txt','w', encoding='utf-8')
 	hw2file.write("\n".join(hw2))
 	hw2file.close()
 	# Do duplication normalization
@@ -308,7 +308,7 @@ def countlen():
 	hw3 = list(set(output1))
 	hw3 = sorted(hw3)
 	print "Total entries with duplication normalization are", len(hw3)
-	hw3file = codecs.open('normalization/hw3.txt','w','utf-8')
+	hw3file = open('normalization/hw3.txt','w', encoding='utf-8')
 	hw3file.write("\n".join(hw3))
 	hw3file.close()
 	# Do 'ant$' normalization
@@ -320,7 +320,7 @@ def countlen():
 			output3.append(word)
 	hw4 = list(set(output3))
 	hw4 = sorted(hw4)
-	hw4file = codecs.open('normalization/hw4.txt','w','utf-8')
+	hw4file = open('normalization/hw4.txt','w', encoding='utf-8')
 	hw4file.write("\n".join(hw4))
 	hw4file.close()
 	print "Total entries with 'ant' normalization are", len(hw4)
@@ -337,17 +337,17 @@ def countlen():
 		
 	hw5 = list(set(output4))
 	hw5 = sorted(hw5)
-	hw5file = codecs.open('normalization/hw5.txt','w','utf-8')
+	hw5file = open('normalization/hw5.txt','w', encoding='utf-8')
 	hw5file.write("\n".join(hw5))
 	hw5file.close()
 	print "Total entries with inflection normalization are", len(hw5)
 
 def difflister():
-	hw1text = codecs.open('normalization/hw1.txt','r','utf-8')
-	hw2text = codecs.open('normalization/hw2.txt','r','utf-8')
-	hw3text = codecs.open('normalization/hw3.txt','r','utf-8')
-	hw4text = codecs.open('normalization/hw4.txt','r','utf-8')
-	hw5text = codecs.open('normalization/hw5.txt','r','utf-8')
+	hw1text = open('normalization/hw1.txt','r', encoding='utf-8')
+	hw2text = open('normalization/hw2.txt','r', encoding='utf-8')
+	hw3text = open('normalization/hw3.txt','r', encoding='utf-8')
+	hw4text = open('normalization/hw4.txt','r', encoding='utf-8')
+	hw5text = open('normalization/hw5.txt','r', encoding='utf-8')
 	hw1 = hw1text.readlines()
 	hw2 = hw2text.readlines()
 	hw3 = hw3text.readlines()
