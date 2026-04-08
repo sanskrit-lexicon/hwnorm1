@@ -27,7 +27,7 @@
 """
 from __future__ import print_function
 import sys,re
-import codecs
+
 pyversion2 = (sys.version_info[0] == 2)
 from slp_cmp import slp_sorted
 from slp_cmp import translate_one
@@ -58,7 +58,7 @@ sandicts = san_en_dicts + san_fr_dicts + san_de_dicts + san_lat_dicts +san_san_d
 
 def unused_extracthw_mw(filein):
  try: 
-  f = codecs.open(filein,"r","utf-8")
+  f = open(filein, encoding="utf-8")
  except:
   print("ERROR extracthw_mw file not found:",filein)
   exit(1)
@@ -88,7 +88,7 @@ class HW2(object):
 
 def init_hw2(filein):
  recs=[]
- with codecs.open(filein,'r','utf-8') as f:
+ with open(filein, encoding='utf-8') as f:
   n = 0
   for line in f:
    n = n + 1
@@ -217,7 +217,7 @@ def sanhw1(fileout):
   #sorted_hwpairs = slp_sorted(hwpairs,keyFcn = (lambda x: x[1]))
   sortedhws = [hw for (hw,hwadj) in sorted_hwpairs]
  # output 
- fout = codecs.open(fileout,"w","utf-8")
+ fout = open(fileout, "w", encoding="utf-8")
  for hw in sortedhws:
   codes = sorted(d[hw])
   codestr = ','.join(codes)

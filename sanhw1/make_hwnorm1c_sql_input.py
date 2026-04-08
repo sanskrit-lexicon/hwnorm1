@@ -3,14 +3,14 @@
    Jul 17, 2017
 """
 from __future__ import print_function
-import sys,re,codecs
+import sys,re
 
 def main():
  import sys
  filein = sys.argv[1]
  fileout = sys.argv[2]
- f = codecs.open(filein,'r','utf-8')
- fout = codecs.open(fileout,'w','utf-8')
+ f = open(filein, encoding='utf-8')
+ fout = open(fileout, 'w', encoding='utf-8')
  n = 0
  for line in f:
   n = n + 1

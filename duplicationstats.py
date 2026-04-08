@@ -6,7 +6,7 @@ Documentation at https://github.com/sanskrit-lexicon/hwnorm1/issues/1
   
 """
 import sys, re
-import codecs
+
 import string
 import datetime
 
@@ -15,7 +15,7 @@ def timestamp():
 	return datetime.datetime.now()
 
 def sanhw1():
-	fin = codecs.open('../CORRECTIONS/sanhw1/sanhw1.txt','r','utf-8');
+	fin = open('../CORRECTIONS/sanhw1/sanhw1.txt', encoding='utf-8');
 	lines = fin.readlines()
 	output = []
 	for line in lines:
@@ -67,8 +67,8 @@ def duplicatedlist():
 
 def dictdupstats():
 	duplicatelist = duplicatedlist()
-	rxxstats = codecs.open('conv2/rxxstats.txt','w','utf-8')
-	fin = codecs.open('conv2/rxx.txt','r','utf-8')
+	rxxstats = open('conv2/rxxstats.txt', 'w', encoding='utf-8')
+	fin = open('conv2/rxx.txt', 'r', encoding='utf-8')
 	data = fin.readlines()
 	fin.close()
 	dupdicts = ["SKD","VCP","SHS","WIL","YAT","PD"]
@@ -87,8 +87,8 @@ dictdupstats()
 
 
 def dictnodupstats():
-	rxstats = codecs.open('conv2/rxstats.txt','w','utf-8')
-	fin = codecs.open('conv2/21violation.txt','r','utf-8')
+	rxstats = open('conv2/rxstats.txt', 'w', encoding='utf-8')
+	fin = open('conv2/21violation.txt', 'r', encoding='utf-8')
 	data = fin.readlines()
 	fin.close()
 	dupdicts = ["SKD","VCP","SHS","WIL","YAT","PD"]

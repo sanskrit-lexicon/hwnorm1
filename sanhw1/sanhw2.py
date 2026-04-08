@@ -26,7 +26,7 @@
 """
 from __future__ import print_function
 import sys,re
-import codecs
+
 
 # dictyear has all dictionary codes, with the 'year'.
 # This 'year' is required to locate the files
@@ -53,7 +53,7 @@ sandicts = san_en_dicts + san_fr_dicts + san_de_dicts + san_lat_dicts +san_san_d
 
 def extracthw_mw(filein):
  try: 
-  f = codecs.open(filein,"r","utf-8")
+  f = open(filein, encoding="utf-8")
  except:
   print("ERROR extracthw_mw file not found:",filein)
   exit(1)
@@ -71,7 +71,7 @@ def extracthw_mw(filein):
 
 def old_extracthw(filein):
  try: 
-  f = codecs.open(filein,"r","utf-8")
+  f = open(filein, encoding="utf-8")
  except:
   print("ERROR extracthw file not found:",filein)
   exit(1)
@@ -104,7 +104,7 @@ class HW2(object):
 def init_hw2(filein):
  recs=[]
  #with open(filein,'r') as f:
- with codecs.open(filein,'r','utf-8') as f:
+ with open(filein, encoding='utf-8') as f:
   n = 0
   for line in f:
    n = n + 1
@@ -231,7 +231,7 @@ def sanhw1(fileout):
   sorted_hwpairs = sorted(hwpairs,cmp=slp_cmp_pairs)
   sortedhws = [hw for (hw,hwadj) in sorted_hwpairs]
  # output 
- fout = codecs.open(fileout,"w","utf-8")
+ fout = open(fileout, "w", encoding="utf-8")
  for hw in sortedhws:
   codes = sorted(d[hw])
   codestr = ','.join(codes)

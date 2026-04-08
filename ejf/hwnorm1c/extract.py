@@ -4,7 +4,7 @@
 
 """
 import collections
-import sys,re,codecs
+import sys,re
 sys.path.append('../../sanhw1') # form hwnorm1c.py
 from hwnorm1c import normalize_key
 
@@ -34,12 +34,12 @@ class HWnormc(object):
   HWnormc.dnorm[self.hwnorm] = self
   
 def init_hwnorm1_v1c(filein):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein, encoding="utf-8") as f:
   recs = [HWnormc(line) for line in f]
  return recs
 
 def write_hwrecs(fileout,hwrecs):
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   nmiss = 0
   nfound = 0
   for hw,normhw,hwrec in hwrecs:
@@ -75,7 +75,7 @@ if __name__ == "__main__":
  filehw = sys.argv[2]  # headword list, one per line. slp1
  fileout = sys.argv[3]
  recs=init_hwnorm1_v1c(filein)
- with codecs.open(filehw,"r","utf-8") as f:
+ with open(filehw, encoding="utf-8") as f:
   hws = [x.rstrip('\r\n') for x in f if not x.startswith(';')]
   print(len(hws),"headwords read from",filehw)
  hwrecs = []

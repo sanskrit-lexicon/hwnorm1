@@ -1,3 +1,4 @@
+from __future__ import print_function
 import string
 # Note 'L' and '|' and 'Z' and 'V' are not present
 # Not sure where they go
@@ -12,7 +13,7 @@ def slp_cmp(a,b):
  try:
   a1 = string.translate(a,trantable)
  except:
-  print "sansort.san_cmp. Problem with translate. a=",a.encode('utf-8')
+  print("sansort.san_cmp. Problem with translate. a=",a.encode('utf-8'))
   exit(1)
  b1 = string.translate(b,trantable)
  return cmp(a1,b1)

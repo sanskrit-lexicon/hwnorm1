@@ -1,11 +1,12 @@
 """whitelist-subset.py  Apr 18, 2016
    Do the logic of whitelist.py, but applied only to the records in a
+from __future__ import print_function
    given subset of records.  Put all output to the same file.
  python whitelist-subset.py hwnorm1c.txt cae-ccs-only.txt cae-ccs-whitelist.txt
  Revised Mar 18, 2016. See readme.org
 """
 import collections
-import sys,re,codecs
+import sys,re
 
 def whitelist0(rec,code):
  """ in more than one dictionary 
@@ -203,7 +204,7 @@ class Pfxes(object):
  pfxes = []
  def __init__(self,filein):
   # get list of prefixes from filein
-  with codecs.open(filein,"r","utf-8") as f:
+  with open(filein,"r","utf-8") as f:
    Pfxes.pfxes = [x.rstrip('\r\n') for x in f if (not x.startswith(';'))]
 
 def whitelist3a(rec,code):
@@ -229,7 +230,7 @@ class Sfxes(object):
  sfxes = []
  def __init__(self,filein):
   # get list of suffixes from filein
-  with codecs.open(filein,"r","utf-8") as f:
+  with open(filein,"r","utf-8") as f:
    # format is <sfx> <whitney-section-number>
    Sfxes.sfxes = [x.rstrip('\r\n').split(' ')[0] for x in f 
     if (not x.startswith(';'))]
@@ -535,7 +536,7 @@ class Special(object):
   Special.recs.append(self)
 
 def init_special(filein="auxiliary/special.txt"):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein,"r","utf-8") as f:
   for x in f:
    Special(x)
 
@@ -563,24 +564,24 @@ class HWnormc(object):
      self.distinctdicts.append(d)
   if updateDict:
    if self.hwnorm in HWnormc.normd:
-    print "HWnormc: unexpected duplicate",self.hwnorm
+    print("HWnormc: unexpected duplicate"),self.hwnorm
    HWnormc.normd[self.hwnorm] = self
    self.subset = False  # filled in later
 
 def init_subset(filein):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein,"r","utf-8") as f:
   for line in f:
    arec = HWnormc(line,False)
    if arec.hwnorm in HWnormc.normd:
     rec = HWnormc.normd[arec.hwnorm]
     rec.subset=True
    else:
-    print "init_subset ERROR.",arec.hwnorm
+    print("init_subset ERROR."),arec.hwnorm
 
 def init_hwnorm1c(filein):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein,"r","utf-8") as f:
   recs = [HWnormc(line) for line in f]
- print len(recs),"records from",filein
+ print(len(recs)),"records from",filein
  return recs
 
 def function_from_code(code):
@@ -590,7 +591,7 @@ def function_from_code(code):
   fcn = localdict[fcnname]
   return fcn
  else:
-  print "ERROR: whitelist code not implemented:",code
+  print("ERROR: whitelist code not implemented:"),code
   exit(1)
 
 def graylist(recs,fout):
@@ -645,7 +646,7 @@ if __name__ == "__main__":
     # be satisfied with first solution
     break
  # Now print results 
- fout = codecs.open(fileout,"w","utf-8")
+ fout = open(fileout, "w", encoding="utf-8")
  recs_subset = [rec for rec in recs if rec.subset]
  for code in codekeys:
    fout.write("; --------------------------------------\n")
@@ -671,5 +672,5 @@ if __name__ == "__main__":
   doc = codedocs[key]
   count = c[key]
   out = "%6d headwords coded as %s: %s" %(count,key,doc)
-  print out
+  print(out)
 

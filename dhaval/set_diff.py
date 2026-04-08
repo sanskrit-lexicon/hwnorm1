@@ -7,16 +7,16 @@ take the set difference A1-B1 and also B1-A1.
 print the union of these two sets in (normal) sorted order,
 labeling each with A or B
 """
-import codecs,sys
+import sys
 
 if __name__=="__main__":
  A = sys.argv[1]
  B = sys.argv[2]
  fileout = sys.argv[3]
- with codecs.open(A,"r","utf-8") as f:
+ with open(A, encoding="utf-8") as f:
   A1 = [x.rstrip() for x in f]
   print(len(A1),'records from',A)
- with codecs.open(B,"r","utf-8") as f:
+ with open(B, encoding="utf-8") as f:
   B1 = [x.rstrip() for x in f]
   print(len(B1),'records from',B)
  A2 = set(A1)
@@ -32,7 +32,7 @@ if __name__=="__main__":
  D2 = set(x + ' B' for x in B_A)
  D = D1.union(D2)
  E = sorted(list(D))
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for x in E:
    f.write(x+'\n')
  print(len(E),'records written to',fileout)

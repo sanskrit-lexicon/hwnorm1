@@ -5,7 +5,7 @@
  see redo.sh for new location of hwnorm1c.txt
 """
 import collections
-import sys,re,codecs
+import sys,re
 
 class HWnormc(object):
  def __init__(self,line):
@@ -27,7 +27,7 @@ class HWnormc(object):
      self.distinctdicts.append(d)
 
 def init_hwnorm1_v1c(filein):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein, encoding="utf-8") as f:
   recs = [HWnormc(line) for line in f]
  return recs
 if __name__ == "__main__":
@@ -40,7 +40,7 @@ if __name__ == "__main__":
   #n = sum([len(dicts[i]) for i in xrange(0,len(dicts))])
   n = len(rec.distinctdicts)
   c.update([n])
- fout = codecs.open(fileout,"w","utf-8")
+ fout = open(fileout, "w", encoding="utf-8")
  keys = sorted(c.keys())
  for key in keys:
   fout.write("%6d headwords occur in %02d dictionaries\n"%(c[key],key))

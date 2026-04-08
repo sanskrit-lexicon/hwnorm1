@@ -1,4 +1,4 @@
-
+from __future__ import print_function
 known_prefixes = [
  'a', 'an',  
  'aBi', 'aBy',
@@ -23,4 +23,4 @@ known_prefixes = [
 ]
 
 for x in known_prefixes:
- print x
+ print(x)

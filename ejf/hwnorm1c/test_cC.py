@@ -1,11 +1,12 @@
 """test_cC.py  10-16-2017
     find entries in hwnorm1c.txt for which there are
+from __future__ import print_function
     (a) a spelling in some dictionary with 'cC'
     (b) a spelling in some other dictionary with only 'C'
  python test_cC.py hwnorm1c.txt test_cC.txt
 """
 import collections
-import sys,re,codecs
+import sys,re
 
 class HWnormc(object):
  def __init__(self,line):
@@ -28,7 +29,7 @@ class HWnormc(object):
      self.distinctdicts.append(d)
 
 def init_hwnorm1_v1c(filein):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein, encoding="utf-8") as f:
   recs = [HWnormc(line) for line in f]
  return recs
 def filter_cC(rec):
@@ -50,9 +51,9 @@ if __name__ == "__main__":
  for rec in recs:
   if filter_cC(rec):
    recsfound.append(rec)
- with codecs.open(fileout,"w","utf-8") as fout:
+ with open(fileout, "w", encoding="utf-8") as fout:
   for rec in recsfound:
    fout.write(rec.line + '\n')
- print len(recsfound),"cases filtered out of",len(recs),"total cases"
+ print(len(recsfound),"cases filtered out of",len(recs),"total cases")
 
  

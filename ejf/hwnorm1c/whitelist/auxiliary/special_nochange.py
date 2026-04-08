@@ -1,9 +1,10 @@
 """special_nochange.py  May 16, 2016
  read CORRECTIONS/corrections_nochange.txt and write
+from __future__ import print_function
   special_nochange.txt
   python special_nochange.py ../../CORRECTIONS/corrections_nochange.txt special_nochange.txt
 """
-import sys,re,codecs
+import sys,re
 
 class NOCHG(object):
  """ from  CORRECTIONS/corrections_nochange.txt
@@ -17,7 +18,7 @@ class NOCHG(object):
   NOCHG.recs.append(self)
 
 def init_nochg(filein):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein, encoding="utf-8") as f:
   n=0
   for x in f:
    x = x.strip()
@@ -40,7 +41,7 @@ def init_nochg(filein):
     #print 'Irregular line %s (#parts=%s)='%(n,len(parts)),x.encode('utf-8')
     pass
    else:
-    print 'Irregular line %s (#parts=%s)='%(n,len(parts)),x.encode('utf-8')
+    print('Irregular line %s (#parts=%s)='%(n,len(parts)),x.encode('utf-8'))
     continue
    (dictcode,issuenum,hw1,hw2,code,comment) = parts
    if ',' in hw1:
@@ -54,9 +55,9 @@ if __name__ == "__main__":
  fileout = sys.argv[2] # special_nochange.txt
  init_nochg(filein)
  recs = NOCHG.recs
- print len(recs)," nochg records"
+ print(len(recs)," nochg records")
 
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for rec in recs:
    out = "%s:%s: nochange " %(rec.dict,rec.key1)
    f.write('%s\n' % out)

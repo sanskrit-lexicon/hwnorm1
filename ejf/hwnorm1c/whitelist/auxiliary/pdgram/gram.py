@@ -1,10 +1,11 @@
 # coding=utf-8
+from __future__ import print_function
 """gram.py  May 19, 2016
   Feb 26, 2016
  Filter the (Gr.) records
 """
 import re
-import sys,codecs
+import sys
 import transcoder
 transcoder.transcoder_set_dir("");
 import headword
@@ -66,8 +67,8 @@ def normalize_key(a):
  return a
 
 def main(inlines,hwrecs,fileout,fileout1):
- fout=codecs.open(fileout,"w","utf-8")
- fout1=codecs.open(fileout1,"w","utf-8")
+ fout=open(fileout, "w", encoding="utf-8")
+ fout1=open(fileout1, "w", encoding="utf-8")
  nsystematic=0
  nout=0
  dictcode='pd'
@@ -94,9 +95,9 @@ def main(inlines,hwrecs,fileout,fileout1):
   """
   if re.search(r'[()*\[]',hw1norm) or re.search(r'[()*\[]',hwnorm):
    out = "BADCHAR: %s:%s" % (line,hw1)
-   print out.encode('utf-8')
-   print '%d old %s' %(hwrec.linenum1,firstline.encode('utf-8'))
-   print 'pd:%s,%d:%s:%s:t:' %(hwrec.hwslp,hwrec.linenum1,'X','Y')
+   print(out.encode('utf-8'))
+   print('%d old %s' %(hwrec.linenum1,firstline.encode('utf-8')))
+   print('pd:%s,%d:%s:%s:t:' %(hwrec.hwslp,hwrec.linenum1,'X','Y'))
    print
    continue
   """
@@ -130,15 +131,15 @@ def main(inlines,hwrecs,fileout,fileout1):
   outarr.append('')
   fout1.write('\n'.join(outarr) + "\n")
   if (nout == 25) and False:
-   print "debug",nout
+   print("debug",nout)
    break
    pass
  fout.close()
  fout1.close()
- print len(hwrecs),"headword records processed"
- print nout,"records written to ",fileout
- print nout,"sections written to ",fileout1
- print (nout - ngramsure),"cases need further examination"
+ print(len(hwrecs),"headword records processed")
+ print(nout,"records written to ",fileout)
+ print(nout,"sections written to ",fileout1)
+ print((nout - ngramsure),"cases need further examination")
 
  
 class Headword(object):
@@ -152,7 +153,7 @@ class Headword(object):
   self.linenum2=int(linenum2)
 
 def init_headwords(filein):
- with codecs.open(filein,encoding='utf-8',mode='r') as f:
+ with open(filein,encoding='utf-8',mode='r') as f:
   recs = []
   lnum=0
   for x in f:
@@ -166,7 +167,7 @@ if __name__ == "__main__":
  fileout =sys.argv[3] #  
  fileout1 =sys.argv[4] #  Emacs Ord Mode listing
  # slurp pd.txt file into list of lines
- with codecs.open(filein,encoding='utf-8',mode='r') as f:
+ with open(filein,encoding='utf-8',mode='r') as f:
   inlines = [x.rstrip('\r\n') for x in f]
  # construct headword records
  hwrecs=init_headwords(filein1)

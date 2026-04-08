@@ -1,4 +1,5 @@
 """whitelist.py  Feb 29, 2016
+from __future__ import print_function
    separate hwnorm1c.txt into a 'graylist.txt' (unresolved singletons)
    and one or more 'whitelistxx.txt files.  
  python whitelist.py hwnorm1c.txt graylist.txt
@@ -6,7 +7,7 @@
  May 16, 2016.  Use auxiliary/special_nochange.txt
 """
 import collections
-import sys,re,codecs
+import sys,re
 
 def whitelist0(rec,code):
  """ in more than one dictionary """
@@ -207,7 +208,7 @@ class Pfxes(object):
  pfxes = []
  def __init__(self,filein):
   # get list of prefixes from filein
-  with codecs.open(filein,"r","utf-8") as f:
+  with open(filein,"r","utf-8") as f:
    Pfxes.pfxes = [x.rstrip('\r\n') for x in f if (not x.startswith(';'))]
 
 def whitelist3a(rec,code):
@@ -259,7 +260,7 @@ class Sfxes(object):
  sfxes = []
  def __init__(self,filein):
   # get list of suffixes from filein
-  with codecs.open(filein,"r","utf-8") as f:
+  with open(filein,"r","utf-8") as f:
    # format is <sfx> <whitney-section-number>
    Sfxes.sfxes = [x.rstrip('\r\n').split(' ')[0] for x in f 
     if (not x.startswith(';'))]
@@ -805,7 +806,7 @@ class Special(object):
   Special.recs.append(self)
 
 def init_special(filein="auxiliary/special.txt"):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein,"r","utf-8") as f:
   for x in f:
    if not x.startswith(';'):  # allow comments on lines starting with semicolon
     Special(x)
@@ -833,13 +834,13 @@ class HWnormc(object):
     if d not in self.distinctdicts:
      self.distinctdicts.append(d)
   if self.hwnorm in HWnormc.normd:
-   print "HWnormc: unexpected duplicate",self.hwnorm
+   print("HWnormc: unexpected duplicate"),self.hwnorm
   HWnormc.normd[self.hwnorm] = self
 
 def init_hwnorm1c(filein):
- with codecs.open(filein,"r","utf-8") as f:
+ with open(filein,"r","utf-8") as f:
   recs = [HWnormc(line) for line in f]
- print len(recs),"records from",filein
+ print(len(recs)),"records from",filein
  return recs
 
 def function_from_code(code):
@@ -849,7 +850,7 @@ def function_from_code(code):
   fcn = localdict[fcnname]
   return fcn
  else:
-  print "ERROR: whitelist code not implemented:",code
+  print("ERROR: whitelist code not implemented:"),code
   exit(1)
 
 def graylist(recs,fout):
@@ -900,10 +901,10 @@ def today_outdir():
  # if outdir doesn't exist, create this directory
  filepath = outdir
  if not os.path.isdir(filepath):
-  print "Creating",filepath
+  print("Creating"),filepath
   os.mkdir(filepath)
  else:
-  print "Reusing",filepath
+  print("Reusing"),filepath
  return outdir
 
 if __name__ == "__main__":
@@ -931,14 +932,14 @@ if __name__ == "__main__":
  # Now print results to the various whitelist files
  for code in codekeys:
   fileout = "%s/whitelist%s.txt" % (outdir,code)
-  with codecs.open(fileout,"w","utf-8") as fout:
+  with open(fileout,"w","utf-8") as fout:
    for rec in recs:
     if rec.code == code:
      out = rec.explain
      fout.write('%s\n' % out)
  # the remainder are graylisted
  fileout = "%s/%s" %(outdir,filegray)
- with codecs.open(fileout,"w","utf-8") as fout:
+ with open(fileout,"w","utf-8") as fout:
   graylist(recs,fout)
  # summary
  c = collections.Counter()
@@ -953,5 +954,5 @@ if __name__ == "__main__":
   doc = codedocs[key]
   count = c[key]
   out = "%6d headwords coded as %s: %s" %(count,key,doc)
-  print out
+  print(out)
 

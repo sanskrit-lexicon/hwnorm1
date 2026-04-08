@@ -2,7 +2,7 @@
    Modify ngram.py to skip headwords found in only certain dictionaries.
    Notably, PD. As about 1/4 of the words appear ONLY in PD.
 """
-import sys,re,codecs
+import sys,re
 #sys.path.append('hwnorm1')
 import hwnorm1
 #from sansort import slp_cmp
@@ -41,7 +41,7 @@ def rare_ngrams(fileout,ngramsd):
   for ngram in ngrams:
    if ngramsd[ngram] <= maxinstance:
     rarerecs.append([rec,ngram])
- with codecs.open(filedbg,"w","utf-8") as f:
+ with open(filedbg, "w", encoding="utf-8") as f:
   for rec,ngram in rarerecs:
    out = "%s:%s:%s" %(ngram,ngramsd[ngram],rec.line)
    f.write(out+'\n')
@@ -80,7 +80,7 @@ if __name__ == "__main__":
  keys = list(ngramsd.keys())
  #keys.sort(cmp=slp_cmp)
  keys.sort(key = lambda x: x.translate(slp_from_to))
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout, "w", encoding="utf-8") as f:
   for key in keys:
    out = "%s:%s"%(key,ngramsd[key])
    f.write(out + "\n")

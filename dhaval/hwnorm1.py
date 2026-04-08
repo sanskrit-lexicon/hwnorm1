@@ -14,7 +14,7 @@ Documentation at https://github.com/sanskrit-lexicon/CORRECTIONS/issues/43.
 """
 from __future__ import print_function
 import sys, re
-import codecs
+
 """ ejf removed. not used
 import string
 from string import maketrans
@@ -26,7 +26,7 @@ def timestamp():
  return datetime.datetime.now()
 
 def sanhw1(filein):
- with codecs.open(filein,'r','utf-8') as fin:
+ with open(filein,'r','utf-8') as fin:
   lines = fin.readlines()
  output = []
  for line in lines:
@@ -55,7 +55,7 @@ def rchop(thestring, ending):
  
 # See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/43#issuecomment-65781239
 """ ejf move to main
-log = codecs.open("conv1/log.txt","a","utf-8")
+log = open("conv1/log.txt","a","utf-8")
 log.write(str(timestamp())+"\n")
 anu = [(1,["AP90"]),(2,["AP","BEN","BOP","BUR","CAE","CCS","MD","MW","MW72","PW","PWG","SCH","SHS","STC","VCP","WIL","YAT"]),(3,["SKD","AP90","BHS","WIL","PW","PWG","VCP"]),(4,["YAT"]),(5,["AP","AP90","CAE","CCS","MD","MW","PW","PWG","STC"]),(6,["BUR","MW72","SHS","VCP","WIL","YAT","SKD"])]
 """
@@ -66,11 +66,11 @@ def anu(headwithdicts,dictionary,convention,log,conv1dir):
   nasalwords = []
   anun = [] # anusvAra+nasal consecutively
   mn = [] # m+nasal consecutively
-  anufile = codecs.open(conv1dir + '/'+dictionary+"_anuwords.txt","w","utf-8")
-  nasalfile = codecs.open(conv1dir + '/'+dictionary+"_nasalwords.txt","w","utf-8")
-  anunfile = codecs.open(conv1dir + '/'+dictionary+"_anunwords.txt","w","utf-8")
-  mnfile = codecs.open(conv1dir + '/'+dictionary+"_mnwords.txt","w","utf-8")
-  #log = codecs.open("conv1/log.txt","a","utf-8")
+  anufile = open(conv1dir + '/'+dictionary+"_anuwords.txt","w","utf-8")
+  nasalfile = open(conv1dir + '/'+dictionary+"_nasalwords.txt","w","utf-8")
+  anunfile = open(conv1dir + '/'+dictionary+"_anunwords.txt","w","utf-8")
+  mnfile = open(conv1dir + '/'+dictionary+"_mnwords.txt","w","utf-8")
+  #log = open("conv1/log.txt","a","utf-8")
   for (word,dicts) in headwithdicts:
    #if dictionary in dicts and re.search('M[kKgGcCjJwWqQtTdDpPbB]',word) and not re.search('s[aA]M[kKgGcCjJwWqQtTdDpPbB]',word):
    if dictionary in dicts and re.search('M[kKgGcCjJwWqQtTdDpPbB]',word):
@@ -159,19 +159,19 @@ def normanusvara(hwlist,word):
   return False
 
 """ ejf moved to main
-#violation11 = codecs.open('proberrors/11violation.txt','w','utf-8')
-#violation12 = codecs.open('proberrors/12violation.txt','w','utf-8')
-#violation13 = codecs.open('proberrors/13violation.txt','w','utf-8')
-#violation14 = codecs.open('proberrors/14violation.txt','w','utf-8')
-#violation21 = codecs.open('conv2/21violation.txt','w','utf-8')
-#violation31 = codecs.open('conv3/31violation.txt','w','utf-8')
-#violation32 = codecs.open('conv3/32violation.txt','w','utf-8')
-#violation33 = codecs.open('conv3/33violation.txt','w','utf-8')
-#violation34 = codecs.open('conv3/34violation.txt','w','utf-8')
-#rxx = codecs.open('conv2/rxx.txt','w','utf-8')
-violation41 = codecs.open('proberrors/41violation.txt','w','utf-8')
-#violation61 = codecs.open('proberrors/61violation.txt','w','utf-8')
-#violation62 = codecs.open('proberrors/62violation.txt','w','utf-8')
+#violation11 = open('proberrors/11violation.txt','w','utf-8')
+#violation12 = open('proberrors/12violation.txt','w','utf-8')
+#violation13 = open('proberrors/13violation.txt','w','utf-8')
+#violation14 = open('proberrors/14violation.txt','w','utf-8')
+#violation21 = open('conv2/21violation.txt','w','utf-8')
+#violation31 = open('conv3/31violation.txt','w','utf-8')
+#violation32 = open('conv3/32violation.txt','w','utf-8')
+#violation33 = open('conv3/33violation.txt','w','utf-8')
+#violation34 = open('conv3/34violation.txt','w','utf-8')
+#rxx = open('conv2/rxx.txt','w','utf-8')
+violation41 = open('proberrors/41violation.txt','w','utf-8')
+#violation61 = open('proberrors/61violation.txt','w','utf-8')
+#violation62 = open('proberrors/62violation.txt','w','utf-8')
 exclusionlist12 = ['[sS][aA][M][kKgGcCjJwWqQtTdDpPbB]','k[iE][M][kKgGcCjJwWqQtTdDpPbB]','aMk[aA]r','BujaMg','yaMdin','aMtap','aMg','MDar','aMBA','Mpac','a[hl]aMk','ahaM','aMBav','h[iu]Mk','oMk','aMDam','annaMBaww','yaMd','aMkf','apAM','dv[Aa]Mdv','aMkaz','[aAiIuU]Mjaya','puraMDr','MGuz','Mdam','Mtud','alaM','Mgat','MBar','MpaSy','Mk[Aa]r','raTaMt','AMpati','AMkf','AsyaMDa','itTaM','idaM','idAnIM','AMd[aA]','^IMkf','ilIMDr','[aA]laMkr','DvaMjAnu','fRaMcaya','evaM','EdaM','kaM[jdD]','kawaMkaw','k[Aa]TaM','karaMDay','p[Aa]raMpar','kAMdiS','puM','k[Uu]laM','ASuMga','karRaM','kAM','kupyaMjara','koyaMpurI','kzudraM','MDa[my]','gAM','gomaRiMda','svayaMB','ciraM','cUMkfta','jIvaM','tadAnIM','timiM','naktaM','tUzRIM','tElaM','zaMDi','tv[aA]M','daM','dayyAM','puraMdar','dAnaM','dAMpaty','devAnAM','devIMDiyaka','dEnaM','dEyAM','dyAM','druhaMtara','D[Aa]naM','DiyaM','DarmaM','DuMDuM','DenuM','naraM','nikftiM','paRyaM','paraM','pAMkt','putraM','p[uO]raM','pfTivIM','prARaM','bAlaMBawwa','B[aA]gaM','makzuM','mahiM','mArtyuM','mitaM','mftyuM','sAyaM','yuDiM','rAtriM','rATaM','lakzmIM','lokaM','varzaM','v[iE]SvaM','vftaM','SataM','S[aA]truM','SayyaM','SarDaM','SAkaM','SunaM','SuBaM','SyEnaM','samaM','samitiM','sarvaM','sahasraM','sAkaM','sAtyaM','suKaM','sEr[ai]M','stanaM','sv[aA]yaM','svarRaM','hUM',]
 exclusionlist61 = ['kf$','^f$','^[gjdnBnvsh]f$']
 exclusionlist62 = ['[GcjJPtvs]ar$','kzar$','antar$','punar$','prAtar','ahar$','kmar$','vaDar$','uzar$','^UDar$','^janar$']
@@ -259,7 +259,7 @@ def norminflection(list,word):
  return output
  
 def difflist(outputfile,list1,list2):
- fout = codecs.open(outputfile,'w','utf-8')
+ fout = open(outputfile,'w','utf-8')
  difflist = list(set(list1) - set(list2))
  difflist = sorted(difflist);
  fout.write("\n".join(difflist))
@@ -274,7 +274,7 @@ def triming(lst):
 
 def exam(test,control,step,outfile):
  examinableentries = []
- fout = codecs.open(outfile,'w','utf-8')
+ fout = open(outfile,'w','utf-8')
  ok = []
  test = sorted(test)
  print("Writing suspect entries to", outfile)
@@ -306,7 +306,7 @@ def sort_headwords(hw1):
 
 def all_headwords(hw1_in,fileout):
  hw1 = sort_headwords(hw1_in)
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout,"w","utf-8") as f:
   f.write("\n".join(hw1))
  print("Total entries without normalization are", len(hw1),fileout)
 
@@ -354,7 +354,7 @@ def normalize_nasal(hw1,fileout):
  output=get_normalize_nasal(hw1)
  hw2 = list(set(output)) # remove duplicates
  hw2 = sort_headwords(hw2)
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout,"w","utf-8") as f:
   f.write("\n".join(hw2))
  print("Total entries with anusvAra normalization are", len(hw2),fileout)
 
@@ -363,7 +363,7 @@ def normalize_nasal_rxx(hw1,fileout,consonants):
  output1 = get_normalize_rxx(hw2,consonants)
  hw3 = list(set(output1))
  hw3 = sorted(hw3)
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout,"w","utf-8") as f:
   f.write("\n".join(hw3))
  print("Total entries with duplication normalization are", len(hw3))
 
@@ -375,7 +375,7 @@ def normalize_nasal_rxx_ant(hw1,fileout,consonants):
  output3 = get_normalize_ant(hw3,pfx)
  hw4 = list(set(output3))
  hw4 = sorted(hw4)
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout,"w","utf-8") as f:
   f.write("\n".join(hw4))
  print("Total entries with nasal, rxx, ant normalization are", len(hw4))
 
@@ -407,7 +407,7 @@ def normalize_nasal_rxx_ant_infl(hw1,fileout,consonants):
  output4 = get_normalize_infl(output3) 
  hw5 = list(set(output4))
  hw5 = sorted(hw5)
- with codecs.open(fileout,"w","utf-8") as f:
+ with open(fileout,"w","utf-8") as f:
   f.write("\n".join(hw5))
  print("Total entries with nasal, rxx, ant, infl normalization are", len(hw5))
 
@@ -416,7 +416,7 @@ def unused_countlen():
  #global sanhw1
  #global hw1
  #global headwithdicts
- hw1file = codecs.open('normalization/hw1.txt','w','utf-8')
+ hw1file = open('normalization/hw1.txt','w','utf-8')
  hw1 = sorted(hw1)
  hw1file.write("\n".join(hw1))
  hw1file.close()
@@ -434,7 +434,7 @@ def unused_countlen():
  hw2 = list(set(output))
  hw2 = sorted(hw2)
  print("Total entries with anusvAra normalization are", len(hw2))
- hw2file = codecs.open('normalization/hw2.txt','w','utf-8')
+ hw2file = open('normalization/hw2.txt','w','utf-8')
  hw2file.write("\n".join(hw2))
  hw2file.close()
 
@@ -451,7 +451,7 @@ def unused_countlen():
  hw3 = list(set(output1))
  hw3 = sorted(hw3)
  print("Total entries with duplication normalization are", len(hw3))
- hw3file = codecs.open('normalization/hw3.txt','w','utf-8')
+ hw3file = open('normalization/hw3.txt','w','utf-8')
  hw3file.write("\n".join(hw3))
  hw3file.close()
  # Do 'ant$' normalization
@@ -463,7 +463,7 @@ def unused_countlen():
    output3.append(word)
  hw4 = list(set(output3))
  hw4 = sorted(hw4)
- hw4file = codecs.open('normalization/hw4.txt','w','utf-8')
+ hw4file = open('normalization/hw4.txt','w','utf-8')
  hw4file.write("\n".join(hw4))
  hw4file.close()
  print("Total entries with 'ant' normalization are", len(hw4))
@@ -480,17 +480,17 @@ def unused_countlen():
   
  hw5 = list(set(output4))
  hw5 = sorted(hw5)
- hw5file = codecs.open('normalization/hw5.txt','w','utf-8')
+ hw5file = open('normalization/hw5.txt','w','utf-8')
  hw5file.write("\n".join(hw5))
  hw5file.close()
  print("Total entries with inflection normalization are", len(hw5))
 
 def difflister():
- hw1text = codecs.open('normalization/hw1.txt','r','utf-8')
- hw2text = codecs.open('normalization/hw2.txt','r','utf-8')
- hw3text = codecs.open('normalization/hw3.txt','r','utf-8')
- hw4text = codecs.open('normalization/hw4.txt','r','utf-8')
- hw5text = codecs.open('normalization/hw5.txt','r','utf-8')
+ hw1text = open('normalization/hw1.txt','r','utf-8')
+ hw2text = open('normalization/hw2.txt','r','utf-8')
+ hw3text = open('normalization/hw3.txt','r','utf-8')
+ hw4text = open('normalization/hw4.txt','r','utf-8')
+ hw5text = open('normalization/hw5.txt','r','utf-8')
  hw1 = hw1text.readlines()
  hw2 = hw2text.readlines()
  hw3 = hw3text.readlines()
@@ -632,7 +632,7 @@ def conventionviolation_main(headwithdicts,hw1):
  for violation_code in conventionviolation_files.keys():
   fileout = conventionviolation_files[violation_code]
   nout = 0
-  with codecs.open(fileout,"w","utf-8") as f:
+  with open(fileout,"w","utf-8") as f:
    for v,word,dictionary in all_violations:
     if v == violation_code:
      f.write(dictionary.lower()+":"+word+":"+word+":n:\n")
@@ -641,7 +641,7 @@ def conventionviolation_main(headwithdicts,hw1):
 
 def anu_main(headwithdicts,hw1,conv1dir,alldicts):
  logfile = "%s/log.txt"%conv1dir
- log = codecs.open(logfile,"w","utf-8")
+ log = open(logfile,"w","utf-8")
  log.write(str(timestamp())+"\n")
  #anu = [(1,["AP90"]),(2,["AP","BEN","BOP","BUR","CAE","CCS","MD","MW","MW72","PW","PWG","SCH","SHS","STC","VCP","WIL","YAT"]),(3,["SKD","AP90","BHS","WIL","PW","PWG","VCP"]),(4,["YAT"]),(5,["AP","AP90","CAE","CCS","MD","MW","PW","PWG","STC"]),(6,["BUR","MW72","SHS","VCP","WIL","YAT","SKD"])]
 
@@ -684,20 +684,20 @@ if __name__ == "__main__":
  #print('exiting after step 1')
  #exit(1)
 
- #violation11 = codecs.open('proberrors/11violation.txt','w','utf-8')
- #violation12 = codecs.open('proberrors/12violation.txt','w','utf-8')
- #violation13 = codecs.open('proberrors/13violation.txt','w','utf-8')
- #violation14 = codecs.open('proberrors/14violation.txt','w','utf-8')
+ #violation11 = open('proberrors/11violation.txt','w','utf-8')
+ #violation12 = open('proberrors/12violation.txt','w','utf-8')
+ #violation13 = open('proberrors/13violation.txt','w','utf-8')
+ #violation14 = open('proberrors/14violation.txt','w','utf-8')
 
- #violation21 = codecs.open('conv2/21violation.txt','w','utf-8')
- #violation31 = codecs.open('conv3/31violation.txt','w','utf-8')
- #violation32 = codecs.open('conv3/32violation.txt','w','utf-8')
- #violation33 = codecs.open('conv3/33violation.txt','w','utf-8')
- #violation34 = codecs.open('conv3/34violation.txt','w','utf-8')
- #rxx = codecs.open('conv2/rxx.txt','w','utf-8')
- violation41 = codecs.open('proberrors/41violation.txt','w','utf-8')
- #violation61 = codecs.open('proberrors/61violation.txt','w','utf-8')
- #violation62 = codecs.open('proberrors/62violation.txt','w','utf-8')
+ #violation21 = open('conv2/21violation.txt','w','utf-8')
+ #violation31 = open('conv3/31violation.txt','w','utf-8')
+ #violation32 = open('conv3/32violation.txt','w','utf-8')
+ #violation33 = open('conv3/33violation.txt','w','utf-8')
+ #violation34 = open('conv3/34violation.txt','w','utf-8')
+ #rxx = open('conv2/rxx.txt','w','utf-8')
+ violation41 = open('proberrors/41violation.txt','w','utf-8')
+ #violation61 = open('proberrors/61violation.txt','w','utf-8')
+ #violation62 = open('proberrors/62violation.txt','w','utf-8')
  
  for (word,dicts) in headwithdicts:
   for dictionary in dicts:
