@@ -132111,9 +132111,9 @@ AdyagaNgA:AdyagaNgA:MW,PW,PWG
 AdyadvAra:AdyadvAra:PW,PWKVN,SCH
 Adyanta:Adyanta:AP,BUR,CAE,CCS,LRV,MD,MW,PW,PWG,PWKVN,SCH,SHS,WIL,YAT
 Adyantayamaka:Adyantayamaka:MW,PW
-Adyantavat:Adyantavat:BOP,MW,SHS,WIL,YAT;Adyantavant:BEN,CAE,PW,PWG
+Adyantavat:Adyantavat:AP,BOP,MW,SHS,WIL,YAT;Adyantavant:BEN,CAE,PW,PWG
 AdyantasTAyika:AdyantasTAyika:PW,PWKVN,SCH
-AdyantAntaravartin:AdyantAntaravarttin:YAT
+AdyantAntaravartin:AdyantAntaravartin:AP;AdyantAntaravarttin:YAT
 AdyapaTa:AdyapaTa:PGN
 Adyapuruza:Adyapuruza:INM
 AdyabIja:AdyabIja:LRV,MW,PW

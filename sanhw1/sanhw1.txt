@@ -139284,9 +139284,10 @@ AdyagaNgA:MW,PW,PWG
 AdyadvAra:PW,PWKVN,SCH
 Adyanta:AP,BUR,CAE,CCS,LRV,MD,MW,PW,PWG,PWKVN,SCH,SHS,WIL,YAT
 Adyantayamaka:MW,PW
-Adyantavat:BOP,MW,SHS,WIL,YAT
+Adyantavat:AP,BOP,MW,SHS,WIL,YAT
 Adyantavant:BEN,CAE,PW,PWG
 AdyantasTAyika:PW,PWKVN,SCH
+AdyantAntaravartin:AP
 AdyantAntaravarttin:YAT
 AdyapaTa:PGN
 Adyapuruza:INM
