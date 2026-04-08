@@ -138244,6 +138244,7 @@ AtmagataM:YAT
 Atmagatam:BOP,LRV,MW,PWG
 Atmagati:CAE,CCS,MW,PW,PWG
 AtmagatiH:AP
+AtmagatigatyA:AP
 AtmagatyA:MW
 AtmaganDaka:PW
 AtmaganDiharidrA:PW

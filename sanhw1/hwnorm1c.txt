@@ -131207,6 +131207,7 @@ AtmakrIqa:AtmakrIqa:MW,PW
 Atmagata:Atmagata:AP,CAE,CCS,MW,PW,PWG,SHS,WIL;AtmagataM:YAT
 Atmagatam:Atmagatam:BOP,LRV,MW,PWG
 Atmagati:Atmagati:CAE,CCS,MW,PW,PWG;AtmagatiH:AP
+AtmagatigatyA:AtmagatigatyA:AP
 AtmagatyA:AtmagatyA:MW
 AtmaganDaka:AtmaganDaka:PW
 AtmaganDiharidrA:AtmaganDiharidrA:PW
