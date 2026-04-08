@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from __future__ import print_function
 """ duplicationstats.py
 
 To generate statistics from rxx.txt
@@ -27,7 +28,7 @@ def sanhw1():
 	return output
 
 headwithdicts = sanhw1()
-print len(headwithdicts)
+print(len(headwithdicts))
 
 def hw1():
 	global headwithdicts
@@ -80,7 +81,7 @@ def dictdupstats():
 				word, dictionary = line.split(':')
 				if re.search(entry,word) and dict == dictionary:
 					counter += 1
-			print entry, "pattern in", dict, "dictionary is", counter, "/", len(data)
+			print(entry, "pattern in", dict, "dictionary is", counter, "/", len(data))
 			rxxstats.write(entry+" pattern in "+dict+" dictionary is "+str(counter)+" / "+str(len(data))+"\n")
 	rxxstats.close()
 dictdupstats()	
@@ -101,7 +102,7 @@ def dictnodupstats():
 				word, dictionary = line.split(':')
 				if re.search(entry,word) and dict == dictionary:
 					counter += 1
-			print entry, "pattern in", dict, "dictionary is", counter, "/", len(data)
+			print(entry, "pattern in", dict, "dictionary is", counter, "/", len(data))
 			rxstats.write(entry+" pattern in "+dict+" dictionary is "+str(counter)+" / "+str(len(data))+"\n")
 	rxstats.close()
 dictnodupstats()	
