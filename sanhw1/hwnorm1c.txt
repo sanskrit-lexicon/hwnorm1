@@ -134340,7 +134340,6 @@ AyuHSeza:AyuHSeza:CAE,CCS,LRV,MD,MW,PW,PWG,SHS,WIL,YAT;AyuHSezaH:AP
 AyuHSezatA:AyuHSezatA:BEN,MW
 AyuHzwoma:AyuHzwoma:MW,PW
 AyuHsaMskAra:AyuHsaMskAra:BHS
-AyuHstoma:AyuHstomaH:AP
 Ayukft:Ayukft:MW,PW,PWKVN,SCH
 Ayukta:Ayukta:ABCH,AP,AP90,BUR,CAE,IEG,LRV,MD,MW,MW72,PW,PWG,SCH,SHS,VCP,WIL,YAT;AyuktaH:SKD
 Ayuktaka:Ayuktaka:IEG,MW,PW,PWG
@@ -134445,7 +134444,7 @@ AyuzkAmezwiprayoga:AyuzkAmezwiprayoga:ACC
 AyuzkAraRa:AyuzkAraRa:MW,PW
 Ayuzkft:Ayuzkft:AP,MW,PW,PWG,VCP
 AyuzwoBa:AyuzwoBa:YAT
-Ayuzwoma:Ayuzwoma:LRV,MW,PWG,SHS,VCP,WIL
+Ayuzwoma:Ayuzwoma:LRV,MW,PWG,SHS,VCP,WIL;AyuzwomaH:AP
 Ayuzpati:Ayuzpati:MW,PW,PWKVN,SCH
 AyuzpatnI:AyuzpatnI:PW,PWG,PWKVN
 AyuzpA:AyuzpA:MW,PW,PWG
@@ -280186,9 +280185,8 @@ BAulAcArya:BAulAcArya:ACC,MW
 BAfjIka:BAfjIka:GRA,MD,MW,PW,PWG,VCP
 BAMSa:BAMSa:MW,MW72,PW,PWG
 BAH:BAH:SKD
-BAHkara:BAHkara:AP,AP90,LRV,MW,MW72,PW,PWG;BAHkaraH:AP
+BAHkara:BAHkara:AP,AP90,LRV,MW,MW72,PW,PWG
 BAHkaraRa:BAHkaraRa:PW,PWG
-BAHkari:BAHkariH:AP
 BAHkUwa:BAHkUwa:CAE,CCS,MD,MW,PW
 BAHKara:BAHKara:MW72,PW,PWG
 BAHpati:BAHpati:PW
@@ -281423,7 +281421,7 @@ BAsurAnandanATa:BAsurAnandanATa:ACC,MW
 BAsf:BAsf:KRM
 BAsfjIka:BAsfjIka:GRA
 BAsoka:BAsoka:ACC,MW
-BAskara:BAskara:ABCH,ACC,ARMH,BEN,BOP,CAE,CCS,FRI,INM,LAN,LRV,MCI,MD,MW,MW72,PE,PGN,PUI,PW,PWG,SHS,VCP,WIL,YAT;BAskaraM:SKD;BAskaraH:SKD
+BAskara:BAskara:ABCH,ACC,ARMH,BEN,BOP,CAE,CCS,FRI,INM,LAN,LRV,MCI,MD,MW,MW72,PE,PGN,PUI,PW,PWG,SHS,VCP,WIL,YAT;BAskaraM:SKD;BAskaraH:AP,SKD
 BAskaraAcArya:BAskaraAcArya:ACC
 BAskarakaRWa:BAskarakaRWa:ACC,MW
 BAskaracaritra:BAskaracaritra:ACC,MW
@@ -281460,7 +281458,7 @@ BAskarAcArya:BAskarAcArya:MW,PE,PW,PWG
 BAskarAnandanATa:BAskarAnandanATa:ACC
 BAskarAvarta:BAskarAvarta:MW,PW,PWG;BAskarAvartta:VCP
 BAskarAhnika:BAskarAhnika:ACC,MW
-BAskari:BAskari:INM,LRV,MW,PE,PW,PWG,VCP
+BAskari:BAskari:INM,LRV,MW,PE,PW,PWG,VCP;BAskariH:AP
 BAskarIya:BAskarIya:MW,PW,PWG
 BAskarIyalaGu:BAskarIyalaGu:ACC
 BAskarezwA:BAskarezwA:MW,PW,PWG,SKD
