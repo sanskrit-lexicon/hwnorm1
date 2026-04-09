@@ -321385,7 +321385,7 @@ BUgolaka:CAE,MW,PW
 BUgolaKagolaviroDaparihAra:ACC,MW
 BUgolanirRaya:ACC
 BUgolavarRana:ACC,MW
-BUgolavidyA:LRV,MW
+BUgolavidyA:AP,LRV,MW
 BUgolavistAra:ACC,MW
 BUgolavfttAnta:MW,PW
 BUgolavyavasTAtantroktA:ACC,MW
@@ -321740,9 +321740,11 @@ BUtArttaH:SKD
 BUtArTa:CAE,CCS,LRV,MW,PW,PWG,SCH,VCP
 BUtArTaH:AP
 BUtArTakaTana:MW
+BUtArTakaTanam:AP
 BUtArTaketu:BHS
 BUtArTavarRana:MW
 BUtArTavAdin:SCH
+BUtArTavyavahftiH:AP
 BUtArTavyAhfti:MW
 BUtArTAnuBava:MW
 BUtArTika:BHS

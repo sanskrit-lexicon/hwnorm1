@@ -282559,7 +282559,7 @@ BUgolaka:BUgolaka:CAE,MW,PW
 BUgolaKagolaviroDaparihAra:BUgolaKagolaviroDaparihAra:ACC,MW
 BUgolanirRaya:BUgolanirRaya:ACC
 BUgolavarRana:BUgolavarRana:ACC,MW
-BUgolavidyA:BUgolavidyA:LRV,MW
+BUgolavidyA:BUgolavidyA:AP,LRV,MW
 BUgolavistAra:BUgolavistAra:ACC,MW
 BUgolavfttAnta:BUgolavfttAnta:MW,PW
 BUgolavyavasTAtantroktA:BUgolavyavasTAtantroktA:ACC,MW
@@ -282841,9 +282841,11 @@ BUtAri:BUtAri:MW,PW,PWG,SHS,SKD,VCP,WIL,YAT;BUtAriH:AP
 BUtArta:BUtArta:AP,LRV,MW,PW,PWG;BUtArtta:SHS,VCP,WIL,YAT;BUtArttaH:SKD
 BUtArTa:BUtArTa:CAE,CCS,LRV,MW,PW,PWG,SCH,VCP;BUtArTaH:AP
 BUtArTakaTana:BUtArTakaTana:MW
+BUtArTakaTanam:BUtArTakaTanam:AP
 BUtArTaketu:BUtArTaketu:BHS
 BUtArTavarRana:BUtArTavarRana:MW
 BUtArTavAdin:BUtArTavAdin:SCH
+BUtArTavyavahfti:BUtArTavyavahftiH:AP
 BUtArTavyAhfti:BUtArTavyAhfti:MW
 BUtArTAnuBava:BUtArTAnuBava:MW
 BUtArTika:BUtArTika:BHS
