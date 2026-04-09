@@ -319599,8 +319599,7 @@ BAvacezwita:MW,PW
 BAvacezwitam:AP
 BAvaja:BEN,LRV,MW,SHS,WIL,YAT
 BAvajaH:AP
-BAvajYa:MW
-BAvajYaa:AP
+BAvajYa:AP,MW
 BAvajYA:MW
 BAvaqa:MW,MW72,PW,PWG
 BAvat:MW

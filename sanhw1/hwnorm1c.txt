@@ -281043,8 +281043,7 @@ BAvacUqAmaRisaNgraha:BAvacUqAmaRisaMgraha:ACC
 BAvacezwita:BAvacezwita:MW,PW
 BAvacezwitam:BAvacezwitam:AP
 BAvaja:BAvaja:BEN,LRV,MW,SHS,WIL,YAT;BAvajaH:AP
-BAvajYa:BAvajYa:MW
-BAvajYaa:BAvajYaa:AP
+BAvajYa:BAvajYa:AP,MW
 BAvajYA:BAvajYA:MW
 BAvaqa:BAvaqa:MW,MW72,PW,PWG
 BAvat:BAvat:MW;BAvant:SCH
