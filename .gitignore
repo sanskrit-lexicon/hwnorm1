@@ -11,3 +11,4 @@ temp*
 *.pyc
 # Sqlite files -- notably sanhw1/hwnorm1c.sqlite
 *.sqlite
+.DS_Store
