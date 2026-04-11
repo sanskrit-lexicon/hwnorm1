@@ -112588,6 +112588,7 @@ abalya:abalya:CAE,GST,MW,MW72,PW,PWG,STC;abalyaM:AP90
 abalyam:abalyam:AP
 abazkayaRI:abazkayaRI:PW
 abahitTa:abahitTaM:AP90
+abahitTam:abahitTam:AP
 abahitTA:abahitTA:AP,AP90,VCP
 abahir:abahir:MW
 abahirDA:abahirDA:MW,PW
@@ -112927,6 +112928,7 @@ aBayamitra:aBayamitra:PGN
 aBayamudrA:aBayamudrA:AP,IEG,VCP
 aBayayAcana:aBayayAcana:GST
 aBayayAcanA:aBayayAcanA:AP,MW,PW
+aBayayAcanAYjali:aBayayAcanAYjaliH:AP
 aBayayAyin:aBayayAyin:SCH
 aBayaruci:aBayaruci:SCH
 aBayavacana:aBayavacana:GST,LRV,MW,PW
@@ -282945,7 +282947,7 @@ BUdyurimna:BUdyurimna:PW,PWG
 BUDana:BUDana:LRV,MW,PW,PWG,SHS,VCP,WIL,YAT;BUDanaH:AP,SKD
 BUDara:BUDara:ABCH,ACC,AP,BEN,BOP,CAE,CCS,FRI,IEG,LRV,MW,PW,PWG,PWKVN,SCH,SHS,VCP,WIL,YAT;BUDaraH:AP,SKD
 BUDaraguhAntaratas:BUDaraguhAntaratas:MW
-BUDaraja:BUDaraja:LRV,MW,PW,PWG
+BUDaraja:BUDaraja:LRV,MW,PW,PWG;BUDarajaH:AP
 BUDaratA:BUDaratA:MW,PW,PWG
 BUDaraBU:BUDaraBU:SCH
 BUDarayantra:BUDarayantra:MW,PW
@@ -282954,7 +282956,6 @@ BUDarAtmaka:BUDarAtmaka:MW,PW
 BUDarADISa:BUDarADISa:MW,PW
 BUDarAraRya:BUDarAraRya:CAE,MW
 BUDareSvara:BUDareSvara:LRV,MW,PW,PWG;BUDareSvaraH:AP
-BUDarja:BUDarjaH:AP
 BUDAtirI:BUDAtirI:MW
 BUDAtrI:BUDAtrI:AP,PW,PWG,SKD,VCP
 BUDra:BUDra:ABCH,BEN,MD,MW,PW,PWG,SHS,VCP,WIL,YAT;BUDraH:AP,SKD

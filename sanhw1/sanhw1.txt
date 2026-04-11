@@ -116030,6 +116030,7 @@ abalyaM:AP90
 abalyam:AP
 abazkayaRI:PW
 abahitTaM:AP90
+abahitTam:AP
 abahitTA:AP,AP90,VCP
 abahir:MW
 abahirDA:MW,PW
@@ -116433,6 +116434,7 @@ aBayamitra:PGN
 aBayamudrA:AP,IEG,VCP
 aBayayAcana:GST
 aBayayAcanA:AP,MW,PW
+aBayayAcanAYjaliH:AP
 aBayayAyin:SCH
 aBayaruci:SCH
 aBayavacana:GST,LRV,MW,PW
@@ -321873,6 +321875,7 @@ BUDara:ABCH,ACC,AP,BEN,BOP,CAE,CCS,FRI,IEG,LRV,MW,PW,PWG,PWKVN,SCH,SHS,VCP,WIL,Y
 BUDaraH:AP,SKD
 BUDaraguhAntaratas:MW
 BUDaraja:LRV,MW,PW,PWG
+BUDarajaH:AP
 BUDaratA:MW,PW,PWG
 BUDaraBU:SCH
 BUDarayantra:MW,PW
@@ -321883,7 +321886,6 @@ BUDarADISa:MW,PW
 BUDarAraRya:CAE,MW
 BUDareSvara:LRV,MW,PW,PWG
 BUDareSvaraH:AP
-BUDarjaH:AP
 BUDAtirI:MW
 BUDAtrI:AP,PW,PWG,SKD,VCP
 BUDra:ABCH,BEN,MD,MW,PW,PWG,SHS,VCP,WIL,YAT
