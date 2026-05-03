@@ -129227,7 +129227,7 @@ ahalyAhradra:ahalyAhradra:VCP
 ahalyeSvaratIrTa:ahalyeSvaratIrTa:MW,PW,PWG;ahalyeSvaratIrTaH:AP
 ahallika:ahallika:MW,MW72,PW,PWG,STC,VCP;ahallikaH:AP,AP90
 ahavanIya:ahavanIya:MW72,SHS,WIL
-ahavi:ahavi:AP90;ahaviH:AP
+ahavi:ahavi:AP,AP90
 ahaviryAjin:ahaviryAjin:MW,PW
 ahavizya:ahavizya:MW,PW
 ahavis:ahavis:GRA,MW,MW72,PW,PWG
@@ -160952,7 +160952,8 @@ kasun:kasun:CCS,MD,MW,PW
 kasulA:kasulA:BHS
 kasetu:kasetu:MW,PW
 kaseru:kaseru:AP,AP90,ARMH,BEN,LRV,MW,MW72,PUI,PW,PWG,SHS,VCP,WIL,YAT;kaseruH:AP,AP90,SKD
-kaseruka:kaseruka:AP,PW;kaserukaH:AP90
+kaseruka:kaseruka:PW;kaserukaH:AP90
+kaserukam:kaserukam:AP
 kaserukA:kaserukA:AP,AP90,LRV,MW72,SHS,SKD,VCP,WIL,YAT
 kaserukAH:kaserukAH:AP
 kaserumat:kaserumat:INM;kaserumant:PW
@@ -163325,7 +163326,6 @@ kArtsnyam:kArtsnyam:AP
 kArtsnyena:kArtsnyena:MW
 kArdantika:kArdantika:PW,PWG
 kArdama:kArdama:AP,AP90,BEN,LRV,MD,MW,MW72,PW,PWG,STC,VCP;kArddama:SHS,WIL,YAT
-kArdamaka:kArdamaka:AP
 kArdamAyani:kArdamAyani:PUI
 kArdami:kArdami:MW,PW,PWG
 kArdamika:kArdamika:AP,MW,MW72,PW,PWG,PWKVN,SCH
@@ -222513,7 +222513,7 @@ druhyat:druhyat:MW72,SHS,WIL,YAT
 druhyu:druhyu:CAE,CCS,GRA,INM,MW,MW72,PE,PUI,PW,PWG,STC,VCP,VEI;druhyuH:AP
 druhvan:druhvan:CAE,CCS,GRA,MW,MW72,PW,PWG
 drU:drU:AP,AP90,BEN,BOP,BUR,CAE,CCS,GRA,LRV,MD,MW,MW72,PW,PWG,PWKVN,SHS,SKD,VCP,WIL,YAT
-drUH:drUH:AP,AP90,SKD
+drUH:drUH:AP90,SKD
 drUGaRa:drUGaRa:BUR,LRV,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT;drUGaRaH:AP,AP90,SKD
 drUY:drUY:KRM
 drUq:drUq:MW,MW72,PW,PWG

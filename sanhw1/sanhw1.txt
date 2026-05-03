@@ -136195,8 +136195,7 @@ ahalyeSvaratIrTaH:AP
 ahallika:MW,MW72,PW,PWG,STC,VCP
 ahallikaH:AP,AP90
 ahavanIya:MW72,SHS,WIL
-ahavi:AP90
-ahaviH:AP
+ahavi:AP,AP90
 ahaviryAjin:MW,PW
 ahavizya:MW,PW
 ahavis:GRA,MW,MW72,PW,PWG
@@ -174805,8 +174804,9 @@ kasulA:BHS
 kasetu:MW,PW
 kaseru:AP,AP90,ARMH,BEN,LRV,MW,MW72,PUI,PW,PWG,SHS,VCP,WIL,YAT
 kaseruH:AP,AP90,SKD
-kaseruka:AP,PW
+kaseruka:PW
 kaserukaH:AP90
+kaserukam:AP
 kaserukA:AP,AP90,LRV,MW72,SHS,SKD,VCP,WIL,YAT
 kaserukAH:AP
 kaserumat:INM
@@ -177708,7 +177708,6 @@ kArtsnyam:AP
 kArtsnyena:MW
 kArdantika:PW,PWG
 kArdama:AP,AP90,BEN,LRV,MD,MW,MW72,PW,PWG,STC,VCP
-kArdamaka:AP
 kArdamAyani:PUI
 kArdami:MW,PW,PWG
 kArdamika:AP,MW,MW72,PW,PWG,PWKVN,SCH
@@ -249727,7 +249726,7 @@ druhyu:CAE,CCS,GRA,INM,MW,MW72,PE,PUI,PW,PWG,STC,VCP,VEI
 druhyuH:AP
 druhvan:CAE,CCS,GRA,MW,MW72,PW,PWG
 drU:AP,AP90,BEN,BOP,BUR,CAE,CCS,GRA,LRV,MD,MW,MW72,PW,PWG,PWKVN,SHS,SKD,VCP,WIL,YAT
-drUH:AP,AP90,SKD
+drUH:AP90,SKD
 drUGaRa:BUR,LRV,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT
 drUGaRaH:AP,AP90,SKD
 drUY:KRM
