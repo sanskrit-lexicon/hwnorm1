@@ -4,63 +4,43 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**hwnorm1** normalizes Sanskrit headword spellings across all CDSL dictionaries, producing `sanhw1.txt` (the master list of all distinct Sanskrit headwords with their dictionary affiliations) and `hwnorm1c.txt` / `hwnorm1c.sqlite` (a normalization map used by the API's autocomplete and simple-search features).
+**hwnorm1** is a Sanskrit Lexicon **processing-tool** repository — part of the Cologne Digital Sanskrit Lexicon (CDSL) infrastructure.
 
-The output `hwnorm1c.sqlite` is deployed to `csl-apidev/simple-search/hwnorm1/` and also copied into the `cologne-stardict` pipeline.
+## Repo Category
 
-Assumed local directory layout:
-```
-cologne/
-  hwnorm1/          ← this repo
-  csl-orig/         ← source digitization files (read-only)
-  CORRECTIONS/      ← sanhw1/sanhw1.txt cross-reference data
-  csl-apidev/       ← deployment target for hwnorm1c.sqlite
-```
+`processing-tool` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
 
-## Architecture
+## GitHub Issue Conventions
 
-| Directory/File | Purpose |
-|---|---|
-| `sanhw1/` | Primary pipeline: generates `sanhw1.txt` and `hwnorm1c.txt/sqlite` |
-| `normalization/` | Research artifacts: multi-generation headword lists (`hw1.txt`–`hw5.txt`) for analysis |
-| `conv1/`–`conv3/` | Legacy conversion experiments (historical) |
-| `ejf/` | Earlier EJF-contributed normalization prototypes |
-| `dhaval/` | Dhaval-contributed normalization experiments |
-| `proberrors.py` | Identifies probable digitization errors in headwords |
-| `hwnorm1.py` | Headword normalization logic (reads `CORRECTIONS/sanhw1/sanhw1.txt`) |
-| `hwnorm1.sh` | Shell wrapper for `hwnorm1.py` |
+This repository uses the **Cologne tooling-repo taxonomy**. All issues must have:
+- **Exactly one type label** (9 options)
+- **Exactly one severity label** (4 levels)
+- **One milestone** (5 options)
 
-### `sanhw1/` Pipeline
+### Type Labels
+- `bug` — Code defect (wrong output, broken contract)
+- `feature` — Net-new capability
+- `enhancement` — Improvement to existing capability
+- `performance` — Speed, memory, throughput optimization
+- `tech-debt` — Refactoring, cleanup, dependency updates
+- `security` — CVE, auth issue, credential exposure
+- `documentation` — Prose docs, API docs, comments
+- `infrastructure` — CI/CD, deploy, data pipelines, build tooling
+- `question` — Research, proposals, open discussions
 
-The main workflow (run from `sanhw1/`):
-```
-python sanhw1.py sanhw1.txt
-python hwnorm1c.py sanhw1.txt hwnorm1c.txt
-python make_hwnorm1c_sql_input.py hwnorm1c.txt hwnorm1c_sql_input.txt
-sqlite3 hwnorm1c.sqlite < hwnorm1c.sql
-rm hwnorm1c_sql_input.txt
-mv hwnorm1c.sqlite ../../csl-apidev/simple-search/hwnorm1/
-```
+### Severity Labels
+- `trivial` — Cosmetic, < 1 hour
+- `minor` — Single function/component
+- `major` — Multiple files, design decision
+- `critical` — Blocks users, data loss/security CVE
 
-After this, commit both `hwnorm1` and `csl-apidev`, then pull on the Cologne server.
+### Milestones
+- **API Stability** — performance, security, regressions
+- **User Experience** — bugs, features, enhancements
+- **Data Quality** — data-pipeline issues, integrity
+- **Developer Experience** — tech-debt, infrastructure, docs
+- **Community** — questions, proposals, discussions
 
-`sanhw1.py` detects its execution environment (Cologne server vs. XAMPP local) and adjusts paths accordingly. For a new dictionary, update the `dictyear` variable in `sanhw1.py`.
+## Cross-Repo Coordination
 
-## Common Commands
-
-### Full rebuild (from `sanhw1/`)
-```bash
-sh redo.sh
-```
-
-### Identify headword errors
-```bash
-python proberrors.py
-```
-
-## Dependencies
-
-- **Python 3** (`sanhw1.py`, `hwnorm1c.py` are Python 2/3 compatible; `sanhw2.py` is Python 2 only)
-- **sqlite3** CLI
-- **CORRECTIONS** sibling repo — `../CORRECTIONS/sanhw1/sanhw1.txt`
-- **csl-orig** sibling repo — source digitization files
+The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
