@@ -1,0 +1,17 @@
+name: Feature request
+description: Request a new normalization convention or capability
+title: "[feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What would you like?
+      description: Describe the new convention or capability
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Why is this needed?
+      description: Which dictionaries or research questions motivate this?
