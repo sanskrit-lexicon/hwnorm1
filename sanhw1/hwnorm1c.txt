@@ -120304,13 +120304,12 @@ arTotpatti:arTotpattiH:AP
 arTotpAda:arTotpAda:MW,PW,PWG
 arTotsarga:arTotsarga:MD,MW,PW,PWKVN,SCH
 arToddyotanikA:arToddyotanikA:ACC,MW
-arTopakzepaka:arTopakzepaka:MW,PW,PWG,VCP;arTopakzepakaH:AP
+arTopakzepaka:arTopakzepaka:MW,PW,PWG,VCP,YAT;arTopakzepakaH:AP
 arTopakzepaRa:arTopakzepaRa:MW,PW,PWG
 arTopama:arTopama:MW,PW,PWG
 arTopamA:arTopamA:AP,VCP
 arTopArjana:arTopArjana:LRV,MW,YAT;arTopArjjana:SHS,WIL
 arTopArjanam:arTopArjanam:AP
-arTopekzepaka:arTopekzepaka:YAT
 arTozman:arTozman:AP,LRV,MW,SHS,WIL
 arTOGa:arTOGa:LRV,MW,PW,PWG;arTOGaH:AP
 arTya:arTya:ABCH,AP,AP90,BEN,BUR,CAE,CCS,LAN,LRV,MD,MW,MW72,PW,PWG,PWKVN,SCH,SHS,STC,VCP,WIL,YAT;arTyaM:SKD;arTyaH:SKD
@@ -127864,8 +127863,8 @@ asAkzya:asAkzya:MW,MW72,SHS,WIL,YAT;asAkzyaM:AP90
 asAkzyam:asAkzyam:AP
 asAta:asAta:BHS,SCH
 asAtmya:asAtmya:MW,MW72,PW,PWG,SHS,WIL,YAT
-asAda:asAda:AP,AP90,MD,MW,MW72,PW,PWG,WIL
-asAdana:asAdana:PW
+asAda:asAda:AP,AP90,MD,MW,MW72,PW,PWG
+asAdana:asAdana:PW,WIL
 asAdaSya:asAdaSya:PW
 asAdiSa:asAdiSa:BHS
 asAdfSya:asAdfSya:CAE,CCS,MD
@@ -143474,7 +143473,7 @@ udayanAcArya:udayanAcArya:MW,PW;udayanAcAryaH:AP
 udayanIya:udayanIya:AP,AP90,MW,MW72,PW,PWG,STC
 udayanIyA:udayanIyA:AP,VCP
 udayanopADi:udayanopADi:ACC,MW,PW
-udayapabbata:udayapabbata:YAT
+udayaparbata:udayaparbbata:YAT
 udayaparvata:udayaparvata:LRV,MW,PW;udayaparvataH:AP;udayaparvvata:SHS,WIL
 udayapura:udayapura:MW,PW,PWG
 udayapuram:udayapuram:AP
@@ -150063,7 +150062,7 @@ UrDvaSozam:UrdDvaSozam:VCP;UrDvaSozam:AP,MW,PW,PWG,SCH
 UrDvaSvAsa:UrdDvaSvAsa:LRV;UrDvaSvAsa:LRV,MW,PW;UrDvaSvAsaH:AP
 UrDvasAnu:UrdDvasAnu:VCP;UrDvasAnu:AP,CAE,CCS,GRA,MW,PW,PWG,PWKVN,SCH
 UrDvasTa:UrdDvasTa:SHS,WIL,YAT;UrdDvasTaH:SKD;UrDvasTa:AP
-UrDvasTita:UrdDvasTita:WIL,YAT
+UrDvasTita:UrdDvasTita:YAT
 UrDvasTiti:UrdDvasTiti:LRV,SHS,VCP,WIL,YAT;UrdDvasTitiH:SKD;UrDvasTiti:LRV,MW,PW,PWG;UrDvasTitiH:AP
 UrDvasrotas:UrdDvasrotas:VCP;UrDvasrotas:AP,MW,PUI,PW,PWG,PWKVN,SCH
 UrDvANguli:UrdDvANguli:BOP;UrDvANguli:AP,CAE,CCS,MD,MW,PW
@@ -272807,10 +272806,10 @@ prodgE:prodgE:MW72
 prodgrIvam:prodgrIvam:MW,PW,STC
 prodGAta:prodGAta:SCH
 prodGuz:prodGuz:AP,AP90,MW,MW72,STC
-prodGuzwa:prodGuzwa:AP,AP90,LRV,MW,MW72,WIL
+prodGuzwa:prodGuzwa:AP,AP90,LRV,MW,MW72,WIL,YAT
 prodGuzwA:prodGuzwA:LRV
 prodGuzWa:prodGuzWa:SHS
-prodGozaRa:prodGozaRa:LRV,MW72,SHS,WIL;prodGozaRaM:AP90
+prodGozaRa:prodGozaRa:LRV,MW72,SHS,WIL,YAT;prodGozaRaM:AP90
 prodGozaRam:prodGozaRam:AP
 prodGozaRA:prodGozaRA:AP,AP90,LRV,MW,PW,PWG,STC
 prodGozayat:prodGozayat:MW72
@@ -272822,11 +272821,9 @@ proddIpta:proddIpta:AP,AP90,LRV,MW
 proddIptA:proddIptA:LRV
 prodDA:prodDA:MW
 prodDAra:prodDAra:MW,PW,PWKVN,SCH;prodDAraH:AP
-prodDuzwa:prodDuzwa:YAT
 prodDUzita:prodDUzita:MW,PW
 prodDf:prodDf:MW,MW72,STC
 prodDfzita:prodDfzita:MW,STC
-prodDozaRa:prodDozaRa:YAT
 prodbudDa:prodbudDa:MW,MW72
 prodboDa:prodboDa:MW,MW72,PW,PWG,STC;prodboDaH:AP,AP90
 prodBava:prodBava:SCH,STC
@@ -277703,7 +277700,7 @@ bisapuzpam:bisapuzpam:AP
 bisaprasUna:bisaprasUna:ABCH,ACSJ,CAE,CCS,LRV,MW,PW,PWG
 bisaprasUnam:bisaprasUnam:AP
 bisam:bisam:AP
-bisamfRala:bisamfRala:MW
+bisamfRAla:bisamfRAla:MW
 bisamfRAlam:bisamfRAlam:AP
 bisara:bisara:SCH
 bisala:bisala:LRV,MW,PW,PWG,VCP;bisalaM:AP90
@@ -314624,7 +314621,7 @@ rIWAkaMraYja:rIWAkaMraYja:VCP
 rIWAkaraYja:rIWAkaraYja:MW;rIWAkaraYjaH:SKD
 rIQa:rIQa:MW
 rIQaka:rIQaka:ABCH,BEN,BUR,LRV,MW,MW72,PW,PWG,SHS,WIL,YAT;rIQakaH:AP,AP90,SKD
-rIQA:rIQA:ABCH,AP,AP90,ARMH,BEN,BUR,CCS,LRV,MD,MW72,PW,PWG,PWKVN,SCH,SHS,SKD,VCP,WIL,YAT
+rIQA:rIQA:ABCH,AP,AP90,ARMH,BEN,BUR,CCS,LRV,MD,MW,MW72,PW,PWG,PWKVN,SCH,SHS,SKD,VCP,WIL,YAT
 rIRa:rIRa:ABCH,AP,AP90,BUR,LRV,MW,MW72,PW,PWKVN,SHS,VCP,WIL,YAT;rIRaM:SKD
 rIRA:rIRA:LRV
 rIti:rIti:ABCH,ARMH,BEN,BUR,CAE,CCS,FRI,GRA,LRV,MD,MW,MW72,PW,PWG,PWKVN,SCH,SHS,STC,VCP,WIL,YAT;rItiH:AP,AP90,SKD
@@ -314650,7 +314647,6 @@ rItIBU:rItIBU:MD
 rItIBUta:rItIBUta:AP,MW
 rItyap:rItyap:CAE,GRA,MW,PW,PWG
 rItyAp:rItyAp:PW
-rIDA:rIDA:MW
 rIra:rIra:MW,MW72,PWG
 rIrama:rIrama:MD
 rIriza:rIrizaH:MD

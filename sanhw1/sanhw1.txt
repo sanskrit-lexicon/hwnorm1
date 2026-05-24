@@ -125382,7 +125382,7 @@ arTotpattiH:AP
 arTotpAda:MW,PW,PWG
 arTotsarga:MD,MW,PW,PWKVN,SCH
 arToddyotanikA:ACC,MW
-arTopakzepaka:MW,PW,PWG,VCP
+arTopakzepaka:MW,PW,PWG,VCP,YAT
 arTopakzepakaH:AP
 arTopakzepaRa:MW,PW,PWG
 arTopama:MW,PW,PWG
@@ -125390,7 +125390,6 @@ arTopamA:AP,VCP
 arTopArjana:LRV,MW,YAT
 arTopArjanam:AP
 arTopArjjana:SHS,WIL
-arTopekzepaka:YAT
 arTozman:AP,LRV,MW,SHS,WIL
 arTOGa:LRV,MW,PW,PWG
 arTOGaH:AP
@@ -134536,8 +134535,8 @@ asAkzyaM:AP90
 asAkzyam:AP
 asAta:BHS,SCH
 asAtmya:MW,MW72,PW,PWG,SHS,WIL,YAT
-asAda:AP,AP90,MD,MW,MW72,PW,PWG,WIL
-asAdana:PW
+asAda:AP,AP90,MD,MW,MW72,PW,PWG
+asAdana:PW,WIL
 asAdaSya:PW
 asAdiSa:BHS
 asAdfSya:CAE,CCS,MD
@@ -153288,7 +153287,7 @@ udayanAcAryaH:AP
 udayanIya:AP,AP90,MW,MW72,PW,PWG,STC
 udayanIyA:AP,VCP
 udayanopADi:ACC,MW,PW
-udayapabbata:YAT
+udayaparbbata:YAT
 udayaparvata:LRV,MW,PW
 udayaparvataH:AP
 udayaparvvata:SHS,WIL
@@ -161223,7 +161222,7 @@ UrdDvaSvAsa:LRV
 UrdDvasAnu:VCP
 UrdDvasTa:SHS,WIL,YAT
 UrdDvasTaH:SKD
-UrdDvasTita:WIL,YAT
+UrdDvasTita:YAT
 UrdDvasTiti:LRV,SHS,VCP,WIL,YAT
 UrdDvasTitiH:SKD
 UrdDvasrotas:VCP
@@ -310455,10 +310454,10 @@ prodgE:MW72
 prodgrIvam:MW,PW,STC
 prodGAta:SCH
 prodGuz:AP,AP90,MW,MW72,STC
-prodGuzwa:AP,AP90,LRV,MW,MW72,WIL
+prodGuzwa:AP,AP90,LRV,MW,MW72,WIL,YAT
 prodGuzwA:LRV
 prodGuzWa:SHS
-prodGozaRa:LRV,MW72,SHS,WIL
+prodGozaRa:LRV,MW72,SHS,WIL,YAT
 prodGozaRaM:AP90
 prodGozaRam:AP
 prodGozaRA:AP,AP90,LRV,MW,PW,PWG,STC
@@ -310472,11 +310471,9 @@ proddIptA:LRV
 prodDA:MW
 prodDAra:MW,PW,PWKVN,SCH
 prodDAraH:AP
-prodDuzwa:YAT
 prodDUzita:MW,PW
 prodDf:MW,MW72,STC
 prodDfzita:MW,STC
-prodDozaRa:YAT
 prodbudDa:MW,MW72
 prodboDa:MW,MW72,PW,PWG,STC
 prodboDaH:AP,AP90
@@ -316388,7 +316385,7 @@ bisapuzpam:AP
 bisaprasUna:ABCH,ACSJ,CAE,CCS,LRV,MW,PW,PWG
 bisaprasUnam:AP
 bisam:AP
-bisamfRala:MW
+bisamfRAla:MW
 bisamfRAlam:AP
 bisara:SCH
 bisala:LRV,MW,PW,PWG,VCP
@@ -360705,7 +360702,7 @@ rIWAkaraYjaH:SKD
 rIQa:MW
 rIQaka:ABCH,BEN,BUR,LRV,MW,MW72,PW,PWG,SHS,WIL,YAT
 rIQakaH:AP,AP90,SKD
-rIQA:ABCH,AP,AP90,ARMH,BEN,BUR,CCS,LRV,MD,MW72,PW,PWG,PWKVN,SCH,SHS,SKD,VCP,WIL,YAT
+rIQA:ABCH,AP,AP90,ARMH,BEN,BUR,CCS,LRV,MD,MW,MW72,PW,PWG,PWKVN,SCH,SHS,SKD,VCP,WIL,YAT
 rIRa:ABCH,AP,AP90,BUR,LRV,MW,MW72,PW,PWKVN,SHS,VCP,WIL,YAT
 rIRaM:SKD
 rIRA:LRV
@@ -360735,7 +360732,6 @@ rItIBU:MD
 rItIBUta:AP,MW
 rItyap:CAE,GRA,MW,PW,PWG
 rItyAp:PW
-rIDA:MW
 rIra:MW,MW72,PWG
 rIrama:MD
 rIrizaH:MD
