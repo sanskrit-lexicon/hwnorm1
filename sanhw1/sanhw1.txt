@@ -173434,7 +173434,6 @@ kalaviMgaH:AP90
 kalaviNgaH:AP
 kalaviRi:SCH
 kalaviSudDa:AP
-kalavfkza:SHS
 kalavyAGra:MW,PW
 kalavyAGraH:AP
 kalaSa:ABCH,ACC,ARMH,BEN,BOP,BUR,CAE,CCS,GRA,INM,LRV,MCI,MD,MW,MW72,PE,PUI,PW,PWG,SHS,STC,VCP,VEI,WIL,YAT
@@ -173817,7 +173816,7 @@ kalivarjyaviveka:ACC
 kaliviqambana:ACC,PW,PWKVN,SCH
 kalivinASinI:MW,PW,PWG
 kalivizRuvarDana:MW
-kalivfkza:LRV,MW,PW,PWG,WIL,YAT
+kalivfkza:LRV,MW,PW,PWG,SHS,WIL,YAT
 kalivfkzaH:AP,SKD
 kaliSatru:MW
 kaliSAsana:MW,PW
@@ -174246,8 +174245,7 @@ kalyARABijana:FRI,MW,PW
 kalyARABiniveSin:MW,PW,SCH
 kalyARAzwaka:ACC
 kalyARikA:AP,IEG,LRV,MW,PWG,SHS,SKD,VCP,WIL,YAT
-kalyARin:AP,AP90,BEN,LRV,MD,MW,MW72,PW,PWG,VCP,WIL,YAT
-kalyARina:SHS
+kalyARin:AP,AP90,BEN,LRV,MD,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT
 kalyARinI:AP,LRV,MW,PUI,SKD
 kalyARI:AP,IEG,INM,LRV,MW,PE,PUI,SKD
 kalyARItantra:ACC
@@ -179929,8 +179927,8 @@ kiMvarAwaka:LRV,MW,PW,PWG
 kiMvarAwakaH:AP
 kiMvarRa:CAE,CCS,MW,PW,PWG
 kiMvA:AP,LRV,SHS,SKD,VCP
-kiMvid:MW,PW,PWG
-kiMvida:AP,LRV
+kiMvid:AP,MW,PW,PWG
+kiMvida:LRV
 kiMvidya:MW,PW
 kiMviDa:MW,PW
 kiMviBAga:MW,PW,PWG
@@ -179968,7 +179966,6 @@ kiMsamAcAra:MW,PW
 kiMsADana:MW,PW
 kiMsAru:SCH
 kiMsuhfd:CAE,LAN,MW,PW,PWG
-kiMstanuH:AP
 kiMstuGna:MW,PW,PWG
 kiMstya:MW,MW72,PW,PWG,PWKVN,SCH
 kiMstyanABi:SCH
@@ -180010,7 +180007,6 @@ kikviSa:MW,PW
 kiKara:SCH
 kiKi:ABCH,BUR,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT
 kiKiH:AP,AP90,SKD
-kiNkaH:AP
 kiNkaRa:ACPH,PE
 kiMkaRa:PUI
 kiNkaRI:AP,MW,MW72,PW,PWG,VCP
@@ -180240,7 +180236,7 @@ kinAwam:AP
 kinArilipi:MW,PW
 kintanu:BUR,MW72,SHS,VCP,WIL,YAT
 kiMtanu:MW,PW,PWG
-kintanuH:SKD
+kintanuH:AP,SKD
 kintamAm:BUR,PW,PWKVN,SCH,SHS,SKD,VCP,WIL,YAT
 kiMtamAm:MW,PWG
 kiMtayA:MW
@@ -180255,8 +180251,7 @@ kintu:AP,BOP,BUR,SHS,SKD,VCP,WIL,YAT
 kiMtu:FRI,LRV
 kintuGna:PW,SHS,VCP,WIL,YAT
 kiMtuGna:MW,PWG
-kintuGnaH:SKD
-kintuDnaH:AP
+kintuGnaH:AP,SKD
 kiMtva:MW,PW,PWG
 kiMdata:PW,PWG
 kindata:VCP
@@ -180269,7 +180264,6 @@ kiMdarA:PW,PWKVN,SCH
 kiMdarpa:SCH
 kiMdarBa:MW,PW,PWG
 kindarBa:VCP
-kindavaH:AP
 kiMdAna:MCI,MW,PW,PWG
 kindAna:INM,PE,VCP
 kiMdAsa:LRV,MW,PW,PWG
@@ -180280,6 +180274,7 @@ kinduvilla:PW
 kinduvilva:MW72,PWG
 kindeva:MW72,PUI
 kiMdeva:MW,PW,PWG
+kindevaH:AP
 kiMdevata:CAE,LRV,MW,PW,PWG
 kindevata:AP
 kiMdevatya:CAE,CCS,MW,PW,PWG
@@ -180369,8 +180364,7 @@ kimpacAna:ABCH,AP,ARMH,BOP,MW,SHS,VCP,WIL,YAT
 kiMpacAna:LRV,PW,PWG
 kimpacAnaH:SKD
 kiMpara:CAE,CCS
-kimparAkama:AP
-kimparAkrama:MW
+kimparAkrama:AP,MW
 kiMparAkrama:LRV,PW,PWG
 kiMparivAra:MD,PW
 kimparivAra:MW
@@ -180380,7 +180374,7 @@ kimpavitra:MW
 kiMpavitra:PW,PWKVN,SCH
 kimpAka:ABCH,AP,ARMH,BUR,MW,SHS,VCP,WIL,YAT
 kiMpAka:PW,PWG
-kimpAkaH:SKD
+kimpAkaH:AP,SKD
 kiMpiriparyanta:SCH
 kimpila:BHS
 kimpunar:AP
@@ -180819,8 +180813,7 @@ kIwanizkuzita:YAT
 kIwapakzodgama:MW
 kIwapakzodBava:MW,SHS,WIL,YAT
 kIwapataMga:MW
-kIwapAqikA:MW
-kIwapAdikA:AP,PW,PWG,SHS,SKD,VCP,WIL,YAT
+kIwapAdikA:AP,MW,PW,PWG,SHS,SKD,VCP,WIL,YAT
 kIwapAdI:AP
 kIwamaRi:ACPH,LRV,MW,PW,PWG,VCP
 kIwamaRiH:AP
@@ -180845,7 +180838,6 @@ kIqAtAla:PW,PWKVN
 kIqera:MW,MW72,PW,PWG,VCP
 kIqeraH:SKD
 kItaka:INM
-kItanikA:AP
 kIdatta:ACC
 kIdfk:SKD
 kIdfkza:AP,AP90,CAE,CCS,LRV,MD,MW,MW72,PW,PWG,VCP
@@ -185356,10 +185348,9 @@ kUwasaMkrAnti:MW,PW,PWG,VCP
 kUwasaMkrAntiH:AP,SKD
 kUwasaMGawitalakzaRa:MW,PW
 kUwasaMdoha:ACC,MW,PW
-kUwasAkzin:ACPH,AP,CAE,CCS,LRV,MW,PW,PWG,VCP,WIL,YAT
+kUwasAkzin:ACPH,AP,CAE,CCS,LRV,MW,PW,PWG,SHS,VCP,WIL,YAT
 kUwasAkzI:SKD
 kUwasAkzya:MW,PW,PWG
-kUwasAcin:SHS
 kUwasTa:ABCH,AP,BEN,CAE,CCS,LRV,MW,PW,PWG,SHS,VCP,WIL,YAT
 kUwasTaM:SKD
 kUwasTaH:AP,SKD
@@ -191821,6 +191812,7 @@ klItakika:SHS
 klItakikA:AP,MW,MW72,PW,PWG,PWKVN,SCH,SKD,VCP,WIL,YAT
 klItanaka:MW,MW72,PW,PWG,VCP
 klItanAyaka:MW,PW
+klItanikA:AP
 klItanI:AP,MW,PW
 klIb:AP,AP90,BEN,BUR,MW,MW72,PW,PWG,SCH,YAT
 klIba:ABCH,AP,AP90,ARMH,BEN,CAE,CCS,FRI,LRV,MD,MW,MW72,PW,PWG,PWKVN,SCH,STC,VCP,WIL
