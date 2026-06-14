@@ -323883,8 +323883,7 @@ vargAzwakam:vargAzwakam:AP
 vargin:vargin:AP,AP90,CAE,MW,MW72,PW,PWG,STC
 vargIkfta:vargIkfta:AP,MW
 vargIRa:vargIRa:AP,AP90,BEN,MW,MW72,PW,PWG
-vargIya:vargIya:AP,AP90,BEN,MD,MW,MW72,PW,SHS,STC,WIL,YAT;vargIyaH:AP
-vargIyi:vargIyi:PWG
+vargIya:vargIya:AP,AP90,BEN,MD,MW,MW72,PW,PWG,SHS,STC,WIL,YAT;vargIyaH:AP
 vargu:vargu:BHS
 vargottama:vargottama:MW,PW,PWG,VCP;vargottamaH:SKD
 vargottamam:vargottamam:AP
@@ -358791,7 +358790,6 @@ SUrma:SUrma:BUR,LRV,MW,MW72;SUrmaH:AP,AP90;SUrmma:SHS,VCP,WIL,YAT;SUrmmaH:SKD
 SUrmi:SUrmi:LRV,MW,MW72,VCP;SUrmiH:AP,AP90;SUrmmi:SHS,WIL,YAT;SUrmmiH:SKD
 SUrmikA:SUrmikA:AP,LRV
 SUrmI:SUrmI:AP,LRV;SUrmmI:SKD
-SUrya:SUrya:PWG
 SUryakarRa:SUryakarRa:MW,PW,PWG
 SUryakAnta:SUryakAnta:PUI
 SUl:SUl:AP,AP90,BEN,BOP,BUR,LRV,MD,MW,MW72,PW,PWG,SHS,YAT
