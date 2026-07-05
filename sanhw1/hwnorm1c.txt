@@ -63403,6 +63403,7 @@ anahrAda:anahrAda:PD
 anahrIka:anahrIka:PD
 anahva:anahva:PD,PW,PWG
 anA:anA:AP,AP90,CAE,CCS,GRA,GST,MD,MW,MW72,PD,PW,PWG
+anAUNkfta:anAUMkfta:BEN
 anAka:anAka:PD,SCH
 anAkawwa:anAkawwa:PD
 anAkaqArIyatva:anAkaqArIyatva:PD
@@ -91257,7 +91258,7 @@ anoKita:anoKita:PD
 anogata:anogata:PD
 anoGa:anoGa:GST,PD
 anoNkAra:anoNkAra:PD
-anoNkfta:anoNkfta:AP,GST,MW72,PD,VCP;anoMkfta:AP90,BEN,CAE,LAN,MW,PW,PWG,STC
+anoNkfta:anoNkfta:AP,GST,MW72,PD,VCP;anoMkfta:AP90,CAE,LAN,MW,PW,PWG,STC
 anoNgamiTuna:anoNgamiTuna:PD
 anoja:anoja:PD
 anojas:anojas:MW,PD,PW,PWG,STC
@@ -135724,7 +135725,7 @@ Artasvara:Artasvara:LRV,MW,PW;ArtasvaraH:AP
 ArtA:ArtA:LRV
 ArtAyana:ArtAyana:MW,PW,PWKVN,SCH
 ArtAyani:ArtAyani:INM,MW,PW,PWKVN,SCH,STC;ArttAyani:PE
-Arti:Arti:ABCH,BEN,BOP,CAE,CCS,FRI,LAN,LRV,MD,MW,MW72,PW,PWG,STC;ArtiH:AP,AP90;Artti:BEN,BUR,SHS,VCP,WIL,YAT;ArttiH:SKD
+Arti:Arti:ABCH,BOP,CAE,CCS,FRI,LAN,LRV,MD,MW,MW72,PW,PWG,STC;ArtiH:AP,AP90;Artti:BEN,BUR,SHS,VCP,WIL,YAT;ArttiH:SKD
 Artikara:Artikara:PW,PWKVN,SCH
 Artija:Artija:PW
 Artimat:Artimat:AP,AP90,INM,MW;Artimant:MCI,PW,PWG
@@ -161167,6 +161168,7 @@ ka~yyu:ka~yyu:PW
 kA:kA:AP,AP90,BEN,BOP,BUR,CAE,CCS,FRI,GRA,IEG,LAN,MD,MW,MW72,PW,PWG,STC
 kAusaggiyA:kAusaggiyA:IEG
 kAussagga:kAussagga:IEG
+kAUNkAra:kAUMkAra:BEN
 kAUraya:kAUraya:PUI
 kAMSi:kAMSi:AP,CAE,CCS,MD,MW,MW72,PW,PWG,VCP;kAMSiH:AP90
 kAMSyanIla:kAMSyanIla:PWG
@@ -172449,7 +172451,7 @@ koNkaRAsuta:koNkaRAsuta:MW,PW,PWG,SHS,VCP,WIL,YAT;koMkaRAsuta:LRV;koNkaRAsutaH:S
 koNkaRAsUta:koNkaRAsUtaH:AP
 koNkana:koNkana:INM
 koNkARa:koNkARa:AP,MD,MW,PW,PWG
-koNkAra:koMkAra:BEN,MW,PW,PWG,STC;koNkAra:MD,MW72
+koNkAra:koNkAra:MD,MW72;koMkAra:MW,PW,PWG,STC
 koNgi:koNgi:MW,PW
 koca:koca:AP,AP90,BEN,CAE,CCS,MD,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT;kocaH:AP,SKD
 kocava:kocava:BHS,MW,PW,PWKVN,SCH
