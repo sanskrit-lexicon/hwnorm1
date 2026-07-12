@@ -126809,8 +126809,7 @@ alAtacakra:BHS,MW,PW,PWKVN,SCH
 alAtacakravat:MW
 alAtajvAlA:ABCH
 alAtam:AP
-alAtaSanti:MW
-alAtaSAnti:PW
+alAtaSAnti:MW,PW
 alAtaSAntiH:AP
 alAtaSAntiprakaraRa:ACC
 alAtaSAntyupanizad:ACC
@@ -178215,17 +178214,16 @@ kAryyika:SHS,WIL,YAT
 kAryyin:SHS,VCP,WIL,YAT
 kAryyI:SKD
 kAryyekzaRa:SHS,WIL,YAT
-kAryyodDAra:WIL,YAT
+kAryyodDAra:SHS,WIL,YAT
 kAryyodyukta:SHS,YAT
 kAryyodyoga:SHS,WIL,YAT
-kAryyodvAra:SHS
 kArvawika:BHS,MW,PW,PWKVN,SCH
 kArSa:MW,PW
 kArSakeya:MW72,PWG,VCP
 kArSakeyIputra:MW,PW,VEI
 kArSana:MW,MW72,PW,PWG
-kArSanava:SHS,WIL,YAT
-kArSAnava:AP,AP90,MW,MW72,PW,PWG
+kArSanava:WIL,YAT
+kArSAnava:AP,AP90,MW,MW72,PW,PWG,SHS
 kArSASvIya:MW,PW,PWG,VCP
 kArSmarI:BUR,MW,MW72,PW,PWG,SHS,SKD,VCP,WIL,YAT
 kArSya:BEN,BOP,BUR,CAE,CCS,LRV,MD,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT
@@ -178234,7 +178232,7 @@ kArSyaH:SKD
 kArSyam:AP
 kArza:BHS,LRV,MW,MW72,PW,PWG,PWKVN,SCH,VCP
 kArzaH:AP,AP90
-kArzaka:BEN,BUR,LRV,MD,MW,MW72,PW,PWG,SHS,STC,WIL,YAT
+kArzaka:BEN,BUR,MD,MW,MW72,PW,PWG,SHS,STC,WIL,YAT
 kArzakaH:AP,AP90,SKD
 kArzakeyIputra:PWG
 kArzaRi:PUI
@@ -179017,8 +179015,8 @@ kAlAMtaraviza:LRV
 kAlAntaravizaH:SKD
 kAlAntarAt:MW
 kAlAntarAvfta:MW
+kAlAMtarAvfta:LRV
 kAlAntarAvftta:SHS,WIL,YAT
-kAlAMtarAvftta:LRV
 kAlAntarAvfttiSuBASuBa:MW
 kAlAntareRa:MW
 kAlAnDa:PW
@@ -182641,7 +182639,6 @@ kuntImAtf:INM,MW
 kuntIvivAha:INM
 kuntIsuta:CAE,CCS,INM,MW
 kunteSvaradOtya:ACC
-kuntr:AP
 kunT:AP,BEN,BOP,BUR,MW,MW72,PW,PWG,YAT
 kuMT:AP90,LRV
 kunTa:KRM,MW,PWG,SHS,SKD,VCP,WIL
@@ -182702,7 +182699,7 @@ kundurukaH:SKD
 kundurukA:MW
 kundurukI:MW,SKD
 kundurUka:MW,PW,PWG
-kundr:BEN,BOP,BUR,MW,MW72,PW,PWG
+kundr:AP,BEN,BOP,BUR,MW,MW72,PW,PWG
 kundrA:ACPH
 kunnu:IEG
 kunyAya:SCH
@@ -182861,7 +182858,7 @@ kubjakagulma:CAE
 kubjakaRwaka:MW,PW,PWG,SHS,VCP,WIL,YAT
 kubjakaRwakaH:SKD
 kubjakirAta:MW
-kubjakirAtaH:AP
+kubjakirAtam:AP
 kubjagAmin:AP
 kubjatA:MW,PW
 kubjapuzpa:MW,PW
@@ -183024,7 +183021,7 @@ kumAravarDana:BHS
 kumAravarza:PE
 kumAravAriDArA:MW,PW,PWG
 kumAravAhana:LRV
-kumAravAhanaH:AP
+kumAravAhanam:AP
 kumAravAhin:AP,LRV,MW,PW,PWG,SHS,VCP,WIL,YAT
 kumAravAhI:SKD
 kumAravijayanAwaka:ACC
@@ -183150,9 +183147,9 @@ kumudapatiH:AP
 kumudapattrABa:MW
 kumudapatrABA:ARMH
 kumudapuzpA:BHS,MW,PW
-kumudabanDaH:AP
 kumudabanDu:MW,PW,PWG,VCP
 kumudabaMDu:LRV
+kumudabanDuH:AP
 kumudabAnDava:ABCH,MW,PW,SHS,WIL,YAT
 kumudabAMDava:LRV
 kumudabAnDavaH:AP,SKD
@@ -183207,7 +183204,7 @@ kumudvat:ABCH,AP,AP90,BOP,LRV,MD,MW,SHS,VCP,WIL,YAT
 kumudvatI:ABCH,ACSJ,AP,ARMH,BOP,LRV,MW,PE,PUI,SKD
 kumudvatIkulapati:SCH
 kumudvatIvIja:VCP
-kumudvatISa:LRV,MW,VCP
+kumudvatISa:AP,LRV,MW,VCP
 kumudvant:BEN,CAE,CCS,PW,PWG,STC
 kumudvAn:SKD
 kumudvin:AP,MW,PW,PWG
@@ -192152,7 +192149,6 @@ kvATodBava:MW,PW,PWG,SHS,WIL,YAT
 kvATodBavaM:SKD
 kvATodBavaH:VCP
 kvATodBavam:AP
-kvAna:MW
 kvApi:MW,MW72
 kvip:MD
 kvel:AP,AP90,BEN,BOP,BUR,MW,MW72,PW,PWG
@@ -192548,7 +192544,7 @@ kzapotyaya:YAT
 kzam:AP,AP90,BEN,BOP,BUR,CAE,CCS,FRI,GRA,LAN,LRV,MD,MW,MW72,PW,PWG,PWKVN,SCH,STC,YAT
 kzama:ABCH,AP,AP90,ARMH,BEN,BOP,BUR,CAE,CCS,FRI,INM,LAN,LRV,MD,MW,MW72,PUI,PW,PWG,SHS,SKD,STC,VCP,WIL,YAT
 kzamaM:SKD
-kzamaH:SKD
+kzamaH:AP,SKD
 kzamaka:PE
 kzamaRa:BHS
 kzamaRIya:AP,AP90,BHS,MW,MW72,PW,PWG
