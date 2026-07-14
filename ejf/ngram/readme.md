@@ -1,7 +1,7 @@
 
 ### ngrams for dictionary headwords.
 
-This continues work begun in the [AE dictionary](https://github.com/sanskrit-lexicon/ApteES/tree/master/ae_saninvert).
+This continues work begun in the [AE dictionary](https://github.com/sanskrit-lexicon/ApteES/tree/main/ae_saninvert).
 
 Various computations of ngrams can be derived from the hwnorm1c.txt file,
 which represents headwords appearing in the various Sanskrit dictionaries of
