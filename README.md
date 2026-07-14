@@ -1,60 +1,81 @@
 # hwnorm1
 
-CDSL **processing-tool** repository in the Sanskrit Lexicon project.
-Headword normalization across Cologne dictionaries.
+_Created: 05-07-2026 · Last updated: 11-07-2026_
 
-## Tech Stack
+Headword **normalization** across the Cologne Digital Sanskrit Lexicon (CDSL)
+dictionaries — a `processing-tool` repository in the
+[sanskrit-lexicon](https://github.com/sanskrit-lexicon) project.
 
-- **Runtime**: Python 3 + static HTML preview
-- **Build**: plain `python` scripts
-- **Input**: source dictionary headwords from `csl-orig`
-- **Output**: per-dictionary normalized headword tables
+The tool reads the union headword list (`sanhw1.txt`, headword + the dictionaries
+it appears in) and derives a normalized key so that spelling variants across
+dictionaries collapse to one lookup form. That normalized key powers the
+simple-search entry lookup in
+[csl-apidev](https://github.com/sanskrit-lexicon/csl-apidev/tree/main/simple-search/hwnorm1)
+(the `hwnorm1c.sqlite` database this repo generates is moved there and served).
 
-## Issues Overview
+Origin discussion:
+[CORRECTIONS#43](https://github.com/sanskrit-lexicon/CORRECTIONS/issues/43).
 
-**Total**: 20 | **Open**: 17 | **Closed**: 3
+## What it does — normalization pipeline
 
-### By Milestone
+[`normalization/readme.md`](https://github.com/sanskrit-lexicon/hwnorm1/blob/main/normalization/readme.md)
+documents the staged reduction (responsible code: `countlen()` in
+[`hwnorm1.py`](https://github.com/sanskrit-lexicon/hwnorm1/blob/main/hwnorm1.py)):
 
-| Milestone | Open | Closed | Total |
-|---|---:|---:|---:|
-| API Stability | 0 | 0 | 0 |
-| User Experience | 12 | 0 | 12 |
-| Data Quality | 1 | 0 | 1 |
-| Developer Experience | 2 | 0 | 2 |
-| Community | 2 | 0 | 2 |
+1. `hw1.txt` — headwords of `sanhw1.txt`, sorted (Python order, not Sanskrit order).
+2. `hw2.txt` — anusvāra normalized (`[NYRnm][consonant] → M[consonant]`; terminal `M → m`).
+3. `hw3.txt` — post-`r` duplication removed (`r[consonant][consonant] → r[consonant]`).
+4. `hw4.txt` — terminal `ant` normalized (`aMt$ → at`).
+5. `hw5.txt` — terminal `m`/`H` dropped (`[aA][mH]$ → [aA]$`).
 
-### By Type
+Difference files (`hw1minushw2.txt` … `hw3minushw4.txt`) and an `examine`
+file capture entries changed or needing manual review at each stage.
 
-```mermaid
-pie title Open issues by type
-    "enhancement" : 11
-    "feature" : 1
-    "bug" : 2
-    "question" : 2
-    "documentation" : 2
-```
+## Normalization conventions
 
-### By Severity
+The full set of spelling conventions the standard normalization targets —
+anusvāra treatment, post-`r` duplication, `-at`/`-vat`/`-mat` vs `-ant`/`-vant`/`-mant`,
+inflected vs uninflected forms, verb anusvāra, terminal `f` (ṛ), and `-yas`/`-vas`
+vs `-yaṁs`/`-vaṁs` — are catalogued option-by-option, with per-dictionary
+assignments and examples, in
+[`readme_old.md`](https://github.com/sanskrit-lexicon/hwnorm1/blob/main/readme_old.md).
 
-```mermaid
-pie title Open issues by severity
-    "minor" : 13
-    "major" : 1
-    "trivial" : 3
-```
+## Key files
 
-## GitHub Issue Conventions
+| File | Purpose |
+|---|---|
+| [`hwnorm1.py`](https://github.com/sanskrit-lexicon/hwnorm1/blob/main/hwnorm1.py) | Main normalizer; reads `../CORRECTIONS/sanhw1/sanhw1.txt`, emits the staged `hw*.txt` and violation logs |
+| [`hwnorm1.sh`](https://github.com/sanskrit-lexicon/hwnorm1/blob/main/hwnorm1.sh) | Driver: runs the normalizer + `proberrors.py`, then `link.php` over the probe output |
+| [`proberrors.py`](https://github.com/sanskrit-lexicon/hwnorm1/blob/main/proberrors.py) | Emits the per-convention `*violation.txt` files under [`proberrors/`](https://github.com/sanskrit-lexicon/hwnorm1/tree/main/proberrors) |
+| [`duplicationstats.py`](https://github.com/sanskrit-lexicon/hwnorm1/blob/main/duplicationstats.py) | Statistics on the post-`r` duplication convention |
+| [`link.php`](https://github.com/sanskrit-lexicon/hwnorm1/blob/main/link.php) | Renders violation lists to browsable HTML |
+| [`sanhw1/`](https://github.com/sanskrit-lexicon/hwnorm1/tree/main/sanhw1) | Rebuilds `sanhw1.txt` + `hwnorm1c.txt` + `hwnorm1c.sqlite` (see its [`readme.txt`](https://github.com/sanskrit-lexicon/hwnorm1/blob/main/sanhw1/readme.txt)) |
+| [`normalization/`](https://github.com/sanskrit-lexicon/hwnorm1/tree/main/normalization) | The staged `hw1`–`hw5` output and its [`readme.md`](https://github.com/sanskrit-lexicon/hwnorm1/blob/main/normalization/readme.md) |
+| [`conv1/`](https://github.com/sanskrit-lexicon/hwnorm1/tree/main/conv1), [`conv2/`](https://github.com/sanskrit-lexicon/hwnorm1/tree/main/conv2), [`conv3/`](https://github.com/sanskrit-lexicon/hwnorm1/tree/main/conv3) | Per-convention working files (anusvāra / duplication / `-ant`) per dictionary |
+| [`normalization.pdf`](https://github.com/sanskrit-lexicon/hwnorm1/blob/main/normalization.pdf) | Written write-up of the normalization approach |
 
-Follows the [Cologne tooling-repo taxonomy](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md):
+## Rebuilding the SQLite database
 
-- **17 type labels** across 5 categories (code quality, features, docs, infra, research)
-- **4 severity levels**: trivial, minor, major, critical
-- **5 milestones**: API Stability, User Experience, Data Quality, Developer Experience, Community
-- **Domain labels** scoped to processing-tool: `domain:morphology`, `domain:normalization`, `domain:lookup`
-- **Org Project**: [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9)
+[`sanhw1/readme.txt`](https://github.com/sanskrit-lexicon/hwnorm1/blob/main/sanhw1/readme.txt)
+is the canonical procedure (`redo.sh` remakes `sanhw1.txt` + `hwnorm1c.txt`;
+`hwnorm1c.sqlite` is regenerated and then moved to
+`csl-apidev/simple-search/hwnorm1/`, and is **not** tracked by git). Both this
+repo and csl-apidev are then synced and pulled on the Cologne server. For a new
+dictionary, update the `dictyear` variable in
+[`sanhw1/sanhw1.py`](https://github.com/sanskrit-lexicon/hwnorm1/blob/main/sanhw1/sanhw1.py).
 
-See [CLAUDE.md](CLAUDE.md) for full definitions.
+## GitHub issue conventions
 
----
-*Generated by Cologne Tooling Runbook on 2026-05-29*
+This repository follows the
+[Cologne tooling-repo taxonomy](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md).
+Every issue carries exactly one **type** label, one **severity**
+(`trivial` · `minor` · `major` · `critical`), and one **milestone**
+(API Stability · User Experience · Data Quality · Developer Experience · Community),
+plus domain labels scoped to normalization work. Cross-repo tool work is tracked
+in the org [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9).
+As of 11-07-2026: **21 issues total — 17 open, 4 closed** (nearly all
+`domain:normalization`). See
+[`CLAUDE.md`](https://github.com/sanskrit-lexicon/hwnorm1/blob/main/CLAUDE.md)
+for the full label definitions.
+
+_Dr. Mārcis Gasūns_
