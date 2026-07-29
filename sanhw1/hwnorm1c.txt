@@ -18270,6 +18270,7 @@ aNgulizaNgA:aNgulizaNgA:VCP
 aNgulizawka:aNgulizawka:PD
 aNgulisaMyutA:aNgulisaMyutA:PD
 aNgulisaMvfta:aNgulisaMvfta:PD
+aNgulisaMvftADarozWa:aNgulisaMvftADarozWa:BEN
 aNgulisaMsPowa:aNgulisaMsPowa:PD
 aNgulisaNkoca:aNgulisaMkoca:PD
 aNgulisaNKyA:aNgulisaMKyA:PD
@@ -18291,7 +18292,6 @@ aNgulisampuwa:aNgulisaMpuwa:PD
 aNgulisampuwaka:aNgulisaMpuwaka:PD
 aNgulisamBUta:aNgulisaMBUta:AP,PD;aNgulisaMBUtaH:AP
 aNgulisammita:aNgulisaMmita:PD
-aNgulisamvftADarozWa:aNgulisamvftADarozWa:BEN
 aNgulisTAna:aNgulisTAna:PD
 aNgulisTiti:aNgulisTiti:PD
 aNgulisparSa:aNgulisparSa:PD
@@ -45753,7 +45753,6 @@ aDasTOdumbara:aDasTOdumbara:PD
 aDaspada:aDaspada:CAE,GRA,GST,MW,PD,PW,PWG,PWKVN,SCH
 aDaspadam:aDaspadam:MW,PD,VCP
 aDaspadIkAryA:aDaspadIkAryA:PD
-aDasvAsas:aDasvAsas:BEN
 aDA:aDA:AP,AP90,CAE,GST,MW,MW72,PD,PW
 aDAti:aDAti:PD
 aDAtu:aDAtu:PD,PW,PWKVN,SCH
@@ -50587,7 +50586,7 @@ aDovAyuvisarjana:aDovAyuvisarjana:PD
 aDovAyusamutsarga:aDovAyusamutsarga:PD
 aDovAsa:aDovAsa:PD
 aDovAsagranTi:aDovAsagranTi:PD
-aDovAsas:aDovAsas:MW,PD,PW,PWKVN,SCH
+aDovAsas:aDovAsas:BEN,MW,PD,PW,PWKVN,SCH
 aDovAsogranTana:aDovAsogranTana:PD
 aDovAsovaSeza:aDovAsovaSeza:PD
 aDovigalita:aDovigalita:PD
@@ -63416,7 +63415,6 @@ anahrAda:anahrAda:PD
 anahrIka:anahrIka:PD
 anahva:anahva:PD,PW,PWG
 anA:anA:AP,AP90,CAE,CCS,GRA,GST,MD,MW,MW72,PD,PW,PWG
-anAUNkfta:anAUMkfta:BEN
 anAka:anAka:PD,SCH
 anAkawwa:anAkawwa:PD
 anAkaqArIyatva:anAkaqArIyatva:PD
@@ -66671,7 +66669,7 @@ anAvika:anAvika:PD
 anAvikA:anAvikA:PD
 anAvigna:anAvigna:PW,PWKVN,SCH
 anAvignamanas:anAvignamanas:PD
-anAvidDa:anAvidDa:AP,AP90,CAE,CCS,GRA,GST,MD,MW,MW72,PD,PW,PWG,PWKVN,SCH,STC,VCP,YAT
+anAvidDa:anAvidDa:AP,AP90,BEN,CAE,CCS,GRA,GST,MD,MW,MW72,PD,PW,PWG,PWKVN,SCH,STC,VCP,YAT
 anAvidDagata:anAvidDagata:PD
 anAvidDavarRa:anAvidDavarRa:BHS,PD
 anAvidDANgacezwita:anAvidDANgacezwita:PD
@@ -91274,7 +91272,7 @@ anoKita:anoKita:PD
 anogata:anogata:PD
 anoGa:anoGa:GST,PD
 anoNkAra:anoNkAra:PD
-anoNkfta:anoNkfta:AP,GST,MW72,PD,VCP;anoMkfta:AP90,CAE,LAN,MW,PW,PWG,STC
+anoNkfta:anoNkfta:AP,GST,MW72,PD,VCP;anoMkfta:AP90,BEN,CAE,LAN,MW,PW,PWG,STC
 anoNgamiTuna:anoNgamiTuna:PD
 anoja:anoja:PD
 anojas:anojas:MW,PD,PW,PWG,STC
@@ -108583,7 +108581,6 @@ anvezyavastu:anvezyavastu:PD
 anvezyAnvezwfBAva:anvezyAnvezwfBAva:PD
 anvodahana:anvodahana:BHS,PD
 anvopya:anvopya:PD
-anvyaD:anvyaD:BEN
 ans:ans:PD
 anh:anh:PD
 ap:ap:AP,AP90,BEN,BOP,BUR,CAE,CCS,FRI,GRA,GST,LAN,LRV,MD,MW,MW72,PD,PW,PWG,SHS,STC,VCP,WIL,YAT
@@ -124911,8 +124908,7 @@ avihiMsat:avihiMsant:PW,PWKVN,SCH
 avihiMsA:avihiMsA:MW,PW
 avihiMsra:avihiMsra:MW,PW,STC
 avihita:avihita:AP,MW,MW72,PW,SCH,SHS,STC,VCP,WIL
-avihitasidDa:avihitasidDa:PW
-avihitasiD:avihitasiD:BEN
+avihitasidDa:avihitasidDa:BEN,PW
 aviheWita:aviheWita:MW,PW,PWKVN,SCH
 avihnala:avihnala:WIL
 avihruta:avihruta:AP,AP90,GRA,MW,MW72,PW,PWG,VCP
@@ -142180,7 +142176,6 @@ uttaratApanIyam:uttaratApanIyam:AP
 uttaratApanIyopanizad:uttaratApanIyopanizad:ACC
 uttaratAra:uttaratAraM:SKD
 uttarati:uttarati:BHS
-uttarattara:uttarattara:BEN
 uttaratra:uttaratra:AP,AP90,LRV,MW,PW,PWG,SHS,WIL,YAT
 uttaratram:uttaratram:AP
 uttaratva:uttaratva:PW,PWG
@@ -142466,7 +142461,7 @@ uttarelA:uttarelA:PW
 uttareSvara:uttareSvara:PUI
 uttareSvaratIrTa:uttareSvaratIrTa:PW,PWG
 uttareSvarASrama:uttareSvarASrama:PW,PWG
-uttarottara:uttarottara:AP,BOP,BUR,CAE,CCS,LAN,LRV,MD,MW,PW,PWG,SHS,VCP,WIL,YAT
+uttarottara:uttarottara:AP,BEN,BOP,BUR,CAE,CCS,LAN,LRV,MD,MW,PW,PWG,SHS,VCP,WIL,YAT
 uttarottaratantra:uttarottaratantra:ACC
 uttarottarapadacCalA:uttarottarapadacCalA:PW,PWG
 uttarottarapracCalA:uttarottarapracCalA:MW
@@ -152079,11 +152074,9 @@ ekavfttamaya:ekavfttamaya:PW,PWG
 ekavfnda:ekavfnda:BEN,MW,PW,PWG,VCP
 ekavfndam:ekavfndam:AP
 ekavfza:ekavfza:FRI,MW,PW,PWG,PWKVN,SCH,VCP;ekavfzaH:AP
-ekaveRi:ekaveRi:CAE,LRV,MW,PW,PWG,VCP;ekaveRiH:AP
-ekaveRI:ekaveRI:AP,CAE,LRV,MW,PW,SHS,VCP,WIL,YAT
+ekaveRi:ekaveRi:BEN,CAE,LRV,MW,PW,PWG,VCP;ekaveRiH:AP
+ekaveRI:ekaveRI:AP,BEN,CAE,LRV,MW,PW,SHS,VCP,WIL,YAT
 ekaveda:ekaveda:CAE,MW,PW,PWKVN,SCH
-ekaveni:ekaveni:BEN
-ekavenI:ekavenI:BEN
 ekaverapratizWAviDi:ekaverapratizWAviDi:ACC
 ekaveSman:ekaveSman:AP,CAE,MW,PW,PWG,PWKVN,SCH
 ekavyavasAyin:ekavyavasAyin:AP,MW
@@ -156061,7 +156054,7 @@ kaRWanAla:kaRWanAla:MD,MW,PW,SCH
 kaRWanAlam:kaRWanAlam:AP
 kaRWanAlikA:kaRWanAlikA:BHS,MW,PW,PWKVN,SCH
 kaRWanAlI:kaRWanAlI:AP,MW
-kaRWaniveSitahastayugalA:kaRWaniveSitahastayugalA:BEN
+kaRWaniveSitahastayugala:kaRWaniveSitahastayugala:BEN
 kaRWanIqaka:kaRWanIqaka:MW,PW,PWG,SHS,VCP,WIL,YAT;kaMWanIqaka:LRV;kaRWanIqakaH:AP,SKD
 kaRWanIlaka:kaRWanIlaka:MW,PW,PWG,SHS,VCP,WIL,YAT;kaMWanIlaka:LRV;kaRWanIlakaH:AP,SKD
 kaRWapaRqita:kaRWapaRqita:MW,PW,PWG
@@ -158977,8 +158970,7 @@ karRapatraka:karRapattraka:MW,PW;karRapatraka:BEN,PWG;karRapatrakaH:AP;karRRapat
 karRapatraBaNga:karRapattraBaNga:MW,PW,PWG
 karRapaTa:karRapaTa:CAE,CCS,LRV,MW,PW,PWG;karRapaTaH:AP;karRRapaTa:VCP
 karRapaTAtiTi:karRapaTAtiTi:MW
-karRaparampara:karRaparaMpara:BEN
-karRaparamparA:karRaparaMparA:LRV,MW,PW,PWG;karRaparamparA:AP;karRRaparamparA:VCP
+karRaparamparA:karRaparaMparA:BEN,LRV,MW,PW,PWG;karRaparamparA:AP;karRRaparamparA:VCP
 karRaparAkrama:karRaparAkrama:ACC,MW,PW,PWG;karRRaparAkrama:VCP
 karRaparRa:karRaparRa:SCH
 karRaparva:karRaparva:PE
@@ -159443,7 +159435,6 @@ karbUrA:karbUrA:AP,MW
 karbUrita:karbUrita:MW,MW72,PW,PWG,SHS,YAT;karbbUrita:WIL
 karbela:karbela:MW,MW72
 karma:karma:BUR,LAN,MW,MW72,PUI,PW,PWG,STC;karmma:SHS,SKD,WIL,YAT
-karma(n)Pala:karma(n)Pala:BEN
 karmaka:karmaka:BEN,CAE,CCS,MD,MW,MW72,NMMB,PW,PWG
 karmakaRwaka:karmakaRwaka:PW,PWKVN,SCH
 karmakam:karmakam:AP
@@ -159578,7 +159569,7 @@ karmapravAda:karmapravAda:ABCH,MW,PW,PWG
 karmaprAyaScitta:karmaprAyaScitta:ACC
 karmapriya:karmapriya:SCH
 karmaploti:karmaploti:MW
-karmaPala:karmaPala:BUR,CAE,LRV,MW,PW,PWG;karmmaPala:SHS,VCP,WIL,YAT;karmmaPalaM:SKD
+karmaPala:karmaPala:BEN,BUR,CAE,LRV,MW,PW,PWG;karmmaPala:SHS,VCP,WIL,YAT;karmmaPalaM:SKD
 karmaPalam:karmaPalam:AP
 karmaPalahetu:karmaPalahetu:MW,PW,PWKVN,SCH
 karmaPalodaya:karmaPalodaya:MW;karmmaPalodaya:SHS,WIL,YAT
@@ -161282,7 +161273,6 @@ ka~yyu:ka~yyu:PW
 kA:kA:AP,AP90,BEN,BOP,BUR,CAE,CCS,FRI,GRA,IEG,LAN,MD,MW,MW72,PW,PWG,STC
 kAusaggiyA:kAusaggiyA:IEG
 kAussagga:kAussagga:IEG
-kAUNkAra:kAUMkAra:BEN
 kAUraya:kAUraya:PUI
 kAMSi:kAMSi:AP,CAE,CCS,MD,MW,MW72,PW,PWG,VCP;kAMSiH:AP90
 kAMSyanIla:kAMSyanIla:PWG
@@ -171317,8 +171307,7 @@ kfzRavIjam:kfzRavIjam:AP
 kfzRavftritA:kfzRavftritA:YAT
 kfzRavfntA:kfzRavfntA:MW,PWG,SHS,SKD,VCP,WIL,YAT
 kfzRavfntikA:kfzRavfntikA:MW,PW,PWG,SHS,SKD,WIL,YAT
-kfzRaveRa:kfzRaveRa:BEN
-kfzRaveRA:kfzRaveRA:INM,LRV,MW,PUI,PW,PWG,VCP
+kfzRaveRA:kfzRaveRA:BEN,INM,LRV,MW,PUI,PW,PWG,VCP
 kfzRaveRI:kfzRaveRI:AP,INM,MW,PE,PW
 kfzRaveRImAhAtmya:kfzRaveRImAhAtmya:ACC
 kfzRaveRRA:kfzRaveRRA:MCI,MW
@@ -172584,7 +172573,7 @@ koNkaRAsuta:koNkaRAsuta:MW,PW,PWG,SHS,VCP,WIL,YAT;koMkaRAsuta:LRV;koNkaRAsutaH:S
 koNkaRAsUta:koNkaRAsUtaH:AP
 koNkana:koNkana:INM
 koNkARa:koNkARa:AP,MD,MW,PW,PWG
-koNkAra:koNkAra:MD,MW72;koMkAra:MW,PW,PWG,STC
+koNkAra:koMkAra:BEN,MW,PW,PWG,STC;koNkAra:MD,MW72
 koNgi:koNgi:MW,PW
 koca:koca:AP,AP90,BEN,CAE,CCS,MD,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT;kocaH:AP,SKD
 kocava:kocava:BHS,MW,PW,PWKVN,SCH
@@ -183643,8 +183632,7 @@ guruvftta:guruvftta:BEN,MW,PW,PWG
 guruvftti:guruvftti:CAE,CCS,LRV,MW,PW,VCP;guruvfttiH:AP
 guruvfttipara:guruvfttipara:MW
 guruvEzRavAzwaka:guruvEzRavAzwaka:ACC
-guruvyaTa:guruvyaTa:AP,MW
-guruvyaTA:guruvyaTA:BEN
+guruvyaTa:guruvyaTa:AP,BEN,MW
 guruvyAKyA:guruvyAKyA:PW
 guruvrata:guruvrata:ACC
 guruSaktiDArin:guruSaktiDArin:INM
@@ -188951,7 +188939,7 @@ cakzuHpIqA:cakzuHpIqA:LAN,MW
 cakzuHprIti:cakzuHprIti:SCH
 cakzuHSravas:cakzuHSravas:AP,BEN,LRV,MD,MW,PW,PWG,SCH,SHS,VCP,WIL,YAT
 cakzuHSravAH:cakzuHSravAH:SKD
-cakzuHSruti:cakzuHSruti:AP,MW,PW,PWG
+cakzuHSruti:cakzuHSruti:AP,BEN,MW,PW,PWG
 cakzuHSrotra:cakzuHSrotra:MW
 cakzuka:cakzuka:BHS
 cakzuniroDa:cakzuniroDa:MW,PW
@@ -189517,7 +189505,7 @@ catuHsana:catuHsana:BEN,MW,PUI,PW,PWG;catuHsanaH:AP
 catuHsanDi:catuHsaMDi:MD,MW,PW
 catuHsaptata:catuHsaptata:MW,PW,PWG
 catuHsaptati:catuHsaptati:AP,LRV,MW,PW,PWG,VCP
-catuHsaptatitama:catuHsaptatitama:MW,PW,PWG
+catuHsaptatitama:catuHsaptatitama:BEN,MW,PW,PWG
 catuHsaptAtman:catuHsaptAtman:MW,PW
 catuHsama:catuHsama:ABCH,BEN,MW,PW,PWG,SCH,VCP
 catuHsamam:catuHsamam:AP
@@ -189540,7 +189528,6 @@ catuHstotra:catuHstotra:MW,PW
 catuHsTAna:catuHsTAna:MW,PW
 catuHsrakti:catuHsrakti:MW,PW,PWG
 catuHsvarya:catuHsvarya:SCH
-catuHs˚:catuHs˚:BEN
 catuTa:catuTa:BHS
 catudaSalakzaRImaYjUzA:catudaSalakzaRImaYjUzA:ACC
 catur:catur:AP,AP90,BEN,BOP,BUR,CAE,CCS,GRA,LAN,LRV,MD,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT
@@ -194836,7 +194823,6 @@ Ca:Ca:AP,AP90,BOP,BUR,IEG,MW,MW72,PW,PWG,SCH,SHS,SKD,VCP,WIL,YAT;CaM:SKD;CaH:AP,
 CaMvaw:CaMvaw:PWG
 Caka:Caka:BHS
 CakAra:CakAra:MW
-CakzuHSruti:CakzuHSruti:BEN
 Caga:Caga:ABCH,ARMH,BOP,BUR,LRV,MW,MW72,NMMB,PW,PWG,SHS,VCP,VEI,WIL,YAT;CagaH:AP,AP90,SKD
 CagaRa:CagaRa:ABCH,BUR,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT;CagaRaM:AP90,SKD;CagaRaH:AP,AP90
 CagaRaka:CagaRaka:PW
@@ -199590,7 +199576,6 @@ jillika:jillika:INM,MW,MW72,PW,PWG,VCP;jillikaH:AP
 jiv:jiv:BUR,YAT
 jiva:jiva:SHS,SKD,VCP,WIL
 jivanI:jivanI:MCI
-jivarakta:jivarakta:BEN
 jivAjiva:jivAjiva:LRV,MW72,PWG,SHS,VCP,WIL;jivAjivaH:AP,AP90,SKD
 jivAjIva:jivAjIva:MW,PW
 jivi:jivi:KRM,SHS,WIL,YAT
@@ -200028,7 +200013,7 @@ jIvayati:jIvayati:FRI
 jIvayAja:jIvayAja:GRA,MW,PW,PWG,VCP
 jIvayAmi:jIvayAmi:BUR
 jIvayoni:jIvayoni:BEN,MW,PW,PWG,VCP;jIvayoniH:AP
-jIvarakta:jIvarakta:LRV,MW,PW,PWG,VCP
+jIvarakta:jIvarakta:BEN,LRV,MW,PW,PWG,VCP
 jIvaraktam:jIvaraktam:AP
 jIvaratnaka:jIvaratnaka:NMMB
 jIvarahita:jIvarahita:MW
@@ -202115,7 +202100,6 @@ WaWam:WaWam:MW72,SHS,WIL,YAT
 WaWAtkAra:WaWAtkAra:SCH
 WapanIyapraSna:WapanIyapraSna:BHS
 Wapeti:Wapeti:BHS
-Wam:Wam:BEN
 WamBana:WamBana:BHS
 WA:WA:IEG
 WAkura:WAkura:IEG
@@ -203987,13 +203971,12 @@ tapartu:tapartu:MW,PW;tapartuH:AP
 taparloka:taparloka:MW,MW72
 tapaS:tapaS:MW,STC
 tapaSa:tapaSa:MW72,PWG
-tapaScaraRa:tapaScaraRa:CAE,CCS,FRI,LRV,MD,MW,PW,PWG
+tapaScaraRa:tapaScaraRa:BEN,CAE,CCS,FRI,LRV,MD,MW,PW,PWG
 tapaScaraRam:tapaScaraRam:AP
 tapaScaryA:tapaScaryA:AP,BEN,LRV,MW,PW,PWG
 tapaScit:tapaScit:MW,PW,PWG
 tapaScitAmayana:tapaScitAmayana:MW
 tapaSri:tapaSri:PUI
-tapazcaraRa:tapazcaraRa:BEN
 tapas:tapas:ABCH,ACPH,AP,AP90,ARMH,BEN,BOP,BUR,CAE,CCS,FRI,GRA,INM,LAN,LRV,MD,MW,MW72,PW,PWG,SHS,STC,VCP,VEI,WIL,YAT
 tapasa:tapasa:ACPH,BUR,LRV,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT;tapasaH:AP,AP90,SKD
 tapasIvan:tapasIvan:MW,MW72,PWG
@@ -206100,9 +206083,8 @@ tAlaNkI:tAlaNkI:PW
 tAlaNkIkf:tAlaNkIkf:MD,MW
 tAlacara:tAlacara:INM,MCI,MW,PE,PW,PWG,VCP
 tAlaja:tAlaja:CAE,CCS,MW,PW
-tAlajaNGa:tAlajaNGa:CAE,CCS,FRI,INM,MCI,MD,MW,PE,PW,PWG,VCP;tAlajaMGa:PUI
+tAlajaNGa:tAlajaNGa:BEN,CAE,CCS,FRI,INM,MCI,MD,MW,PE,PW,PWG,VCP;tAlajaMGa:PUI
 tAlajaNGaka:tAlajaMGaka:PUI
-tAlajaNGA:tAlajaNGA:BEN
 tAlajawA:tAlajawA:MW,PW,PWG,SHS,VCP,WIL,YAT
 tAlajYa:tAlajYa:AP,MW
 tAlatI:tAlatI:PW,PWG
@@ -210095,8 +210077,8 @@ trikoRaPala:trikoRaPala:MW,PW,PWG,VCP;trikoRaPalaM:SKD
 trikoRaBavana:trikoRaBavana:MW,PW,PWG
 trikoRA:trikoRA:MW
 trikOSeya:trikOSeya:MW,PW
-trikram:trikram:BEN
 trikrama:trikrama:MW,PW
+trikrAnta:trikrAnta:BEN
 trikvan:trikvan:PW,PWG
 trikzAra:trikzAra:MW,PW,PWG,VCP;trikzAraM:SKD
 trikzArARi:trikzArARi:AP
@@ -211854,7 +211836,7 @@ tvatpitar:tvatpitar:PW
 tvatpitf:tvatpitf:MW
 tvatpratIkzin:tvatpratIkzin:MW
 tvatprasUta:tvatprasUta:MW,PW
-tvatsaNgama:tvatsaMgama:MW
+tvatsaNgama:tvatsaMgama:BEN,MW
 tvad:tvad:AP,AP90,BEN,CAE,CCS,FRI,LAN,MD,MW,PW,PWG,STC
 tvadanya:tvadanya:MW
 tvadarTam:tvadarTam:MW
@@ -211878,7 +211860,6 @@ tvadviDa:tvadviDa:AP,AP90,BEN,CAE,CCS,LRV,MD,MW,PW,PWG,VCP
 tvadviDA:tvadviDA:LRV
 tvadviyoga:tvadviyoga:MW
 tvadvivAcana:tvadvivAcana:MW,PW
-tvadsaNgama:tvadsaMgama:BEN
 tvan:tvan:MW
 tvanca:tvanca:SKD,VCP
 tvancu:tvancu:KRM
@@ -214616,8 +214597,7 @@ daSAPala:daSAPala:ACC,MW,PW,SHS,WIL,YAT
 daSAPalam:daSAPalam:AP
 daSAPalotsava:daSAPalotsava:ACC
 daSAbdakAjya:daSAbdakAjya:NMMB
-daSAbdAKy:daSAbdAKy:BEN
-daSAbdAKya:daSAbdAKya:MW,PW,PWKVN,SCH
+daSAbdAKya:daSAbdAKya:BEN,MW,PW,PWKVN,SCH
 daSABAga:daSABAgaH:AP
 daSABISu:daSABISu:GRA,MW,PW
 daSAmaya:daSAmaya:LRV,MW,MW72,PWG,VCP;daSAmayaH:AP
@@ -218541,7 +218521,7 @@ durbIraRa:durbIraRa:VCP
 durbIriRa:durbIriRa:MW,PW,PWG
 durbuda:durbuda:BHS
 durbudDa:durbudDa:BUR
-durbudDi:durbudDi:AP,BOP,CAE,CCS,FRI,LAN,LRV,MW,PW,PWG,SHS,STC,WIL,YAT
+durbudDi:durbudDi:AP,BEN,BOP,CAE,CCS,FRI,LAN,LRV,MW,PW,PWG,SHS,STC,WIL,YAT
 durbuDa:durbuDa:AP,BEN,MW,PW,PWG,STC
 durboDa:durboDa:AP,CAE,CCS,LRV,MW,PW,PWG,STC,VCP,YAT
 durboDapadaBaYjikA:durboDapadaBaYjikA:ACC,MW,PW
@@ -218553,7 +218533,7 @@ durb˚:durb˚:BEN
 durBakAtyAyana:durBakAtyAyana:BHS
 durBakza:durBakza:BHS,CCS,MD,MW,PW,PWG,PWKVN,SCH,WIL,YAT
 durBakzya:durBakzya:MW,SHS
-durBaga:durBaga:AP,CAE,CCS,FRI,LAN,LRV,MW,PW,PWG,STC,VCP,YAT
+durBaga:durBaga:AP,BEN,CAE,CCS,FRI,LAN,LRV,MW,PW,PWG,STC,VCP,YAT
 durBagatva:durBagatva:BEN,CCS,MW,PW,PWG,YAT
 durBagA:durBagA:AP,BUR,LRV,MW,PUI,SHS,SKD,WIL
 durBagna:durBagna:MW,PW,PWG
@@ -218588,7 +218568,6 @@ durBedya:durBedya:AP,CAE,MW,PW,PWG,SHS,WIL
 durBogA:durBogA:MW,PW
 durBrAtar:durBrAtar:PW,PWG
 durBrAtf:durBrAtf:AP,BEN,CAE,LRV,MW,STC,VCP
-durB˚:durB˚:BEN
 durmaKa:durmaKa:GRA,MW,PW,PWG
 durmaNku:durmaNku:AP,BHS,MW,PW,PWKVN,SCH
 durmaNgala:durmaNgala:GRA,LAN,MW,PW,PWG
@@ -218799,8 +218778,7 @@ durvicAra:durvicAra:MW,PW,STC
 durvicAratva:durvicAratva:MW
 durvicintita:durvicintita:MW,PW
 durvicintya:durvicintya:AP,MW,PW,PWG,STC;durviciMtya:LRV
-durvicezwa:durvicezwa:MW,PW,PWG,STC
-durvicezwA:durvicezwA:BEN
+durvicezwa:durvicezwa:BEN,MW,PW,PWG,STC
 durvijYAna:durvijYAna:CAE,CCS,MW,PW,PWG
 durvijYeya:durvijYeya:CAE,CCS,LAN,MW,PW,PWG,STC
 durvitarka:durvitarka:BEN,MW,PW,PWG,STC
@@ -218924,15 +218902,15 @@ duScara:duScara:AP,BEN,BUR,CAE,CCS,FRI,LRV,MD,MW,PW,PWG,SHS,STC,VCP,WIL,YAT;duSc
 duScaraka:duScaraka:BHS
 duScaracArin:duScaracArin:MW
 duScaratva:duScaratva:BEN,MW
-duScarita:duScarita:AP,BUR,CAE,CCS,FRI,LRV,MW,PW,PWG,SHS,VCP,WIL,YAT
+duScarita:duScarita:AP,BEN,BUR,CAE,CCS,FRI,LRV,MW,PW,PWG,SHS,VCP,WIL,YAT
 duScaritam:duScaritam:AP
 duScaritin:duScaritin:PW,PWG
 duScarmaka:duScarmaka:MW,PW
-duScarman:duScarman:ABCH,AP,ARMH,BUR,CAE,CCS,MW,PW,PWG,SCH,STC,VCP,VEI;duScarmman:SHS,WIL,YAT
+duScarman:duScarman:ABCH,AP,ARMH,BEN,BUR,CAE,CCS,MW,PW,PWG,SCH,STC,VCP,VEI;duScarmman:SHS,WIL,YAT
 duScarmA:duScarmmA:SKD
-duScAritra:duScAritra:CAE,CCS,MW,PW,PWG,STC,VCP
-duScArin:duScArin:CAE,MW,PW,PWG
-duScikitsa:duScikitsa:MW,PW,PWG,STC
+duScAritra:duScAritra:BEN,CAE,CCS,MW,PW,PWG,STC,VCP
+duScArin:duScArin:BEN,CAE,MW,PW,PWG
+duScikitsa:duScikitsa:BEN,MW,PW,PWG,STC
 duScikitsA:duScikitsA:MW,PW,PWG
 duScikitsita:duScikitsita:MW,PW,PWG
 duScikitsya:duScikitsya:AP,LRV,MW,PW,PWG,SCH,VCP
@@ -218945,24 +218923,25 @@ duScintana:duScintana:SCH
 duScintita:duScintita:MW,PW,PWG,STC
 duScintitacintin:duScintitacintin:BHS,PW
 duScintin:duScintin:MW
-duScintya:duScintya:MW,PW,PWG
+duScintya:duScintya:BEN,MW,PW,PWG
 duScetas:duScetas:CAE,CCS,PW,PWG
+duScezw:duScezw:BEN
 duScezwA:duScezwA:CAE,CCS,MW,PW,PWG
 duScezwita:duScezwita:MW,PW,PWG,SHS,STC,WIL,YAT
 duScezwitam:duScezwitam:AP
-duSCada:duScCada:AP;duSCada:MW,PW,PWG,SHS,STC,WIL,YAT
+duSCada:duScCada:AP;duSCada:BEN,MW,PW,PWG,SHS,STC,WIL,YAT
 duScyavana:duScyavana:ABCH,ARMH,BUR,CAE,CCS,GRA,LRV,MW,PW,PWG,SCH,SHS,WIL,YAT;duScyavanaH:AP,SKD
 duScyAva:duScyAva:BEN,LRV,MW,PW,PWG,STC,VCP;duScyAvaH:AP
 duScyAvana:duScyAvana:MW
 duSCardita:duSCardita:BHS
 duSCAya:duSCAya:BHS,MW,PW
-duSCid:duSCid:MW,PW,PWG
+duSCid:duSCid:BEN,MW,PW,PWG
 duSCinna:duSCinna:MW,PW,PWG,STC
 duSSaWa:duSSaWa:PUI
 duSSala:duSSala:PE
 duSSalA:duSSalA:PE,PUI,VCP
 duSSAsana:duSSAsana:PE,PUI,SHS,WIL,YAT
-duSSIla:duSSIla:LRV,VCP
+duSSIla:duSSIla:BEN,LRV,VCP
 duSSIlA:duSSIlA:PE
 duSSrava:duSSrava:VCP
 duz:duz:AP,AP90,BEN,BOP,BUR,CAE,CCS,FRI,GRA,LAN,LRV,MD,MW,MW72,PW,PWG,PWKVN,SCH,STC,YAT
@@ -219014,15 +218993,6 @@ duzK:duzK:BEN,PWG
 duzKa:duzKa:BHS,BOP,BUR,MW,SHS,WIL,YAT;duzKaM:SKD
 duzKatara:duzKatara:BOP
 duzKadira:duzKadira:MW,PW,PWG,VCP;duzKadiraH:SKD
-duzcarita:duzcarita:BEN
-duzcarman:duzcarman:BEN
-duzcAritra:duzcAritra:BEN
-duzcArin:duzcArin:BEN
-duzcikitsa:duzcikitsa:BEN
-duzcintya:duzcintya:BEN
-duzcezw:duzcezw:BEN
-duzCada:duzCada:BEN
-duzCid:duzCid:BEN
 duzwa:duzwa:AP,AP90,BHS,BOP,BUR,CAE,CCS,FRI,LAN,LRV,MD,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT;duzwaM:SKD;duzwaH:SKD
 duzwagaja:duzwagaja:ABCH,ARMH,LRV,MW,VCP;duzwagajaH:AP
 duzwacaritra:duzwacaritra:CAE,CCS,MW,PW
@@ -219215,7 +219185,6 @@ duspazwa:duspazwa:PWG
 duspfSa:duspfSa:PW
 duspfzwa:duspfzwa:LRV,MW,PW,VCP
 dusPowa:dusPowa:VCP
-dusSIla:dusSIla:BEN
 dussaTa:dussaTa:BUR,MW,MW72,PW,PWG,SHS,WIL,YAT
 dussani:dussani:MD,MW,MW72,PW,PWG
 dussama:dussama:LRV
@@ -230836,7 +230805,7 @@ navazazwitama:navazazwitama:BEN,MW,PW
 navasaMyojanavisaMyojanaka:navasaMyojanavisaMyojanaka:MW
 navasaNGArAma:navasaMGArAma:MW,PW,PWG
 navasaptati:navasaptati:LRV,MW,PW,PWG;navasaptatiH:AP
-navasaptatitama:navasaptatitama:MW,PW
+navasaptatitama:navasaptatitama:BEN,MW,PW
 navasaptadaSa:navasaptadaSa:MW,PW,PWG,VCP
 navasara:navasara:MW,PW;navasaraH:AP
 navasasya:navasasya:CAE,MD,MW,PW
@@ -230853,7 +230822,6 @@ navastoBa:navastoBa:MW,PW,PWG
 navasTAna:navasTAna:MW,PW
 navasrakti:navasrakti:GRA,MW,PW,PWG
 navasvastara:navasvastara:MW,PW,PWKVN,SCH
-navas˚:navas˚:BEN
 navahasta:navahasta:ACC,MW,PW
 navahastya:navahastya:ACC
 navA:navA:LRV,MW,PUI
@@ -233304,7 +233272,7 @@ niHsfti:niHsfti:BHS
 niHsfp:niHsfp:MW
 niHsomaka:niHsomaka:MW,PW,STC
 niHstamBa:niHstamBa:AP,BEN,MD,MW,MW72,PW,PWG,STC
-niHstuti:niHstuti:MW,MW72,PW,PWG,STC
+niHstuti:niHstuti:BEN,MW,MW72,PW,PWG,STC
 niHstfta:niHstfta:MW
 niHsTAman:niHsTAman:MW,PW
 niHsnAva:niHsnAva:BUR
@@ -235202,8 +235170,7 @@ nirapa:nirapa:CAE,CCS,MD,MW,MW72,PW,PWG,SHS,STC,WIL,YAT
 nirapakrama:nirapakrama:MW,PW
 nirapatya:nirapatya:CAE,CCS,MW,PW
 nirapatyatva:nirapatyatva:MW
-nirapatrapa:nirapatrapa:AP,BUR,CAE,CCS,LRV,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT;nirapatrapaH:SKD
-nirapatrapA:nirapatrapA:BEN
+nirapatrapa:nirapatrapa:AP,BEN,BUR,CAE,CCS,LRV,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT;nirapatrapaH:SKD
 niraparADa:niraparADa:AP,BEN,CAE,CCS,LRV,MW,MW72,PW,PWG,SHS,STC,WIL,YAT;niraparADaH:AP
 niraparADatA:niraparADatA:BEN,MW
 niraparADavat:niraparADavat:MW;niraparADavant:BEN,PW
@@ -236299,7 +236266,7 @@ nirbIjatva:nirbIjatva:MW
 nirbIjA:nirbIjA:AP,MW
 nirbIjIkaraRa:nirbIjIkaraRa:SCH
 nirbuda:nirbuda:BHS
-nirbudDi:nirbudDi:AP,CAE,CCS,LAN,LRV,MW,MW72,PW,PWG,STC,WIL;nirbbudDi:SHS,YAT
+nirbudDi:nirbudDi:AP,BEN,CAE,CCS,LAN,LRV,MW,MW72,PW,PWG,STC,WIL;nirbbudDi:SHS,YAT
 nirbuza:nirbuza:AP,LRV,VCP
 nirbusa:nirbusa:AP,LRV,MW
 nirbusI:nirbusI:PW
@@ -236309,7 +236276,6 @@ nirba:nirbba:SHS
 nirbA:nirbbA:SHS
 nirbEra:nirbbEra:SHS,WIL
 nirbrU:nirbrU:MW,MW72
-nirb˚:nirb˚:BEN
 nirBakta:nirBakta:AP,MW,MW72,PW,PWG
 nirBagna:nirBagna:AP,AP90,MW,MW72,SHS,STC,WIL,YAT
 nirBacCita:nirBacCita:BHS
@@ -236889,8 +236855,7 @@ nirvicAram:nirvicAram:AP,MW,STC
 nirvicikitsa:nirvicikitsa:AP,LRV,MW,MW72,PW,PWG
 nirvicikitsam:nirvicikitsam:BEN,MW
 nirvicitsa:nirvicitsa:VCP
-nirvicezwa:nirvicezwa:AP,CAE,CCS,LRV,MW,MW72,PW,PWG,STC
-nirvicezwA:nirvicezwA:BEN
+nirvicezwa:nirvicezwa:AP,BEN,CAE,CCS,LRV,MW,MW72,PW,PWG,STC
 nirviRRa:nirviRRa:AP,AP90,BOP,BUR,CAE,CCS,FRI,LRV,MW,MW72,PWG,SHS,VCP,WIL;nirvviRRa:YAT;nirvviRRaH:SKD
 nirviRRacetas:nirviRRacetas:MW,SHS,WIL;nirvviRRacetas:YAT
 nirviRRA:nirviRRA:LRV
@@ -237631,7 +237596,7 @@ niSopaSAya:niSopaSAya:MW,SHS,WIL,YAT
 niSozita:niSozita:AP,MW,PW
 niScakram:niScakram:AP,LRV
 niScakrika:niScakrika:AP,MW,PW,PWKVN,SCH
-niScakzus:niScakzus:AP,LRV,MW,MW72,PW,PWG,STC
+niScakzus:niScakzus:AP,BEN,LRV,MW,MW72,PW,PWG,STC
 niScat:niScat:MW,MW72
 niScatvAriMSa:niScatvAriMSa:LRV,MW,MW72,PW,PWG,VCP;niScatvAriMSaH:AP
 niScapraca:niScapraca:MW,MW72,PW,PWG,VCP
@@ -237648,7 +237613,7 @@ niScayena:niScayena:MW
 niScar:niScar:AP,AP90,MW,MW72,STC
 niScara:niScara:BHS,MW,MW72,PUI,PW,PWG,VCP
 niScarAmi:niScarAmi:BUR
-niScala:niScala:AP,AP90,BOP,BUR,CAE,CCS,LAN,LRV,MD,MW,MW72,PUI,PW,PWG,SHS,STC,VCP,WIL,YAT
+niScala:niScala:AP,AP90,BEN,BOP,BUR,CAE,CCS,LAN,LRV,MD,MW,MW72,PUI,PW,PWG,SHS,STC,VCP,WIL,YAT
 niScalakara:niScalakara:ACC,MW
 niScalatA:niScalatA:SCH
 niScaladAsasvAmin:niScaladAsasvAmin:ACC,MW
@@ -237696,7 +237661,7 @@ niScuNkawa:niScuNkawa:PW
 niScut:niScut:MW,STC
 niScutita:niScutita:MW
 niScft:niScft:MW,MW72
-niScetana:niScetana:AP,CAE,CCS,FRI,LRV,MD,MW,MW72,PW,PWG,STC
+niScetana:niScetana:AP,BEN,CAE,CCS,FRI,LRV,MD,MW,MW72,PW,PWG,STC
 niScetanatA:niScetanatA:MW
 niScetavya:niScetavya:MW,PW
 niScetas:niScetas:AP,CAE,CCS,LRV,MW,MW72,PW,PWG,STC
@@ -238127,9 +238092,6 @@ nizKan:nizKan:MW,MW72
 nizKid:nizKid:MW
 nizKidam:nizKidam:MW72,PW
 nizgam:nizgam:FRI
-nizcakzus:nizcakzus:BEN
-nizcala:nizcala:BEN
-nizcetana:nizcetana:BEN
 nizwaMsAmi:nizwaMsAmi:BUR
 nizwaka:nizwaka:NMMB
 nizwakarman:nizwakarman:PUI
@@ -238547,7 +238509,6 @@ nisfzwArTadUtI:nisfzwArTadUtI:ACC,LRV
 nisfzwileKa:nisfzwileKa:SCH
 nisevitavya:nisevitavya:MW,MW72,STC
 nisoQa:nisoQa:VCP
-nisHtuti:nisHtuti:BEN
 niskarzAmi:niskarzAmi:BUR
 nistakz:nistakz:MW,MW72
 nistattva:nistattva:BEN,MW,MW72,PW,PWG,STC,VCP
@@ -239024,8 +238985,7 @@ nIramitra:nIramitra:PUI
 nIrarASi:nIrarASi:MW,PW,PWKVN,SCH
 nIraruha:nIraruha:BEN,LRV,MW,PW,PWG
 nIraruham:nIraruham:AP
-nIrarva:nIrarva:BEN
-nIrava:nIrava:AP,BOP,CAE,CCS,LRV,MD,MW,MW72,PW,PWG,STC
+nIrava:nIrava:AP,BEN,BOP,CAE,CCS,LRV,MD,MW,MW72,PW,PWG,STC
 nIraSana:nIraSana:MW,PW,PWG
 nIrasa:nIrasa:AP,BEN,BOP,BUR,CAE,CCS,LAN,LRV,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT;nIrasaH:AP,SKD
 nIrasatA:nIrasatA:MW
@@ -259514,8 +259474,7 @@ pfTuSravas:pfTuSravas:BEN,CAE,CCS,GRA,INM,MCI,MW,PE,PUI,PW,PWG,VCP,VEI,YAT
 pfTuSravasdOreSravasa:pfTuSravasdOreSravasa:VEI
 pfTuSrI:pfTuSrI:AP,LRV,MW,PW
 pfTuSroRi:pfTuSroRi:AP,LRV,MW,PW,PWG
-pfTuSroRI:pfTuSroRI:BOP,MW,PW
-pfTuSronI:pfTuSronI:BEN
+pfTuSroRI:pfTuSroRI:BEN,BOP,MW,PW
 pfTuzeRa:pfTuzeRa:MW,PE,PUI,PW,PWG
 pfTuzwu:pfTuzwu:GRA,MW,PW,PWG
 pfTuzwuka:pfTuzwuka:GRA,MW,PWG
@@ -270655,7 +270614,7 @@ prAkpada:prAkpada:MW,PW,PWG,VCP
 prAkpadam:prAkpadam:AP
 prAkparvata:prAkparvata:SCH
 prAkpaScimAyata:prAkpaScimAyata:MW,PW
-prAkpuRyapraBava:prAkpuRyapraBava:MW
+prAkpuRyapraBava:prAkpuRyapraBava:BEN,MW
 prAkpuzpA:prAkpuzpA:MW,PW,PWG,VCP
 prAkpravaRa:prAkpravaRa:MW,PW
 prAkprastuta:prAkprastuta:CAE,MW
@@ -270697,7 +270656,6 @@ prAksrotas:prAksrotas:AP,LRV,MW,PW,PWG,VCP
 prAKarati:prAKarati:BHS
 prAKarya:prAKarya:LRV,MD,MW,MW72,PW,PWG;prAKaryaM:AP90;prAKaryya:SHS,WIL,YAT;prAKaryyaM:SKD
 prAKaryam:prAKaryam:AP
-prAKpuRyapraBava:prAKpuRyapraBava:BEN
 prAg:prAg:MW
 prAgagra:prAgagra:AP,CAE,LRV,MD,MW,PW,PWG,PWKVN,SCH,SHS,VCP
 prAgagratA:prAgagratA:MW
@@ -282960,8 +282918,7 @@ BavyajIvana:BavyajIvana:MW,PW,PWG
 BavyatA:BavyatA:MW,PW,PWG
 Bavyam:Bavyam:AP
 Bavyamanas:Bavyamanas:AP,MW,PW
-BavyarUpa:BavyarUpa:MW,PW
-BavyarUpA:BavyarUpA:BEN
+BavyarUpa:BavyarUpa:BEN,MW,PW
 BavyA:BavyA:AP,LRV,MW,SKD
 BavyAkfti:BavyAkfti:MW,PW
 BaSirA:BaSirA:BUR,MW,MW72,PW,PWG,SHS,WIL,YAT
@@ -284850,7 +284807,6 @@ BImakarman:BImakarman:AP,CAE,LRV,MD,MW,PW;BImakarmman:SHS,WIL,YAT
 BImakalambaka:BImakalambaka:ACC,MW
 BImakArmuka:BImakArmuka:BEN,MW
 BImakAvya:BImakAvya:ACC,MW
-BImakram:BImakram:BEN
 BImaKaRqa:BImaKaRqa:ACC,MW,PW,PWG
 BImagava:BImagava:MW,PW,PWG
 BImagu:BImagu:MW,PW
@@ -284916,7 +284872,7 @@ BImala:BImala:AP,CAE,MW,MW72,PW,PWG,VCP
 BImavana:BImavana:SCH
 BImavarman:BImavarman:PGN
 BImavikrama:BImavikrama:ACC,AP,INM,LRV,MW,PW,PWG,SHS,VCP,WIL
-BImavikrAnta:BImavikrAnta:AP,MW,PW,PWG,SHS,VCP,WIL,YAT;BImavikrAMta:LRV;BImavikrAntaH:AP,SKD
+BImavikrAnta:BImavikrAnta:AP,BEN,MW,PW,PWG,SHS,VCP,WIL,YAT;BImavikrAMta:LRV;BImavikrAntaH:AP,SKD
 BImavigraha:BImavigraha:AP,LRV,MW,SHS,WIL,YAT
 BImavinoda:BImavinoda:ACC,MW
 BImavega:BImavega:AP,INM,MW,PUI,PW,PWG,SHS,WIL,YAT
@@ -309299,8 +309255,7 @@ rakAra:rakAra:CAE,CCS,MD,MW,PW,PWG,STC
 rakArAdirAmasahasranAman:rakArAdirAmasahasranAman:ACC,MW
 rakArAdisahasranAman:rakArAdisahasranAman:ACC
 rakka:rakka:BEN,MD,MW,MW72,PW,PWG
-rakkajaya:rakkajaya:BEN
-rakkajayA:rakkajayA:MW
+rakkajayA:rakkajayA:BEN,MW
 rakta:rakta:ABCH,AP,AP90,ARMH,BOP,BUR,CAE,CCS,FRI,INM,LAN,LRV,MD,MW,MW72,PE,PUI,PW,PWG,SHS,STC,VCP,WIL,YAT;raktaM:SKD;raktaH:AP,SKD
 raktaka:raktaka:AP,AP90,BEN,CAE,CCS,LRV,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT;raktakaH:AP,SKD
 raktakaNgu:raktakaNgu:MW,PW,PWG
@@ -312782,7 +312737,6 @@ rAcitAyana:rAcitAyana:MW,MW72,PW,PWG
 rAcCapocCa:rAcCapocCa:IEG
 rAj:rAj:ABCH,AP,AP90,ARMH,BEN,BOP,BUR,CAE,CCS,FRI,GRA,LAN,LRV,MD,MW,MW72,PW,PWG,PWKVN,SCH,SHS,STC,WIL,YAT
 rAja:rAja:BEN,BOP,BUR,CAE,CCS,FRI,GRA,IEG,LAN,LRV,MD,MW,MW72,PE,PGN,PUI,PW,PWG,SKD,SNP,VCP,WIL;rAjaH:AP
-rAja(n)puruza:rAja(n)puruza:BEN
 rAjafzi:rAjafzi:ACC,LRV,MW,PUI,PW,PWG
 rAjaka:rAjaka:ABCH,BEN,BHS,CAE,CCS,GRA,LRV,MD,MW,MW72,PUI,PW,PWG,SHS,STC,VCP,WIL,YAT;rAjakaM:SKD;rAjakaH:AP,AP90
 rAjakaTA:rAjakaTA:MW,PW,PWG
@@ -313071,7 +313025,7 @@ rAjapumaMs:rAjapumaMs:CAE,CCS,PW
 rAjapura:rAjapura:CAE,INM,MCI,MW,PE,PW,PWG
 rAjapuram:rAjapuram:AP
 rAjapurI:rAjapurI:MW
-rAjapuruza:rAjapuruza:CAE,CCS,IEG,LAN,LRV,MW,PW,PWG,SHS,VEI,WIL,YAT;rAjapuruzaH:AP
+rAjapuruza:rAjapuruza:BEN,CAE,CCS,IEG,LAN,LRV,MW,PW,PWG,SHS,VEI,WIL,YAT;rAjapuruzaH:AP
 rAjapuruzavAda:rAjapuruzavAda:ACC,MW,PW
 rAjapuzpa:rAjapuzpa:MW,PW,PWG,SHS,VCP,WIL,YAT;rAjapuzpaH:AP,SKD
 rAjapuzpI:rAjapuzpI:MW,SKD
@@ -333650,8 +333604,7 @@ vidvezika:vidvezika:BHS
 vidveziRI:vidveziRI:LRV,MW,SKD
 vidvezitA:vidvezitA:CAE,CCS,MW,PW,PWG
 vidvezin:vidvezin:AP,AP90,BEN,CAE,CCS,LRV,MW,MW72,PW,PWG,SHS,WIL,YAT
-vidvezipraBava:vidvezipraBava:MW
-vidvezipr˚:vidvezipr˚:BEN
+vidvezipraBava:vidvezipraBava:BEN,MW
 vidvezI:vidvezI:SKD
 vidvezwar:vidvezwar:PW,PWG
 vidvezwf:vidvezwf:AP,AP90,MW,MW72,SHS,WIL,YAT
@@ -334539,7 +334492,7 @@ viniScaya:viniScaya:BEN,BHS,BOP,CAE,CCS,LRV,MD,MW,MW72,PW,PWG,SHS,STC,WIL,YAT;vi
 viniScayajYa:viniScayajYa:MW
 viniScayawIkADarmottamA:viniScayawIkADarmottamA:ACC
 viniScar:viniScar:MW,MW72,STC
-viniScala:viniScala:CAE,CCS,MW,MW72,PW,PWG,SHS,STC,WIL,YAT
+viniScala:viniScala:BEN,CAE,CCS,MW,MW72,PW,PWG,SHS,STC,WIL,YAT
 viniScAyin:viniScAyin:MW,PW,PWG
 viniSci:viniSci:AP,AP90,MW,MW72,STC
 viniScita:viniScita:BOP,CAE,MW,MW72,SHS,WIL,YAT
@@ -334570,7 +334523,6 @@ vinizkrAmat:vinizkrAmat:MW72
 vinizkrAmAmi:vinizkrAmAmi:BUR
 vinizkriya:vinizkriya:MW,MW72
 vinizgam:vinizgam:FRI
-vinizcala:vinizcala:BEN
 vinizwan:vinizwan:MW
 vinizwap:vinizwap:MW72
 vinizwapta:vinizwapta:MW,MW72,STC
@@ -337163,7 +337115,6 @@ virohita:virohita:MW,PW,PWG,SHS,WIL,YAT
 virohin:virohin:MW,PW,PWG
 virOmi:virOmi:BUR
 virpaRam:virpaRam:IEG
-viryAvadAna:viryAvadAna:BEN
 vil:vil:AP,AP90,BEN,BOP,BUR,LRV,MW,MW72,PW,PWG,SHS,YAT
 vila:vila:BEN,BOP,BUR,KRM,LRV,MD,MW,MW72,PW,PWG,SHS,SKD,STC,VCP,WIL,YAT;vilaM:AP90,SKD;vilaH:SKD
 vilakArI:vilakArI:SKD
@@ -339831,8 +339782,7 @@ vizamavyAKyA:vizamavyAKyA:MW,PW,PWG
 vizamavyAptika:vizamavyAptika:MW,PW,PWKVN,SCH
 vizamaSara:vizamaSara:MD,MW,PW;vizamaSaraH:AP
 vizamaSAyin:vizamaSAyin:MW,SHS,WIL,YAT
-vizamaSiz:vizamaSiz:BEN
-vizamaSizwa:vizamaSizwa:MW,PW,PWG,SHS,VCP,WIL,YAT;vizamaSizwaH:SKD
+vizamaSizwa:vizamaSizwa:BEN,MW,PW,PWG,SHS,VCP,WIL,YAT;vizamaSizwaH:SKD
 vizamaSizwatva:vizamaSizwatva:MW
 vizamaSIla:vizamaSIla:AP,BEN,CAE,MW,PW,PWG,WIL,YAT
 vizamaSlokawIkA:vizamaSlokawIkA:MW,PW
@@ -341729,9 +341679,8 @@ vItavAra:vItavAra:GRA,MW,PW,PWG
 vItavirudDabudDi:vItavirudDabudDi:BEN,MW,SHS,WIL,YAT
 vItaviza:vItaviza:MW,PW
 vItavrIqa:vItavrIqa:CAE,CCS,MW,PW
-vItaSaNka:vItaSaNka:MW,SHS,WIL,YAT
+vItaSaNka:vItaSaNka:BEN,MW,SHS,WIL,YAT
 vItaSaNkam:vItaSaNkam:MW,PW
-vItaSaNkA:vItaSaNkA:BEN
 vItaSoka:vItaSoka:BEN,BHS,CAE,CCS,LRV,MW,PW,PWG,SHS,VCP,WIL,YAT;vItaSokaH:AP,SKD
 vItaSokatA:vItaSokatA:MW
 vItaSokaBaya:vItaSokaBaya:MW
@@ -342266,7 +342215,7 @@ vIryAnvita:vIryAnvita:MW
 vIryArabDi:vIryArabDi:BHS
 vIryAramBa:vIryAramBa:BHS
 vIryAvat:vIryAvat:MW;vIryAvant:CAE,PW,PWG
-vIryAvadAna:vIryAvadAna:MW;vIryyAvadAna:SHS,WIL,YAT
+vIryAvadAna:vIryAvadAna:BEN,MW;vIryyAvadAna:SHS,WIL,YAT
 vIryAvaDUta:vIryAvaDUta:MW;vIryyAvaDUta:SHS,WIL,YAT
 vIlaka:vIlaka:MW
 vIvaDa:vIvaDa:ABCH,ARMH,BEN,BUR,CAE,LRV,MW,MW72,PUI,PW,PWG,SHS,STC,WIL,YAT;vIvaDaH:AP,AP90,SKD
@@ -350174,7 +350123,7 @@ Saktri:Saktri:INM,MW,MW72,PW,PWG,STC,VCP;SaktriH:SKD
 Saktrija:Saktrija:INM
 Saktrin:Saktrin:MW,MW72,PW
 Saktriputra:Saktriputra:INM
-SaktreH:SaktreH:INM
+SaktreHputra:SaktreHputra:INM
 SakTri:SakTri:VCP
 Sakna:Sakna:AP,AP90,BUR,LRV,MW,MW72,PW,PWG,SHS,WIL,YAT;SaknaH:SKD
 SaknA:SaknA:LRV
@@ -364980,10 +364929,9 @@ zaqvikAram:zaqvikAram:MW,PW
 zaqvidiksanDAna:zaqvidiksaMDAna:ACC,MW
 zaqvidyAgama:zaqvidyAgama:ACC,MW,PW
 zaqvidyAgamasANKyAyanatantra:zaqvidyAgamasAMKyAyanatantra:ACC,MW,PW
-zaqviDa:zaqviDa:AP,CAE,CCS,LRV,MW,PW,PWG,SHS,WIL,YAT;zaqviDaM:SKD
+zaqviDa:zaqviDa:AP,BEN,CAE,CCS,LRV,MW,PW,PWG,SHS,WIL,YAT;zaqviDaM:SKD
 zaqviDayogaPala:zaqviDayogaPala:ACC,MW
 zaqviDasANKya:zaqviDasAMKya:ACC,MW
-zaqviDA:zaqviDA:BEN
 zaqviDAna:zaqviDAna:CAE,CCS,GRA,MW,PW,PWG
 zaqvindu:zaqvindu:SHS,WIL,YAT
 zaqvinDyA:zaqvinDyA:MW,PW,PWG
@@ -372659,8 +372607,7 @@ saptaBadra:saptaBadra:LRV,MW,PW,PWG,SHS,VCP,WIL,YAT;saptaBadraH:AP,SKD
 saptaBuvana:saptaBuvana:MW
 saptaBUma:saptaBUma:MW,PW
 saptaBUmi:saptaBUmi:CAE,MW,PW,PWKVN,SCH
-saptaBUmika:saptaBUmika:AP,LRV,MW,PW,SHS
-saptaBUmikA:saptaBUmikA:BEN
+saptaBUmika:saptaBUmika:AP,BEN,LRV,MW,PW,SHS
 saptaBUmikAvicAra:saptaBUmikAvicAra:ACC,MW
 saptaBUmimaya:saptaBUmimaya:MW,PW
 saptaBoma:saptaBoma:PW
@@ -383603,7 +383550,6 @@ sABravatI:sABravatI:MW
 sABri:sABri:MW,PW
 sAm:sAm:AP,AP90,BEN,BOP,LRV,MW,MW72,SHS
 sAma:sAma:AP,BHS,CAE,CCS,KRM,MW,MW72,PE,PUI,PW,PWG,SKD,STC,VCP,WIL,YAT
-sAma(n)vAda:sAma(n)vAda:BEN
 sAmaka:sAmaka:AP,AP90,BUR,CAE,CCS,IEG,LRV,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT;sAmakaM:AP90,SKD;sAmakaH:AP,SKD
 sAmakam:sAmakam:AP
 sAmakalam:sAmakalam:AP,MW,PW,PWG
@@ -383765,7 +383711,7 @@ sAmavalka:sAmavalka:SHS
 sAmavaSa:sAmavaSa:BUR,MW,MW72,PW,PWG
 sAmavAjika:sAmavAjika:IEG
 sAmavAjIn:sAmavAjIn:IEG
-sAmavAda:sAmavAda:CAE,IEG,LRV,MD,MW,PW,PWG;sAmavAdaH:AP
+sAmavAda:sAmavAda:BEN,CAE,IEG,LRV,MD,MW,PW,PWG;sAmavAdaH:AP
 sAmavAyika:sAmavAyika:ABCH,AP,AP90,BEN,BUR,CCS,IEG,LRV,MD,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT;sAmavAyikaH:AP,SKD
 sAmavAyikI:sAmavAyikI:LRV
 sAmavid:sAmavid:ABCH,AP,CAE,MD,MW,PW,PWG
@@ -387242,7 +387188,6 @@ sukratUy:sukratUy:CAE,GRA,PW,PWG
 sukratUya:sukratUya:MW
 sukratUyA:sukratUyA:CAE,CCS,GRA,MW,PW,PWG
 sukradDa:sukradDa:CAE
-sukram:sukram:BEN
 sukraya:sukraya:MW,PW;sukrayaH:AP
 sukriyA:sukriyA:MW,SHS,WIL,YAT
 sukrIqA:sukrIqA:BHS,MW,PW
@@ -387794,8 +387739,7 @@ sugrahaRa:sugrahaRa:MW,PW,PWG
 sugrAma:sugrAma:MW,PW
 sugrAsa:sugrAsa:LRV,MW,SHS;sugrAsaH:AP
 sugrAhya:sugrAhya:MW,SHS,WIL,YAT
-sugrIva:sugrIva:ABCH,AP,BHS,BUR,CAE,CCS,INM,LRV,MCI,MW,NMMB,PE,PUI,PW,PWG,SHS,STC,VCP,WIL,YAT;sugrIvaH:AP,SKD
-sugrIvA:sugrIvA:BEN
+sugrIva:sugrIva:ABCH,AP,BEN,BHS,BUR,CAE,CCS,INM,LRV,MCI,MW,NMMB,PE,PUI,PW,PWG,SHS,STC,VCP,WIL,YAT;sugrIvaH:AP,SKD
 sugrIvAgraja:sugrIvAgraja:ACSJ,MW,PW
 sugrIvi:sugrIvi:PUI
 sugrIvI:sugrIvI:MW,PE,SKD
@@ -388774,14 +388718,13 @@ suniveSita:suniveSita:FRI
 suniSita:suniSita:BEN,MW,PW,PWG,STC
 suniScaya:suniScaya:CAE,CCS,LAN,MW,PW,PWG,STC
 suniScala:suniScala:CAE,INM,MW,PW,PWG;suniScalaH:AP
-suniScita:suniScita:ABCH,ACPH,ARMH,CAE,MW,PW,PWG,SHS,WIL,YAT;suniScitaH:SKD
+suniScita:suniScita:ABCH,ACPH,ARMH,BEN,CAE,MW,PW,PWG,SHS,WIL,YAT;suniScitaH:SKD
 suniScitapura:suniScitapura:MW,PW,PWG
 suniScitam:suniScitam:MW
 sunizaRRa:sunizaRRa:MW,PW,PWG,VCP;sunizaRRaM:SKD;sunizaRRaH:AP
 sunizaRRaka:sunizaRRaka:BUR,MW,PW,PWG,SHS,WIL,YAT;sunizaRRakaM:SKD;sunizaRRakaH:AP
 sunizka:sunizka:CAE,CCS,GRA,MW,PW,PWG
 sunizkfta:sunizkfta:MW,PW,STC
-sunizcita:sunizcita:BEN
 sunizwapta:sunizwapta:BUR,MW,PW,PWG,SHS,STC,VCP,WIL,YAT;sunizwaptaH:SKD
 sunizWita:sunizWita:BHS,MW,PW,PWG,STC
 sunizWura:sunizWura:MW,PW,PWG,STC
@@ -390278,7 +390221,6 @@ surapriya:surapriya:BEN,BUR,MW,PW,PWG,SHS,VCP,WIL,YAT;surapriyaH:AP,SKD
 surapriyA:surapriyA:MW,SKD
 surapreyasI:surapreyasI:SCH
 suraPalagrahi:suraPalagrahi:SCH
-surabDa:surabDa:BEN
 suraBay:suraBay:CAE,CCS,PW,PWG
 suraBaya:suraBaya:MD,MW
 suraBayati:suraBayati:STC
@@ -391177,7 +391119,6 @@ suvAla:suvAla:MW,PW
 suvAlaDi:suvAlaDi:MW,PW,STC
 suvAlaDiKura:suvAlaDiKura:MW,PW
 suvAlukA:suvAlukA:MW,PW,PWG
-suvAs:suvAs:BEN
 suvAsa:suvAsa:BEN,BUR,INM,MW,PW,PWG,SHS,VCP,WIL,YAT;suvAsaH:AP,SKD
 suvAsaka:suvAsaka:MW;suvAsakaH:AP
 suvAsakumAra:suvAsakumAra:MW,PW,PWG,STC
@@ -391185,7 +391126,7 @@ suvAsakumAraka:suvAsakumAraka:MW,PW
 suvAsana:suvAsana:MW,PUI,PW,PWG,STC
 suvAsarA:suvAsarA:AP,MW,PW
 suvAsas:suvAsas:CAE,CCS,GRA,INM,MW,PW,PWG,STC,YAT
-suvAsita:suvAsita:MW,PW,PWG
+suvAsita:suvAsita:BEN,MW,PW,PWG
 suvAsin:suvAsin:BEN,MW,SHS,WIL
 suvAsinI:suvAsinI:ABCH,AP,ARMH,CAE,LRV,MW,PW,PWG,SKD,STC,VCP,YAT
 suvAsinIpUjA:suvAsinIpUjA:ACC
@@ -391198,7 +391139,7 @@ suvAhana:suvAhana:MW,PUI,PW,PWG
 suvAhu:suvAhu:INM
 suvikalpANga:suvikalpANga:BHS
 suvikrama:suvikrama:MW,PW,PWG,SHS,STC,WIL,YAT
-suvikrAnta:suvikrAnta:AP,BHS,MW,PW,PWG,SHS,WIL,YAT;suvikrAMta:LRV;suvikrAntaH:AP
+suvikrAnta:suvikrAnta:AP,BEN,BHS,MW,PW,PWG,SHS,WIL,YAT;suvikrAMta:LRV;suvikrAntaH:AP
 suvikrAntam:suvikrAntam:AP
 suvikrAntavikramaRaparipfcCA:suvikrAntavikramaRaparipfcCA:MW,PW,PWG
 suvikrAntavikramin:suvikrAntavikramin:MW,PW,PWG
@@ -391678,7 +391619,7 @@ susaMyata:susaMyata:CAE,CCS,MW,PW,PWG,STC;susaMyataH:SKD
 susaMyatta:susaMyatta:MW,PW
 susaMyukta:susaMyukta:MW,PW,PWG,STC
 susaMyuta:susaMyuta:MD,MW,PW,PWG,STC
-susaMrabDa:susaMrabDa:CAE,CCS,GRA,MW,PW,PWG,STC
+susaMrabDa:susaMrabDa:BEN,CAE,CCS,GRA,MW,PW,PWG,STC
 susaMramBa:susaMramBa:MW,PW
 susaMvigna:susaMvigna:CAE,MW,PW,STC
 susaMvIta:susaMvIta:AP,CAE,MW,PW,PWG,STC
@@ -393909,7 +393850,7 @@ sotf:sotf:CAE,GRA,MW,MW72
 soter:soter:IEG
 sotka:sotka:AP,AP90,BEN,CAE,CCS,LRV,MD,MW,PW,PWG,SHS,STC
 sotkaRWa:sotkaRWa:AP,BEN,BUR,CAE,CCS,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT;sotkaMWa:AP90,LRV;sotkaRWaH:SKD
-sotkaRWam:sotkaRWam:AP,MW
+sotkaRWam:sotkaRWam:AP,BEN,MW
 sotkaRWA:sotkaMWA:LRV
 sotkampa:sotkampa:BEN,MW,MW72,PW,STC
 sotkarza:sotkarza:MW,PW,PWG,STC
@@ -399967,7 +399908,7 @@ svayaMvAnta:svayaMvAnta:MW,PW
 svayaMvikrIta:svayaMvikrIta:MW,PW,PWG
 svayaMvilIna:svayaMvilIna:MW,PW
 svayaMviSIrRa:svayaMviSIrRa:MW,PW
-svayaMvfta:svayaMvfta:CAE,CCS,MW,PW,PWG
+svayaMvfta:svayaMvfta:BEN,CAE,CCS,MW,PW,PWG
 svayaMvedana:svayaMvedana:MW,PW,PWG
 svayaMvyaktasTalastotra:svayaMvyaktasTalastotra:ACC,MW,PW
 svayaMSIrRa:svayaMSIrRa:CAE,MW,PW,PWG,SHS,WIL,YAT
@@ -400114,7 +400055,6 @@ svayammUrta:svayammUrta:MW;svayaMmUrta:PW,PWG
 svayammfta:svayaMmfta:CAE,CCS,PW,PWG;svayammfta:LAN,MW
 svayammlAna:svayammlAna:MW;svayaMmlAna:PW
 svayamyuta:svayamyuta:PUI
-svayamvfta:svayamvfta:BEN
 svayaSas:svayaSas:CAE,CCS,GRA,MD,MW,PW,PWG
 svayAvan:svayAvan:GRA,MW,PW,PWG
 svayu:svayu:CAE,CCS,GRA,MW,MW72,PW,PWG
@@ -402126,7 +402066,6 @@ hatAroha:hatAroha:MW
 hatArTa:hatArTa:YAT
 hatAvaSizwa:hatAvaSizwa:YAT
 hatAvaSeza:hatAvaSeza:MW
-hatAS:hatAS:BEN
 hatASa:hatASa:AP,BEN,CAE,CCS,LRV,MW,PW,PWG,SHS,VCP,WIL,YAT;hatASaH:SKD
 hatASman:hatASman:SCH
 hatASraya:hatASraya:AP,MW
@@ -405407,7 +405346,7 @@ huNkArA:huMkArA:MW
 huNkArin:huMkArin:SCH
 huNkArI:huMkArI:MW
 huNkf:huMkf:MW,SCH
-huNkfta:huNkfta:SHS,WIL,YAT;huMkfta:BEN,MW,PW;huMkftaM:SKD
+huNkfta:huNkfta:SHS,WIL,YAT;huMkfta:MW,PW;huMkftaM:SKD
 huNkftam:huNkftam:AP
 huNkfti:huMkfti:LRV,PW,SCH;huNkftiH:AP
 huYjikA:huYjikA:MW,PW
@@ -405506,6 +405445,7 @@ hubaka:hubaka:PUI
 hum:hum:AP,AP90,ARMH,BEN,BUR,CAE,CCS,LRV,MD,MW,MW72,PW,PWG,SHS,SKD,STC,VCP,WIL,YAT
 humAuM:humAuM:MW
 humArIsAhasadoza:humArIsAhasadoza:IEG
+humkfta:humkfta:BEN
 humPaqanta:humPaqanta:MW
 humbaka:humbaka:PUI
 humBA:humBA:MW,PW,PWG,STC;huMBA:AP
