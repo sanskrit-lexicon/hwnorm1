@@ -179075,7 +179075,6 @@ kAlAtirekaH:AP
 kAlAtivAhana:PW,PWKVN,SCH
 kAlAtIta:AP,MW,PW,PWG,VCP
 kAlAtItaprAyaScitta:ACC
-kAlAttaraviza:SHS
 kAlAtmaka:AP,MW,PW,PWG
 kAlAtman:AP,INM,VCP
 kAlAtmA:PUI
@@ -179127,13 +179126,13 @@ kAlAMtara:LRV
 kAlAntarakzama:BEN,CAE,MW
 kAlAMtarakzama:LRV
 kAlAntaram:AP
-kAlAntaraviza:ABCH,MW,VCP,WIL,YAT
+kAlAntaraviza:ABCH,MW,SHS,VCP,WIL,YAT
 kAlAMtaraviza:LRV
 kAlAntaravizaH:SKD
 kAlAntarAt:MW
-kAlAntarAvfta:MW
+kAlAntarAvfta:MW,SHS
 kAlAMtarAvfta:LRV
-kAlAntarAvftta:SHS,WIL,YAT
+kAlAntarAvftta:WIL,YAT
 kAlAntarAvfttiSuBASuBa:MW
 kAlAntareRa:MW
 kAlAnDa:PW
@@ -179477,7 +179476,6 @@ kAlya:ABCH,AP,AP90,BEN,BUR,CAE,CCS,LRV,MD,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT
 kAlyaM:SKD
 kAlyaka:MW,MW72,PW,PWG,SHS,VCP,WIL,YAT
 kAlyakaH:SKD
-kAlyaRineya:SHS
 kAlyam:AP,MW
 kAlyamAna:YAT
 kAlyazwaka:ACC
@@ -179486,7 +179484,7 @@ kAlyA:ABCH,ACSJ,AP,ARMH,LRV,MW,NMMB,PE,PUI,SKD,VCP
 kAlyARaka:LRV,MW,PW,PWG,VCP
 kAlyARakaM:AP90
 kAlyARakam:AP
-kAlyARineya:MW,MW72,PW,PWG,WIL,YAT
+kAlyARineya:MW,MW72,PW,PWG,SHS,WIL,YAT
 kAlyAyana:PW,PWG
 kAlyupanizad:ACC,MW,PW
 kAlyUrDvAmnAyatantra:ACC
@@ -183445,7 +183443,7 @@ kumBamUrDan:MW,PW,PWG
 kumBay:PW,PWG
 kumBayoni:BEN,BOP,INM,MW,NMMB,PE,PUI,PW,PWG,SHS,VCP,WIL,YAT
 kuMBayoni:LRV
-kumBayoniH:SKD
+kumBayoniH:AP,SKD
 kumBarASi:MW
 kumBarASiH:AP
 kumBarI:MW,MW72,PWG
@@ -183468,6 +183466,7 @@ kumBasanDiH:AP,SKD
 kumBasamBava:INM,MW,PUI,SHS,VCP,WIL,YAT
 kumBasaMBava:BEN,PW,PWG,SCH
 kuMBasaMBava:LRV
+kumBasaMBavaH:AP
 kumBasamBavaH:SKD
 kumBasarpis:MW,PW,PWG,VCP
 kumBastanI:MW,PW
@@ -183550,7 +183549,6 @@ kuMBIraka:LRV
 kuMBIrakaH:AP90
 kumBIrakaH:AP
 kumBIrakamakzikA:AP
-kumBIrakalaH:AP
 kumBIramakzikA:MW,PW,PWG,SHS,SKD,VCP,WIL,YAT
 kumBIrAsana:VCP
 kumBIla:CAE,CCS,MW,MW72,PW,PWG,SHS,VCP,WIL,YAT
