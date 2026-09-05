@@ -1,3 +1,5 @@
+_Created: 19-11-2015 · Last updated: 05-09-2026_
+
 # hwnorm1
 Headword normalization for Cologne dictionaries
 
@@ -213,3 +215,5 @@ Use 'vas' at the end.
 # Analysis of hypothesis - optionwise
 
 > Here, we would note the most relevant documentation of further discoveries / addition / alteration / whitelist / blacklist of various options.
+
+_Dr. Mārcis Gasūns_

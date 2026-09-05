@@ -1,3 +1,5 @@
+_Created: 01-12-2015 · Last updated: 05-09-2026_
+
 Right now the output is placed in normalization subdirectory.
 
 Responsible code is function countlen() in hwnorm1.py.
@@ -28,3 +30,5 @@ There is also one subsidiary file generated in step 4, which requires manual exa
 
 
 I hope someone would cursorily examine the files and decide whether we are on right track or not.
+
+_Dr. Mārcis Gasūns_

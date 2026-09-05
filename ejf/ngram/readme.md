@@ -1,3 +1,5 @@
+_Created: 18-08-2017 · Last updated: 05-09-2026_
+
 
 ### ngrams for dictionary headwords.
 
@@ -73,4 +75,4 @@ ngram_skipd.py program does this
 
 The redo_skipd.sh script computes the ngrams, skipping that one dictionary.
 
-
+_Dr. Mārcis Gasūns_
