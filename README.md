@@ -10,7 +10,7 @@ The tool reads the union headword list (`sanhw1.txt`, headword + the dictionarie
 it appears in) and derives a normalized key so that spelling variants across
 dictionaries collapse to one lookup form. That normalized key powers the
 simple-search entry lookup in
-[csl-apidev](https://github.com/sanskrit-lexicon/csl-apidev/tree/main/simple-search/hwnorm1)
+csl-apidev
 (the `hwnorm1c.sqlite` database this repo generates is moved there and served).
 
 Origin discussion:
