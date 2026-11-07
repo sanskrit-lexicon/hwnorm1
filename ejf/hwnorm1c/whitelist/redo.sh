@@ -1,7 +1,7 @@
 #echo "copying hwnorm1c.txt..."
 #cp ~/Documents/GitHub/hwnorm1/ejf/hwnorm1c/hwnorm1c.txt .
 echo "Recreating auxiliary/special.txt"
-cd auxiliary
+cd auxiliary || exit 1
 cat special_*.txt > special.txt
 cd ../
 echo "regenerating graylist.txt and all whitelistX.txt files"

@@ -4,7 +4,7 @@
 #mkdir conv1
 #python hwnorm1.py
 #python proberrors.py
-cd proberrors
+cd proberrors || exit 1
 shopt -s nullglob
 array=(*.txt)
 for VALUE in "${array[@]}"
